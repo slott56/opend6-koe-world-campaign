@@ -1,0 +1,548 @@
+
+Illusion of Small Monster
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 15 
+:Effect: 18 (Fear +6D)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 5 min \(12)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Illusion Chant (litany)
+
+
+    other_alterant (3): illusion is moving
+
+
+    unreal_effect (4): Unreal Effect: difficulty_13
+
+
+
+
+
+:Other Conditions:
+    (3): illusion limited to 3 colors
+
+
+    (0): Controller: Baelu Charisma
+
+
+
+
+An autonomous illusion of a small monster
+
+
+Fire Ball
+~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 17 
+:Effect: 27 (move fire 2m/s, does damage on contact +6D (physical damage, ignore non magical armor))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Fire Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Cyþan Intelligence
+
+
+
+
+Charisma
+
+
+Wind Storm
+~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 14 
+:Effect: 18 (wind everywheter: Wind +3D (physical damage); Loss of balance (R3), +9 to any attempt to stand)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 3 round \(6)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Air Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Folme Agility
+
+
+
+
+This generally knocks a person down and batters them for 3 rounds
+
+
+Charm
+~~~~~
+
+:Skill: Psychic Communication
+:Difficulty: 17 
+:Effect: 12 (Favorable Feelings +4D)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 5 min \(12)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Control Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Baelu Charisma
+
+
+
+
+Creates favorable feelings; acting as a supplement to common Charisma-based skills
+
+
+Hold Portal
+~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 16 
+:Effect: 5 (Bind door to frame 10 kg)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 40 min \(17)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Earth and Water Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): limited to wood
+
+
+    (0): Controller: Depends on type of wood
+
+
+
+
+The door is stuck closed, but -- of course -- can be battered down
+
+
+Impervious leather armor
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 14 
+:Effect: 6 (damage resistance physical protection +2D)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 5 min \(12)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Protection Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (-1): limited to leather
+
+
+    (0): Controller: Hildeþrymm Physique
+
+
+
+
+This is a temporary boost in the defensive value of leather armor
+
+
+Move Wall of Rock
+~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration: Earth
+:Difficulty: 17 
+:Effect: 14 (Move earth element to a new position 600 kg)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 min \(9)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Earth Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    area_of_effect (10): 2m radius sphere
+
+
+
+
+
+:Other Conditions:
+    (-4): elemental already present
+
+
+    (0): Controller: Hildeþrymm Physique
+
+
+
+
+See Conjure Wall of Rock for a complementary spell
+
+
+Pass Wall
+~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 17 
+:Effect: 15 (intangibility (R1))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    area_effect (20): 2m height 2m width 5m depth cuboid
+
+
+    components (4): small shovel (uncommon)
+
+
+    gestures (3): Earth Gestures (complex)
+
+
+    incantation (4): Earth Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Hildeþrymm Physique
+
+
+
+
+The wall doesn't vanish; the target(s) can move through it.
+
+
+Pass Fire
+~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 13 
+:Effect: 15 (intangibility (R1) +3D vs Fire)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    area_effect (20): 2m height 2m width 5m depth cuboid
+
+
+    components (4): Metal rod inserted into the fire (uncommon)
+
+
+    gestures (3): Fire Gestures (complex)
+
+
+    incantation (4): Fire Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Cyþan Intelligence
+
+
+    (2): Any followers must form a chain touching the caster
+
+
+
+
+The fire doesn't vanish; the target moves through it. Note the restriction on Intangibility '... may not pass through fiery or energy barriers.' The mage can pass through fire, but not a wall of fire.
+
+
+Pass Plant
+~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 17 
+:Effect: 15 (intangibility (R1))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    area_effect (20): 2m height 2m width 5m depth cuboid
+
+
+    incantation (4): Earth and Water Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (-1): limited to plants
+
+
+    (0): Controller: Depends on type of plant
+
+
+
+
+The plant matter doesn't vanish; the target moves through it
+
+
+Lightning
+~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 17 
+:Effect: 32 (move air+fire 2m/s, does damage +5D+1 (physical damage, ignores all armor))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    components (4): Copper rod and wire (uncommon)
+
+
+    gestures (3): Fire and Air Gestures (complex)
+
+
+    incantation (4): Fire and Air Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Folme Agility
+
+
+    (2): Difficult to aim, +2 difficulty
+
+
+
+
+The balance of elements is mostly air with a touch of fire.
+
+
+Mend Iron
+~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 17 
+:Effect: 6 (Reshape iron 15 kg)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 hr \(18)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Earth and Fire Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Cyþan Intelligence corresponds with Iron
+
+
+
+
+This is a slow process and requires a source of fire and earth
+
+
+Human Combustion
+~~~~~~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 14 
+:Effect: 18 (Damage from fire +6D (physical damage))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 3 round \(6)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Fire Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Cyþan Intelligence
+
+
+
+
+This is simply nasty -- up to three rounds of damage
+
+
+Remote Cache
+~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 16 
+:Effect: 38 (Possession and Apportation: Apportation to another realm (R3); Limited to 50 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Veil Opening Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    components (3): Fixed location (e.g. cupboard) (common)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: None
+
+
+    (3): Multiple previous visits
+
+
+    (3): Small chance of loss
+
+
+
+
+The mage can reach through a small opening into a known space in another realm to keep things. The other realm location is not 100% safe; a critical failure may mean the cache was moved in the other realm. The opening is centered on a specific architectural feature, like a cupboard in the mage's study.
+
+
+Durable Illusion of Small Monster
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 16 
+:Effect: 18 (Fear +6D)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 hr \(18)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Illusion Chant (litany)
+
+
+    other_alterant (5): illusion is moving
+
+
+    unreal_effect (4): Unreal Effect: difficulty_13
+
+
+
+
+
+:Other Conditions:
+    (5): illusion limited to 3 colors
+
+
+    (0): Controller: Baelu Charisma
+
+
+
+
+This illusion lasts one hour before starting to fade
+
+
+Flesh to Stone
+~~~~~~~~~~~~~~
+
+:Skill: Temperamental Alteration
+:Difficulty: 15 
+:Effect: 18 (transmutation (R3) Drain away water, air, fire, replace with earth restricted (R3) target has no control)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 min \(9)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Earth Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (-1): limited to living animal
+
+
+    (0): Controller: Hildeþrymm Physique
+
+
+
+
+Displaces 3 elements to surrounding area; replaces with the earth, which must be present
+
+

@@ -1,0 +1,12 @@
+**Watersnake**:
+Agility 2D, Coordination 2D, Physique 1D, stamina 1D, swimming 3D, Intellect 1D, Acumen 3D, search 1D, survival 1D, Charisma 1D, intimidation 2D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire, takes double damage,
+*Special Abilities*: Enhanced Sense (R3), Hearing; +1D for all search; Natural Hand-to-Hand Weapon (R3), Sleep venom in fangs: 3D stun-only damage,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 22, *Natural Abilities*: Swimming.
+
+
+

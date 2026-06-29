@@ -1,0 +1,12 @@
+**Squire Neck of White Water**:
+Agility 4D, fighting 1D, riding 1D, melee combat +2, Coordination 4D, lockpicking 1D, Physique 3D+2, Intellect 4D, cultures +2, Acumen 3D+2, disguise +2, hide +2, investigation +2, streetwise +2, Charisma 3D+2, intimidation 5D.
+*Advantages*: Patron (R1), Sir Bond; Authority (R1), aristocracy; Debt (R1), wastrel; Contacts (R1), Spies,
+*Disadvantages*: Infamy (R1), Reputation as cruel; Quirk (R2), Afraid of assassination; Hindrance (R3), Alcoholic; Quirk (R2), Afraid of swords,
+*Move*: 10.0, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24.
+
+
+

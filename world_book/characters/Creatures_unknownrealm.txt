@@ -1,0 +1,12 @@
+**Metal Man**:
+Agility 2D, fighting +2, melee combat +2, Coordination 2D, Physique 4D, lifting 2D, stamina 2D, Intellect 2D, Acumen 2D, Charisma 1D, intimidation 2D.
+*Advantages*: Equipment (R2), Weapon or survival gear unknown to humans,
+*Disadvantages*: Cultural Unfamiliarity (R2), Lost in human company; Achilles' Heel (R3), Vulnerability to water and acid, takes double damage,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 37.
+
+
+

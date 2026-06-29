@@ -1,0 +1,76 @@
+
+Countermagic
+~~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 19 
+:Effect: 29 (compare to skill total of spell countering 6*D+1 (protection modifier))
+:Range: 60 m \(9)
+:Speed:  \(9)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    concentration (1): Concentration: 3 sec (willpower/mettle roll 7)
+
+
+    gesture (1): Wave hand through air as if wiping away something (very_simple)
+
+
+    incantation (3): Your hold is broken! (sentence; loud)
+
+
+
+
+
+:Other Conditions:
+    (-4): One spell, which the caster must specify when casting this spell
+
+
+
+
+
+
+The caster concentrates on the spell he wishes to counter, waving his hand and shouting the required incantation. The effect’s value plus the result points bonus are compared to the skill total used to create the targeted spell. If the countermagic number is equal to or higher than the target spell’s skill total, the spell is broken.
+
+
+
+
+
+Fear
+~~~~
+
+:Skill: Temperamental Alteration
+:Difficulty: 19 
+:Effect: 30 (intimidation skill bonus 6*D+2 (skill modifier))
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 2.5 min \(11)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (5): An item owned for at least a month by the target (very_rare)
+
+
+    gesture (1): Point item at target (very_simple)
+
+
+    incantation (1): Frightening words (phrase)
+
+
+    unreal_effect (8): Unreal Effect: difficulty_13
+
+
+
+
+
+
+
+To cast the spell, the mage first needs something belonging to her target — his comb, his watch, a lock of his hair. Mutter a few words of power, point the item at the target, and watch the fun. This spell gives the caster an intimidation skill bonus of +6D+2, but only towards that target. The target may disbelieve it with a Charisma or mettle roll of 13.
+
+
+
+
+

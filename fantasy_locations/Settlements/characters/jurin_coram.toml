@@ -1,0 +1,85 @@
+[[characters]]
+name = "Jurin Coram, Inn Keeper"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D"
+skills = [
+    { label = "riding", dice = "2D+2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "stamina", dice = "3D+1" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = [
+    { label = "cultures", dice = "2D+ 1" },
+    { label = "trading", dice = "4D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D"
+skills = [
+    { label = "streetwise", dice = "3D+2" },
+    { label = "search", dice = "4D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "bluff", dice = "4D" },
+    { label = "charm", dice = "3D+ 1" },
+    { label = "persuasion", dice = "3D+ 1" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "2"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "16"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "3"
+suffix = ": ."
+
+[characters.details.Equipment]
+items = [
+    { description = "clothes", features = "" },
+    { description = "pipe", features = "" },
+    { description = "small knife", features = "( damage +2 )" },
+    { description = ".", features = "" },
+]
+label = "Equipment"

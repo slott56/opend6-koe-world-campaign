@@ -1,0 +1,125 @@
+[[characters]]
+name = "Lord Urdane"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D+2"
+skills = [
+    { label = "dodge", dice = "3D" },
+    { label = "fighting", dice = "3D" },
+    { label = "melee combat", dice = "3D" },
+    { label = "riding", dice = "3D+ 2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = [
+    { label = "charioteering", dice = "2D+1" },
+    { label = "lockpicking", dice = "2D+2" },
+    { label = "marksmanship", dice = "4D" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D+1"
+skills = [
+    { label = "lifting", dice = "2D+2" },
+    { label = "running", dice = "2D+2" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "4D"
+skills = [
+    { label = "cultures", dice = "4D" },
+    { label = "navigation", dice = "4D" },
+    { label = "reading/writing", dice = "4D" },
+    { label = "scholar", dice = "4D" },
+    { label = "speaking", dice = "4D" },
+    { label = "trading", dice = "4D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "crafting", dice = "3D+1" },
+    { label = "disguise", dice = "3D+1" },
+    { label = "gambling", dice = "3D+2" },
+    { label = "investigation", dice = "4D" },
+    { label = "search", dice = "3D+1" },
+    { label = "streetwise", dice = "4D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "animal handling", dice = "4D" },
+    { label = "bluff", dice = "5D" },
+    { label = "command", dice = "4D" },
+    { label = "intimidation", dice = "4D" },
+    { label = "mettle", dice = "4D" },
+    { label = "persuasion", dice = "5D" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "5"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "22"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+details = [
+    { label = "Enemy", rank = "(R2)", details = ", neighboring kingdoms" },
+    { label = "Devotion", rank = "(R3)", details = ", to acquiring land and power" },
+]
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Authority", rank = "(R3)", details = ", ruler" },
+    { label = "Wealth", rank = "(R4)", details = "" },
+]
+
+[characters.details.Special]
+label = "Special"
+details = []
+
+[characters.details.Equipment]
+items = [
+    { description = "ornate staff of office", features = "( damage +1D+2 )" },
+    { description = "", features = "" },
+    { description = "short sword", features = "( damage +1D+2 )" },
+    { description = "", features = "" },
+    { description = "fine garments with a heavy brocade vest", features = "( Armor Value +1 )" },
+    { description = "", features = "" },
+    { description = "pouch of coins and jewels", features = "" },
+]
+label = "Equipment"

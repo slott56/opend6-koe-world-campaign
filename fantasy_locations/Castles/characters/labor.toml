@@ -1,0 +1,549 @@
+[[characters]]
+name = "Crafter"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D"
+skills = [
+    { label = "melee combat", dice = "3D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = [
+    { label = "sleight of hand", dice = "2D+2" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "lifting", dice = "3D+1" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = []
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D"
+skills = [
+    { label = "artist", dice = "3D" },
+    { label = "crafting", dice = "4D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = []
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "2"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "11"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Equipment]
+items = [
+    { description = "Crafting tools", features = "" },
+    { description = "simple clothing", features = "" },
+    { description = "knife", features = "( damage +2 )" },
+    { description = ".", features = "" },
+]
+label = "Equipment"
+
+[[characters]]
+name = "Master Crafter"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D"
+skills = [
+    { label = "melee combat", dice = "3D+ 1" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = [
+    { label = "sleight of hand", dice = "3D+ 1" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "lifting", dice = "3D+1" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = [
+    { label = "scholar specific craft", dice = "5D" },
+    { label = "trading", dice = "4D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D"
+skills = [
+    { label = "artist", dice = "4D" },
+    { label = "crafting", dice = "5D+ 2" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "command", dice = "3D+ 2" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "3"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "11"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Equipment]
+label = "Equipment"
+
+[[characters.details.Equipment.items]]
+description = "exceptional crafting tools"
+features = "( +1 D to relevant crafting rolls )"
+
+[[characters.details.Equipment.items]]
+description = ""
+features = ""
+
+[[characters.details.Equipment.items]]
+description = "work-stained clothing"
+features = ""
+
+[[characters.details.Equipment.items]]
+description = "knife"
+features = "( damage +2 )"
+
+[[characters]]
+name = "Unskilled Laborer"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D"
+skills = [
+    { label = "fighting", dice = "3D" },
+    { label = "melee combat", dice = "3D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "3D"
+skills = [
+    { label = "lifting", dice = "3D + 2" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = []
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D"
+skills = [
+    { label = "crafting", dice = "2D+2" },
+    { label = "streetwise", dice = "3D +2" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D"
+skills = []
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "1"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "14"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Equipment]
+items = [
+    { description = "appropriate tools", features = "( such as shovel , pick , or rake )" },
+    { description = "", features = "" },
+    { description = "simple clothing", features = "" },
+    { description = "knife", features = "( damage +2 )" },
+    { description = ".", features = "" },
+]
+label = "Equipment"
+
+[[characters]]
+name = "Merchant"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D+1"
+skills = [
+    { label = "dodge", dice = "2D+2" },
+    { label = "fighting", dice = "2D+2" },
+    { label = "melee combat", dice = "2D+2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = [
+    { label = "sleight of hand", dice = "2D+1" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = []
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D+1"
+skills = [
+    { label = "cultures", dice = "4D" },
+    { label = "navigation", dice = "4D" },
+    { label = "reading/writing", dice = "4D" },
+    { label = "scholar", dice = "3D+2" },
+    { label = "speaking", dice = "4D" },
+    { label = "trading", dice = "5D+2" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "gambling", dice = "4D" },
+    { label = "search", dice = "3D" },
+    { label = "streetwise", dice = "4D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D+2"
+skills = [
+    { label = "animal handling", dice = "4D" },
+    { label = "bluff", dice = "4D" },
+    { label = "charm", dice = "4D" },
+    { label = "mettle", dice = "4D" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "3"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "11"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Equipment]
+items = [
+    { description = "staff", features = "( damage + 1 D + 2 )" },
+    { description = "", features = "" },
+    { description = "fine garments with a heavy brocade vest", features = "( Armor Value + 1 )" },
+    { description = "", features = "" },
+    { description = "small bag of coins and jewels .", features = "" },
+]
+label = "Equipment"
+
+[[characters]]
+name = "Guard"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D+2"
+skills = [
+    { label = "dodge", dice = "3D" },
+    { label = "fighting", dice = "3D" },
+    { label = "melee combat", dice = "3D+ 2" },
+    { label = "riding", dice = "3D + 2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "3D"
+skills = [
+    { label = "running", dice = "3D+1" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = []
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D"
+skills = [
+    { label = "search", dice = "3D+2" },
+    { label = "survival", dice = "3D +1" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "mettle", dice = "2D +2" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "2"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "14"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Equipment]
+items = [
+    { description = "short sword", features = "( damage +1D+2 )" },
+    { description = "", features = "" },
+    { description = "knife", features = "( damage +1 D )" },
+    { description = "", features = "" },
+    { description = "padded leather armor", features = "( Armor Value + 1 D )" },
+    { description = "with helmet .", features = "" },
+]
+label = "Equipment"
+
+[[characters]]
+name = "Cleric"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D+1"
+skills = [
+    { label = "dodge", dice = "2D+2" },
+    { label = "fighting", dice = "2D+2" },
+    { label = "riding", dice = "2D+2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = []
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D+2"
+skills = [
+    { label = "cultures", dice = "3D+2" },
+    { label = "healing", dice = "3D+2" },
+    { label = "reading/writing", dice = "3D+2" },
+    { label = "scholar", dice = "3D+2" },
+    { label = "speaking", dice = "5D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "artist", dice = "3D+1" },
+    { label = "investigation", dice = "3D+1" },
+    { label = "search", dice = "3D+1" },
+    { label = "streetwise", dice = "3D+ 1" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "charm", dice = "3D+ 2" },
+    { label = "command", dice = "4D" },
+    { label = "mettle", dice = "3D" },
+    { label = "persuasion", dice = "4D" },
+]
+
+[characters.details.Miracles]
+label = "Miracles"
+dice = "2D"
+skills = [
+    { label = "divination", dice = "2D+2" },
+    { label = "favor", dice = "2D+1" },
+    { label = "strife", dice = "2D+2" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "3"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "11"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Equipment]
+label = "Equipment"
+
+[[characters.details.Equipment.items]]
+description = "staff"
+features = "( damage +1D+2 )"
+
+[[characters.details.Equipment.items]]
+description = ""
+features = ""
+
+[[characters.details.Equipment.items]]
+description = "fine garments with a heavy brocade vest"
+features = "( Armor Value + 1 )"
+
+[[characters.details.Equipment.items]]
+description = "leather bag filled with a handful of small gold and silver coins and small jewels ."
+features = ""

@@ -1,0 +1,119 @@
+[[characters]]
+name = "Cachamwri Cabry, Inn Keeper"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D"
+skills = [
+    { label = "dodge", dice = "4D" },
+    { label = "fighting", dice = "3D+2" },
+    { label = "stealth", dice = "4D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "4D"
+skills = [
+    { label = "lockpicking", dice = "4D+1" },
+    { label = "sleight of hand", dice = "4D+2" },
+    { label = "throwing", dice = "4D+1" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "4D"
+skills = [
+    { label = "lifting", dice = "4D+1" },
+    { label = "stamina", dice = "4D +2" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D"
+skills = [
+    { label = "bluff", dice = "3D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = [
+    { label = "devices", dice = "3D" },
+    { label = "trading", dice = "4D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "crafting", dice = "3D+2" },
+    { label = "know -how", dice = "3D+1" },
+    { label = "streetwise", dice = "4D" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "8"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "2"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "17"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Hindrance : Shorter Stride"
+rank = "(R1)"
+details = ", 2 -meter reduction to running , swimming , and jumping Move"
+
+[[characters.details.Disadvantages.details]]
+label = "Quirk"
+rank = "(R1)"
+details = ", easily angered by mispronunciation of name ."
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Contacts", rank = "(R1)", details = ", people of the village" },
+    { label = "Size : Small", rank = "(R1)", details = ", scale value of 3 ." },
+]
+
+[characters.details.Special]
+label = "Special"
+
+[[characters.details.Special.details]]
+label = "Skill Bonus : Mechanical Aptitude"
+rank = "(R1)"
+details = ", + 1 to crafting , devices , and traps totals ."
+
+[characters.details.Equipment]
+items = [
+    { description = "keys to various buildings in the town", features = "" },
+    { description = "fine clothes", features = "" },
+    { description = "staff of authority", features = "( damage +1 D )" },
+    { description = ".", features = "" },
+]
+label = "Equipment"

@@ -1,0 +1,13 @@
+**Precusor, Priest**:
+Agility 2D+1, Coordination 2D+1, Physique 2D+2, Intellect 2D+1, scholar 3D, speaking 2D+2, Acumen 2D, Charisma 2D+1, charm 2D+2, command 3D+1, mettle 2D+2, persuasion 2D+2, Extranormal 4D, divination 4D+2, favor 6D+2, strife 6D+2.
+*Advantages*: Authority (R3), over the followers of the Perpetual Falling Land,
+*Disadvantages*: Devotion (R3), to the Perpetual Falling Land; Employed (R3), to the Perpetual Falling Land,
+*Special Abilities*: Skill Bonus (R1), +1 bonus to command, intimidation, and persuasion totals,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 28.
+
+
+

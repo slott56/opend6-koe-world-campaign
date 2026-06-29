@@ -1,0 +1,46 @@
+
+Future Weather
+~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 31 
+:Effect: 18 (enhanced_sense: weather (R2))
+:Range: 1 km \(15)
+:Speed:  \(15)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+
+The priest will be able to predict the weather for a spot up to 1 km away in detail.
+
+
+Manifestation
+~~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 31 
+:Effect: 60 (Veil Opening: Apportation to new realm (R4); Adjustments for experience, knowledge, and aids)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 2 min \(10)
+:Casting Time: 1 min \(9)
+
+
+The priest begs one of the temple dieties to open the veil and reveal themselves.
+
+
+Reanimation
+~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 32 
+:Effect: 54 (Temperamental Conjuration of 18D human.)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+
+The priest can reanimate someone for about an hour. The 18D can be used for all attributes to recover them (almost) fully. Skills will be lost, and the duration is only an hour.
+
+

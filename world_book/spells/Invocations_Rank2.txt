@@ -1,0 +1,136 @@
+
+Reveal Secrets
+~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 11 
+:Effect: 6 (limited psychic communication +2D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 2.5 min \(11)
+:Casting Time: 2 round \(5)
+
+
+The priest will be understand a closely-held secret from another individual during a brief psionic interrogation. The process isn't obvious to most people. A weak result roll below 3 for link or effect allows a mettle roll to understand the query.
+
+
+Protect from Magic
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 11 
+:Effect: 12 (Reduce effect (after a link) +4D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+
+The priest reduce the effect of magic by 4D for everyone they touch during the invocation.
+
+
+Protect from Danger
+~~~~~~~~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 11 
+:Effect: 9 (increase Acumen +3D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+
+The priest increases Acumen by 3D, permitting everyone they touch during the invocation to avoid danger.
+
+
+Aid in Combat
+~~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 11 
+:Effect: 9 (increase fighting skill +3D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+
+The priest increases fighting skill of everyone they touch during the invocation.
+
+
+Aid in Magic
+~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 10 
+:Effect: 8 (increase Extranormal attribute +2D+2)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 30 min \(16)
+:Casting Time: 1 round \(4)
+
+
+The priest increases a Extranormal skill of everyone they touch during the invocation.
+
+
+Focus Magic on target
+~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 11 
+:Effect: 12 (Increase effect (after a link) +4D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+
+The priest can will remove any protection from magic, making the person they touch a target.
+
+
+Expose Danger to target
+~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 11 
+:Effect: 9 (decrease Acumen +3D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+
+The priest can will remove any protection from danger, reducing the Acumen of the person they touch.
+
+
+Weaken in Combat
+~~~~~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 12 
+:Effect: 9 (decrease fighting skill +3D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+
+The priest can will remove any combat aid, reducing the fighting skill of the person they touch.
+
+
+Weaken in Magic
+~~~~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 10 
+:Effect: 8 (increase Extranormal attribute +2D+2)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 30 min \(16)
+:Casting Time: 1 round \(4)
+
+
+The priest can will remove any magic or extranormal aid, reducing the magic skill of the person they touch.
+
+

@@ -1,0 +1,87 @@
+
+Astral Projection
+~~~~~~~~~~~~~~~~~
+
+:Skill: Apportation and Psychic Communication
+:Difficulty: 38 
+:Effect: 60 (Possession and Apportation: Apportation to another realm (R1); possession_full (R1); Adjustments for experience, knowledge, and aids)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 15 min \(15)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Veil Closing Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    components (4): any resonating artifacts (rare)
+
+
+    variable_duration (4): off_only
+
+
+    variable_effect (10): Can increase to R2 to transfer possessed inhabitant to this realm
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: None
+
+
+
+
+Mage can see past the veil and use possession on an inhabitant. A mage can subsequently open the veil to bring the possessed creature through.
+
+
+Reanimate group of humans
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 41 
+:Effect: 72 (Temperamental Conjuration of 5x5D humans)
+:Range: 2 m \(2)
+:Speed:  \(2)
+:Duration: 20 min \(15)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    components (5): a resonating artifact to help the balance (very_rare)
+
+
+    feedback (3): lowered resistance
+
+
+    focus (17): Focus based on effect, duration
+
+
+    incantation (4): Conjuration Chant (litany)
+
+
+    gestures (6): Controlling movements (challenging)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: None
+
+
+    (3): All four elements present in the environment: fire, flowing water, wind, and loose earth.
+
+
+
+
+Reanimates one incomplete human or 3 feeble humans for 20 minutes.
+
+

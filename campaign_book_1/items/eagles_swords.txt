@@ -1,0 +1,23 @@
+**Ice Knife**:
+Agility 1D, Coordination 3D, Physique 1D, Intellect 1D, Acumen 3D, Charisma 2D, persuasion +1.
+*Disadvantages*: Advantage Flaw (R3), wants to rampage and kill everything.,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R2D+1), +1D damage to creatures vulnerable to cold,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 27.
+
+
+**Goblin Death**:
+Agility 1D, Coordination 3D, Physique 1D, Intellect 1D, Acumen 3D, Charisma 2D.
+*Disadvantages*: Advantage Flaw (R3), insists on killing the goblins it detects.,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R2D+1), ; Armor-Defeating Attack (R2), Reduces armor by -2; Extra Sense (R2), Detects goblins and other creatures from the same realm,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24.
+
+
+

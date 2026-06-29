@@ -1,0 +1,26 @@
+
+Shield of Strength
+~~~~~~~~~~~~~~~~~~
+
+An older-style round shield with a surprisingly shiny boss in the center; it always looks brand-new.
+
+:Effect: 12 (attack_resistance (R2) Physical and Extranormal)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Shield
+:Price: 
+
+
+
+Ring of Fire Protection
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+:Effect: 30 (defend from fire: attack_resistance (R2) fire-based attacks; environmental_resistance (R2) heat; atmospheric_tolerance (R2) smoke)
+:Type: Ring
+:Price: 
+
+
+

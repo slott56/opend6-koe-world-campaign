@@ -1,0 +1,113 @@
+[[characters]]
+name = "Kasen"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D"
+skills = [
+    { label = "dodge", dice = "3D+2" },
+    { label = "stealth", dice = "4D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "3D"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "running", dice = "2D+1" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D+1"
+skills = [
+    { label = "reading/writing", dice = "3D+2" },
+    { label = "scholar", dice = "4D+ 1" },
+    { label = "speaking", dice = "3D+2" },
+    { label = "trading", dice = "5D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "hide", dice = "4D" },
+    { label = "search", dice = "3D +1" },
+    { label = "survival", dice = "3D+2" },
+    { label = "tracking", dice = "3D+1" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D+2"
+skills = [
+    { label = "charm", dice = "4D" },
+    { label = "persuasion", dice = "4D" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "5"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "21"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Devotion"
+rank = "(R2)"
+details = ", spends much time searching for new plants and herbs , and pays little attention to local events"
+
+[[characters.details.Disadvantages.details]]
+label = "Employed"
+rank = "(R3)"
+details = ", driven to work until he can earn enough money to quit the business"
+
+[characters.details.Special]
+label = "Special"
+
+[[characters.details.Special.details]]
+label = "Uncanny Aptitude"
+rank = "(R1)"
+details = ", has a natural sense about plants - can select herbs and mix them into incense and potions that have astounding properties"
+
+[characters.details.Advantages]
+label = "Advantages"
+details = []
+
+[characters.details.Equipment]
+items = [
+    { description = "fine clothes", features = "" },
+    { description = "keys", features = "" },
+    { description = "pouch bulging with coins", features = "" },
+]
+label = "Equipment"

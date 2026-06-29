@@ -1,0 +1,321 @@
+[[characters]]
+name = "Typical Fa'ayn temple elder"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D+ 1"
+skills = []
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D+ 1"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "stamina", dice = "2D+2" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "4D"
+skills = [
+    { label = "healing", dice = "4D+1" },
+    { label = "reading/writing", dice = "5D" },
+    { label = "scholar", dice = "5D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D+1"
+skills = [
+    { label = "artist", dice = "3D+2" },
+    { label = "crafting", dice = "4D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "4D"
+skills = [
+    { label = "charm", dice = "4D+2" },
+    { label = "command", dice = "4D +2" },
+    { label = "mettle", dice = "4D+2" },
+    { label = "persuasion", dice = "5D" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "4"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "16"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "3"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Devotion"
+rank = "(R3)"
+details = ", to the holy order ( including a vow of poverty )"
+
+[[characters.details.Disadvantages.details]]
+label = "Employed"
+rank = "(R3)"
+details = ", by the holy order"
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Authority", rank = "(R2)", details = ", over Fa'aynfollowers" },
+    { label = "Contacts", rank = "(R2)", details = ", within the Fa'ayn order" },
+]
+
+[characters.details.Special]
+label = "Special"
+
+[[characters.details.Special.details]]
+label = "SkillBonus : Charismatic"
+rank = "(R2)"
+details = ", + 1 to charm , persuasion , and command totals"
+
+[[characters]]
+name = "Typical Fa'ayn temple neonate"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D+1"
+skills = [
+    { label = "dodge", dice = "3D+1" },
+    { label = "melee combat", dice = "3D+1" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D+ 2"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D+1"
+skills = [
+    { label = "lifting", dice = "3D" },
+    { label = "stamina", dice = "2D+2" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D+2"
+skills = [
+    { label = "cultures", dice = "3D" },
+    { label = "healing", dice = "4D+2" },
+    { label = "reading/writing", dice = "4D" },
+    { label = "scholar", dice = "4D" },
+    { label = "trading", dice = "3D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D+ 1"
+skills = [
+    { label = "artist", dice = "2D+2" },
+    { label = "crafting", dice = "3D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D+ 2"
+skills = []
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "2"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "12"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Devotion"
+rank = "(R2)"
+details = ", to the holy order ( including a vow of poverty )"
+
+[[characters.details.Disadvantages.details]]
+label = "Employed"
+rank = "(R2)"
+details = ", by the holy order"
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Contacts", rank = "(R1)", details = ", within the Fa'ayn order" },
+]
+
+[[characters]]
+name = "Typical Fa'ayn traveling cleric"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D"
+skills = [
+    { label = "dodge", dice = "4D" },
+    { label = "melee combat", dice = "4D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "stamina", dice = "2D+1" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D"
+skills = [
+    { label = "cultures", dice = "3D+2" },
+    { label = "healing", dice = "4D" },
+    { label = "reading/ writing", dice = "3D+1" },
+    { label = "scholar", dice = "4D" },
+    { label = "speaking", dice = "3D+1" },
+    { label = "trading", dice = "3D+1" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "crafting", dice = "3D+1" },
+    { label = "investigation", dice = "3D+1" },
+    { label = "search", dice = "3D+1" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "charm", dice = "3D+ 1" },
+    { label = "command", dice = "3D + 1" },
+    { label = "intimidation", dice = "3D+2" },
+    { label = "mettle", dice = "4D" },
+    { label = "persuasion", dice = "3D+1" },
+]
+
+[characters.details.Miracles]
+label = "Miracles"
+dice = "2D"
+skills = [
+    { label = "favor", dice = "3D" },
+    { label = "strife", dice = "3D" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "2"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "11"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Devotion"
+rank = "(R3)"
+details = ", to the holy order ( including a vow of poverty )"
+
+[[characters.details.Disadvantages.details]]
+label = "Employed"
+rank = "(R2)"
+details = ", by the holy order"
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Contacts", rank = "(R1)", details = ", within the Fa'ayn order" },
+]
+
+[characters.details.Equipment]
+items = [
+    { description = "various seeds", features = "" },
+    { description = "pouch", features = "" },
+    { description = "blanket", features = "" },
+]
+label = "Equipment"

@@ -1,0 +1,72 @@
+
+Dirt to Mud
+~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 24 
+:Effect: 12 (hindrance (R4), mired in mud)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Earth and Water Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    area_of_effect (20): 10m radius circle
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Hælan Coordination
+
+
+
+
+The water must be located nearby; the mud starts to revert after 5 minutes, escape is difficult requiring patience and sometimes the help of a shovel or pry-bar
+
+
+Reanimate liche
+~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 24 
+:Effect: 30 (Temperamental Conjuration of 1x25D human)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 day \(25)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    components (5): a resonating artifact to help the balance (very_rare)
+
+
+    incantation (4): Conjuration Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: None
+
+
+    (3): All four elements present in the environment: fire, flowing water, wind, and loose earth.
+
+
+
+
+Reanimates one normal human for 1 day
+
+

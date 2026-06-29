@@ -1,0 +1,12 @@
+**Kinzo Mimoto, Warlord**:
+Agility 2D, dodge 3D, melee combat 4D+2, riding 4D, Coordination 2D+1, Physique 2D+2, Intellect 3D, cultures 4D+1, reading/writing 5D, scholar 3D+1, speaking 4D, Acumen 2D, Charisma 3D, charm 4D, command 5D+1, intimidation 3D+2, mettle 3D+1.
+*Advantages*: Authority (R2), over lands and people; Contacts (R2), has made treaties with other warlords; Wealth (R4), ,
+*Disadvantages*: Enemy (R2), neighboring warlords,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 23, *Equipment*: katana (damage +2D); knife (damage +1D); exceptional armor with mempo (Armor Value +2D+2); steed.
+
+
+

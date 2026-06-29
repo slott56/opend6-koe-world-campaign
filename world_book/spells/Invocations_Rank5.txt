@@ -1,0 +1,60 @@
+
+Locate Object
+~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 27 
+:Effect: 3 (search +1D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 15 min \(15)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    area_effect (40): 20m radius circle
+
+
+
+
+
+The people touched by the priest will have an enhanced search skill within a small 20 m radius area.
+
+
+Cure for illness
+~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 24 
+:Effect: 36 (Understand cure: enhanced_sense: internals (R3); Healing +3D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 30 min \(16)
+:Casting Time: 2 round \(5)
+
+
+The priest will understand the needed cure for an injury, including internal complications. This reveals poisons as well as broken hearts.
+
+
+Expiration
+~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 23 
+:Effect: 21 (Inspiration: decrease Charisma mettle +1D (skill modifier); decrease Physique stamina +1D (skill modifier); decrease Extranormal favor +1D (skill modifier); decrease Charisma +1D; decrease Physique +1D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 10 min \(14)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area_effect (10): 5m radius circle
+
+
+
+
+
+The priest can remove any inspiration, reducing physique and charima from a group gathered together in a tight circle.
+
+

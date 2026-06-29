@@ -1,0 +1,12 @@
+**Squire Starter (Son of Sir Warrant)**:
+Agility 4D, fighting +2, riding 1D, melee combat +2, Coordination 4D, Physique 4D, Intellect 3D+2, cultures +1, speaking 1D, Acumen 3D+2, Charisma 3D+2.
+*Advantages*: Patron (R1), Sir Warrant; Authority (R1), aristocracy; Wealth (R1), wealthy,
+*Disadvantages*: Infamy (R1), Always in a fight; Quirk (R1), Hostile to every affront and slight; Quirk (R1), Insufferable superiority complex,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 20.
+
+
+

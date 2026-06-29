@@ -1,0 +1,146 @@
+[[characters]]
+name = "Ascra"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D"
+skills = [
+    { label = "acrobatics", dice = "4D" },
+    { label = "dodge", dice = "4D+ 2" },
+    { label = "melee combat", dice = "4D+1" },
+    { label = "stealth", dice = "4D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "3D"
+skills = [
+    { label = "marksmanship", dice = "4D+2" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "running", dice = "2D+ 2" },
+    { label = "stamina", dice = "2D+ 1" },
+    { label = "swimming", dice = "3D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D"
+skills = [
+    { label = "healing", dice = "3D+2" },
+    { label = "navigation", dice = "4D" },
+    { label = "reading/writing", dice = "3D+ 1" },
+    { label = "speaking", dice = "3D+ 1" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "hide", dice = "4D+1" },
+    { label = "search", dice = "3D+2" },
+    { label = "survival", dice = "3D+ 1" },
+    { label = "tracking", dice = "3D+ 1" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "animal handling", dice = "4D" },
+    { label = "command", dice = "3D+ 1" },
+    { label = "charm", dice = "3D+2" },
+    { label = "persuasion", dice = "4D" },
+    { label = "mettle", dice = "4D" },
+]
+
+[characters.details.Magic]
+label = "Magic"
+dice = "1D"
+skills = [
+    { label = "conjuration", dice = "2D" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "3"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "21"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Devotion"
+rank = "(R2)"
+details = ", feel a deep devotion and kinship with trees and plants"
+
+[[characters.details.Disadvantages.details]]
+label = "Hindra nce : Arrogance"
+rank = "(R2)"
+details = ", +2 to bluff , charm , and persuasion difficulties"
+
+[[characters.details.Disadvantages.details]]
+label = "Hindrance : Delicate"
+rank = "(R2)"
+details = ", - 2 to damage resistance total"
+
+[characters.details.Advantages]
+label = "Advantages"
+details = []
+
+[characters.details.Special]
+label = "Special"
+
+[[characters.details.Special.details]]
+label = "Enhanced Sense : Sight"
+rank = "(R1)"
+details = ", +1 to sight-based totals"
+
+[[characters.details.Special.details]]
+label = "Longevity"
+rank = "(R1)"
+details = ""
+
+[[characters.details.Special.details]]
+label = "Skill Bonus : Stealth"
+rank = "(R1)"
+details = ", +1 hide , stealth , and tracking totals"
+
+[characters.details.Equipment]
+items = [
+    { description = "longbow and 20 arrows", features = "( damage +2D+2 )" },
+    { description = "", features = "" },
+    { description = "Elven forest cloak", features = "( 1D+1 to hide )" },
+    { description = "", features = "" },
+    { description = "dagger", features = "( damage +1 D )" },
+]
+label = "Equipment"

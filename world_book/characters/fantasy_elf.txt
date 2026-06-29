@@ -1,0 +1,40 @@
+
+
+:Agility (3D+2):
+    melee combat 3D+2, stealth 3D+2
+
+:Coordination (3D):
+    marksmanship 4D
+
+:Physique (2D):
+    running 2D+2
+
+:Intellect (3D):
+    reading/writing 3D+1, scholar 3D+1, speaking 3D+1
+
+:Acumen (3D):
+    artist 3D+1, hide 3D+2, search 3D+2, survival 3D+2, tracking 3D+2
+
+:Charisma (3D):
+    animal handling 3D+2, charm 3D+2
+
+:Extranormal (1D):
+    alteration 1D+1
+
+:Advantages:
+    []
+
+:Disadvantages:
+    Devotion (R2), Nature -- feel a deep devotion and kinship with trees and plants; Hindrance (R2), Arrogance -- +2 to bluff, charm and persuasion difficulties; Hindrance (R1), Delicate -- -2 to damage resistance total
+
+:Special Abilities:
+    Enhanced Sense (R1), Sight -- +2 to sight-based totals; Longevity (R1), ; Skill Bonus (R1), Stealth -- +1 to hide, stealth, and tracking totals
+
+:Strength Damage: 1D
+:Move: 10
+:Fate Points: 0
+:Character Points: 2
+:Body Points: 28
+
+
+

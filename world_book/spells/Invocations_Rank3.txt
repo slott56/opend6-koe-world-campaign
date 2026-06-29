@@ -1,0 +1,127 @@
+
+Location of Self
+~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 16 
+:Effect: 18 (enhanced_sense: location (R2))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+
+The priest will know their location well enough to navigate toward another known location for the next hour.
+
+
+Reveal Piety
+~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 15 
+:Effect: 9 (understand piety +3D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 15 min \(15)
+:Casting Time: 1 round \(4)
+
+
+:Other Conditions:
+    (-1): Only their piety
+
+
+
+
+The priest will be understand the piety levels of another individual; this will reveal their ability to perform invocations.
+
+
+Nature of Wound
+~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 14 
+:Effect: 18 (enhanced_sense: internals (R2))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+
+The priest will understand the nature of an injury, including internal complications. This reveals poisons as well as broken hearts.
+
+
+Forgive Sins
+~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 16 
+:Effect: 12 (improve piety)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 2 round \(5)
+
+
+The priest will improve the piety by 4D of everyone they touch during the invocation.
+
+
+Protect from Temptation
+~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 15 
+:Effect: 9 (increase mettle +3D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 2 round \(5)
+
+
+The priest reduces temptation to stray from their religion by 3D for everyone they touch during the invocation.
+
+
+Aid in Regular Duties
+~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 15 
+:Effect: 9 (increase three attributes +3D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 2 round \(5)
+
+
+The priest increases any three attributes by 1D for everyone they touch during the invocation.
+
+
+Focus Temptation on target
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 15 
+:Effect: 9 (decrease mettle +3D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 2 round \(5)
+
+
+The priest can will remove any protection from temptation, reducing the mettle of the person they touch.
+
+
+Weaken in Regular Duties
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 15 
+:Effect: 9 (decrease three attributes +3D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 2 round \(5)
+
+
+The priest can will reduce three attributes of the person they touch.
+
+

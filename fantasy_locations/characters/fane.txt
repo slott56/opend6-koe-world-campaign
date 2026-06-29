@@ -1,0 +1,12 @@
+**Fane**:
+Agility 3D, dodge 3D+1, fighting 3D+1, melee combat 3D+1, stealth 4D, Coordination 4D, lockpicking 4D+2, sleight of hand 5D, throwing 4D+1, Physique 2D, lifting 2D+1, stam- ina 2D+2, Intellect 3D, reading/writing 3D+1, speaking 3D+1, Acumen 3D, hide 4D+2, search 3D+2, streetwise 3D+1, tracking 4D, Charisma 3D, bluff 3D+2, charm 3D+1, intimidation 4D, mettle 4D+2.
+*Advantages*: Authority (R2), respected leader of the local thieves' guild,
+*Disadvantages*: Enemy (R1), detested by other guilds attempting to move into the city; Enemy (R2), harassed by local authorities,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 2, 
+*Body Points*: 21, *Equipment*: lockpicking tools; long sword (damage +2D+2); soft leather vest (worn beneath a jerkin Armor Value +2); dagger (damage +1D).
+
+
+

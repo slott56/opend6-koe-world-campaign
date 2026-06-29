@@ -1,0 +1,45 @@
+**Lizard Man**:
+Agility 3D, flying +1, jumping 1D, fighting 3D, Coordination 3D, Physique 3D, running 2D, stamina 2D, swimming +2, Intellect 3D, cultures 1D, navigation 2D, scholar 1D, Acumen 3D, investigation 2D, crafting 1D, Charisma 3D, persusion 1D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire, takes double damage,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R3), +2D beak; Natural Hand-to-Hand Weapon (R3), +1D+2 claws on feet,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 32.
+
+
+**Water Elemental**:
+Agility 3D, contortion 2D, stealth 2D, Coordination 1D, Physique 5D, lifting 2D, stamina 2D, swimming 4D, Intellect 1D, Acumen 1D, Charisma 1D, intimidation 6D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire, takes double damage,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for rain gear; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Hand-to-Hand Weapon (R3), +3D waves that hit hard,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 37, *Natural Abilities*: Flowing, filling a space of any shape, fitting through small openings..
+
+
+**Acid Dragon**:
+Agility 3D, flying 2D, Coordination 2D, Physique 5D, stamina 3D, swimming 3D, Intellect 3D, navigation 1D, speaking 1D, Acumen 3D, search 1D, survival 1D, Charisma 3D, intimidation 2D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire, takes double damage,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for tightly-woven, water-proof rain gear; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Ranged Weapon (R3), +3D for a gout of acid,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 40, *Natural Abilities*: Flight; Swimming.
+
+
+**Watersnake**:
+Agility 3D, Coordination 2D, Physique 2D, stamina 3D, swimming 3D, Intellect 2D, Acumen 3D, search 1D, survival 1D, Charisma 3D, intimidation 2D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire, takes double damage,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R3), Poison in the mouth fangs,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 28, *Natural Abilities*: Swimming.
+
+
+

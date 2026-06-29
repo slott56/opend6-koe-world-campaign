@@ -1,0 +1,1277 @@
+
+Alter Gravity
+~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 12 
+:Effect: 12 (moves up to -- 250 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate Forces
+
+
+    gestures (2): Point up and then down (simple)
+
+
+    incantations (1): '“Alter.”' (phrase)
+
+
+    focused (6): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 12
+
+
+
+
+With this spell, a magic user can walk on walls or ceilings
+by changing the direction of gravity for herself. Each time
+she wishes to change direction, she merely needs to say,
+“Alter.”
+
+
+
+
+Beacon
+~~~~~~
+
+:Skill: Alteration
+:Difficulty: 13 
+:Effect: 18 (+ to willpower/mettle when bead used as planar homing beacon +4D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Enchanted
+
+
+    components (2): Glass bead (very_common)
+
+
+    concentration (6): Concentration: 1 hr (willpower/mettle roll 12)
+
+
+    focused (9): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 13
+
+
+
+
+This spell serves little purpose on its own, but when used
+in conjunction with the shift planes spell (or a similar spell),
+it gives the caster +4D to her willpower/mettle roll when
+attempting to return from another plane. The same magic
+user must cast both spells, as the spells are attuned to her
+senses.
+So long as the glass bead  remains in the originating
+dimension, the bonus is granted to the caster. If the glass
+bead is destroyed or shifted to another plane, then all trace
+of it is lost.
+
+
+Beckon Creature
+~~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 35 
+:Effect: 24 (compared to roll of target’s willpower/mettle or governing attribute)
+:Range: 10 km \(20)
+:Speed:  \(20)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Animal, entity, folk
+
+
+    components (1): Fur, feather, or tooth (ordinary)
+
+
+    gestures (2): Welcoming gestures (simple)
+
+
+    incantations (1): '“Arrive.”' (phrase)
+
+
+    variable_movement (5): bend_around_smaller; target_invisible
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 36
+
+
+
+
+Any creature of the gamemaster’s choice, or randomly
+determined, can be called upon with this spell. The effect’s
+value plus the spell’s result point bonus is compared to a roll
+of the target’s willpower/mettle (or the governing attribute) to
+see if the spell successfully latches on. If it does, the beckoned
+beast arrives instantly — and, if the caster can convince it,
+to assist her in combat for the duration of the spell.
+
+
+Bind Reality
+~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 35 
+:Effect: 27 (compare to spell total of dimension-hopping spell)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 2.5 hr \(20)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dimension
+
+
+    area_effect (50): 10m radius sphere
+
+
+    concentration (6): Concentration: 1 hr (willpower/mettle roll 12)
+
+
+    gestures (2): Make an encompassing gesture (simple)
+
+
+    other_alterant (1): Sphere glows when triggered
+
+
+
+
+
+:Other Conditions:
+    (-5): Difficult scholar roll to recall information about the protected dimension
+
+
+    (0): Difficulty: 35
+
+
+
+
+With this spell, a magic user can seal a 10-meter sphere,
+preventing the opening or portals going to or coming from
+other planes. Any caster or creature attempting to open a
+gateway or shift into the affected area of this spell must
+overcome the value of this spell’s effect. Any unsuccessful
+attempt to get in or out warns the caster with a glow on the
+sphere. This spell is useful when trying to prevent a prisoner
+from escaping, or an unwanted entity from entering a given
+location.
+
+
+Blur Barriers
+~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 32 
+:Effect: 36 (modifier to all 6 physical and mental attributes +6D (attribute modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 5 min \(12)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dimension
+
+
+    area_effect (20): 4m radius sphere
+
+
+    concentration (3): Concentration: 1 min (willpower/mettle roll 9)
+
+
+    gestures (2): Wiggle fingers on one hand (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 33
+
+
+
+
+For a short period of time, the magic user forms a nexus
+of dimensions. If successful, the caster weakens the barriers,
+resulting in nothing functioning as it normally does.The natural, physical laws of the occupied dimension become unstable.
+Everyone within the area of effect is subject to an increase in
+the difficultiles of all physical and mental actions.
+
+
+Contact Entity
+~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 32 
+:Effect: 61 (Content Entity in another plane: languages/speaking in the language of the target entity +4D; Planar distance)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: entity, dimension
+
+
+    concentration (3): Concentration: 1 min (willpower/mettle roll 9)
+
+
+
+
+
+:Other Conditions:
+    (-3): Must be knowledgeable of the entity to be contacted, which requires a scholar roll of 11
+
+
+    (0): Difficulty: 13
+
+
+
+
+Provided that the caster has some knowledge of the entity
+or type of entity she wishes to contact, it’s possible to open a
+channel to that being. If the spell is successful and the distance
+to the entity’s location has a planar value of 49 or less, the
+caster gains 4D languages in the language of the target. This
+only lasts for the duration of the spell.
+Contacting a creature from another plane does not guar-
+antee that it is willing to communicate. Convincing it is left
+to the caster.
+
+
+Decrease Gravity
+~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 33 
+:Effect: 30 (Reduced gravity: hindrance (+5 to acrobatics, brawling/fighting, and melee combat difficulties) (R5); Skill Bonus: Low Gravity (+5 to lifting/lift, running, and throwing totals) +5D)
+:Range: 15 m \(6)
+:Speed:  \(6)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: inanimate forces
+
+
+    area_effect (25): 5m radius sphere
+
+
+    concentration (2): Concentration: 2 round (willpower/mettle roll 8)
+
+
+    gestures (2): Clench fist and point (simple)
+
+
+    incantations (1): '“Light.”' (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 34
+
+
+
+
+At the indicated site, the caster decreases gravity for a
+10-meter wide area. This causes certain physical actions to
+receive modifiers to their difficulties or totals (see the “effect”
+description for details).
+As this is a magical adjustment in gravity, it does not affect
+victims in exactly the same way as a normal loss of gravity.
+Furthmore, anyone or anything leaving the area of effect
+loses any modifiers given by the spell.
+
+
+Dimensional Gap
+~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 41 
+:Effect: 21 (+7D (physical damage))
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    area_effect (50): 10m radius hemisphere
+
+
+    components (1): Two rocks (ordinary)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    gestures (2): Slam the components against each other (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 41
+
+
+
+
+When the caster brings the components of the spell
+together, the targeted location makes a dimensional gap in
+the earth, creating a large hole in the ground. The shape is
+spherical, thereby causing vehicle or creatures at the edge to
+roll down the side into the center. Should the gap be created
+directly beneath a creature, it drops straight down, suffering
+7D damage. Damage to those who are not at ground zero
+is reduced accordingly by the area effect rules discussed in
+the “Magic” chapter of the D6 Adventure  and D6 Fantasy
+rulebooks.
+When the hole disappears, anything that fell into the pit
+is now in a heap on the mysteriously whole ground.
+
+
+Dimensional Survival
+~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 26 
+:Effect: 18 (Survival: atmospheric_tolerance (R2); environmental_resistance (R2))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension, folk
+
+
+    area_effect (10): 5m radius circle
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    focused (9): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-4): Must be knowledgeable of the plane in which the morphed characters are to travel, requiring a scholar roll of 15
+
+
+    (0): Difficulty: 26
+
+
+
+
+All who are affected by this spell are transformed physi -
+cally so they can survive on a hostile dimension. Once the
+spell is successfully cast, it operates upon all who are within
+five meters of the mage, giving them half the ranks in the
+Special Abilities as the caster. Anyone who leaves the circle
+of influence loses the immunity and cannot regain it simply
+by getting close the mage again.
+
+
+Energy Barrier
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 29 
+:Effect: 12 (Armor Value of 1, physical only +4D)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: inanimate forces
+
+
+    area_effect (40): 20m radius circle
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    gestures (2): Point at the spot where the barrier is to be formed (simple)
+
+
+    feedback (3): lowered resistance
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 30
+
+
+
+
+The mage can alter the forces that bind and form the
+dimension in which she dwell, shifting them to her will.
+By simply pointing and concentrating, the mage creates a
+barrier providing 4D+1 protection from attacks. All beings
+and objects behind the 20-meter area gain this advantage,
+combining with existing armor. Of course, the limitation
+to this spell is that the defense is 2 dimensional. Once cast,
+barrier cannot be relocated or altered, allowing for opponents
+to readily move around the side — providing they known
+enough to do this.
+
+
+Ethereal
+~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 19 
+:Effect: 15 (intangibility (R1) +3D to damage resistance total against physical attacks and movement is halved)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 10 min \(14)
+:Casting Time: 3 round \(6)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimensions
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    focused (6): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 18
+
+
+
+
+When cast upon a character, the mage shifts the person
+between dimensions, making them ethereal. The character
+is visible, and still exists, but her being is spread among
+many worlds. For the duration of this spell, she gains the
+Intangibility (R1) Special Ability.
+
+
+
+
+Erase Person
+~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 68 
+:Effect: 92 (Erase Person: +10D (physical damage, ignore non magical armor); In the past 100 yr)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 100 yr \(47)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    concentration (6): Concentration: 1 hr (willpower/mettle roll 12)
+
+
+    focused (28): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-8): A roll of a 1 on the Wild Die in the caster being erased, even if the difficulty number was equaled or exceeded; may only be used once per target
+
+
+    (0): Difficulty: 61
+
+
+
+
+This deadly spell not only instantly kills the target, but also
+obliterates her history from the universe. Upon contact with
+the target, by means of a successful brawling/fighting roll, a
+shroud of blackness envelops the victim, erasing her from
+existence. As each person is linked through time and space,
+the thread that formed her history is followed and destroyed.
+This means that all memories, all written words, all history
+is removed. It is as if the character had never existed. This
+spell is not a charged spell. Only one opportunity to erase a
+person is granted per casting of the spell, and that opportunity
+occurs in the round after the spell’s completion.
+As with powerful spells, there is the potential for disaster.
+If the caster rolls a one on the Wild Die, it is the caster who
+suffers the effect of the spell. Simply knowing this causes many
+mages to shy away from attempting such powerful magic.
+
+
+Far Walk
+~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 23 
+:Effect: 26 (Psionics: astral projection +4D+1 (extranormal skill))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    feedback (1): lowered resistance
+
+
+    focused (9): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 17
+
+
+
+
+By sending her consciousness through the folds of inter-
+dimensional space, the caster can visit other locations by
+leaving her body behind. This spell grants the caster 4D+1 in
+the Psionics: astral projection skill (detailed in the “Psionics”
+chapter of the D6 Adventure Rulebook).
+
+
+Folded Space
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 20 
+:Effect: 15 (Objects hidden away 1000 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 wk \(29)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    components (2): Small chest or bag (very_common)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    focused (9): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 18
+
+
+
+
+A chest or bag with this spell cast upon it can hold up
+to 1,000 kilograms of mass. The weight of the container is
+not increased, as the objects drop into a fold within inter-
+dimensional space. However, it is not possible to sustain
+living creatures within this area for more than a few minutes.
+Nonetheless, it provides plenty of space for carrying items.
+Note that any thing that is larger than the opening of the
+container cannot be placed inside. This means an automobile
+could not be shoved into a paper lunch bag, but 1,000 kilo-
+grams of marbles or appropriately sized items do fit.
+
+
+Greater Telekinesis
+~~~~~~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 27 
+:Effect: 36 (telekinesis of  +6D (extranormal skill))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: inanimate forces
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    focused (11): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 27
+
+
+
+
+Successfully casting this spell imbues the target with the
+Psionics skill telekinesis at 6D. The target is can move objects
+with the power of her mind. All the rules for the skill use
+apply as dictated in the D6 Adventure Rulebook chapter on
+“Psionics.” The distance moved and weight of an object moved
+is indicated on the “Telekinesis” table. The “Psionics Range”
+table governs the range of the telekinesis skill.
+
+
+Increase Gravity
+~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 33 
+:Effect: 30 (hindrance: high gravity (R10), , +5 to acrobatics, brawling/fighting, lifting/lift, melee combat, running,  and throwing difficulties)
+:Range: 15 m \(6)
+:Speed:  \(6)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: inanimate forces
+
+
+    area_effect (25): 5m radius sphere
+
+
+    concentration (2): Concentration: 2 round (willpower/mettle roll 8)
+
+
+    gestures (2): Clench fist and point (simple)
+
+
+    incantations (1): '“Heavy.”' (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 34
+
+
+
+
+The caster increases gravity for a 10-meter wide area.
+Because of this, certain physical actions get difficulty modi-
+fiers (see the “effect” description for details).
+As this is a magical adjustment in gravity, it does not affect
+victims in exactly the same way as a normal loss of gravity.
+Furthmore, anyone or anything leaving the area of effect
+loses any modifiers given by the spell.
+
+
+Lesser Telekinesis
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 18 
+:Effect: 18 (telekinesis of  +3D (extranormal skill))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 25 min \(16)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: inanimate forces
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 14
+
+
+
+
+The target can move objects with the power her mind with
+the successful casting of this spell. The “Psionics” chapter in
+the D6 Adventure Rulebook describes the game mechanics of
+this spell. The distance moved and weight of an object moved
+is indicated on the “Telekinesis” table. The “Psionics Range”
+table governs the range of the telekinesis skill.
+
+
+Locate Person
+~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 12 
+:Effect: 6 (search of  +2D)
+:Range: 10 km \(20)
+:Speed:  \(20)
+:Duration: 1 min \(9)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension, folk
+
+
+    components (5): Personal belonging from target (very_rare)
+
+
+    concentration (2): Concentration: 3 round (willpower/mettle roll 8)
+
+
+    gestures (2): Form goggles with hands over eyes (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 14
+
+
+    (5): Variable Movement: Bending/unseen target
+
+
+
+
+If all the conditions are satisfied, then it is possible for
+the caster to locate a given person within a 10-kilometer
+range. Compare the result points of the spell’s search versus
+the target’s Agility/Reflexes or sneak/stealth to the following
+table to find how much the mage knows.
+Minimal (0 or less): general direction is determined
+Solid (1–4): direction and an idea of distance are known
+Good (5–8): direction, rough distance, and general features
+of the location are discerned
+Superior (9 or more): direction, exact distance, and the
+exact location are garnered
+
+
+Rend Reality
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 29 
+:Effect: 30 (+10D (physical damage))
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    area_effect (15): 3m radius sphere
+
+
+    components (2): 2 small magnets (very_common)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    gestures (2): Tearing motion with hands while holding magnets (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 29
+
+
+
+
+After casting this powerful spell, the fabric of reality is
+torn asunder, leaving a gapping tear that is jet black. This is
+the space between spaces, an utter void. All who are within
+the area effect of this spell must make an opposed Physique/
+Strength o r  lifting/lift roll against the spell skill total (no other
+targeting roll is needed). Failure results in being pulled inside.
+Those who lose all of their Body Points or Wounds from the
+damage caused by the rift are lost forever; it is impossible to
+pull an object or a person from this temporarily disrupted
+section of the universe. Anyone surviving the devestation
+is found after the spell wears off, battered, on the ground
+where the tear once was.
+
+
+
+
+Secret Passage
+~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 10 
+:Effect: 16 (Move Mass: move up to -- per round 150 kg; up to 10 m)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    gestures (2): Outline circle in the air (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 10
+
+
+
+
+Casting secret passage opens an interdimensional gateway
+with an opening within one meter of the caster and an exit
+10 meters away. The exit portal connects as though a straight
+line were drawn from one point to another. This allows pas-
+sage through 10 meters of any material, including air, water,
+rock, and so on. All who enter vanish from sight and instantly
+appear at the exit point.
+
+
+Send Whisper
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 11 
+:Effect: 0 (Psionic Communication)
+:Range: 1 km \(15)
+:Speed:  \(15)
+:Duration: 2 round \(5)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    gestures (2): Make a cone with hands around mouth (simple)
+
+
+    incantations (3): 'Whisper target’s name along with the desired message' (complex (languages/speaking roll with difficulty of 11))
+
+
+
+
+
+:Other Conditions:
+    (-2): Must have known the target for at least 1 week; must speak target’s language
+
+
+    (0): Difficulty: 12
+
+
+
+
+Only the target can hear the caster’s words if the spell
+is successful. The communication is one-way, coming from
+the caster. But because the message is traveling through
+the barrier between planes, voices often become distorted,
+making sending a message much more difficult than normal
+conversation. For this reason, the magic user must make a
+languages/speaking attempt in a language the caster speaks
+and the target understands. The distortion creating by sending
+a dimensional message creates a difficulty of 11. If the skill
+roll succeeds, the message is automatically heard. If a one is
+rolled on the Wild Die, but the difficulty number is equaled
+or passed, then others within one-meter of the target can
+hear the message as well.
+The message is limited to what the caster can say in 10
+seconds.
+
+
+
+
+Shift Plane
+~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 30 
+:Effect: 63 (Move Mass to Another Plane: matter moved to another dimension 600 kg; with a planar distance value of 49 or less)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 round \(4)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    area_effect (25): 5m radius sphere
+
+
+    concentration (5): Concentration: 10 min (willpower/mettle roll 11)
+
+
+    gestures (2): Touch the ground upon the completion of the spell (simple)
+
+
+    incantations (1): '“Shift.”' (phrase)
+
+
+
+
+
+:Other Conditions:
+    (-6): Must be knowledgeable of the target dimension, which requires a scholar roll of 20
+
+
+    (0): Difficulty: 31
+
+
+
+
+Up to 600 kilograms of targets within the spell’s radius
+are transported to a given dimension. As this spell uses an
+area effect, the caster may not choose the targets going
+with him.
+
+
+Synchronicity
+~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 13 
+:Effect: 4 (Move mass 5 kg)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    gestures (2): Grasp at air (simple)
+
+
+    incantations (2): 'Whisper, “I touch something from afar.”' (sentence)
+
+
+    focused (2): Focus based on effect, duration
+
+
+    variable_movement (5): bend_around_smaller; target_invisible
+
+
+
+
+
+:Other Conditions:
+    (-2): Must make a scholar roll at 11, indicating she has sufficient understanding of dimensions
+
+
+    (0): Difficulty: 13
+
+
+
+
+Many occultists and scholars of magic believe that there
+is no such thing as coincidence. Instead, seemingly random
+events are attributed to interference from other dimensions,
+or an object coming out of a dimension and then re-entering
+the same dimension at another location. That is to say, if the
+top of a horseshoe where to be pushed through a sheet of
+paper to the point that only the open ends were visible, those
+unfamiliar with the shape of the horseshoe would see two,
+separate items poking through the paper. But to those who
+understand the shape of a horseshoe, it is known that both
+visible parts are connected by an unseen bend. This is how
+synchronicity works. It allows the caster to perform an action,
+but that action is linked through a multi-dimensional conduit
+that causes a similar action to occur at a distance.
+After completing the spell, the magic user’s physical actions
+are invisibly replicated at a spot of her choosing up to 100
+meters away. Once the location is designated, it cannot be
+altered. For instance, the mage may decide that when she
+waves her hands, the glassware in a shop 50 meters away
+would suddenly clatter to the floor, though it would not
+break as this spell causes no damage.
+The exact results are left to the gamemaster and the circum-
+stances, but the caster should be allowed to be as creative as
+possible. (However, this spell cannot cause injury — though
+perhaps a little pain, such as a tug on the ear — and can
+only affect up to five kilograms of matter.) Because of this
+unique ability, this spell is often used to distract others for
+a brief moment.
+
+
+Unseen Bullet
+~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 15 
+:Effect: 0 (projectile 1 kg)
+:Range: 150 m \(11)
+:Speed:  \(11)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    components (1): physical projectile of any sort, be it rock, arrow, bullet, etc. (ordinary)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    gestures (2): Grasp projectile in hand (simple)
+
+
+    focused (2): Focus based on effect, duration
+
+
+    variable_movement (5): bend_around_smaller; target_invisible
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 15
+
+
+
+
+Without the ability to see or sense the target, such as
+through other magic, this spell is not very useful. If a victim
+can be located, then the projectile can be thrown or fired
+with a +4D (+12) to the targeting skill total. The object hits
+the target on a successful skill roll as though appearing from
+no where. There is no possibility to dodge or take cover, as
+projectile travels through a wormhole, unhindered by all
+physical barriers. This means it is possible to shoot through
+one or more windows without breaking the glass.
+
+
+Vanish
+~~~~~~
+
+:Skill: Apportation
+:Difficulty: 17 
+:Effect: 24 (Invisibility: invisibility (R1) +1 to dodge, sneak/stealth, and hide: self totals and +1 to search, tracking, investigation, and attack difficulties against target; iron_will (R1) +1 to willpower/mettle rolls and +2 to default interaction attempts and mental attacks against character; natural_armor: in other dimension (R1) +D to damage resistance roll against physical and energy attacks)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (-2): Anything that affects other dimensional creatures affects the target
+
+
+    (0): Difficulty: 15
+
+
+
+
+Any living or nonliving item up to 150 kilograms can be
+folded into a small, temporary dimension created by the
+caster. By all appearances, the object or person simply van-
+ishes from sight. Time passes normally for the duration of
+the spell; the target can do whatever she wishes, as long as
+she does not move from the spot where she vanished. There
+is always enough air to breath for at least one hour. The
+atmosphere must be present at the location where the spell
+is cast; it cannot be created by the magic user.
+
+
+Void Shield
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 29 
+:Effect: 23 (Protective Shield +5D (physical damage, ignore non magical armor))
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimension
+
+
+    change_target (25): 5 times
+
+
+    gestures (2): draw circle in the air (simple)
+
+
+
+
+
+:Other Conditions:
+    (-5): Willpower/mettle  roll of 14 is required each time the spell is moved; target must be alive
+
+
+    (0): Difficulty: 29
+
+
+
+
+Casting void shield  creates a one-meter radius circle of
+negative energy that causes 5D damage to up to five targets
+that come in contact with it. Its name is misleading in that
+it doesn’t improve Armor Value; rather, it is a weapon. While
+the spell is active, the “shield” thrums, as the caster directs it
+from target to target. It is only capable of causing damage to
+those who possess positive energy, who are alive. It can pass
+through a character, causing damage, moving to the next to
+continue with another attack.
+Striking at the void shield is the as being attack. The attack-
+ing weapon and the attacker suffer 5D of damage, split
+between them (but only one of the change targets is used
+up). Nonmagical armor does not protect against the damage
+caused by this spell.
+
+
+
+
+Vortex
+~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 33 
+:Effect: 29 (massive physical damage +6D+1 (ignore non magical armor))
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 3 round \(6)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: dimensions
+
+
+    area_effect (25): 5m radius sphere
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    feedback (3): lowered resistance
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 34
+
+
+    (1): Variable Movement: Movement of 5 meters per round
+
+
+
+
+By knowledge of the planes and will, a mage can focus
+her mental energy upon a location visible to her and open
+a swirling vortex. This is an interdimensional juncture that
+creates havoc in nearly any plane it is created. The opening
+of the shimmering vortex is announced by a deep rumbling
+sound not unlike thunder. By the time the spell is completed,
+all within several meters can hear and feel the roar and quake
+of this unnatural creation. Any object that comes into contact
+with it suffers 6D+1 damage, with no damage being absorbed
+by nonmagical armor. Additionally, the caster can move the
+vortex five meter per round.
+Should two vortices come into contact, they cancel each
+other, immediately ending the spell.
+
+

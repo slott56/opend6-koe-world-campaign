@@ -1,0 +1,16 @@
+..  include: ../shared/interaction_modifiers.txt
+
+..  csv-table::
+
+    Situation                                                Modifier
+    "Target is friendly or trusting",                        -5
+    "Target is neutral toward character or of equal standing",0
+    "Target is hostile or has superior standing",             +5
+    "Target is an enemy",                                     +10
+    "Target is in weakened position",                         -10
+    "Request is something target would do anyway or target feels is of minor importance", 0
+    "Request is illegal or highly dangerous",             +10
+    "Target is on guard or actively resisting\*",    +10
+
+\* Do not include this modifier if you are using the active mental
+defense described in the "Mental Defenses" section.

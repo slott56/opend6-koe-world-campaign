@@ -1,0 +1,41 @@
+Spell,Skill,Difficulty,Effect
+**Cantrips**
+Aid,*Conjuration*,5,medicine skill of 5D+2
+Charm,*Alteration*,5,charm skill bonus of +4D
+Heighten Attribute (Template),*Alteration*,3,+1D bonus to one non-Extranormal attribute
+Meal,*Conjuration*,4,1 kilogram of bread and water
+Open Lock,*Apportation*,5,compare to difficulty to open lock
+**Alteration Spells**
+Countermagic,*Alteration*,19,compare to skill total of spell countering
+Countermagic Ward,*Alteration*,11,compare to skill total of spell countering
+Deadly Bullet,*Alteration*,10,+4D in damage
+Deadly Dart,*Alteration*,11,+4D in damage
+Drain Toughness,*Alteration*,12,8D
+Fear,*Alteration*,19,intimidation skill bonus at +6D+2
+Water Spray,*Alteration*,10,4D damage
+**Apportation Spells**
+Alter Movement,*Apportation*,15,1 meter per round
+Carrying Wind,*Apportation*,13,wind with a lifting of 5D
+Doorway Home,*Apportation*,18,passage can handle up to 150 kg.
+Relocate Person,*Apportation*,14,teleport up to 150 kilograms
+Retrieve,*Apportation*,12,move an object of up to 10 kilograms
+**Conjuration Spells**
+Bad Luck Curse,*Conjuration*,11,Bad Luck (R2) Disadvantage
+Cage,*Conjuration*,27,resistance total of bars
+Communicate with Animals,*Conjuration*,10,speaking skill with specialization in the animal’s “language” at 5D
+Displacement,*Conjuration*,12,search difficulty of 20 and image transfer of 2.5 meters
+Evil Eye Curse,*Conjuration*,11,Bad Luck (R2) Disadvantage
+Feast,*Conjuration*,10,5 kilograms of food and water
+Flight,*Conjuration*,16,Flight (R1) Special Ability plus the flying skill at +1D
+Glow Stone,*Conjuration*,12,negates up to -4D of darkness modifier
+Helping Hand,*Conjuration*,18,telekinesis skill at 4D+1
+Light,*Conjuration*,12,negates up to 4D of darkness modifier
+Mystic Bolt,*Conjuration*,10,4D in damage
+Mystical Shield,*Conjuration*,10,Armor Value of 6D
+Stunned Senseless,*Conjuration*,12,6D+2 stun damage
+Voodoo Curse,*Conjuration*,12,Hindrance (R2) Disadvantage
+**Divination Spells**
+Detect the Living,*Divination*,14,search of 8D to locate a single type of creature
+Scrying,*Divination*,11,2.5 months
+Sense Past,*Divination*,25,66 weeks in past
+View,*Divination*,19,search skill of 3D

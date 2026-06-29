@@ -1,0 +1,205 @@
+
+Protection from Magic
+~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 5 
+:Effect: 6 (Reduce effect (after a link) +2D)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Protection Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): opposed
+
+
+    (0): Controller: None
+
+
+
+
+Distinct from Shield which prevents the link, this mitigates effects
+
+
+Halt
+~~~~
+
+:Skill: Psychic Communication
+:Difficulty: 6 
+:Effect: 6 (Halt! with bonus to overcome mettle +2D)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 2 sec \(2)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Control chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Witan Acumen
+
+
+
+
+The halt duration is short; an agility check is required to keep from stumbling
+
+
+Illusion of Rat
+~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 6 
+:Effect: 9 (Fear +3D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    gestures (2): Illusion Gestures (simple)
+
+
+    incantation (4): Illusion Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    other_alterant (3): illusion is moving
+
+
+    unreal_effect (2): Unreal Effect: difficulty_13
+
+
+
+
+
+:Other Conditions:
+    (-2): illusion limited to 1 color
+
+
+    (0): Controller: Baelu Charisma
+
+
+
+
+An autonomous illusion of a large rat
+
+
+Communicate w/ Plant/Animal
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 7 
+:Effect: 12 (Psionics: gather common info potentially hostile +2D (extranormal skill))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    gestures (2): Touch target (simple)
+
+
+    incantation (4): Earth and Water chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Witan Acumen
+
+
+
+
+This will gather a bit of common information
+
+
+Knock
+~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 4 
+:Effect: 12 (break latch or bar +4D (physical damage))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 sec \(0)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Earth and Water Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (-1): limited to wood
+
+
+    (0): Controller: Depends on type of wood
+
+
+
+
+This tends to destroy the door
+
+
+Shocking Grasp
+~~~~~~~~~~~~~~
+
+:Skill: Elemental Alteration: Air + Fire
+:Difficulty: 7 
+:Effect: 20 (Electric Damage +3D+1 (physical damage, ignores all armor))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 sec \(0)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    gestures (3): Complex motion to grasp (complex)
+
+
+    incantation (4): Air and Fire Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Hælan Coordination
+
+
+
+
+A touch that does 6D damage
+
+

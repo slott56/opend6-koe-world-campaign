@@ -1,0 +1,10 @@
+**Typical Lighthouse Guard**:
+Agility 3D+2, fighting 4D+2, melee combat 4D+2, Coordination 2D, Physique 3D+1, running 3D+2, stamina 4D+2, Intellect 2D+1, Acumen 3D+2, investigation 4D, streetwise 4D, Charisma 3D, intimidation 3D+1.
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 0, 
+*Body Points*: 15, *Equipment*: chain mail armor (Armor Value +2D); halberd (damage +3D); pouch of food and water.
+
+
+

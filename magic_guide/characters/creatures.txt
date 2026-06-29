@@ -1,0 +1,235 @@
+**Æs**:
+Agility 4D, combat 2D, fighting 2D, melee combat 2D, Coordination 4D, throwing 2D, Physique 4D, lifting 2D, running 2D, Intellect 4D, speaking 2D, Acumen 4D, Charisma 4D, charm 2D, intimidation 3D, mettle 3D, Extranormal 4D.
+*Advantages*: Fame (R3), widely-known and recognized,
+*Special Abilities*: Longevity (R3), Lives thousands of years; Natural Armor (R2), Very tough; Natural Hand-to-Hand Weapon (R2), Throws a powerful punch,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 32, *Description*: Tall and pretty, these beings have powerful magic skills and often have wonderful equipment..
+
+
+**Djinn**:
+Agility 4D, acrobatics 2D, flying 2D, Coordination 4D, sleight of hand 2D, Physique 5D, lifting 3D+1, running 2D, Intellect 4D, devices 1D, healing 1D, traps 1D, Acumen 4D, crafting 1D, design 1D, hide 1D, know-how 1D, Charisma 3D, intimidation 2D, charm 1D, Extranormal 5D.
+*Disadvantages*: Employed (R1), anyone who knows its true name can command it completely; Achilles' Heel (R2), talkative, can be charmed into revealing their name,
+*Special Abilities*: Attack Resistance (R1), +1D to damage resistance total against weapons not blessed or enchanted; Longevity (R3), Lives thousands of years; Transmutation (R1), Becomes a column of blowing sand; grants 4 ranks of Hypermovement +8m/round; Flight (R1), Flying at speed of 20m/round,
+*Move*: 15, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 42, *Description*: In human-ish form, they are intimidating. In their column-of-sand form, they're able to travel quickly over the landscape..
+
+
+**Afrit**:
+Agility 4D, acrobatics 2D, flying 2D, fighting 2D, Coordination 4D, throwing 2D, Physique 4D, lifting 5D+2, stamina 2D, Intellect 4D, cultures 1D, speaking 1D, trading 1D, Acumen 4D, disguise 1D, gambling 1D, hide 1D, tracking 1D, Charisma 3D, intimidation 2D, charm 1D, Extranormal 5D.
+*Disadvantages*: Achilles' Heel (R1), anyone who knows its true name can summon it; whether or not it cooperates is another story; Achilles' Heel (R2), talkative, can be charmed into revealing their name; Enemy (R2), hunted by Djinni,
+*Special Abilities*: Attack Resistance (R1), +1D to damage resistance total against weapons not blessed or enchanted; Longevity (R3), Lives thousands of years; Transmutation (R1), Becomes a column of blowing sand, which grants 2 ranks of Hypermovement +4m/round, and +2D to attack resistance; Flight (R1), Flying at speed of 20m/round,
+*Move*: 15, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 31, *Description*: Unlike the Djinni, the Afriti can pass for human. In their column-of-sand form, they're able to travel quickly over the landscape. Enemies of the Djinni..
+
+
+**Air Elemental**:
+Agility 3D, contortion 2D, flying 2D, Coordination 1D, Physique 5D, running/flying 2D, stamina 2D, Intellect 1D, Acumen 1D, Charisma 1D, intimidation 6D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to earth-based attacks, takes double damage,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for tightly-woven cloth armor; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Ranged Weapon (R3), +3D gusts of wind,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 43, *Description*: The air element freed from the æther, *Natural Abilities*: Flying from location to location, able to fit through the smallest opening..
+
+
+**Air Dragon**:
+Agility 3D, flying 2D, Coordination 2D, Physique 5D, stamina 3D, Intellect 3D, navigation 1D, speaking 1D, Acumen 3D, search 1D, tracking 1D, Charisma 3D, intimidation 2D.
+*Disadvantages*: Achilles' Heel (R3), Can't land: Barely able to waddle on near useless legs, can't take off.,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for tightly-woven cloth armor; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Ranged Weapon (R3), +3D a bellow so loud, it causes injury,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 36, *Description*: A dragon that rarely touches land, and has a bellow that can kill. If forced to land on level ground, it will never fly again.Breeds on sheet cliffs. They can only take off by falling., *Natural Abilities*: Flying more-or-less constantly..
+
+
+**Giant Centipede**:
+Agility 2D, Coordination 2D, Physique 5D, stamina 3D, Intellect 2D, Acumen 3D, tracking 1D, Charisma 3D, intimidation 2D.
+*Special Abilities*: Natural Hand-to-Hand Weapon (R3), Poison in the forcipules (pincers); Natural Armor (R2), tough chitonous hide,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 46, *Description*: A 1-2 meter long centipede, with 20 pairs of long legs, a surprisingly tough hide, and a vicious poison in the huge forcipules (pincers) that surround the mouth, *Natural Abilities*: Infravision/Ultravision (R2), .
+
+
+**Giant**:
+Agility 3D, fighting 4D, melee combat 4D, Coordination 1D, throwing 4D, Physique 5D, lifting 6D, running 6D+2, Intellect 3D, navigation 1D, Acumen 1D, tracking 2D, Charisma 1D, intimidation 6D.
+*Advantages*: Size (R3), Huge, scale value 8,
+*Special Abilities*: Hypermovement (R2), +4 to Move; Increased Attribute (R3), Physique, +3 to all Physique totals; Fear (R2), +2D to intimidation and +2D to combat defense,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 38, *Equipment*: Large club (damage +2D); armor (defense +2D), *Description*: These are huge creatures, often weighing over one thousand kg..
+
+
+**Troll**:
+Agility 3D, fighting 2D, melee combat 2D, Coordination 3D, throwing 1D, Physique 4D, lifting 4D, stamina 1D, Intellect 3D, healing 1D, traps 3D, Acumen 2D, hide 2D, know-how 2D, Charisma 1D, intimidation 6D.
+*Advantages*: Size (R1), Large, scale value 3,
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire: does double damage,
+*Special Abilities*: Accelerated Healing (R3), +3D to Physique for natural healing; Attack Resistance (R2), +1D for extranormal, and non-enchanted weapons,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 32, *Equipment*: Often armed with war hammer (+1D+2), bone and hide armor (+1D), small shield (+2D), *Description*: These are large creatures, often weighing several hundred kg. They prefer to hide and tunnel and build traps..
+
+
+**Ogre**:
+Agility 3D, fighting 2D, melee combat 2D, Coordination 3D, throwing 1D, Physique 2D, lifting 2D, stamina 2D, Intellect 3D, healing 1D, scholar 3D, Acumen 3D, disguise 2D, know-how 2D, Charisma 1D, intimidation 6D, Extranormal 3D, apportation 2D.
+*Advantages*: Size (R1), Large, scale value 3,
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Water, takes +1D damage from a bucket-full,
+*Special Abilities*: Attack Resistance (R2), +1D for extranormal, and non-enchanted weapons,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24, *Description*: These are large creatures. They are clever and magic use, but terrified of water..
+
+
+**Giant Spider**:
+Agility 3D, Coordination 3D, Physique 2D, stamina 3D, Intellect 2D, Acumen 3D, tracking 1D, Charisma 3D, intimidation 2D.
+*Special Abilities*: Natural Hand-to-Hand Weapon (R3), Poison in the mouth fangs; Natural Armor (R2), tough chitonous hide,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 46, *Description*: A spider with a 1-2 meter long body and 2-3 meter legs, a surprisingly tough hide, and a vicious poison in the fangs inside the mouth, *Natural Abilities*: Infravision/Ultravision (R2), .
+
+
+**Lizard Man**:
+Agility 3D, flying +1, jumping 1D, fighting 3D, Coordination 3D, Physique 3D, running 2D, stamina 2D, swimming +2, Intellect 3D, cultures 1D, navigation 2D, scholar 1D, Acumen 3D, investigation 2D, crafting 1D, Charisma 3D, persusion 1D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire, takes double damage,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R3), +2D beak; Natural Hand-to-Hand Weapon (R3), +1D+2 claws on feet,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 27, *Description*: Intelligent, bipedal lizard, with bright plumage and surprisingly long fingers (or very short wings). They fight with a wickedly curved beak and massive foot claws..
+
+
+**Water Elemental**:
+Agility 3D, contortion 2D, stealth 2D, Coordination 1D, Physique 5D, lifting 2D, stamina 2D, swimming 4D, Intellect 1D, Acumen 1D, Charisma 1D, intimidation 6D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire, takes double damage,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for rain gear; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Hand-to-Hand Weapon (R3), +3D waves that hit hard,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 47, *Description*: The water element freed from the æther, *Natural Abilities*: Flowing, filling a space of any shape, fitting through small openings..
+
+
+**Acid Dragon**:
+Agility 3D, flying 2D, Coordination 2D, Physique 5D, stamina 3D, swimming 3D, Intellect 3D, navigation 1D, speaking 1D, Acumen 3D, search 1D, survival 1D, Charisma 3D, intimidation 2D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire, takes double damage,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for tightly-woven, water-proof rain gear; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Ranged Weapon (R3), +3D for a gout of acid,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 46, *Description*: A dragon that swims and spits acid as well as flies. Violently opposed to fire dragons. Breeds on small islands in the sea somewhere., *Natural Abilities*: Flight; Swimming.
+
+
+**Watersnake**:
+Agility 3D, Coordination 2D, Physique 2D, stamina 3D, swimming 3D, Intellect 2D, Acumen 3D, search 1D, survival 1D, Charisma 3D, intimidation 2D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire, takes double damage,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R3), Poison in the mouth fangs,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24, *Description*: A large -- 3-5m long -- snake with a terrifying venom in it's fangs., *Natural Abilities*: Swimming.
+
+
+**Fire Elemental**:
+Agility 3D, contortion 2D, jumping 2D, Coordination 1D, Physique 5D, running 2D, stamina 2D, Intellect 1D, Acumen 1D, Charisma 1D, intimidation 6D.
+*Advantages*: Contacts (R1), Can find (and free) fire elements,
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Water, takes double damage,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for cloth armor soaking wet; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Ranged Weapon (R3), +3D Balls of fire,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 37, *Description*: The fire element freed from the æther, *Natural Abilities*: Leaping from location to location, finding and freeing other fire elements..
+
+
+**Fire Dragon**:
+Agility 3D, flying 2D, Coordination 2D, Physique 5D, stamina 3D, running/flying 3D, Intellect 3D, navigation 1D, speaking 1D, Acumen 3D, search 1D, survival 1D, Charisma 3D, intimidation 2D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to water and acid, takes double damage,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for cloth armor soaking wet; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Ranged Weapon (R3), +3D for a plume of fire,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 41, *Description*: A dragon that breathes fire, violently opposed to acid dragons. Lives near volcanoes, nests in caldera., *Natural Abilities*: Flight.
+
+
+**Elf, Gnome, Goblin, Kobold**:
+Agility 3D, acrobatics +2, dodge +2, fighting +2, melee combat +2, stealth +2, Coordination 3D, marksmanship +2, throwing +1, Physique 3D, running +2, stamina +2, Intellect 3D, healing +2, scholar +2, traps +2, Acumen 3D, crafting +2, survival +2, Charisma 3D, command +1, intimidation +2, Extranormal 3D.
+*Advantages*: Equipment (R2), Weapon or survival gear unknown to humans,
+*Disadvantages*: Cultural Unfamiliarity (R2), Lost in human company,
+*Special Abilities*: Combat Sense (R2), Surprise reduced by 4,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 30, *Description*: Inhabitants of the realm of mountains and forests.
+
+
+**Dwarf**:
+Agility 3D, fighting +2, melee combat +2, stealth +2, Coordination 3D, sleight of hand +1, Physique 3D, lifting +2, stamina 1D, Intellect 3D, trading +2, scholar +2, traps +2, Acumen 3D, crafting +2, hide +2, Charisma 3D, charm +1, intimidation +2, Extranormal 3D.
+*Advantages*: Equipment (R2), Weapon or survival gear unknown to humans; Size (R2), Smaller than humans,
+*Disadvantages*: Cultural Unfamiliarity (R2), Lost in human company,
+*Special Abilities*: Infravision/Ultravision (R2), +4 in dark places,
+*Move*: 10, 
+*Strength Damage*: , 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 32, *Description*: Inhabitants of the realm of caves and earth.
+
+
+**Earth Elemental**:
+Agility 3D, fighting 2D, melee combat 2D, Coordination 1D, Physique 5D, lifting 2D, stamina 2D, swimming 4D, Intellect 1D, Acumen 1D, Charisma 1D, intimidation 6D.
+*Disadvantages*: Hindrance (R3), Slow,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for leather armor; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Hand-to-Hand Weapon (R3), +3D earth-shaking that knocks opponents down and beats them on the ground.,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 41, *Description*: The earth element freed from the æther, *Natural Abilities*: Transmutes from rock to sand; sand can pass through openings..
+
+
+**Earth Dragon**:
+Agility 3D, flying 2D, Coordination 2D, Physique 5D, stamina 3D, running/flying 3D, Intellect 3D, navigation 1D, speaking 1D, Acumen 3D, search 1D, survival 1D, Charisma 3D, intimidation 2D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to air, wind, and loud noises, damage +1D, any intimidation attempt with a loud noise gets +3D,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for heavily padded armor; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Hand-to-Hand Weapon (R3), +3D for a rock-like buffet with the tail; Natural Hand-to-Hand Weapon (R3), +1D poisonous bite,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 43, *Description*: A slow-moving dragon that with a hide like stone. They have small wings and are sometimes called Wyvern., *Natural Abilities*: Flight; Tunneling.
+
+
+**Metal Man**:
+Agility 2D, fighting +2, melee combat +2, Coordination 2D, Physique 4D, lifting 2D, stamina 2D, Intellect 2D, Acumen 2D, Charisma 1D, intimidation 2D.
+*Advantages*: Equipment (R2), Weapon or survival gear unknown to humans,
+*Disadvantages*: Cultural Unfamiliarity (R2), Lost in human company; Achilles' Heel (R3), Vulnerability to water and acid, takes double damage,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 34, *Description*: Inhabitants of the unknown realm.
+
+
+

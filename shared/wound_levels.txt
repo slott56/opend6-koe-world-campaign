@@ -1,0 +1,57 @@
+..  include: ../shared/wound_levels.txt
+
+
+..  admonition:: WOUND LEVELS
+
+    ..  csv-table::
+
+        Effect, *Wounds*\* Damage Total ≥ Resistance Total By:, *Body Points* † Body Points Left
+        Bruised, 0 or less, 81% - 99%
+        Stunned, 1-3, 60% - 80%
+        Wounded, 4-8, 40% - 59%
+        Severely Wounded, 4-8\*\*, 20% - 39%
+        Incapacitated, 9-12, 10% - 19%
+        Mortally Wounded, 13-15, 1% - 9%
+        Dead, 16 or more, 0
+
+    \* *Notee: Any additional damage less than or equal to the character's
+    current lwel moves the character up by one lwel.*
+
+    \*\* *A character moves to the Swerely Wounded lwtl if the difference is
+    between 4 and 8 and she already has the Wounded level.*
+
+    † *Note: This is an optional chart forustwith Body Points. The "Body Points" column is based on the character's maximum Body Points. Round up
+    or down so that no overlap exists between levels.*
+
+    *Penalties imposed by each level are not cumulative; do not include them
+    when determining the stun or damage resistance total or any total not
+    involving a skill or attribute.*
+
+    **Bruised**: Character's toughness absorbed most or all of the attack.
+    However, the gamemaster may decide that a result that misses by a few
+    points against a defender with no protection (natural other otherwise)
+    instead infiicts a Stunned level.
+
+    **Stunned**: Character either gets-ID for allremainingactions this round
+    and next round or may only defend or retreat in the next round.
+
+    **Wounded**: Character is at-lD to all actions until healed.
+
+    **Severely Wounded**: Character is at -2D on all actions until healed.
+    lncapad tated: As a free action before losing consciousness, the
+    character may try to stay up with a Moderate (15) stamina or mettle
+    roll. If he succeeds, be may continue to act, but all actions have a -3D
+    penalty. If he fails, he is knocked out for 10D minutes.
+
+    **Mortally Wounded**: The character is near death and knocked
+    unconscious with no chance to keep up. Roll the character's Physique
+    each round, the character finally dies if the roll is less than the number
+    of minutes he's been at this level
+
+    **Dead**: The character has perished.
+
+    *Fast Combat Option*: Gamemasters who wish to give the players'
+    characters and their major opponents an edge in battles, make the
+    game more realistic, or simply save themselves trouble should apply
+    the modifiers in the first round of combat and then reassess the levels
+    after combat is complete.

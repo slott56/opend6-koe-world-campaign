@@ -1,0 +1,135 @@
+
+War Blast
+~~~~~~~~~
+
+:Skill: fire-based
+:Difficulty: 8 
+:Effect: 12 (fire-based 2*D (ignore all armor))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    incantation (4): Demon Blast (litany)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+War Bolt
+~~~~~~~~
+
+:Skill: earth-based
+:Difficulty: 7 
+:Effect: 9 (earth-based 3*D)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    incantation (4): War Blast (litany)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+Battle Shield
+~~~~~~~~~~~~~
+
+:Skill: A wall of fire-like shimmer
+:Difficulty: 14 
+:Effect: 9 (A wall of fire-like shimmer 2*D (protection modifier))
+:Range: 8 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (10): 2m radius sphere
+
+
+    incantation (4): Demon Shield Chant (litany)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+Demonic Cleansing
+~~~~~~~~~~~~~~~~~
+
+:Skill: Boost Charisma/intimidation break concentration
+:Difficulty: 14 
+:Effect: 12 (Boost Charisma/intimidation break concentration 4*D)
+:Range: 8 m \(5)
+:Speed:  \(5)
+:Duration: 2 round \(5)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (10): 2m radius sphere
+
+
+    incantation (4): Mage Intimidation Chant (litany)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+Demonic Inspiration
+~~~~~~~~~~~~~~~~~~~
+
+:Skill: Boost combat skill
+:Difficulty: 16 
+:Effect: 12 (Boost combat skill 4*D)
+:Range: 8 m \(5)
+:Speed:  \(5)
+:Duration: 2 min \(10)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (10): 2m radius sphere
+
+
+    incantation (4): Mage Inspiration Chant (litany)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+

@@ -1,0 +1,193 @@
+[[characters]]
+name = "Variana, Dragon"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D+2"
+skills = [
+    { label = "acrobatics", dice = "7D" },
+    { label = "dodge", dice = "7D+1" },
+    { label = "fighting", dice = "10D" },
+    { label = "flying", dice = "9D+2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = [
+    { label = "marksmanship fiery breath", dice = "10D" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "lifting", dice = "5D" },
+    { label = "running", dice = "6D" },
+    { label = "stamina", dice = "5D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D+1"
+skills = [
+    { label = "cultures", dice = "7D" },
+    { label = "healing", dice = "4D+2" },
+    { label = "obscure cures", dice = "5D" },
+    { label = "navigation", dice = "6D" },
+    { label = "reading/writing", dice = "6D" },
+    { label = "scholar arcane lore", dice = "10D" },
+    { label = "speaking", dice = "6D+2" },
+    { label = "trading", dice = "6D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D+ 1"
+skills = [
+    { label = "disguise", dice = "5D" },
+    { label = "investigation", dice = "6D" },
+    { label = "search", dice = "6D" },
+    { label = "streetwise", dice = "3D" },
+    { label = "survival", dice = "4D+2" },
+    { label = "tracking", dice = "6D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D+1"
+skills = [
+    { label = "bluff", dice = "6D" },
+    { label = "charm", dice = "5D+2" },
+    { label = "command", dice = "6D" },
+    { label = "intimidation", dice = "7D" },
+    { label = "mettle", dice = "6D+1" },
+    { label = "persuasion", dice = "5D" },
+]
+
+[characters.details.Magic]
+label = "Magic"
+dice = "2D+1"
+skills = [
+    { label = "alteration", dice = "3D+1" },
+    { label = "conjuration shapeshifting spells", dice = "6D+2" },
+    { label = "divination", dice = "3D+2" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "+14"
+suffix = ": ( )"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "3"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "20"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "26"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "5"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Achilles' Heel"
+rank = "(R3)"
+details = ", Home Attunement : can only heal damage by resting within her cave , without the aid of medicine or magic"
+
+[[characters.details.Disadvantages.details]]
+label = "Infamy"
+rank = "(R3)"
+details = ""
+
+[[characters.details.Disadvantages.details]]
+label = "Quirk"
+rank = "(R3)"
+details = ", mercurial"
+
+[[characters.details.Disadvantages.details]]
+label = "Quirk"
+rank = "(R3)"
+details = ", territorial"
+
+[[characters.details.Disadvantages.details]]
+label = "Quirk"
+rank = "(R2)"
+details = ", vain"
+
+[characters.details.Special]
+label = "Special"
+
+[[characters.details.Special.details]]
+label = "Flight"
+rank = "(R4)"
+details = ", flying move 8D"
+
+[[characters.details.Special.details]]
+label = "Increased Attribute : Agility"
+rank = "(R1O)"
+details = ", + 10 to related totals"
+
+[[characters.details.Special.details]]
+label = "Increased Attribute : Physique"
+rank = "(R14)"
+details = ", +14 to related totals"
+
+[[characters.details.Special.details]]
+label = "Longevity"
+rank = "(R1)"
+details = ""
+
+[[characters.details.Special.details]]
+label = "Luck:Great"
+rank = "(R3)"
+details = ", with Restricted (R3), to Dragon's own cave"
+
+[[characters.details.Special.details]]
+label = "NaturalArmor : Scales"
+rank = "(R3)"
+details = ", +3 D to damage resistance totals"
+
+[[characters.details.Special.details]]
+label = "Natural Hand-to- Hand Weapon : Claws"
+rank = "(R3)"
+details = ", +3 D damage"
+
+[[characters.details.Special.details]]
+label = "Natural Hand-to-Hand Weapon : Teeth"
+rank = "(R3)"
+details = ", +3 D damage"
+
+[[characters.details.Special.details]]
+label = "Natural Ranged Weapon : Fiery Breath"
+rank = "(R2)"
+details = ", damage 6D , range 10 / 20 / 40 , with Ability Loss (R1), may only fire once every other round"
+
+[[characters.details.Special.details]]
+label = "Infravision/Ultravision"
+rank = "(R6)"
+details = "+12 to sight-based totals in darkness"
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Size", rank = "(R4)", details = ", scale value 12" },
+    { label = "Wealth", rank = "(R3)", details = "" },
+]

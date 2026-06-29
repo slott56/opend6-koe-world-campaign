@@ -1,0 +1,1313 @@
+
+Animal Loyalty
+~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 21 
+:Effect: 18 (Animal Handling: boost caster’s animal handling +2D (skill modifier); boost target’s willpower/mettle +2D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Animal
+
+
+    gestures (2): Gently stroke the target animal (simple)
+
+
+    incantations (1): Make soothing sounds (phrase)
+
+
+    focused (9): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-2): Limited to animals that are friendly to the caster; target and caster must remain within 10 meters of each other to get bonuses
+
+
+    (0): Difficulty: 20
+
+
+
+
+To inspire unnatural loyalty in a pet, animal companion,
+or mount, the caster simply strokes the creature and makes
+reassuring, soothing sounds. For a full day thereafter, the
+animal will be especially loyal to the caster, which translates
+into an animal handling  (or persuasion: animals in D6 Space)
+bonus of +2D for the caster toward the target creature. In
+addition, because the animal is so trusting of the caster,
+whenever it’s within 10 meters of the caster, it gains a will-
+power/mettle bonus of +2D to resist attempts, magical or
+otherwise, by others to alter its behavior.
+
+
+Animal Savior
+~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 16 
+:Effect: 18 (Save Animal: boost lifting/lift to recover fallen comrades +2D (skill modifier); boost willpower/mettle to resist attempts to dissuade recovery +2D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Animal
+
+
+    components (4): Something from the type of animal targeted (very_common); something from the individual to be protected by the target animal (very_common)
+
+
+    gestures (2): Draw a line on the ground (simple)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Limited to animals
+
+
+    (0): Difficulty: 16
+
+
+
+
+To cast this spell, the mage places on the ground something
+from that type of animal to be targeted (strands of dog’s fur
+or locks of horse’s hair, for example) and something from the
+individual the animal is intended to watch over. She then
+draws a line from these items toward the animal, and then
+toward the individual to be protected.
+For a period of one hour, the targeted animal keeps a watch-
+ful eye over its ward. Should  the ward ever fall (rendered
+unconscious, incapacitated, paralyzed, dead, or otherwise
+unmoving), the animal will quickly descend upon the body
+and pull it to a location out of harm’s way. This spell grants
+the animal a +2D lifting/lift bonus for this purpose, allowing
+even a small dog the ability to pull a human to safety, and
+a +2D willpower/mettle bonus to resist efforts to dissuade
+intervention.
+While there is no range limitation on how far the animal
+will theoretically pull the character, the location to which
+the immobilized character is moved is always the nearest
+“safe” place. This might mean dragging the body out of a
+room, behind a tree, into a defile, or any other such sheltered
+locale. In an environment where there is no readily avail -
+able protection, such as barren and flat desert or plains, the
+animal pulls the body far enough away to be removed from
+the melee and out of range of whatever missile weapons the
+enemy possesses (if any).
+
+
+Asp Arrow
+~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 16 
+:Effect: 18 (Arrow +4D (physical damage, ignore non magical armor))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Animal
+
+
+    component (4): A live asp or other poisonous snake (uncommon)
+
+
+    gestures (2): Crouch as if coiled like a snake, shape hand into a fist with two fingers extended like asp fangs, then spring and throw the gathered energy at target (simple)
+
+
+    incantations (1): Make a snake-like sound (phrase)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 16
+
+
+
+
+To cast this spell, the mage must have a live asp or other
+poisonous snake on his person. Usually, mages keep them in
+small earthenware pots or reed baskets. By coiling himself as
+a snake would, not only is he drawing upon energy to propel
+the mystical arrow but is also tapping into the essence of the
+snake itself. Once the mystical energy is released, an arrow
+appears and flies toward the intended target, to a range of
+10 meters. The mage must make a marksmanship/firearms or
+apportation roll to hit the target. If the arrow flies true and
+hits, it immediately transforms into a large asp and delivers
+a poisonous bite., which causes 4D of damage each round
+for one minute. The asp arrow must be fired in the round
+after the mage casts the spell. The mage may add the result
+point bonus of the spell to either the targeting total or the
+first damage total.
+
+
+
+
+Bashing Fists
+~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 11 
+:Effect: 12 (natural_hand_to_hand_weapon (R2) +2D  damage)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 round \(7)
+:Casting Time: 3.5 sec \(3)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk
+
+
+    components (3): Pair of black leather gloves (common)
+
+
+    gestures (2): Put on gloves (simple)
+
+
+    incantations (2): Let out an ear-splitting roar of rage (phrase; loud)
+
+
+    other_alterant (12): Opponent receives increased difficulties with each landed punch
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 10
+
+
+
+
+To cast the spell, the mage must first put on a pair of black
+leather gloves. The mage then lets out a roar as mighty as he
+can muster and punches each of his fists into an open hand,
+all the while feeling himself become overwhelmed with a
+sense of pent-up rage. This violent urge must be released
+within the next five rounds or it dissipates, and can only be
+released in unarmed combat. The spell provides the Natural
+Hand-to-Hand Weapons: Fists Special Ability, which gives the
+attacker +2D to his unarmed Strength Damage. In addition
+to damage inflicted, each blow landed by the mage pushes
+his foe. This causes the victim to stumble, reducing all Agil-
+ity/Reflexes or related totals by 3 until the mage’s turn in
+the next round.
+
+
+Beast Warden
+~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 23 
+:Effect: 18 (intimidation +4D (skill modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 10 min \(14)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Animal
+
+
+    area_effect (15): 3m radius sphere
+
+
+    components (8): Rowan berries (uncommon; destroyed)
+
+
+    countenance (1): Animal appears menancing (noticeable)
+
+
+    gestures (2): Point from target to those to be guarded, bear teeth and snarl (simple)
+
+
+    incantations (1): “Guard.” (phrase)
+
+
+    unreal_effect (4): Unreal Effect: difficulty_13
+
+
+    other_alterant (10): Animal will fight to the death to keep captives in area of effect
+
+
+
+
+
+:Other Conditions:
+    (-2): May only be used on animals who are friendly to the caster
+
+
+    (0): Difficulty: 20
+
+
+
+
+To cast this spell, the mage must have a small supply ber-
+ries harvested from a rowan tree. The mage points at the
+animal he wishes to target, then at a creature or creature he
+wishes the animal to guard, snarling and bearing his teeth
+to get the point across. After uttering a simple command
+word, the spell is cast. The target animal devotedly keeps
+the specified beings in a confined area measuring three
+meters in diameter by circling. In the eyes of its captives, the
+animal’s countenance changes completely, become far more
+frightening and imposing. As a result, the animal gains an
+intimidation skill bonus of +4D.
+Most captives are too frightened to attempt escape, save
+for those who make a willpower/mettle roll of 13 to disbelieve
+the spell’s effect. Captives attempting to escape find them -
+selves harrassed immediately upon trying to leave the area
+of effect. The animal attacks until either it or the prisoner
+is dead or subdued.
+While predators are most often targeted, this spell is by
+no means limited to them. Herbivores, such as boars, deer,
+and bulls, can be equally effective.
+Blades of Flesh
+
+
+Blades of Flesh
+~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 4 
+:Effect: 6 (natural_hand_to_hand_weapon: blades of flesh (R1) +1D  damage)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk
+
+
+    components (3): Any bladed weapon (common)
+
+
+    gestures (2): Draw weapon across hand (simple)
+
+
+    focused (3): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 3
+
+
+
+
+This spell gives the target a bonus of +1D to Strength
+Damage for 25 seconds, or five rounds. With the simple slash
+of a blade, the spell transforms the target’s hands, elbows,
+and feet into lethal blades of flesh that can slash or pierce
+as well as bludgeon.
+
+
+Club Feet
+~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 31 
+:Effect: 36 (hindrance: club feet (R12), : +4 to the difficulty of any foot-related skill use and -4 to initiative rolls)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 10 min \(14)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Animal, Folk
+
+
+    gestures (3): Mime tripping and falling, eyes focused on target (complex (acrobatics roll with difficulty of 11))
+
+
+    incantations (2): “I’m such a clumsy oaf.” (sentence)
+
+
+    focused (10): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 31
+
+
+
+
+While willingly causing himself to trip and fall (acrobatics
+roll of 11 or fail the spell due to ineptitude), and casually
+excusing himself for his clumsiness, the mage casts this
+potent spell and curses a target not more than 10 meters
+away. The curse twists the victim’s feet until they are hor -
+ribly misshapen, rendering his legs so uncoordinated that
+he can literally trip over himself. This is reflected by a +4
+to the difficulties of various foot-related tasks and a -4 to
+initiative totals. When the spell wears off 10 minutes later,
+the character is restored immediately to normal.
+
+
+Cobra Strike
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 11 
+:Effect: 18 (Cobra damage +3D (physical damage, ignores all armor))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk, Animal
+
+
+    charges (5): 2 improved_charges
+
+
+    components (7): Cobra skin gloves (very_rare); flute (very_common)
+
+
+    gestures (3): Play tune on a flute (complex (artist roll with difficulty of 11))
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 14
+
+
+
+
+This spell requires the caster to wear cobra skin gloves
+and have a flute. The mage casts the spell by playing a short
+tune on her flute, the kind that snake-charmers use to lure
+cobras from their wicker pots. On the next round, as the mage
+attemtps to land an open-handed strike, her hand spreads out
+like a hood, and the head of a cobra momentarily appears in
+the palm to strike the target. On a successful attack, the blow
+inflicts normal unarmed damage and for five rounds (starting
+with the one in which the blow landed), the victim is poisoned
+and takes 3D damge per round until duration ends.
+
+
+
+
+Courage
+~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 23 
+:Effect: 30 (willpower/mettle +6D+2 (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 2.5 min \(11)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk
+
+
+    area_effect (25): 5m radius sphere
+
+
+    components (5): Braided lion’s mane rope (very_rare)
+
+
+    concentration (1): Concentration: 3 sec (willpower/mettle roll 7)
+
+
+    feedback (3): lowered resistance
+
+
+    gestures (3): Hold the lion’s mane rope above the head and shake it while turning in a circle (complex (acrobatics roll with difficulty of 11))
+
+
+    incantations (3): “Fight by me, my friends, and together we’ll taste victory or achieve immortality” (sentence; loud)
+
+
+
+
+
+:Other Conditions:
+    (-2): Limited to sentient beings and those who are neutral or trusting of the mage
+
+
+    (0): Difficulty: 23
+
+
+
+
+Casting this spell requires the mage to have a rope braided
+from lion’s mane. He holds the rope aloft as a symbol of cour-
+age and shakes it mightily as he turns in a complete circle,
+demonstrating its importance to all around him.
+For a period of more than two minutes thereafter, his mere
+presence steadies his allies when terror would otherwise fill
+their hearts and shake their resolve. All allies with a 5-meter
+radius gain a willpower/mettle skill bonus of +6D+2 for resist-
+ing fear, intimidation, or even pain and torture.
+Under the influence of this spell, only the most weak
+hearted of characters will break rather than present a stoic
+face to their enemies. If a character affected by fear is ral -
+lied by her companions, she may roll again to shake off the
+effect. This spell can only be used on sentient beings, and it
+only affects individuals who are neutral toward or trusting
+of the mage.
+
+
+Eagle-Eye
+~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 20 
+:Effect: 18 (search skill +4D (skill modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 5 round \(7)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk, Avian
+
+
+    area_effect (15): 10m radius divination sphere
+
+
+    component (8): Eye of an eagle (uncommon; destroyed)
+
+
+    concentration (3): Concentration: 25 sec (willpower/mettle roll 9)
+
+
+    gestures (2): Ingest the eagle’s eye (simple)
+
+
+    focused (5): Focus based on effect, duration
+
+
+    variable_duration (8): on_off_switch
+
+
+
+
+
+:Other Conditions:
+    (-6): -6 to Agility/Reflexes and related totals while spell is active
+
+
+    (0): Difficulty: 20
+
+
+
+
+The caster ingests an eye of an eagle, closes his eyes, and
+concentrates. When he opens his eyes after 25 seconds, the
+mage perceives a bird’s eye view of his surrounding area, as
+though he was looking down from the vantage point of a
+soaring eagle. The mage gains awareness of all objects within
+10 meters of his person that are large enough to normally
+be seen with his eye. However, the mage cannot see under
+or through solid objects.
+The area of effect moves with the caster until the spell
+dissolves after one minute.
+Creatures may attempt to hide from the mage, but he gains
+a search bonus of +4D to see them because of his vantage
+point. This may have the unintended and happy side effect
+of preventing surprise — assuming the mage notices his
+attackers before they strike.
+The mage may target spells at anything he sees through
+this spell as if he had line of sight. However, he must still
+account for cover. For example, a character hiding behind
+an overturned table still enjoys such cover as it provides,
+even though he is clearly seen through the mage’s bird’s eye
+view; remember, the spell still originates from the mage’s
+physical form.
+The unusual perspective can be disorienting for the mage,
+and during the spell’s duration, he suffers -6 to all Agility/
+Reflexes and related totals while spell is active.
+
+
+Envy
+~~~~
+
+:Skill: Conjuration
+:Difficulty: 18 
+:Effect: 9 (quirk (R3), , envy requiring a Very Difficult willpower/mettle roll to overcome Disadvantage)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 4 hr \(21)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    feedback (3): lowered resistance
+
+
+    focused (6): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 18
+
+
+
+
+While casting this spell is moderately painful to the mage,
+it might well be the death of the target. The caster curses a
+humanoid target that she can see with four hours of extreme
+envy. Envy is the desire to possess what others have. Those
+afflicted with envy covet what others have —personality
+traits, personal good fortune, and material goods. The need
+to prove themselves, to obtain a perceived glory or possess
+a valuable item, often places the individuals in potentially
+dangerous situations — they might rush to disarm a trap,
+push other characters aside to be the first to fight a foe, or race
+to secure a treasure headless of potential risks. A character
+targeted by this spell must make a Very Difficult  willpower/
+mettle roll to overcome his envious impulses.
+
+
+Gang Fight
+~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 28 
+:Effect: 27 (Fighting: brawling/fighting +2D (skill modifier); melee combat +2D (skill modifier); intimidation +2D (skill modifier))
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk
+
+
+    gestures (3): Frown menacingly and point with authority at allies (complex (intimidation roll with difficulty of 11))
+
+
+    incantations (3): “Rip ’em apart, boys” (sentence; loud)
+
+
+    focused (7): Focus based on effect, duration
+
+
+    multi_target (18): 6 targets
+
+
+
+
+
+:Other Conditions:
+    (-2): Targets must be allies of the caster and either outnumber the oppoents or have them at a decisive disadvantage
+
+
+    (0): Difficulty: 27
+
+
+
+
+When the mage attempts to cast this spell, he must pres-
+ent a commanding and frightful image by succeeding an
+intimidation roll with a difficulty of 11. If she fails this, she
+simply doesn’t present herself with enough menacing author-
+ity and the spell doesn’t work. If successful, however, mage
+makes up to six allies fight with ruthless vigor, employing all
+manner of dirty tricks and providing them a bonus to their
+close combat skills of +2D. It also lends them a menacing air,
+resulting in an intimidation bonus of 2D.
+The targets must outnumber their opponents or have a
+marked disadvantage, because the thuglike tactics the caster
+wishes her allies to employ depend to a large degree upon
+intimidation and ganging-up on victims.
+
+
+Gnawing Hunger
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 36 
+:Effect: 36 (Hunger: +4D (ignores all armor, physical damage, ignores all armor); achilles_heel (R4), metabolic difference — must eat a meal every two hours or all mental and physical attributes decrease by 1 pip, with penalty increasing by 1 pip for each hour without food and disappearing with consumption of food)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 day \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Animal, Folk
+
+
+    components (2): Any food item that might be eaten by the intended target (ordinary; destroyed)
+
+
+    countenance (1): The caster’s  skin tightens around the cheeks in a sickly fashion (noticeable)
+
+
+    gestures (2): Double over in direction of the target as if suffering severe abdominal pain (simple)
+
+
+    incantations (3): “Hunger gnaws like a ravenous beast!” (sentence; loud)
+
+
+    focused (12): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 35
+
+
+
+
+To cast this spell, the mage must have in an item of food
+that the target might reasonably be expected to eat (meat for
+a carnivore, plants for an herbivore). She holds this item in
+her hand while pointing a finger at the target, and when she
+doubles over mimicking stomach pains as the food crumbles
+to dust. While performing these actions, she utters a simple
+but malicious phrase, after which the target suffers 4D damage
+from intense stomach pains. The target literally begins starv-
+ing to death and at an accelerated pace. ll mental and physical
+attributes decrease by 1 pip (with the penalty increasing by
+1 pip for each hour without food) due to weakness. These
+penalties are negated once the target has eaten.
+
+
+
+
+Graceful Step
+~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 12 
+:Effect: 18 (Grace: acrobatics +1D+1 (skill modifier); dodge +1D+1 (skill modifier); sneak/stealth +1D+1 (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Animal, Folk
+
+
+    gestures (2): Shake one leg, then the next (simple)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 12
+
+
+
+
+This spell makes the target graceful for a period of five
+rounds, which affects her acrobatics, dodge, and sneak/stealth
+attempts and increases them by 1D+1.
+
+
+Pollen Cloud
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 13 
+:Effect: 6 (cover modifier +2D)
+:Range: 3 m \(3)
+:Speed:  \(3)
+:Duration: 5 round \(7)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Plant
+
+
+    area_effect (15): 3m radius sphere
+
+
+    components (4): Fresh flower bloom (very_common; destroyed)
+
+
+    feedback (3): lowered resistance
+
+
+    gestures (2): Bring bloom to lips and gently blow (simple)
+
+
+    incantations (1): “Belladonna’s breath.” (phrase)
+
+
+    focused (3): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Spell negated by strong winds
+
+
+    (0): Difficulty: 14
+
+
+
+
+With some minor pain to herself, the mage creates a cloud
+of pollen. To cast this spell, she must have a fresh flower,
+which she brings to her lips and then blows in the intended
+direction. After uttering a simple incantation, a dense cloud of
+pollen emerges from the bloom and quickly fills a six-meter-
+wide sphere. The pollen cloud is as thick as fog, providing
+2D of cover modifier. Under normal conditions, the cloud
+dissipates after five rounds. However, in moderately windy
+conditions it blows away after two rounds, and heavy winds
+prevent the spell from working entirely.
+
+
+Quick Release
+~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 9 
+:Effect: 12 (Move fast: fast_reactions (R1) add to initiative roll and one additional free action in each of 3 rounds; Ability Loss (R1), only useful with throwing; +2D to throwing)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 3.5 sec \(3)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk
+
+
+    components (6): Spearhead (common; destroyed)
+
+
+    gestures (2): Squeeze palms together with spearhead between (simple)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 10
+
+
+
+
+The caster places a spearhead in his hands and crushes
+it between his palms, leaving his hands bloodied and the
+spearhead mere dust. Until the blood dries (a period of about
+10 minutes), the mage becomes extremely fast at releasing
+thrown weapons. This results in +1D bonus to his initiative
+roll when wielding thrown weapons. In addition, because
+he can release weapons with such amazing speed, he can
+make an additional throwing attack in up to three rounds.
+This spell provides no benefit when using missile weapons
+or firearms.
+
+
+Reveal Disposition
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 16 
+:Effect: 24 (willpower/mettle of  +8D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk
+
+
+    concentration (2): Concentration: 10 sec (willpower/mettle roll 8)
+
+
+    feedback (3): lowered resistance
+
+
+    gestures (2): Make a gesture of friendship (simple)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-3): Target must interact with the target; may only be used on a single sentient being who understand the caster’s language
+
+
+    (0): Difficulty: 16
+
+
+
+
+This spell is particularly useful by individuals involved in
+delicate diplomacy. After meditating in silence for 10 seconds,
+the mage warmly introduces herself to the individual that she
+wants to influence. The person must be a sentient being who
+understands her language. If the target doesn’t comprehend
+her, the spell and her time are wasted. Interpreters aren’t
+sufficient, as the spell relies upon personal interaction and
+common ground.
+When the spell is successfully cast, the mage rolls the will-
+power/mettle from the spell against the opponent’s willpower/
+mettle. By beating this difficulty, the caster senses the target’s
+disposition toward her by seeing a glowing aura around it.
+The aura is visible only to the mage. A white light suggests
+the target is friendly or trusting; a gray-shaded aura indicates
+that he is neutral or ambivalent. A shadow falling over the
+target indicates he is hostile or has superior standing.
+Since this spell lasts for 10 minutes, the mage may track how
+the target’s disposition changes over the course of negotia-
+tions, allowing her to know the effectiveness of her diplomacy
+and attempts to change the target’s disposition. Because the
+mage can sense the nature of the target’s intentions (positive,
+ambivalent, or harmful), she enjoys a willpower/mettle of 8D
+when resisting his interaction attempts.
+
+
+Sense Ailment
+~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 6 
+:Effect: 17 (medicine/healing of 2 +5D+2)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Animal, Folk
+
+
+    component (5): An egg (very_common; destroyed); bowl of water (ordinary)
+
+
+    concentration (2): Concentration: 10 sec (willpower/mettle roll 8)
+
+
+    gestures (2): Run egg over patient and then crack it open into the bowl (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 11
+
+
+
+
+This spell allows a mage to tell if a creature suffers from the
+effects of poison, disease, or illness. Before casting this spell,
+she enters a trance-like state while she runs an egg repeat -
+edly over the body of the patient. She then cracks it open
+into a bowl of water. Using the skill provided by the spell,
+the mage can interpret the egg’s appearance to determine
+presence and type of disease, toxin, or injury.
+If the egg yoke floats to the surface, the patient is free of
+ailments. If the yoke sinks, on the other hand, the creature
+is ill and the mage may figure out the cause.
+The difficulty to detect the presence of an ailment is 7.
+With five to eight result points, the mage understands the
+nature of the ailment. With nine to 16 result points, the
+caster knows the cure. With 17 or more result points, the
+healer figures out the cause.
+This spell does not heal a patient of his ailment, nor does
+it provide any bonus to healing wounds or injuries.
+
+
+
+
+Stick to Snake
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 22 
+:Effect: 39 (Snake: brawling/fighting +5D (skill); running (movement equal to result points in meters round with minimum of 1 meter per round) +2D (attribute); +5D (physical damage))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Plant, Animal
+
+
+    component (5): A long, thin dried stick (ordinary); rattlesnake tail rattle (uncommon)
+
+
+    gestures (2): Shake rattlesnake rattle while holding stick (simple)
+
+
+    incantations (2): “Wood to flesh and stick to snake.” (sentence)
+
+
+    focused (10): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 23
+
+
+
+
+This spell turns a dead branch or other long pieces of thin,
+dried wood (arrow shafts, broomsticks, and so on) into a
+large and aggressive snake. To cast this spell, the mage must
+have one hand on the wood while he shakes a rattlesnake tail
+rattle. After reciting the incantation, he drops the stick and
+watches as it comes to life as a flesh-and-blood snake.
+If provoked, the snake attacks whomever or whatever is
+near it. When killed or the spell expires, the snake reverts
+back to its original form.
+
+
+Sticky Fingers
+
+
+Sticky Fingers
+~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 3 
+:Effect: 6 (boost sleight of hand +2D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk
+
+
+    components (4): Ball of wax (very_common; destroyed)
+
+
+    gestures (2): Rub fingers together (simple)
+
+
+    focused (3): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 5
+
+
+
+
+(Cantrip) The caster places a small ball of wax in each hand and rubs
+his fingers tips together, spreading the wax evenly over his
+fingertips. His fingers then become sticky and more nimble,
+allowing him to pick pockets, palm objects, and perform
+similar actions that require deft motor control with unnatural
+ease. As a result, the character gains a sleight of hand bonus
+of +2D.
+The sticky substance secreted by the character’s fingers is
+not strong enough to have any direct application to climbing,
+grappling, or any other related action that requires the use
+of strength as opposed to mere deftness of hand.
+
+
+Taken Alive
+~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 14 
+:Effect: 30 (bluff/con +6D+2 (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 4 hr \(21)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Death, Folk
+
+
+    components (12): Garment made of valuable fabric (uncommon; destroyed); fire, such as match or lit coal (very_common; destroyed)
+
+
+    concentration (3): Concentration: 25 sec (willpower/mettle roll 9)
+
+
+    gestures (2): Inhale smoke (simple)
+
+
+    focused (10): Focus based on effect, duration
+
+
+    other_alterants (2): Also works unconsciously
+
+
+    unreal_effect (8): Unreal Effect: difficulty_13
+
+
+
+
+
+:Other Conditions:
+    (-1): May only be used on those that understand the concepts of wealth and ransom
+
+
+    (0): Difficulty: 15
+
+
+
+
+While casting the spell, the mage sets on fire a garment
+made of valuable fabric, such as a foreign cloth or silk. She
+then inhales the smoke while concentrating for almost half
+a minute.
+Once the casting is complete, the mage (or her desired tar-
+get) exudes an aura that makes her enemies believe she is less
+valuable dead than she is alive as ransom. When surrender-
+ing, the caster gains a bluff/con bonus of +6D+2 to convince
+opponents of her worth and to spare her life by taking her
+prisoner, rather killing her. She also may bluff opponents
+into believing her inflated worth even when unconscious or
+otherwise incapacitated, as the enemy perceives noble stand-
+ing or cultured bearing even in her motionless form.
+Of course, the enemy will expect that a ransom is forthcom-
+ing, and after the spell’s duration expires the captive mage
+loses her bluff/con skill bonus and is no longer necessarily
+viewed as a valuable commodity.
+This spell only affects those that understand the concepts
+of wealth and ransom.
+
+
+Taunt
+~~~~~
+
+:Skill: Alteration
+:Difficulty: 11 
+:Effect: 18 (Boost intimidation +4D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk
+
+
+    gestures (2): Make a contemptous gesture at opponent (simple)
+
+
+    incantations (3): “Is that the best you got?”, followed by piteous laughter (sentence; offensive)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-2): May only be used attackers who understand the caster’s language and can hear the caster
+
+
+    (0): Difficulty: 11
+
+
+
+
+This spell is cast with a smile that conveys contempt for
+an opponent’s abilities, a taunting gesture that urges him to
+attack the mage, and an insulting incantation that suggests
+nothing but disdain. For a period of a minute thereafter, the
+mage improves his initimidation skill by +5D when taunt -
+ing his opponents in combat, goading them into anger and
+careless action. He adds one-half of the difference between
+the difficulty and the initimidation roll to any one attack or
+defense attempt (not both) made at Point Blank or Short
+range. This bonus works only if the opponent is actively
+attacking the mage; the spell provides no bonus to a mage
+fighting a creature that is purely defensive and doesn’t want
+to fight. In addition, the spell only works against those who
+can hear the mage speaking.
+
+
+Voice Wrack
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 19 
+:Effect: 21 (hindrance: hoarse (R7), +3 to  difficulties of actions requiring a voice, such bargain, charm, con, command, intimidation, languages/speaking, and persuasion)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk
+
+
+    gestures (2): Rub throat as if sore and then point at target (simple)
+
+
+    incantations (1): Cough and whisper “steal voice.” (phrase)
+
+
+    focused (6): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-2): Limited to those who can speak; spell has no effect at 1 meter or less from target
+
+
+    (0): Difficulty: 19
+
+
+
+
+The mage rubs his throat as if it’s irritated, then points at
+a target and, coughing, whispers a simple incantation. The
+spell mutes the subject’s words so that his voice projects as
+a mere whisper. Those within a meter of the target can hear
+his words as normal, but those beyond that range are hard
+pressed to make out a sound. Interactions with those further
+than one meter distant are challenging (+3 to related difficul-
+ties), because his voice carries no weight or inflection.
+
+
+Wolfpack
+~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 17 
+:Effect: 9 (Boost brawling/fighting +2D (skill modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Animal
+
+
+    components (10): Something from the type of animal with which she wants to communicate (very_common); tuft of wolf fur (uncommon; destroyed)
+
+
+    gestures (2): Toss wolf fur at target creatures while holding the component of the animals to be affected (simple)
+
+
+    incantations (2): “Fight like the wolf!” followed by a wolf-like howl (phrase; loud)
+
+
+    focused (3): Focus based on effect, duration
+
+
+    multiple_targets (24): 8 targets
+
+
+
+
+
+:Other Conditions:
+    (-1): Animals affected must outnumber their opponents
+
+
+    (0): Difficulty: 17
+
+
+
+
+To cast the spell, the caster must have something from the
+type of animal to be affected (feathers from a bird, shed snake
+skin, hairs from a horse’s mane), as well as a tuff of wolf fur.
+Upon uttering the incantation, the wolf fur is released and
+is instantly consumed by magical fire.
+This spell can be used on any animal or monster, but
+sentient beings are unaffected. The target creatures must
+also outnumber their opponents, because the rabid wolf-
+like tactics induced by this spell depend upon the ability
+to outflank and overwhelm their enemies. For five rounds,
+all affected creatures fight with a ferocity and cunning that
+provides them a brawling/fighting bonus of +2D.
+
+
+
+

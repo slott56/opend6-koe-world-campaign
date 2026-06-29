@@ -1,0 +1,79 @@
+
+Cage
+~~~~
+
+:Skill: Elemental Conjuration
+:Difficulty: 27 
+:Effect: 24 (resistance total of bars 8*D)
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area_effect (15): 3m radius sphere
+
+
+    gesture (3): Mime escaping from a cell, then point to target (complex (acrobatics roll with difficulty of 11))
+
+
+    unreal_effect (6): Unreal Effect: difficulty_13
+
+
+
+
+
+
+
+Cage traps a target in a prison of magical energy. To cast it, the wizard mimics trying to escape from a cell, then points at her target. If a marksmanship total beats the combat difficulty for the target, the quarry is trapped. The cage is a sphere with a radius of three meters. Creatures larger than that can’t be confined by this spell.
+
+
+The effect’s value plus the result points bonus serves as the damage resistance total of the bars. The target can disbelieve and thus free himself by generating a Acumen or investigation total of 13.
+
+
+
+
+
+Sense Past
+~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 25 
+:Effect: 38 (view the past 66 wk)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 66 min \(18)
+:Casting Time: 25 min \(16)
+
+:Other Aspects:
+
+    area_effect (25): 5m radius sphere
+
+
+    concentration (5): Concentration: 10 min (willpower/mettle roll 11)
+
+
+    components (9): Magnifying glass (uncommon); expensive pocket watch (very_rare)
+
+
+    countenance (1): Skin turns sickly gray color for duration of spell (noticeable)
+
+
+
+
+
+:Other Conditions:
+    (-1): Physical contact with object
+
+
+
+
+
+
+The mage can learn about the past of a single object he touches. He’ll see visions of events that occurred in a five-meter radius around the object in the past. The mage can view events that took place in a past period of time whose value (as read on the “Spell Measures” table) is less than or equal to the effect’s value plus the result points bonus. The mage can scan back to that period at a rate of one week’s worth of images per minute of the spell.
+
+
+
+
+

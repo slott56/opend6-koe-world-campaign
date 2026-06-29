@@ -1,0 +1,121 @@
+
+Rod of Missiles
+~~~~~~~~~~~~~~~
+
+A short, heavy rod with a stored attack.
+
+:Effect: 9 (energy blast 2*D (ignore non magical armor))
+:Other Aspects:
+
+    charges (4): 5 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Rod/Wand/Staff
+:Price: 
+
+
+
+Helm of Bravery
+~~~~~~~~~~~~~~~
+
+
+
+:Effect: 9 (Intimidation 3*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Armor
+:Price: 
+
+
+
+Power Shield
+~~~~~~~~~~~~
+
+
+
+:Effect: 18 (Gain power: physical attacks 3*D; boost physique by amount of damage protection 3*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Armor
+:Price: 
+
+
+
+Bottled Wind
+~~~~~~~~~~~~
+
+It's a large urn with straps so you can hold it
+
+:Effect: 54 (flight (R3))
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Artifact
+:Price: 
+
+
+
+Forge Crystal
+~~~~~~~~~~~~~
+
+an irregular lump of amber-like material, it grants obscure, oracular views of a possible future
+
+:Effect: 0 (extra_sense (R1) Precognition; flaw (R1) Vague visions)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Artifact
+:Price: 
+
+
+
+Linked Mirrors
+~~~~~~~~~~~~~~
+
+two identical mirrors; they can be viewed by a mage as one mirror in two places, and each mirror shows what's visible to the other
+
+:Effect: 0 (extra_sense (R2) Remote Sensing; flaw (R1) Can be hard to interpret)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Artifact
+:Price: 
+
+
+
+Cat's Eye Ring
+~~~~~~~~~~~~~~
+
+a ring too large for a human, carved from a block of Chrysoberyl and polished to perfection
+
+:Effect: -9 (infravision_ultravision (R3) See in the dark; flaw (R1) Can be hard to interpret; flaw (R1) Too large to wear comfortably)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Artifact
+:Price: 
+
+
+
+Cup of Visions
+~~~~~~~~~~~~~~
+
+a cup made from fine clay white on the inside and dark on the outside. It's supposed to be used to read tea leaves, that's not something any of the mages in the Jackal Temple have every tried.
+
+:Effect: 9 (Divination Read the tea-drinker's past 3*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (1): flaw (R1) Can be hard to interpret
+
+:Type: Artifact
+:Price: 
+
+
+

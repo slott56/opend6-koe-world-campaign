@@ -1,0 +1,45 @@
+..  include:  ../shared/combat_difficulties.txt
+
+..  admonition:: COMMON COMBAT DIFFICULTY MODIFIERS
+
+    ..  csv-table:: RANGE
+        :header: Range,Distace to Target,Modifier
+
+        Point Blank, 0-3 meters,                 -5
+        Short,       3 meters to first value\*,  0
+        Medium,      First to second value\*,    +5
+        Long,        Second to third value\*,    +10
+
+    \* Values refer to values given in the weapon's range listing.
+
+    ..  rubric:: ESTIMATING RANGES
+
+    Gamemasters who aren't interested in looking up weapon ranges and figuring
+    out the distance to the target can estimate what modifiers to use with these
+    guidelines.
+
+    -   A target within a few steps of the attacker is a Point Blank range.
+
+    -   An attacker firing a long bow ata target across a large chamber shoots at Short range, while an attacker throws a knife at the same target at Medium range.
+
+    -   Most projectile combat taking place outdoors is at Medium to Long range.
+
+    ..  csv-table:: COVER
+        :header: Situation, Modifier
+
+        "Light smoke/fog",             +1D (+3)
+        "Thick smoke/fog",             +2D (+6)
+        "Very thick smoke/fog",        +4D (+12)
+        "Poor light, twilight",        +1D (+3)
+        "Moonlit night",               +2D (+6)
+        "Complete darkness",           +4D (+12)
+        "Object hides 25% of target",  +1D (+3)
+        "Object hides 50% of target",  +2D (+6)
+        "Object hides 75% of target",  +4D (+12)
+        "Object hides 100% of target", \*
+
+    \* *If cover offers protection, the attacker cannot hit the target directly, but damage
+    done to the cover might exceed the Armor Value it provides, and, indirectly, daag e
+    the target. Most of the time, the attacker must eliminate the cover before having a
+    chance to hit the target.*
+

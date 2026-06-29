@@ -1,0 +1,40 @@
+**Attack**
+Aiming, *marksmanship*,,,"Adds +1D per round (max 3)"
+Bash, *melee combat*
+Catch, *throwing*
+Grab-Choke, *fighting*
+Kick, *fighting*
+Lunge, *melee combat*, +3,  -1D, "Increases range"
+Grab-Pin, *fighting*,  +6,, "Strength damage until Escape"
+Punch, *fighting*
+Push, *fighting*,  +3,, "Opponent loses next action then -2D"
+Shoot, *marksmanship*
+Slash, *melee combat*
+Sweep, *fighting*,  -6,  -3D
+Grab-Tackle, *fighting*,  +3,, "Opponent must Escape"
+Toss a Weapon, *throwing*
+Trip, *fighting*,  +6,, "Opponent loses next action, then -2D"
+
+**Defend**
+Block/Parry, "*fighting*, *melee combat*"
+Disarm, "*fighting*, *marksmanship*, *melee combat*, *throwing*",,, "Opponent makes Physique or *lifting* roll vs. damage done to keep weapon."
+Dodge, *dodge*
+Escape, *lifting*,,, "Physique or *lifting* roll vs. holder's Physique or *lifting* roll"
+
+**Move**
+Leap, "*climbing*, *jumping*, *athletics*, *acrobatics*"
+Move (over 50% of Move), "*running*, *swimming*"
+Run Away, *running*
+Vehicle Maneuver, "*charioteering*, *pilotry*"
+
+**Force an Opponent**
+Communicate (more than a few words),
+Entangle, "*throwing*, *marksmanship*",,, "Opponent makes Physique or *lifting* roll vs. damage done to break free;  Agility or *acrobatics* vs damage done to slip away"
+Grab-Throw, *fighting*,  +6,, "Strength damage until Escape"
+Maneuver, *command*
+
+**Other**
+Ready a Weapon,
+Wait,
+Use Skill or Ability, "Acumen to find weakness
+Intelligence or *healing* to heal or recover"

@@ -1,0 +1,10 @@
+**Cire, Guard**:
+Agility 3D, fighting 4D, melee combat 4D, Coordination 3D, Physique 4D, stamina 4D+2, Intellect 2D, Acumen 3D, streetwise 4D, Charisma 3D, intimidation 3D+1.
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 0, 
+*Body Points*: 17, *Equipment*: ring mail armor (Armor Value +1D+1); long sword (damage +2D+2).
+
+
+

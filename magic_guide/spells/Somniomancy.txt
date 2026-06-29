@@ -1,0 +1,1345 @@
+
+Cleansing Sleep
+~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 10 
+:Effect: 27 (medicine/healing of  +9D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 hr \(23)
+:Casting Time: 25 min \(16)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Death, folk
+
+
+    components (1): Large amount of water (ordinary)
+
+
+    gestures (2): Washing with and drinking water (simple)
+
+
+
+
+
+:Other Conditions:
+    (11): Effect may be used once per hour; spell is broken if caster is awakened during the duration
+
+
+    (0): Difficulty: 10
+
+
+
+
+The mage casts this spell, spending 25 minutes washing
+herself thoroughly with water and drinking plenty of fluids,
+then she goes to sleep. While she sleeps, her body rids itself
+of toxins and diseases. This spell courses through her veins
+and organs, destroying harmful bacteria, viruses, and natural
+and synthetic toxins, rendering her healthy and fit once again.
+Each hour, the caster can attempt to eliminate a single poison
+or illness within her body by making a medicine/healing roll
+as if she had 9D in the skill. The gamemaster determines the
+difficulty to eliminate a specific poison or disease; 15 to 20
+is generally a good range.
+
+The caster may apply her result point bonus to the first
+*medicine/healing* roll she makes with this spell.
+
+
+
+Concentration Lapse
+~~~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 8 
+:Effect: 5 (difficult to attack target is at -5)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 round \(4)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    gestures (2): Waves hand in a hypnotic pattern (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 8
+
+
+
+
+The mage waves her hand in a sinuous motion or wiggles
+her fingers slowly.  The target must make a willpower/mettle
+roll with a difficulty of 10. If he fails, his eyelids droop briefly,
+and he experiences a momentary lapse of concentration,
+of the sort he might have if he were very tired. This lapse
+makes him fumble his defenses: He is too slow on the parry
+or notices the incoming punch half a second too late; the
+difficulty to hit him is decreased by  until the caster’s turn
+in the next round.
+
+The caster may apply her result point bonus to the difficulty
+of the target’s willpower/mettle roll to avoid the effect.
+
+
+
+Detect Slumber
+~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 12 
+:Effect: 5 (value to determine state of slumber)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 round \(4)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    area_effect (15): 10m radius divination sphere
+
+
+
+
+
+:Other Conditions:
+    (1): Only works on sleeping creatures
+
+
+    (0): Difficulty: 12
+
+
+
+
+The caster’s vision takes on an added quality, providing her
+with additional information about certain creatures within
+the area of effect. Simply by looking at a creature within
+the area of effect, she instantly knows whether or not it is
+asleep. If it is not asleep, the caster has no additional means
+of discerning if it is resting, about to fall asleep, feigning
+sleep, dead, or in any other state; this spell simply reveals
+that the creature is sleeping or that it is not. Generally, the
+caster can determine the sleeping condition of all the crea -
+tures within the area of effect unless they are hidden from
+view or there are a great many of them (and thus some are
+concealing others).
+
+
+
+Dream Travel
+~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 19 
+:Effect: 11 (moves up to -- 150 kg)
+:Range: 1 km \(15)
+:Speed:  \(15)
+:Duration: 40 sec \(8)
+:Casting Time: 25 sec \(7)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+    concentration (3): Concentration: 25 sec (willpower/mettle roll 9)
+
+
+
+
+
+:Other Conditions:
+    (2): Pass only between dreamers
+
+
+    (0): Difficulty: 19
+
+
+
+
+The caster uses this spell to transport herself great distances
+via the dreams of other creatures. She moves from dream to
+dream in the time it takes to blink, seeing strange landscapes
+and briefly passing by the hopes and fears of myriad creatures
+before arriving at her destination.
+
+When she casts this spell, the caster targets a sleeping
+creature within one kilometer; she must see or otherwise
+be aware of the sleeper’s location (perhaps by sleep sense, for
+instance) and it must be the size of a cat or larger. Over the
+course of 30 seconds, her physical form fades into translucence
+and disappears entirely as she enters the sleeping creature’s
+dreams. During these 30 seconds, the caster  cannot influence
+events around her, nor can she move from her position; her
+mind and body are becoming part of the creature’s dreams.
+
+Though she enters the sleeping creature’s dreams, the
+dreamer does not detect her and she cannot deliver mes -
+sages or otherwise influence his dreams, as she could with
+step into sleep; she is merely along for the ride, using the
+creature’s sleeping consciousness as a vehicle for her unique
+brand of magic.
+
+Once at the new host, the caster’s physical form slowly
+manifests, fading into translucence and then becoming solid
+in the latest dreamer’s presence. As she was when she first
+entered the dreams, she is not physically present in the area
+until her form solidifies over the course of 30 seconds.
+
+Note that the caster has no knowledge of the surroundings
+of her destination dreamer, and she could appear in the midst
+of enemies or in an inhospitable environment — though
+as people do not usually sleep in these sorts of conditions,
+the odds are slim. The caster usually ends up in a bedroom
+somewhere and tiptoes out.
+
+Note that though the process of the caster’s physical self
+discorporating takes time, the dream travel itself is virtually
+instantaneous.
+
+
+
+Dream Visions
+~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 21 
+:Effect: 12 (search of  +4D)
+:Range: 2.5 km \(17)
+:Speed:  \(17)
+:Duration: 10 min \(14)
+:Casting Time: 5 hr \(21)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+    area_effect (12): 5m radius divination sphere
+
+
+    components (4): Photographs or paintings of exotic locales (uncommon)
+
+
+    concentration (6): Concentration: 1 hr (willpower/mettle roll 12)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 22
+
+
+
+
+This spell allows the caster to view distant places in her
+dreams, though those places are not exactly as they appear
+in the real world.
+
+The caster spends one hour in preparation, gazing at the
+photographs or paintings and envisioning the place she
+would like to see (which does not have to be the place of
+the paintings). Then, she goes to sleep. Four hours into her
+sleep (which are part of the casting time), her dreams take
+on more meaningful forms. She can observe any one area
+within 2.5 kilometers as if she were there herself, using a
+search skill of 4D. She can view an area with which she is
+familiar or she can specify a direction and distance, such
+as “southwest, 1.22 kilometers,” and view the area at that
+distance. If the specified location is within the ground, a
+wall, or other obstruction, she sees nothing but darkness.
+Her point of view can appear close to the ground, viewing
+it as she would if she were standing there, or it can appear
+floating in the air, at ground level, and so on.
+
+The caster does not see the areas exactly as normal, for
+she is within the dreamscape. Areas and people within the
+dreamscape appear as they do in the real world, but the
+lighting is indistinct and gray mists hover at the edges of
+vision. Forms are muted and blurred. Most importantly, the
+subconscious images that people associate with individuals,
+places, and things walk the dreamscape. Though these images
+may have no physical existence in the real world, they are the
+things people dream about when they visit these areas and
+creatures in their sleep. For example, a graveyard dreamscape
+may be haunted by ghosts and the cries of the dead, because
+these fears lurk in humanity’s subconscious and when people
+dream of graveyards, these images often appear. A sports star
+in the dreamscape may have trophies, women, and dollar bills
+floating around him, as these are the ideas that other people
+associate with such a celebrity.
+
+The ancillary images in the dreamscape can serve both
+to enhance and obscure the caster’s understanding and are
+tools for the gamemaster to use.
+
+
+
+Dreams in Hand
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 10 
+:Effect: 0 (creates inanimate material 1 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 40 min \(17)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+    component (1): A few grains of sand (ordinary)
+
+
+    concentration (6): Concentration: 1 hr (willpower/mettle roll 12)
+
+
+    focused (3): Focus based on effect, duration
+
+
+    other_alterant (25): Item can be of any complexity or value, but the greater the complexity or value, the greater the secondary skill roll required
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 10
+
+
+
+
+This spell allows the caster to enter her dreams, envision
+an item, and return to the waking world with that item in
+her possession.
+
+For one hour, the caster meditates on the spell and the
+item she wishes to create with her dreams. She can imagine
+anything she likes, though complicated or artistic objects
+require skill rolls as determined by the gamemaster. (Failure
+on the secondary skill roll indicates that some obvious flaw
+exists in the item; success has no effect beyond the item’s
+satisfactory creation.)
+
+Aftershe awakes from the meditation, the object is in
+her hand, a physical reality. It remains substantial for 40
+minutes; after this time, it grows translucent before it dis -
+appears entirely.
+
+The caster can use this spell to create items of great intrinsic
+worth, like currency, precious metals, or jewelry, but they
+vanish when the duration expires, which is bound to anger
+shopkeepers.
+
+The caster can add her result point bonus to the spell’s
+duration value and refigure the measure in seconds.
+
+
+
+Dreamtime
+~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 44 
+:Effect: 49 (Search in Time: past or future 1 yr; search skill +4D)
+:Range: 20 km \(22)
+:Speed:  \(22)
+:Duration: 25 min \(16)
+:Casting Time: 5 hr \(21)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+    area_effect (12): 5m radius divination sphere
+
+
+    components (4): A 4-hour hourglass (uncommon)
+
+
+    concentration (6): Concentration: 1 hr (willpower/mettle roll 12)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 43
+
+
+    (2): Other Alterant: May select time period viewed
+
+
+
+
+This spell allows the caster to use her dreams to view places
+as they appeared in the past or will appear in the future.
+
+The caster spends one hour in preparation, meditating and
+focusing, at the end of which she turns the hourglass and
+goes to sleep. Four hours later (which are part of the casting
+time), as the sand in the hourglass trickles out, the caster’s
+dreams take on meaning.
+
+In addition to the ability to view a distant location (up to
+20 kilometers away), the caster can also look up to a year
+into the past or the future. She makes the decision as to the
+area and the time when she casts the spell. (For example,
+“The playground at Washington Heights Elementary School,
+January 2, 3:31 p.m.”)
+
+If the caster looks into the past, she sees the area as it
+appeared back then. The dreamscape images, however, are
+those that modern-day people feel for the area. For example,
+if a terrible murder was committed in a certain house last
+week, and the caster observes the house as it was one month
+ago, before the murder, the dreamscape still shows her shad-
+owy images of death and fear, for that is what people in the
+current time associate with the house.
+
+If the caster looks into the future, she sees the area as it is
+most likely to appear. The future is uncertain and many factors
+can change it, but she sees the area as it will most probably
+appear — assuming that no one does anything significant
+to alter it. Like looking into the past, the dreamscape reveals
+images that modern-day people associate with the area. For
+example, the caster may view a coastline as it will appear five
+months from now and see the remains of a terrorist attack
+— broken piers, dead bodies, ravaged beaches. Even though
+five months from now people will associate the coastline with
+horror and violence, currently they see it as a simple beach,
+and the dreamscape images are people in swimsuits, beach
+balls, and the like (and maybe the odd shark, as a nod to the
+neurotic mothers of the world).
+
+
+
+Groggy
+~~~~~~
+
+:Skill: Alteration
+:Difficulty: 20 
+:Effect: 24 (Subtract 1D from two mental and two physical attributes +4D (attribute modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    gestures (2): The caster yawns widely (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 22
+
+
+
+
+The caster yawns hugely and, as all know, yawning is
+contagious. The target follows suit. This spell magnifies the
+target’s feeling of sleepiness, making him momentarily groggy
+and unable to think straight, as if badly in need of rest. His
+reflexes are slowed, his hand-eye coordination decreased,
+and his mind easily distracted. He suffers a -1D penalty on
+two mental and two physical attributes (such as Reflexes,
+Knowledge, Co ordination, and Perception in D6 Adventure )
+for 12 rounds.
+
+
+
+Insomnia
+~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 11 
+:Effect: 9 (achilles_heel (R3), insomnia: -1 pip to all mental and physical attributes, increasing by -1 pip for each sleepless night)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 wk \(29)
+:Casting Time: 1 day \(25)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    charges (4): 1 improved_charge
+
+
+    components (9): A miniature sheep doll (common); 6 pins silver pins (common; destroyed)
+
+
+    gestures (2): The caster pushes a pin through the sheep doll's head and pushes an additional pin into the doll after every 24 hours (simple)
+
+
+    incantations (1): '“Sleep no more.”' (phrase)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 11
+
+
+
+
+This spell makes it challenging for the target to sleep. His
+sleeplessness is maddening and dulls his mind and body.
+
+Each night following the end of the casting time, the target
+must make a willpower/mettle roll versus a roll of the caster’s
+willpower/mettle or be stricken with insomnia. He is unable
+to sleep for one full night. In addition to being frustrating,
+the next morning, the victim is mentally drained and physi-
+cally fatigued. He suffers -1 pip to all mental and physical
+attributes. This reduction accumulates for each night the
+character cannot get sleep (by failing to make the roll). Nap-
+ping during the day provides no relief.
+
+No attribute can drop below 1D because of this spell.
+
+The caster can add her result point bonus to the difficulty of
+the willpower/mettle checks needed to shake off the spell.
+
+
+
+Kiss of the Sandman
+~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 20 
+:Effect: 15 (difficulty for target to resist falling asleep)
+:Range: 2.5 m \(2)
+:Speed:  \(2)
+:Duration: 5 min \(12)
+:Casting Time: 3.5 sec \(3)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    area_effect (9): 3m length 3m base cone
+
+
+    components (1): Sand (ordinary)
+
+
+    gestures (2): Grab a handful of sand and blow it at the targets (simple)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 21
+
+
+
+
+This spell drives the targets into a magic sleep. The caster
+scoops up a handful of sand and blows upon it, whereupon it
+billows out to create a cone with a tip that begins 2.5 meters
+from the caster. The cone is three meters long and six meters
+wide at its end. The first target hit by the spell must make
+willpower/mettle roll with a difficulty of 15 or fall asleep. Those
+up to one meter behind the first target have difficulty of 14,
+those between one and two meters have a difficulty of 13,
+and those between two and three meters have a difficulty of
+12.  Creatures in combat or some other high-energy situation
+receive a +4 bonus on their willpower/mettle rolls.
+
+Sleeping creatures remain magically asleep and do not
+awaken normally, though other beings can shake them,
+slap them, dump water on their heads, and perform other
+actions in attempts wake them; doing so allows the sleeping
+creature another chance to awake, again with a willpower/
+mettle roll at the same difficulty that put him to sleep. (The
+gamemaster may allow bonuses on this roll depending on
+the vigor with which the characters attempt to awaken the
+victim.) The awakening attempt may be tried once per round
+at most; if one type of action fails, those trying to rose the
+sleeper must find another way.
+
+After the spell’s duration expires, the sleeping creatures
+enter normal sleep and awaken normally (from loud noises,
+being physically jostled, and so on).
+
+The caster can add her result point bonus to the difficulty
+of the willpower/mettle rolls to avoid the spell when other
+people attempt to awaken the victims.
+
+Somniomancers often use this spell as a precursor to other
+spells, such as dream travel, step into sleep, or nightmare.
+
+
+
+Night Terrors
+~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 35 
+:Effect: 41 (Terrors: difficulty of 18 to resist falling asleep +6D; +5D (physical damage, ignore non magical armor))
+:Range: 60 m \(9)
+:Speed:  \(9)
+:Duration: 12 round \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams, folk
+
+
+    components (10): Amber dust (very_rare; destroyed)
+
+
+    multiple_target (15): 5 targets
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 30
+
+
+
+
+This spell puts up to five targets to sleep and then ravages
+their minds with lethal nightmares. The targets must each
+make a willpower/mettle roll with a difficulty of 18 or fall
+asleep. This spell then burrows into the sleepers’ subconscious,
+drawing forth their greatest fears and forming them into
+horrific nightmares. They toss and thrash violently, obviously
+distressed and taking 5D of damage per round until dead or
+the duration ends. See kiss of the Sandman  for restrictions
+on waking magically slumbering creatures.
+
+The caster may add her result point bonus to the difficulty
+of the willpower/mettle rolls to resist falling asleep or to the
+damage done each round (not both and chosen once for the
+spell).
+
+
+
+Night Visitation
+~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 23 
+:Effect: 12 (persuasion of  +4D)
+:Range: 2.5 km \(17)
+:Speed:  \(17)
+:Duration: 1 min \(9)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+
+
+
+:Other Conditions:
+    (-1): Touch or name single specific target, who must be asleep
+
+
+    (0): Difficulty: 23
+
+
+
+
+This spell allows the caster to deliver messages to sleep -
+ing creatures. The caster names a specific individual and
+formulates an image or series of images, which can be up to
+a minute in length, that appears in the named individual’s
+dream. If the individual is not asleep, the spell fails. The
+images can be anything the caster imagines that’s relatively
+nonfrightening; the caster cannot give the target a nightmare,
+though she may deliver threats and ultimatums. The caster
+can use this dream to persuade the target as if she had 4D
+in the persuasion skill.
+
+The caster chooses whether or not the target remembers
+the dream when he awakes. If the target does not remember
+the dream, the dream may still influence him subconsciously,
+at the gamemaster’s discretion.
+
+In lieu of naming a specific individual, the caster may
+make physical contact with the target (in which case, the
+range is irrelevant).
+
+
+
+Nightmare
+~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 32 
+:Effect: 60 (Damage +10D (physical damage, ignores all armor))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 round \(4)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+
+
+
+:Other Conditions:
+    (-1): Target must be asleep
+
+
+    (0): Difficulty: 32
+
+
+
+
+The caster touches the creature and  uses this spell to dredge
+up his most feared images from his subconscious, using these
+to create a horrific nightmare. The target thrashes, moans,
+and sweats. He must make a willpower/mettle roll against a
+roll of the caster’s willpower/mettle; if he fails, he dies of fear
+(and cardiac arrest).
+
+If the target is not asleep, this spell fails.
+
+The caster can apply her result point bonus to the difficulty 
+of the willpower/mettle roll the target needs to avoid
+the effect.
+
+
+
+Nightshield
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 15 
+:Effect: 30 (compare to spell total of spell attempting to influence caster +10D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 hr \(23)
+:Casting Time: 1.5 hr \(19)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (4): A small shield of beaten silver (rare)
+
+
+
+
+
+:Other Conditions:
+    (-1): Awakening disrupts the spell
+
+
+    (0): Difficulty: 15
+
+
+
+
+The mage places a small silver shield on her chest just
+before she retires for the night, casting a spell that protects
+her dreams from outside influence (such as the machinations
+of another somniomancer). She adds her result point bonus
+to the spell’s effect value. If a another mage casts a spell that
+attempts to access her dreams or detecting whether she’s
+sleeping, the second caster’s  skill roll  for that spell must
+equal or exceed nightshield’s value (30 plus the caster’s result
+point bonus) to affect her.
+
+**Example**: Shannon casts nightshield before she goes to
+sleep because she suspects her somniomantic rival, Bruce,
+is on the prowl. She makes a conjuration roll to cast the spell
+and rolls a total of 19. This roll generates a result point bonus
+of 2, which she adds to nightshield’s effect value of 30, for a
+total of 32. If Bruce shows up and attempts to cast nightmare
+on Shannon, his alteration roll must equal or exceed 32 to
+affect her.        
+
+
+
+Put the “Rest” in “Restoration”
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 15 
+:Effect: 27 (medicine/healing of  +9D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 hr \(23)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Time, folk
+
+
+
+
+
+:Other Conditions:
+    (-11): Effect may be used once per hour; spell is broken if caster is awakened during the duration
+
+
+    (0): Difficulty: 15
+
+
+
+
+The mage casts this spell immediately before going to
+sleep. While she sleeps, her wounds heal at an accelerated
+rate. Each hour, she can heal her physical wounds as if she
+had 9D in the medicine/healing skill.
+
+
+
+Really Comfy Pillow
+~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 10 
+:Effect: 11 (Healing: Accelerated Healing (+1D bonus to natural healing attempts) +1D (skill modifier); Arcane Knowledge: Dreams (+2 to casting of related Magic spells) +1D (extranormal skill))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 hr \(23)
+:Casting Time: 10 min \(14)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: magic
+
+
+    charges (6): 3 improved_charges
+
+
+    components (4): A really comfortable pillow (uncommon)
+
+
+
+
+
+:Other Conditions:
+    (-2): Target must want to fall asleep; spell is broken if target is awakened during duration
+
+
+    (0): Difficulty: 16
+
+
+
+
+The caster touches a pillow, imbuing it with an enchantment
+that functions up to three times. Whenever a creature rests
+on the pillow, whether intending to sleep or merely take a
+short rest, over the course of one minute, the spell puts the
+creature to sleep. The user sleeps deeply and well, untroubled
+by nightmares or anxieties, for 10 hours and awakens feeling
+refreshed and invigorated, providing a +1D bonus to natu -
+ral healing attempts. This sleep is not magical, as it is with
+kiss of the Sandman or night terrors; it’s simply a dreamless,
+refreshing sleep. Loud noises, physical movement, and the
+like awaken the sleeper normally.
+
+The pillow can also aid in the casting of somniomancy
+spells that involve the mage being asleep in order to work.
+Using a really comfy pillow  grants the caster a +2 bonus on
+her appropriate Magic skill checks when she casts spells that
+require her to meditate or sleep.
+
+
+
+Sleep Eternal
+~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 40 
+:Effect: 20 (difficulty to resist falling asleep)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 10 yr \(42)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+    focused (12): Focus based on effect, duration
+
+
+    other_alterant (1): Puts target in type of sleep the caster chooses
+
+
+    variable_duration (4): off_only
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 41
+
+
+
+
+This spell causes the target to enter an endless sleep, effec-
+tively killing him — or at least, killing him until the caster
+chooses to release the curse.
+
+The target, which must already be asleep, falls even deeper
+into his sleep, so deep that he never awakens. When the caster
+casts this spell, the target can make a willpower/mettle roll
+with a difficulty of 20 to resist its effects; if he succeeds, he
+awakens. If this roll fails, he doesn’t wake up for 10 years.
+However, friends may attempt to bestir him; see kiss of the
+Sandman for details on reviving a magically slumbering
+character. The sleeper must have his nutrition intravenously
+injected if he is to survive.
+
+The caster can choose the nature of the target’s sleep. She
+has three options:
+
+-   The target’s sleep is full of pleasant dreams. He sleeps gently, with a smile upon his lips.
+
+-   The target’s sleep is dreamless. He appears to be in a coma.
+
+-   The target’s sleep is uneasy, filled with vague nightmares. He moans and twitches, obviously distressed.
+
+The caster can end this spell at any time. The only other
+way to awaken the target is to design a spell with the express
+purpose of doing so.
+
+The caster may add her result point bonus to the difficulty
+of the target’s willpower/mettle rolls to resist the spell’s
+effects.
+
+
+
+Sleep of Champions
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 25 
+:Effect: 36 (increase all mental and physical attributes 1D +6D (attribute modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 15 hr \(24)
+:Casting Time: 10 hr \(23)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    focused (12): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 25
+
+
+
+
+The caster spends two hours in preparation, then goes
+to sleep. When she awakens, she feels refreshed. Her mind
+is keen, her muscles flushed with energy, and her reflexes
+at their peak. She receives a +1D bonus on all mental and
+physical attributes for the next 15 hours.
+
+
+Sleep Sense
+~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 28 
+:Effect: 24 (search of  to locate sleeping creatures +8D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 15 hr \(24)
+:Casting Time: 15 min \(15)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    area_effect (21): 25m radius divination sphere
+
+
+    components (10): Small letter Zs made of gold (very_rare; destroyed)
+
+
+    gestures (2): Toss the Zs into the air (simple)
+
+
+    incantations (2): '“I see you when you’re sleeping.”' (sentence)
+
+
+    focused (10): Focus based on effect, duration
+
+
+    variable_movement (5): bend_around_smaller; target_invisible
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 28
+
+
+
+
+This spell allows the caster to detect sleeping creatures
+without actively attempting to do so.
+
+Over a 15-minute period, the caster tosses some small gold
+Zs into the air while repeating the incantation. For the spell’s
+duration, the caster always knows the exact locations of all
+sleeping creatures within the area of effect that are the size
+of a cat or larger. Walls and other obstructions do not inhibit
+this spell, though sleep sense does not convey the knowledge
+of how to access the sleepers, merely their locations.
+
+Most somniomancers cast this spell at the beginning of
+the day because it helps them find targets for some of their
+other spells, like step into sleep, nightmare, and dream travel.
+
+
+
+Sleeping Puppet
+~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 20 
+:Effect: 24 (possession_limited (R1))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (2): Target must be sleeping; target must be sentient
+
+
+    (0): Difficulty: 15
+
+
+
+
+It is possible for the caster to enter into the dimension
+of dreams and gain control over another sleep character’s
+mind. The target must be capable of cognitive thought and
+be of similar mind to the caster.
+
+If the spell is successfully cast, then the magic user gets the
+Possession: Limited (R1) Special Ability and must convince
+or command the target to obey The sleeping target cannot
+use willpower/mettle, as she is unaware that her mind is being
+influenced; rather, she can use Presence. If the caster succeeds,
+then the sleeper obeys, providing the command does not go
+against the personal morals of the target. Walking, talking
+and all normal actions can be executed so long as the mage is
+successful. If a failure occurs, the target awakens from what
+is thought to be a dream or nightmare — possibly far from
+where she fell asleep.
+
+
+
+Step Into Sleep
+~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 19 
+:Effect: 39 (Enter target's dreams: possession_limited (R1); investigation +5D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 min \(14)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+    components (4): An item important to the target (uncommon)
+
+
+    incantations (1): '"Open your dreams to me".' (phrase)
+
+
+
+
+
+:Other Conditions:
+    (-1): Target must be asleep
+
+
+    (0): Difficulty: 15
+
+
+
+
+This spell allows the caster to become part of the target’s
+dream, delivering messages, showing her power, and perform-
+ing many other actions that lesser spells do not allow.
+
+If the target is not asleep, the spell fails. If he is asleep, the
+caster enters the target’s dream. While in the target’s dreams,
+the caster’s body is rigid and vulnerable, similar to a character
+using the Possession: Limited Special Ability.
+
+While within the dream, the caster can speak, cast spells,
+use skills, and so on, but she cannot affect her surroundings in
+any way. The sleeper continues to dream, and his subconscious
+incorporates the caster into his dreams. The caster cannot
+directly harm the target, but she can deliver messages, disrupt
+his dreams, and so on. Similarly, the target’s dreams pose no
+danger to the caster, though they may be frightening.
+
+Additionally, the mage can observe the dreams, which
+might tell the caster something about the target. Using
+the “Posession Knowledge” chart and the investigation skill
+granted by the spell, the somniomancer can gain informa-
+tion about the target, although it may be couched in dream
+terms.
+
+The caster can add her result point bonus to the investiga-
+tion total.
+
+
+
+Timeslip
+~~~~~~~~
+
+:Skill: Chronomancy
+:Difficulty: 13 
+:Effect: 13 (timeslip up to -- , caster’s weight plus their alternate self’s weight 400 kg)
+:Range: 150 m \(11)
+:Speed:  \(11)
+:Duration: 1.5 round \(5)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    components (8): An ounce of quicksilver (uncommon; destroyed)
+
+
+    countenance (1): Caster sweats profusely and foams at the mouth (noticeable) (noticeable)
+
+
+    gestures (3): The mage points off into the distance and then pulls the visualized target toward them as she leaps forward. (complex (difficulty 11))
+
+
+    incantations (2): '“See ya, wouldn’t want to be ya!”' (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 22
+
+
+
+
+In desperate situations, some people are forced into
+taking drastic actions to save their own skin. By invoking
+the power of the timeslip, the caster changes place with a
+counterpart from an alternate reality who returns to their
+proper time when their spell runs its course. When the
+hijacked future relative returns, the caster may choose to
+reappear anywhere up to 150 meters from her previous loca-
+tion. The destination spot must be visible to the caster or at
+the very least known to them (inner sanctum, the home of
+a close friend etc.) when the timeslip is cast. Of course, the
+abducted visitor not think very highly of being so rudely
+abducted and could possibly have the power to revisit their
+alternate self in order to avenge themselves. The payback
+could be brutally painful.
+
+
+
+True Rest
+~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 13 
+:Effect: 18 (accelerated_healing (+2d bonus to natural healing rolls) (R2))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 hr \(23)
+:Casting Time: 10 min \(14)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic, folk
+
+
+
+
+
+:Other Conditions:
+    (-2): Target must be sleeping; awakening target during the duration disrupts the spell
+
+
+    (0): Difficulty: 13
+
+
+
+
+The target, which must be willing and about to go to sleep,
+enters a particularly restful slumber that enhances his natu-
+ral healing process. When the target makes natural healing
+roll, he gets +2D on the roll. If the target needs seveal days
+of rest before attempting the natural healing roll, the spell
+should be cast on the last day of rest, as the effect lasts only
+10 hours.
+
+
+
+
+Waking Nightmare
+~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 22 
+:Effect: 24 (fear (R4) +4 to intimidation totals and -4 to combat difficulties against those affected by the fear)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+    area_effect (10): 5m radius circle
+
+
+    concentration (2): Concentration: 2 round (willpower/mettle roll 8)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 22
+
+
+    (-7): Unreal Effect: Disbelief difficulty of 13
+
+
+
+
+A knowledgeable mage can send her mind into the plane of
+dreams and conjure a waking nightmare that can terrifying
+anyone who believes it. If the spell’s conditions are satisfied,
+and it is successfully cast, the mage inspires fear in a solitary
+target or a group of creatures that occupy the radius of the
+spell. This fear manifests itself as a walking nightmore to
+those within the spell’s radius . The dread sight always stays
+within the spell’s proximity of those affected by the spell
+— though, if there’s a reason for them to do so, each target
+may attempt to disbelieve the manifestation (instead of the
+resistance difficulty listed with the Special Ability).
+
+
+Walking Dream
+~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 13 
+:Effect: 34 (Psionics: astral projection +5D+2 (extranormal skill))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 5 hr \(21)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Dreams
+
+
+    concentration (6): Concentration: 1 hr (willpower/mettle roll 12)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 12
+
+
+
+
+This spell allows the caster’s dreaming consciousness to
+leave her body, roaming the world while she sleeps. The caster
+spends one hour in preparation, meditating and otherwise
+preparing her mind for its journey, then goes to sleep. Four
+hours into her sleep (which counts as part of the casting
+time), her dreaming consciousness leaves her body for one
+hour, traveling as if the caster has 5D+2 in the Psionics: astral
+projection skill.
+
+
+
+

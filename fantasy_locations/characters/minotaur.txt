@@ -1,0 +1,13 @@
+**Aischros, the Minotaur**:
+Agility 3D+2, fighting 4D+2, dodge 4D, melee combat 4D, Coordination 2D, throwing 2D+2, Physique 5D, lifting 7D, running 5D+2, stamina 6D, Intellect 3D, navigation 5D+1, Acumen 2D, survival 3D, tracking 4D, Charisma 2D+1, intimidation 4D, mettle 4D.
+*Advantages*: Size (R1), scale value 3,
+*Disadvantages*: Quirk (R2), +6 bonus to those trying to trick or anger into blind rage; Quirk (R3), part of him wants to escape , while part wants to stay forever,
+*Special Abilities*: Longevity (R1), with Burn-out (R2) if Aischros ever leaves his labyrinth; Natural Hand-to-Hand Weapon (R1), +1D damage; Omnivorous (R1), with Additional Effect (R3) doesn't need to eat or drink; Sense of Direction (R4), +4D to navigation and tracking,
+*Move*: 10, 
+*Strength Damage*: 4D, 
+*Fate Points*: 1, 
+*Character Points*: 4, 
+*Body Points*: 25, *Equipment*: Large axe (damage +3D).
+
+
+

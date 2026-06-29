@@ -1,0 +1,18 @@
+..  include: ../shared/information_difficulties.txt
+
+..  admonition:: INFORMATION DIFFICULTIES
+
+    ..  csv-table::
+        :header: Amount of Information,          Difficulty
+
+        "Basic or common information; unconfirmed rumors",  5
+        "Theories; generalities",             10
+        "Complex concepts; moderately detailed information",         15
+        "Professional level; extensive (though not complete) information", 20
+        "Cutting-edge topics; extensive information, including peripheral details and extrapolations", 30
+
+    ..  csv-table::
+        :header: Condition,                                    Modifier
+
+        "Age of information (per century in the past)", +5
+        "Closely guarded secret",                       +15

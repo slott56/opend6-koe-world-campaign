@@ -1,0 +1,227 @@
+..  _`combat`:
+
+Combat
+=======
+
+1. Initiative
+--------------
+
+Initiative order:
+
+(1) ability or talent that allows the character to go first (e.g, Surprise)
+(2) Perception/Acumen attribute (*survival* or *awareness* skills)
+(3) *search* skill
+(4) Agility attribute
+(5) *dodge* skill
+(6) Equipment or situation that allows the character to go before another character.
+
+**Quick Draw** requires doing initiative rolls using Acumen.
+Character can shift dice from weapon skill to Acumen.
+
+**Surprise**. Either gain initiative OR +1D on first action.
+
+2. Attack and Defend
+----------------------
+
+2a.  Offense Dice
+~~~~~~~~~~~~~~~~~
+
+**Offense Dice to Roll** = Attribute + Skills + advantage dice - limitation dice
+
+2b.  Defense Difficulty
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Defense Modes**
+
+:passive:
+    10
+
+:active:
+    (After defender's turn in current round)
+
+    defensive skill (*dodge*, *block*, *parry*, etc.) roll
+
+:full:
+    (No other action)
+
+    defensive skill roll + 10
+
+:partial:
+    (After defender's turn in current round, multi-action penalty)
+
+    defensive skill roll
+
+
+**Combat Difficulty Modifiers**
+
+:Range:
+
+    ..  csv-table:: Range Modifiers
+        :header: Range, Difficulty
+
+        Point Blank (0-3m),-5
+        Short (3m to first range for weapon),0
+        Medium (mid range for weapon),+5
+        Long (high ranges for weapon),+10
+
+:Cover:
+
+    ..  csv-table:: Cover Modifiers
+        :header: Cover, Difficulty
+
+        Light smoke/fog, +3
+        Thick smoke/fog, +6
+        Heavy smoke/fog, +12
+        Twilight, +3
+        Moonlit Night, +6
+        Darkness, +12
+        25% cover, +3
+        50% cover, +6
+        75% cover, +12
+
+    100% cover means the cover must be destroyed first.
+
+:Position:
+
+    ..  csv-table:: Position Modifiers
+        :header: Position, Difficulty
+
+        Crouching, +3
+        Croucing & Moving, +6
+        Prone & short range, -6
+        Print & Medium or Long range, +6
+
+:Multi-action:
+    Every action above the character's slots (default is 1): -1D
+
+    e.g., Wait and React is two actions; reaction will have a -1D penalty.
+
+:Called Shot:
+    grab or hit a weapon.
+
+    ..  csv-table:: Called Shot Modifiers
+        :header: Size, Difficulty
+
+        "Large (10-50cm, sword)", +3 (1D)
+        "Medium (1-10cm, dagger)", +12 (4D)
+        "Small (Under 1cm, ring)", +24 (8D)
+
+:Vision:
+    ..  csv-table:: Vision Modifiers
+
+        Attacker is blind or blinded, +12 (4D)
+        Target is blind or blinded or attacked from behind, -12 (4D)
+
+:Scale:
+    Compute delta scale factor.
+
+    - Attacker Larger: add delta to combat difficulty and damage.
+    - Attacker Smaller:  add delta to combat skill roll total and defenders damage resistance.
+
+    ..  csv-table:: Scale Factors
+
+        Eight-story tower,24
+        War galley,21
+        Four-story building,20
+        Two-story building,14
+        Longship,12
+        One-story building,10
+        Elephant,8
+        Large carriage,6
+        Horse,3
+        Average Human,0
+        Human child,3
+        Small keg; house cat,6
+        Rat,9
+        Mouse,12
+        Coin,15
+        Ant,21
+
+:Unweildy Weapon: Difficulty +5
+
+2c. Roll Dice
+~~~~~~~~~~~~~~~~~~~~
+
+If Passive Defense:
+
+- No roll: base 10 ± action ± skill ± modifiers.
+
+If Non-Passive Defense:
+
+-   **Roll Defensive Skill**, adjusted by action ± skill ± modifiers.
+
+**Roll Attack Dice**.
+
+Outcome:
+
+-   Attacker roll ≥ Combat difficulty: a hit.
+-   Attacker roll ≫ Combat difficulty: damage bonus = Result Points + 5.
+
+3. Damage
+----------
+
+**Damage Dice to Roll** =
+
+-   Weapon's D (If leading "+", add Strength Damage)
+-   \+ combat action effects
+-   \+ damage bonus of Result Points + 5.
+
+Strength Damage = Physique or *lifting* skill + 2
+
+**Defender's Damage Resistance Dice to Roll** = Armor, Special Abilities.
+Reduced for disease, poisons, Hindrances, etc.
+(May be zero, which means no roll and no resistance.)
+
+See :ref:`Damage`.
+
+Actions
+--------
+
+Multi-action Penalty: -1D for every full action above the character's slots (default is 1).
+Note: "Wait and React" is two actions; waiting doesn't have a difficulty, the reaction will have a -1D penalty.
+
+Actions that consume 1 round:
+
+..  csv-table:: Actions
+    :header: Action, Skills, Attack, Damage, Notes
+    :file: ../modifiers/actions.csv
+
+
+
+Free Actions
+-------------
+
+These consume essentially no time:
+
+..  csv-table:: Free Actions
+    :header: action, skills
+
+    Trash Talk Opponents
+    Banter with Allies
+    Move (under 50% of Move; no difficulties),
+    Ready Equipment
+    Plan an Action
+
+Knockout, Stun-Only
+--------------------
+
+Called shot to head (10-50cm) +12 difficulty.
+
+- >=50% of body, uncounscious for hours = result points
+    does 1/2 to body
+
+- < 50% of body, takes ordinary body damage
+
+Breaking Things
+---------------
+
+General Toughness
+
+..  csv-table:: Object Toughness
+    :header: Construction, Body
+
+    Flimsy (hollow door), 1D
+    Tough (solid door), 2D
+    Sturdy (brick wall), 3D
+    Very Sturdy (main castle gate), 4D
+    Reinforced (outer castle walls), 6D

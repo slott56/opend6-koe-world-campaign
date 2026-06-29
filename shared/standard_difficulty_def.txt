@@ -1,0 +1,29 @@
+..  include: ../shared/standard_difficulty_def.txt
+
+**Automatic (0)**: Almost anyone can
+perform this action; there is no need to roll.
+(Generally, this difficulty is not listed in a pre-generated adventure; it is included here for
+reference purposes.)
+
+**Very Easy (1-5)**: Nearly everyone can
+accomplish this task. Typically, tasks with such
+a low difficulty only are rolled when they are
+crucial to the scenario.
+
+**Easy (6-10)**: Although characters usually
+have no difficulty with this task, an untrained
+character may find it challenging.
+
+**Moderate (11-15)**: There is a fair chance
+that the average character will fail at this type
+of task. Tasks of this type require skill, effort, and concentration.
+
+**Difficult (16-20)**: Those with little experience in the task must
+have a lot of luck to accomplish this type of action.
+
+**Very Difficult (21-25)**: The average character only rarely succeeds
+at these kinds of task. Only the most talented regularly succeed.
+
+**Heroic (26-30)**, **Legendary (31 or more)**: These kinds of tasks
+are nearly impossible, though there's still a slim chance that lucky
+average or highly experienced characters can accomplish them.

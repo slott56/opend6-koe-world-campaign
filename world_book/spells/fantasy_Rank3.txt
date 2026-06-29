@@ -1,0 +1,43 @@
+
+Detect the Living
+~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 14 
+:Effect: 24 (search to locate a single type of creature 8*D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 sec \(5)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area_effect (20): 10m radius circle
+
+
+    component (12): Something from the type of creature being detected (uncommon; destroyed); fire, such as a match or lit coal (very_common; destroyed)
+
+
+    concentration (3): Concentration: 25 sec (willpower/mettle roll 9)
+
+
+    gesture (1): Inhale smoke (very_simple)
+
+
+    variable_movement (4): target_invisible
+
+
+
+
+
+
+
+Before throwing the spell, the caster should decide what sort of being she’s looking for, because she’ll need a piece of it for the spell to work (a lock of hair from a Human, fur or fangs from an animal, etc.).
+
+
+The caster sets the object on fire and inhales the smoke while concentrating. Once the casting is done, the mage can detect the presence of any such being within a 10-meter radius for two rounds. The higher the search skill total is above the difficulty, the more information the caster knows about the beings she seeks (such as location, number, gender, etc.). The difficulty starts at 10 for a Human-sized creature, and goes down for larger creatures, up for smaller ones, and up for the number of other types of creatures in the area.
+
+
+
+
+

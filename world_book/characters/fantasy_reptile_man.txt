@@ -1,0 +1,40 @@
+
+
+:Agility (3D+2):
+    fighting 4D+1, dodge 4D, melee combat 4D
+
+:Coordination (2D):
+    throwing 3D
+
+:Physique (4D):
+    lifting 4D+1, running 4D+1, stamina 4D+1
+
+:Intellect (3D):
+    navigation 3D+2, trading 3D+1
+
+:Acumen (3D+1):
+    survival 3D+2, tracking 3D+2
+
+:Charisma (2D):
+    intimidation 3D, mettle 3D
+
+:Extranormal ():
+    
+
+:Advantages:
+    []
+
+:Disadvantages:
+    Achilles' Heel (R3), Cold -- take 1D in damage per round in temperatures below 15 C; Hindrance (R2), Arrogance -- +2 to bluff, charm, and persuasion difficulties
+
+:Special Abilities:
+    Extra Body Part (R1), Tail; Natural Armor (R1), Scales -- +1D to damage resistance total against physical damage; Natural Hand-to-Hand Weapon (R1), Claws -- +1D damage
+
+:Strength Damage: 2D
+:Move: 10
+:Fate Points: 0
+:Character Points: 2
+:Body Points: 35
+
+
+

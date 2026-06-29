@@ -1,0 +1,36 @@
+Val.,Measure,Val.,Measure,Val.,Measure
+0,1,35,10.0 million,70,100.0 trillion
+1,1.5,36,15.0 million,71,150.0 trillion
+2,2.5,37,25.0 million,72,250.0 trillion
+3,3.5,38,40.0 million,73,400.0 trillion
+4,5,39,60.0 million,74,600.0 trillion
+5,10,40,100.0 million,75,1.0 quadrillion
+6,15,41,150.0 million,76,1.5 quadrillion
+7,25,42,250.0 million,77,2.5 quadrillion
+8,40,43,400.0 million,78,4.0 quadrillion
+9,60,44,600.0 million,79,6.0 quadrillion
+10,100,45,1.0 billion,80,10.0 quadrillion
+11,150,46,1.5 billion,81,15.0 quadrillion
+12,250,47,2.5 billion,82,25.0 quadrillion
+13,400,48,4.0 billion,83,40.0 quadrillion
+14,600,49,6.0 billion,84,60.0 quadrillion
+15,"1,000",50,10.0 billion,85,100.0 quadrillion
+16,"1,500",51,15.0 billion,86,150.0 quadrillion
+17,"2,500",52,25.0 billion,87,250.0 quadrillion
+18,"4,000",53,40.0 billion,88,400.0 quadrillion
+19,"6,000",54,60.0 billion,89,600.0 quadrillion
+20,"10,000",55,100.0 billion,90,1.0 quintillion
+21,"15,000",56,150.0 billion,91,1.5 quintillion
+22,"25,000",57,250.0 billion,92,2.5 quintillion
+23,"40,000",58,400.0 billion,93,4.0 quintillion
+24,"60,000",59,600.0 billion,94,6.0 quintillion
+25,"100,000",60,1.0 trillion,95,10.0 quintillion
+26,"150,000",61,1.5 trillion,96,15.0 quintillion
+27,"250,000",62,2.5 trillion,97,25.0 quintillion
+28,"400,000",63,4.0 trillion,98,40.0 quintillion
+29,"600,000",64,6.0 trillion,99,60.0 quintillion
+30,1.0 million,65,10.0 trillion,100,100.0 quintillion
+31,1.5 million,66,15.0 trillion,,
+32,2.5 million,67,25.0 trillion,,
+33,4.0 million,68,40.0 trillion,,
+34,6.0 million,69,60.0 trillion,,

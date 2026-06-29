@@ -1,0 +1,97 @@
+
+Detect the Living
+~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 20 
+:Effect: 24 (search of 8D to locate a single type of creature)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 sec \(5)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area_effect (20): 10m radius circle
+
+
+
+
+
+:Other Conditions:
+    (-1): Limited to one type of creature
+
+
+    Difficulty: 20
+
+
+
+
+Before invoking, the devotee decides what sort of being he seeks.
+Should the cleric successfully invoke the miracle, he can detect the
+presence of any such being within a 10-meter radius for two rounds,
+whether he can see it or not. The higher the search skill total is above
+the difficulty, the more information the caster knows about the beings
+he seeks (such as location, number, gender, etc.). The difficulty starts
+at 10 for a Human-sized creature, and goes down for larger creatures,
+up for smaller ones, and up for the number of other types of creatures
+in the area. Add the miracle success bonus to the search total.
+
+
+
+Foresight
+~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 19 
+:Effect: 34 (2.5 mon)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+
+:Other Conditions:
+    Difficulty: 19
+
+
+
+
+When the cleric invokes this miracle, he chooses to look for a condition that could occur up to two and a half months into the future.
+He can see one minute's worth of the future. Use the success level
+to determine the information received: Minimal reveals confusing
+images. Average allows one useful fact to be gleaned from the vision.
+Good provides the cleric with a few useful facts, including the time
+of the occurrence. Superior allows the cleric to note more details,
+including time and location. Spectacular lets the cleric see the scene
+as if he were present, though in shades of gray.
+
+
+Detect Enemies
+~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 20 
+:Effect: 24 (search of 8D to locate active enemies)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 sec \(5)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area_effect (20): 10m radius circle
+
+
+
+
+
+:Other Conditions:
+    (-1): Limited to those with malicious intent
+
+
+
+
+This can only find those with active animosity or hunters who consider the caster to be prey
+
+

@@ -1,0 +1,55 @@
+**Djinn**:
+Agility 4D, acrobatics 2D, flying 2D, Coordination 4D, sleight of hand 2D, Physique 5D, lifting 3D+1, running 2D, Intellect 4D, devices 1D, healing 1D, traps 1D, Acumen 4D, crafting 1D, design 1D, hide 1D, know-how 1D, Charisma 3D, intimidation 2D, charm 1D, Extranormal 5D.
+*Disadvantages*: Employed (R1), anyone who knows its true name can command it completely; Achilles' Heel (R2), talkative, can be charmed into revealing their name,
+*Special Abilities*: Attack Resistance (R1), +1D to damage resistance total against weapons not blessed or enchanted; Longevity (R3), Lives thousands of years; Transmutation (R1), Becomes a column of blowing sand; grants 4 ranks of Hypermovement +8m/round; Flight (R1), Flying at speed of 20m/round,
+*Move*: 15, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 37.
+
+
+**Afrit**:
+Agility 4D, acrobatics 2D, flying 2D, fighting 2D, Coordination 4D, throwing 2D, Physique 4D, lifting 5D+2, stamina 2D, Intellect 4D, cultures 1D, speaking 1D, trading 1D, Acumen 4D, disguise 1D, gambling 1D, hide 1D, tracking 1D, Charisma 3D, intimidation 2D, charm 1D, Extranormal 5D.
+*Disadvantages*: Achilles' Heel (R1), anyone who knows its true name can summon it; whether or not it cooperates is another story; Achilles' Heel (R2), talkative, can be charmed into revealing their name; Enemy (R2), hunted by Djinni,
+*Special Abilities*: Attack Resistance (R1), +1D to damage resistance total against weapons not blessed or enchanted; Longevity (R3), Lives thousands of years; Transmutation (R1), Becomes a column of blowing sand, which grants 2 ranks of Hypermovement +4m/round, and +2D to attack resistance; Flight (R1), Flying at speed of 20m/round,
+*Move*: 15, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 33.
+
+
+**Air Elemental**:
+Agility 3D, contortion 2D, flying 2D, Coordination 1D, Physique 5D, running/flying 2D, stamina 2D, Intellect 1D, Acumen 1D, Charisma 1D, intimidation 6D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to earth-based attacks, takes double damage,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for tightly-woven cloth armor; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Ranged Weapon (R3), +3D gusts of wind,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 43, *Natural Abilities*: Flying from location to location, able to fit through the smallest opening..
+
+
+**Air Dragon**:
+Agility 3D, flying 2D, Coordination 2D, Physique 5D, stamina 3D, Intellect 3D, navigation 1D, speaking 1D, Acumen 3D, search 1D, tracking 1D, Charisma 3D, intimidation 2D.
+*Disadvantages*: Achilles' Heel (R3), Can't land: Barely able to waddle on near useless legs, can't take off.,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for tightly-woven cloth armor; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Ranged Weapon (R3), +3D a bellow so loud, it causes injury,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 39, *Natural Abilities*: Flying more-or-less constantly..
+
+
+**Giant Centipede**:
+Agility 2D, Coordination 2D, Physique 5D, stamina 3D, Intellect 2D, Acumen 3D, tracking 1D, Charisma 3D, intimidation 2D.
+*Special Abilities*: Natural Hand-to-Hand Weapon (R3), Poison in the forcipules (pincers); Natural Armor (R2), tough chitonous hide,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 39, *Natural Abilities*: Infravision/Ultravision (R2), .
+
+
+

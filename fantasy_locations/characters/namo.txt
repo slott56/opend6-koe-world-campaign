@@ -1,0 +1,12 @@
+**Namo, high priest**:
+Agility 4D, fighting 4D+1, melee combat 4D+2, climbing 4D+1, stealth 4D+1, Coordination 3D, marksmanship 4D, throwing 3D+1, Physique 3D, running 4D+2, stamina 4D+1, swimming 4D, Intellect 3D, trading 4D, Acumen 2D, hide 3D+1, investigation 3D, search 3D+2, Charisma 2D, intimidation 3D+2, mettle 3D, persuasion 3D, Extranormal 1D, divination 2D+1, favor 1D+2.
+*Advantages*: Authority (R3), high priest and ruler of Gadara,
+*Disadvantages*: Prejudice (R1), those not from Gadara represent potential threats (+4 to the difficulty to all interactions with non-natives),
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24, *Equipment*: holy symbol; tribal leader staff (damage +1D+2).
+
+
+

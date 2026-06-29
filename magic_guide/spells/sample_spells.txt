@@ -1,0 +1,83 @@
+
+Blink-Away
+~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 13 
+:Effect: 29 (Transport: Move you or something 1 km; Up to 3 people 600 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 sec \(0)
+:Casting Time: 1 round \(4)
+
+
+
+
+
+Projectile
+~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 14 
+:Effect: 18 (Projectile damage +6D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 sec \(0)
+:Casting Time: 1 sec \(0)
+
+
+This 6D attack requires marksmanship/firearms or apportation to hit. It takes a form of the caster’s choosing, such as a blast of fire, water, or ice.
+
+
+Protective Sheath
+~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 14 
+:Effect: 18 (Protect +6D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1 sec \(0)
+
+
+The caster or a target within one meter of the caster is coated in an invisible sheath that absorbs up to 6D of any type of damage.
+
+
+Improvement
+~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 10 
+:Effect: 14 (Add to a skill, damage, or protection +3D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+
+
+
+
+Search
+~~~~~~
+
+:Skill: Divination
+:Difficulty: 17 
+:Effect: 18 (search skill +4D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (15): 10m radius divination sphere
+
+
+
+
+
+
+
+

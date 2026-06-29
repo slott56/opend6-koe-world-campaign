@@ -1,0 +1,101 @@
+[[characters]]
+name = "Fang"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "4D+1"
+skills = [
+    { label = "acrobatics", dice = "6D" },
+    { label = "dodge", dice = "7D+1" },
+    { label = "fighting", dice = "7D+2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "3D"
+skills = [
+    { label = "throwing", dice = "3D+1" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "3D"
+skills = [
+    { label = "stamina", dice = "4D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = [
+    { label = "scholar snakes", dice = "4D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D+2"
+skills = [
+    { label = "survival", dice = "3D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "animal handling", dice = "6D" },
+    { label = "charm", dice = "4D+2" },
+    { label = "mettle", dice = "4D+1" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "4"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "24"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+details = [
+    { label = "Quirk", rank = "(R1)", details = ", no sense of taste or smell" },
+    { label = "Quirk", rank = "(R2)", details = ", does everything in a snakelike manner" },
+]
+
+[characters.details.Advantages]
+label = "Advantages"
+
+[[characters.details.Advantages.details]]
+label = "Trademark Specialization"
+rank = "(R1)"
+details = ", throw- ing a snake at someone with one hand at the same time he does a piercing thrust with the other hand"
+
+[characters.details.Special]
+label = "Special"
+
+[[characters.details.Special.details]]
+label = "Iron Will"
+rank = "(R2)"
+details = ", +2 D to mettle totals and +4 difficulty modifier to all interaction attempts and mental attacks"

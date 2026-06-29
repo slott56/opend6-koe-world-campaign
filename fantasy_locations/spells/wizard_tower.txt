@@ -1,0 +1,193 @@
+
+Basic Shelter
+~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 17 
+:Effect: 6 (shelter: 1*D; environmental_resistance (R1) +3D to stamina or Physique against heat, cold, or pressure)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 hr \(23)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area_effect (12): 2m height 1.25m width 2m depth cuboid; fluid_shape
+
+
+    components (2): pinch of brick, stone, wood, paper, or cloth (ordinary; destroyed)
+
+
+    focused (6): Focus based on effect, duration
+
+
+    gestures (2): slowly sprinkle pinch in circle around caster (simple)
+
+
+    incantation (2): Give me shelter (sentence)
+
+
+    other_alterant (2): features...
+
+
+
+
+
+This spell is quite useful for the single, traveling
+caster. This creates a cramped shelter around the caster.
+The shelter has a door to exit it and a small fireplace
+in one corner so a fire can be set to create warmth and
+light. The thin walls, seemingly made of the same material 
+as the component, give the caster some protection
+from the elements and physical attacks. As the spell is
+focused, the caster may leave the hut without worrying
+about it disappearing.    
+
+
+
+Improved Hut
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 26 
+:Effect: 21 (shelter: 5*D; environmental_resistance (R2) +6D to stamina or Physique against heat, cold, or pressure)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 5 min \(12)
+
+:Other Aspects:
+
+    area_effect (15): 1m height 4m width 4m depth cuboid; fluid_shape
+
+
+    components (4): painted toy house (uncommon)
+
+
+    concentration (1): Concentration: 3.5 sec (willpower/mettle roll 7)
+
+
+    focused (9): Focus based on effect, duration
+
+
+    gestures (2): place toy house on the ground and pretend to shape a larger house around it (simple)
+
+
+    incantation (2): Give me protection from the elements (sentence)
+
+
+    other_alterant (2): features...
+
+
+
+
+
+Designed to accommodate a small band of close
+adventuring comrades, this improved version of
+the basic hut spell creates a domicile with thin walls
+apparently composed of the same mater ial as the toy
+house. Inside is a small fireplace, and there are uncovered 
+windows and door, allowing in light. The shelter
+offers excellent protection against the weather and predators.
+
+
+
+Small Tower
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 31 
+:Effect: 22 (shelter: 5*D+1; environmental_resistance (R2))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 25 yr \(44)
+:Casting Time: 1 wk \(29)
+
+:Other Aspects:
+
+    area_effect (27): 2.5m height 10.4m width 10.4m depth cuboid; fluid_shape
+
+
+    components (6): Mud brick or stone block from an ancient temple (extremely_rare)
+
+
+    concentration (3): Concentration: 1 min (willpower/mettle roll 9)
+
+
+    focused (13): Focus based on effect, duration
+
+
+    gestures (3): Make hand gestures as if building a tower (complex)
+
+
+    incantation (6): Read or recite loudly prayers related to the religion of the ancient temple (litany; loud; foreign_tongue)
+
+
+    other_alterant (3): features...
+
+
+
+
+
+This spell creates a retreat of any shape that the
+caster desires, including whatever doors, windows or
+stairs that she wants to include. It appears to made of
+an ancient building material, and it provides terrific
+protection for up to 25 years. The caster may change
+the shape of the structure at any time during that
+period. Anything inside will automatically shift without
+breaking, to accommodate the new shape.
+
+
+
+Keep in the Air
+~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 29 
+:Effect: 18 (shelter: 4*D; environmental_resistance (R2))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 15 yr \(43)
+:Casting Time: 10 hr \(23)
+
+:Other Aspects:
+
+    area_effect (27): 2.5m height 10.4m width 10.4m depth cuboid; fluid_shape
+
+
+    components (15): Empty glass jar with fitted lid (common); white feathers (very_common; destroyed); gold dust (uncommon; destroyed)
+
+
+    concentration (5): Concentration: 15 min (willpower/mettle roll 11)
+
+
+    focused (12): Focus based on effect, duration
+
+
+    gestures (1): Shake jar with feathers, gold dust, and air (very_simple)
+
+
+    incantation (1): Blow air into jar (word)
+
+
+    other_alterant (3): features...
+
+
+
+
+
+After less than half a day of preparation, 15 minutes
+of concentration, and a lot of shaking of some feathers,
+gold, and air, the caster creates a movable tower. The
+tower may go up and down or across the landscape at
+a rate of three meters per round. It appears to made of
+white marble flecked with gold and has as many doors,
+windows, and staircases as the caster desires. He may also
+change its shape at any point during its existence, with
+the items quietly moving themselves around without
+damaging themselves. At the end of the duration, the
+feathers and gold dust turn to a fine ash.
+
+
+

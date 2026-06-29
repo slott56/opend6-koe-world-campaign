@@ -1,0 +1,17 @@
+##########################
+Game Master Summary
+##########################
+
+A summary for the Game Master.
+
+Summary of play, movement, combat, damage & healing.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   basics
+   movement
+   combat
+   damage
+   ../source/D6_Magic_weg51024OGL/index

@@ -1,0 +1,975 @@
+
+Chronal Fog
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 11 
+:Effect: 15 (Armor, physical only +5D)
+:Range: 1 m \(0)
+:Speed: Instantanous \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area effect (10): 2m radius sphere
+
+
+    components (8): Three grams of mica flakes (uncommon; destroyed)
+
+
+    focused (5): Focus based on effect, duration
+
+
+    gestures (2): Twirls arms around while dispersing the mica flakes to form a ring around the caster (simple)
+
+
+    incantations (3): Mists of time, clouds of fate, shield me now, for the hour is late! (sentence; loud)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: magic, time
+
+
+    (0): Difficulty: 11
+
+
+
+
+Upon the dispersal of the spell component, a foglike haze
+surrounds the magic wielder. The haze is formed by the chronal
+echoes that emanate from the fluctuating temporal fields that
+the mage summons to deflect physical damage. The barrier
+is centered upon the caster and provides an Armor Value of
+5D against all types of physical (not mental) attacks. The
+fog effect of the spell offers the same visibility limitations
+of light fog for both the magic wielder and those who wish
+to peer through it.
+
+
+Chronobolt
+~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 16 
+:Effect: 30 (Bolt +5D (physical damage, ignores all armor))
+:Range: 10 m \(5)
+:Speed: Instantaneous \(5)
+:Duration: 1 sec \(0)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    components (4): A small hourglass (uncommon)
+
+
+    gestures (2): Hold an hourglass before the intended target and shake the sand inside it (simple)
+
+
+    incantations (2): The future beckons, come and embrace the pain. You now shall suffer, tis victory I gain! (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: death, time
+
+
+    (0): Difficulty: 16
+
+
+
+
+The successful casting of a chronobolt allows the temporal
+manipulator to create an aura that causes a portion of the
+intended target to move slightly forward in time. (This also
+means that no armor protects against the bolt.) The chronal
+disturbance does 5D in damage to the victim from a range
+of up to 10 meters from the caster. She must make a marks-
+manship/firearms or apportation roll to hit the target. The bolt
+must be fired in the same round that the spell is cast. After
+spell effects have been resolved, the target suffers no further
+ill effects from the temporal disturbance.
+The caster cannot choose which portion of the victim is
+moved further in time. Such things are totally random, and
+in some cases, may be portions of the target’s molecular
+structure instead of a limb or section of the body.
+
+
+
+
+Detect Resonance
+~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 11 
+:Effect: 9 (extra_sense: chronal energy (R3) for search and investigation)
+:Range: 10 m \(5)
+:Speed: Instantaneous \(5)
+:Duration: 1 min \(9)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area of effect (20): 4m radius sphere
+
+
+    components (12): An astrolabe with quartz lenses (uncommon); 18 grams of diamond dust (uncommon; destroyed)
+
+
+    gestures (3): Toss the diamond dust in the air and views the area with the astrolabe (complex (requires investigation roll difficulty of 11))
+
+
+    incantations (2): Though the temporal winds run wild and free, through its shadowy wake, I now clearly see! (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: time
+
+
+    (0): Difficulty: 11
+
+
+
+
+When successfully cast, the arcane aid can provide a mage
+with one of the following pieces of information, which the
+mage chooses at casting.
+1. He could discover the existence of things that are out
+of sync with the time stream in a given area, such as time
+travelers or extradimensional creatures that exist out the
+normal range of vision.
+2. He could reveal the existence of active chronal enchant-
+ments that are bedeviling a tortured soul.
+3. He could decide to employ this magic to discover hid -
+den chronal gates and gain entrance to other times. Such
+ventures have their own risk however, as those who travel
+through such devices to other times without taking proper
+precautions could unwittingly release time-lost horrors.
+The difficulty to find the chronal energy is 11, with higher
+results indication more information. The range and area of
+effect of the spell indicate the maximum effectiveness of the
+newly acquired sense.
+
+
+Devolution
+~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 24 
+:Effect: 36 (reduced_attribute: knowledge/intellect (R12), -4D to the attribute)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (6): 60 grams of brain matter, which may come any recently deceased creature as long as the matter retains at least its cranial fluid (common; destroyed)
+
+
+    focused (9): Focus based on effect, duration
+
+
+    gestures (2): Crush brain matter and fling at the target (simple)
+
+
+    incantations (2): Time rolls back to reveal the shame of your lowly ancestors! (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: animal, folk, time
+
+
+    (0): Difficulty: 23
+
+
+    (0): Variable Effect: Up to an additional nine ranks of Reduced Attribute: Knowledge/Intellect (which means up to an additional -3D to the attribute)
+
+
+
+
+Devolution digs deep into the ancestral memories of the
+intended victim in order to flood her mind with horrific
+images of what her primordial ancestors once were. The oft
+barbaric visions can deliver a devastating blow to the victim’s
+psyche and rattle her resolve.
+When casting this spell, the mage crushes the brain matter
+in his hand and flings the remains at the target. If the target
+cannot beat the caster’s spell skill total with a willpower/
+mettle roll, the victim loses up to 4D of Knowledge/Intellect
+(minimum adjust attribute value of 1D) for five rounds while
+her mind reels as it psychically regresses.
+
+
+Diminish
+~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 10 
+:Effect: 14 (reduces the duration of a chosen spell 10 min)
+:Range: 15 m \(6)
+:Speed:  \(6)
+:Duration: 1 sec \(0)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    components (1): 1-decimeter square cloth (ordinary)
+
+
+    gestures (2): Mime wiping away something with the cloth (simple)
+
+
+    incantations (1): Arcane blight, begone! (phrase)
+
+
+
+
+
+:Other Conditions:
+    (-1): Must specify at casting a single spell to target
+
+
+    (0): Arcane Knowledge: magic, time
+
+
+    (0): Difficulty: 10
+
+
+
+
+The successful casting of diminish reduces the duration
+of the targeted spell by up to 10 minutes. When a caster
+attempts to affect a given spell, compare the skill total used
+to cast diminish to the skill total used to create the offend -
+ing spell. If the diminish spell total is equal or higher than
+the targeted spell’s skill total, the spell duration is reduced.
+Spells with 10 minutes or less of duration left on them cease
+to function. Only one diminish spell can reduce the duration
+of any particular spell.
+
+
+Erosion
+~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 12 
+:Effect: 18 (Erosion +6D (physical damage))
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 1 sec \(0)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area effect (5): 1m radius sphere
+
+
+    components (2): A gram of sand (ordinary; destroyed)
+
+
+    gestures (2): Fling sand at the target area while the incantation is uttered (simple)
+
+
+    incantations (2): Time the healer, time the stealer, once thought by all to forever last, now it is most assuredly past. (sentence)
+
+
+
+
+
+:Other Conditions:
+    (-1): Affects nonliving matter only
+
+
+    (0): Arcane Knowledge: death, time
+
+
+    (0): Difficulty: 12
+
+
+
+
+Erosion allows the chronomancer to rapidly accelerate the
+breakdown of nonliving matter. Upon the successful casting
+of this spell, a mage may cause a small sphere’s worth of
+material to crumble to dust as it succumbs to the onslaught
+of time. Any living matter in the affected area is unharmed
+by the spell, although any structural effects caused by the
+magic may still be dangerous. Erosion can be utilized topple
+large structures and cause general chaos for the unwary.
+The availability of erosion’s material component makes the
+magic popular for mages who find themselves imprisoned.
+Thus, it is not uncommon for jailers who have experience in
+confining wizards to bind and sometimes keep their charges
+blindfolded for the duration of their incarceration.
+
+
+
+
+Loophole
+~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 29 
+:Effect: 45 (one Magic skill and affecting one spell, specified at spell casting, that the target wishes to cast quickly +6D (extranormal skill modifier))
+:Range: 3.5 m \(3)
+:Speed:  \(3)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (4): A 30 cubic centimeter vial of ink (very_common; destroyed)
+
+
+    feedback (1): lowered resistance
+
+
+    focused (11): Focus based on effect, duration
+
+
+    gestures (2): Fling the ink at target while uttering the incantation (simple)
+
+
+    incantations (1): Quickly cast quiet creations. (phrase)
+
+
+
+
+
+:Other Conditions:
+    (-1): Not usable on spells with incantations, gestures, or concentration requirements
+
+
+    (0): Arcane Knowledge: magic, time
+
+
+    (0): Difficulty: 29
+
+
+
+
+Every once in a while, one just does not have enough time
+to deal with the current situation and needs a little help from
+a friend. Loophole serves just this purpose as it causes time
+around the intended target to “blink.” This effect hastens
+the recipient forward in time, which allows the person to
+shorten the casting time of one spell by 75% (round up, with
+a maximum reduced casting time ofone minute). The spell
+difficulty increases by +20, but the target’s skill increases
+by 6D to compensate for this. The recipient of this spell
+can perform no other action outside of the casting of the
+intended spell.
+The ink disappears once the target casts the spell.
+
+
+Lotus Dreams
+~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 18 
+:Effect: 27 (accelerated_healing (R3) +3D bonus to natural healing attempts)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (8): 3 grams of incense made from crushed lotus petals (uncommon; destroyed)
+
+
+    countenance (1): Skin turns an unhealthy pale tone for the duration of the spell (noticeable)
+
+
+    focused (10): Focus based on effect, duration
+
+
+    gestures (3): Gently closes the eyes of the recipient and traces the lines of the bony plates that compose the skull of the intended recipient as the incantation is uttered (complex (requires sleight of hand roll with difficulty of 11))
+
+
+    incantations (2): Though your mortal form has been rent asunder, embrace life and drink deeply from the draught of endless slumber. (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: dreams, time
+
+
+    (0): Difficulty: 18
+
+
+    (4): Other Alterants: Target cannot be awakened
+
+
+
+
+When this magic is successfully cast upon a willing recipient, the target falls into a deep, coma-like slumber that lasts
+for a full 24 hours. After the recipient awakens from his life-
+renewing respite, the spell’s effect grants him a +7D modifier
+to natural healing roll for the day.
+During the spell’s duration it is impossible for the recipient
+to waken or be awakened normally. Those with telepathic or
+similar powers can contact them mentally but the answers
+given come sluggishly and are typically one or two words.
+This is in addition to aging from the normal passage of
+time. Although uncommon, it is not unheard of for those
+who emerge from the lotus dreams induced sleep to complain
+of experiencing a vertigo effect during the spell. Some are
+hesitant to receive the benefits of the spell a second time
+unless they are near death.
+
+
+Perceptive Flux
+~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 14 
+:Effect: 15 (hindrance: initiative (R5), -10 to all initiative totals)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 round \(4)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (4): A gram of sandstone (very_common; destroyed)
+
+
+    countenance (1): Skin turns a sickly gray color for the duration of the spell (noticeable)
+
+
+    gestures (2): Crush sandstone and drop it to the floor (simple)
+
+
+    multiple_targets (15): 5 targets
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: time
+
+
+    (0): Difficulty: 14
+
+
+
+
+Perceptive flux is an extremely useful spell for covert operations as it can give strike teams a definite tactical advantage.
+Although it takes some time to prepare the magic, the spell’s
+lack of verbal aspects can make it well worth casting.
+At the end of a successful casting, the opponents think it’s
+a different time than it actually is, causing several seconds
+of disorientation.
+The minimum initiative total an opponent can generate is
+zero, which means that he goes last in the round.
+
+
+Push
+~~~~
+
+:Skill: Apportation
+:Difficulty: 10 
+:Effect: 14 (sends a small object into the future 10 min)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 min \(14)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    gestures (2): Wave one hand across the object to be pushed and then touch it (simple)
+
+
+    incantations (2): Where did it go? (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: time
+
+
+    (0): Difficulty: 10
+
+
+
+
+Even the most subtle of things can sometimes make all the
+difference in the world. Push takes an object of a kilogram or
+less in weight and transports it up to 10 minutes forward in
+time. The spell is popular with charlatans, con artists, stage
+magicians, and pranksters. Once the spell runs its course,
+the pushed object appears exactly where it was before the
+spell was cast. It is affected by any environmental changes
+upon its return.
+
+
+
+
+Seize the Day!
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 10 
+:Effect: 9 (fast_reactions (R1) +1D to initiative roll and one additional free action)
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 1 round \(4)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    components (4): A pinch of gunpowder (very_common; destroyed)
+
+
+    gestures (2): Swallow gunpowder while looking at target (simple)
+
+
+    incantations (2): Go! (phrase; loud)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: inanimate forces
+
+
+    (0): Difficulty: 10
+
+
+
+
+This spell allows someone of the caster’s choosing to gain an
+extra action and a +1D bonus to initiatve for one round. This
+boon occurs even if the target has already acted in the given
+round. To cast the spell, the mage swallows the gunpowder,
+looks at the target, and shouts the incantation.
+
+
+Sequester
+~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 26 
+:Effect: 11 (moves up to 150 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 wk \(29)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (10): A platinum ankh (very_rare; destroyed)
+
+
+    concentration (3): Concentration: 25 sec (willpower/mettle roll 9)
+
+
+    countenance (2): Skin takes on a bluish shade for the duration of the spell and the subconscious is haunted by psychic images (extreme)
+
+
+    gestures (3): Make a circling motion above head with one hand, then quickly casts the ankh away after pushing it against her forehead (complex (acrobatics roll with a difficulty of 11))
+
+
+    feedback (4): lowered resistance
+
+
+    focused (8): Focus based on effect, duration
+
+
+    incantations (2): Safe from all harm but as close as a whisper, untouchable now for I am sequestered. (sentence)
+
+
+    other_alterant (29): Other Alterants: Moves caster out of space and time
+
+
+    variable_duration (8): on_off_switch
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: dimension, time
+
+
+    (0): Difficulty: 26
+
+
+
+
+When things look their bleakest, it is good to have an ace
+up one’s sleeve. Sequester allows a mage to gain protection by
+sliding between the present and future. The successful cast-
+ing of the spell removes her from the flow of time for up to
+one week and deposits her in an alternate dimension where
+time stands still. During this period in the alien realm, she
+does not age, nor can she perform any actions. Her form is
+undetectable by normal means, although a detect resonance
+reveals her presence.
+When the caster turns off the spell or the spell runs its
+course, the mage is returned to the exact spot she started
+from when she fled from her current time. The re-emergence
+into the normal time stream could be quite perilous for the
+temporal traveler, as she must survive any changes to her
+current environment.
+Some chronomancers fear the time spent in sequester
+because their subconscious is tormented with horrible psychic
+images as it attempts to adjust to it current state. In rare cases,
+those who seek refuge through sequester develop emotional
+quirks and in sometimes never fully regain their sanity.
+
+
+Soulecho
+~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 11 
+:Effect: 9 (bad_luck (R3))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 25 min \(16)
+:Casting Time: 10 min \(14)
+
+:Other Aspects:
+
+    components (8): 100 grams of bone dust (uncommon; destroyed)
+
+
+    gestures (3): After the incantation is uttered, the bone dust is used to mark the area of effect. The caster then spends the rest of the casting time touching the area of effect and slowly acting as if pulling malevolent energy from the ground. (complex (acrobatics roll with a difficulty of 11))
+
+
+    feedback (4): lowered resistance
+
+
+    focused (5): Focus based on effect, duration
+
+
+    incantations (4): The sins of the past shall surely last. Sorrow forever surrounds us all. Ne’er let one forget how the die was cast. Come ye forth, oh misery; heed my call! (litany (persuasion roll with difficulty of 15))
+
+
+    multiple_targets (24): 8 targets
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: death, time
+
+
+    (0): Difficulty: 11
+
+
+
+
+Although time often heals wounds, it seldom ever forgets
+the misery it has been forced to endure in ages past. The pain
+of horrible events left buried by the sands of time seethes
+and festers as it cries out for vengeance. This volatile, ter -
+rible power is the chronomancer’s to wield. Such wizards can
+gather the twisted fragments of tortured chronal resonances
+and vent the destructive force upon the object of their wrath.
+Power such as this is not unleashed lightly, though, and usu-
+ally done quite covertly. Wise temporal magicians choose to
+tread carefully because many people would prefer to forget
+the sorrows of the past and leave the undisturbed misery of
+ages long gone buried by the dust of the passing years. Those
+who disregard the potential danger of daring to manipulate
+sorrows of other times run the risk of angering the local
+populace. Fools of this nature are not often long lived and
+have found themselves burnt at the stake or worse as they
+pay the ultimate price for their haughtiness.
+The successful casting of a soulecho creates a field of eldritch
+energy that feeds upon the pain of the past and forces it
+upon the affected area. Those who are unfortunate enough
+the pass through the temporal blighted area (upt to eight
+victims) attract the Bad Luck (R3) Disadvantage (for the
+duration of the spell).
+
+
+
+
+Suppress
+~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 14 
+:Effect: 18 (suppress damage from attack spells only +4D (damage modifier))
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (2): Three dried leaves of any variety (ordinary; destroyed)
+
+
+    feedback (2): lowered resistance
+
+
+    gestures (2): Crush the leaves and flick them at the target (simple)
+
+
+
+
+
+:Other Conditions:
+    (-1): Must specify one school to be affected by casting
+
+
+    (0): Arcane Knowledge: magic, time
+
+
+    (0): Difficulty: 14
+
+
+
+
+This powerful mystic manipulation allows the chronomancer to deftly manipulate the temporal fields around a
+given target, much like a skilled surgeon is able to separate
+and extract malignant tissue without harming the patient.
+When suppress is successfully cast, the victim is moved slightly
+out of sync with the normal time stream, which temporarily
+weakens the ability to cause harm to others with magic.
+When this spell is cast, the wizard chooses a specific school
+of magic to affect. For the duration of the spell, any spells
+that cause physical damage from the chosen school and cast
+by the victim have the damage roll reduced by 4D (with a
+minimum total of zero).
+
+
+Temporal Shackles
+~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 12 
+:Effect: 23 (damage resistance total of the shackles +5D (protection modifier))
+:Range: 15 m \(6)
+:Speed:  \(6)
+:Duration: 1 min \(9)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (8): A 3-centimeter-long piece of quartz (uncommon; destroyed)
+
+
+    focused (6): Focus based on effect, duration
+
+
+    gestures (2): Simulate a whirlpool motion with hands while uttering the incantation and then appear to toss the spell toward the target (simple)
+
+
+    incantations (2): A past full of suffering, echoes of futures bleak, though you vainly strain ’gainst my power, your will grows weak! (sentence)
+
+
+    unreal_effect (6): Unreal Effect: difficulty_13
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: magic, time
+
+
+    (0): Difficulty: 12
+
+
+
+
+Those who are not familiar with the intricacies of time
+can often fall prey to the machinations of those who have
+mastered it. Temporal shackles holds a victim fast with bands
+of chronal energy that alternate between past and future
+waves of power. If a mage’s marksmanship/firearms or apport-
+ation total is greater than the target’s combat difficulty, his
+quarry is trapped.
+The effect’s value plus the result point bonus serve as
+the damage resistance total of the shackles. The target can
+disbelieve and thus free herself with a Perception/Acumen or
+investigation total of 13.
+
+
+Time Out of Mind
+~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 15 
+:Effect: 36 (compare to the skill total of the spell countering +8D (protection modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (4): 2 candles (very_common; destroyed)
+
+
+    concentration (3): Concentration: 1 min (willpower/mettle roll 9)
+
+
+    feedback (3): lowered resistance
+
+
+    gestures (3): Once the incantation is complete, stretch arms out over the center of the target, then spread arms out wide while holding the candles and tracing the surface of the afflicted. Finally, quickly reach upward and then make a slashing movement as the arms are quickly dropped. (complex (acrobatics roll with difficulty of 11))
+
+
+    incantations (3): Time unyielding, destinies past. Forever onward, the die has been cast. Through fate’s dire portal, great powers await. Fear thee not, mere mortal: it is not yet too late! (complex (persuasion roll with difficulty of 15))
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: magic, time
+
+
+    (0): Difficulty: 15
+
+
+
+
+Time out of mind allows the mage to reach out mentally
+and feel the chronal waves that surround the spell’s intended
+beneficiary. Through this temporal gift, the caster can free a
+bedeviled soul from a malicious spell or enchantment that
+has been cast upon her. If the mage’s efforts are successful,
+the subject is released from the harmful magic by temporarily having her chronal essence backwards in time to a point
+where it was free of the baneful magic. Once the spells target
+is loosed from arcane tribulation and the spell is broken, the
+essence rises forward in time and returns to the proper place
+in the time stream.
+
+
+Time Sink
+~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 25 
+:Effect: 15 (material stopped 1 ton)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (2): A snail shell (ordinary; destroyed)
+
+
+    gestures (2): Spreads arms wide in a circle, mimicking the sphere to be created (simple)
+
+
+    incantations (1): Apart from time! (phrase)
+
+
+    area_effect (15): 3m radius sphere
+
+
+    other_alterants (9): time stopped in area of effect
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: time
+
+
+    (0): Difficulty: 25
+
+
+
+
+Sometimes to save the day, one must seize the moment —
+literally — and bring everything to a sudden halt. Time sink
+was designed just for this purpose. The successful casting this
+spell temporarily stops the effects of time in a limited area.
+The spell affects both living and nonlinving targets, up to
+1,000 kilograms total, including rain, flying projectiles, and
+collapsing structures. The caster is also subject to the spell’s
+effect if he includes himself in the area of effect.
+Additionally, anything entering the area of effect stops
+— bullets or shrapnel hitting the edge halt as they enter
+the area, people pause as soon as they’re completely inside,
+and so on.
+Once the duration of the spell wears off, the snail shell frac-
+tures and crumbles to dust. When this occurs, all temporally
+suspended objects and effects resume their prior course and
+motion: Bullets and shrapnel continue toward their intended
+targets, people finish their actions, and the like.
+
+
+Withering Sand
+~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 12 
+:Effect: 6 (age: old (R2), +1 to difficulties of physical actions and +3 to interaction difficulties when attempting to deal with much younger people)
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 10 min \(14)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (6): 60 grams of refined white sand (common; destroyed)
+
+
+    gestures (2): Toss sand at intended target and then run fingers of the same hand across the mage’s scalp from front to back (simple)
+
+
+    focused (4): Focus based on effect, duration
+
+
+    incantations (3): Youth’s sweet flower soon fades and grows sour. Life is often lived in vane, for in the end all must wane. Your essence I draw hither. Before your sight, watch it wither! (complex (persuasion roll with difficulty of 11))
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: death, folk, time
+
+
+    (0): Difficulty: 12
+
+
+
+
+Angered chronomancers are often wicked, vindictive crea-
+tures, and one crosses them at his own peril. Withering sand
+is but a sample of the serving of pain the temporal titans can
+dish out to those who draw their ire. The successful casting
+of this spell temporarily afflicts the target with the Age: Old (R2) Disadvantage. This spell only affects living creatures
+and bestows a +1 penalty to the difficulty of physical actions
+and +3 to any attempts to interact with those who would
+be prejudiced against elderly people. Those who are already
+affected by the Age: Old (R2) Disadvantage have all related
+modifiers doubled.
+
+
+
+

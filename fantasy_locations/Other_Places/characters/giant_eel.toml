@@ -1,0 +1,89 @@
+[[characters]]
+name = "Giant Eel"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "5D"
+skills = [
+    { label = "fighting", dice = "5D" },
+    { label = "contortion", dice = "5D" },
+    { label = "dodge", dice = "5D" },
+    { label = "stealth", dice = "5D+ 1" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "3D"
+skills = [
+    { label = "lifting", dice = "4D+1" },
+    { label = "swimming", dice = "4D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "1D"
+skills = []
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D"
+skills = [
+    { label = "search", dice = "3D" },
+    { label = "tracking", dice = "3D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D"
+skills = [
+    { label = "intimidation", dice = "3D" },
+    { label = "mettle", dice = "2D+2" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ( swimming ) ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "14"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Natural]
+label = "Natural"
+
+[[characters.details.Natural.details]]
+label = "breathe in water"
+rank = ""
+details = ""
+
+[[characters.details.Natural.details]]
+label = "constriction ( successful tackle does +1 D damage per round , cumulative , after the first round , to a maximum of +3 D )"
+rank = ""
+details = ""
+
+[[characters.details.Natural.details]]
+label = "jaws ( damage +1 D )"
+rank = ""
+details = ""
+
+[[characters.details.Natural.details]]
+label = "thick hide ( Armor Value +2 )"
+rank = ""
+details = ""

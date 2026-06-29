@@ -1,0 +1,113 @@
+**Bird-of-Prey**:
+Agility 4D, fighting 5D, flying 5D, 
+Coordination 1D, 
+Physique 2D, 
+Intellect 1D, 
+Acumen 2D, search 3D, tracking 3D, 
+Charisma 2D, mettle 3D, 
+*Move*: 32 fly/15 glide, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 7, *Natural Abilities*: wings allow the bird to fly or glide for several hundred miles or as long as there are thermals to keep them aloft; beak (damage +2); talons (damage +1D); small size (scale modifier 9).
+
+
+**Cat, Domestic**:
+Agility 3D, fighting 4D, climbing 4D, dodge 4D, jumping 4D, stealth 4D, 
+Coordination 1D, 
+Physique 1D, running 3D, 
+Intellect 1D, 
+Acumen 2D, search 3D, tracking 3D, 
+Charisma 2D, mettle 3D, 
+*Move*: 20, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 8, *Natural Abilities*: claws (damage +2); teeth (damage +2); small size (scale modifier 6).
+
+
+**Cat, Large**:
+Agility 4D, climbing 5D, dodge 5D, fighting 5D, jumping 5D, stealth 5D, 
+Coordination 2D, 
+Physique 4D, running 5D, 
+Intellect 1D, 
+Acumen 2D, search 3D, tracking 3D, 
+Charisma 2D, intimidation 5D, mettle 4D, 
+*Move*: 30, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24, *Natural Abilities*: thick fur (armor value +2); claws (damage +1D); teeth (damage +1D), *Note*: Large cats can leap up to 10 meters horizontally or two meters vertically..
+
+
+**Cobra**:
+Agility 4D, fighting 5D, stealth 5D, 
+Coordination 2D, marksmanship:spitting 4D, 
+Physique 1D, 
+Intellect 1D, 
+Acumen 2D, search 3D, tracking 3D, 
+Charisma 2D, intimidation 4D, mettle 4D, 
+*Move*: 15, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 5, *Natural Abilities*: fangs (damage +1D); venom injected when fighting success beats difficulty by 5 or more); venom spitting (with a called shot to the eyes or mouth, the cobra spits venom into this area); venom (causes 5 points of damage or 1 Wound level every 10 minutes until victim dies or is treated; Very Difficult stamina roll to resist); small size (scale modifier 9).
+
+
+**Dog, Domestic**:
+Agility 3D, dodge 4D, fighting 4D, 
+Coordination 1D, 
+Physique 3D, running 4D, 
+Intellect 1D, 
+Acumen 2D, search 3D, tracking 4D, 
+Charisma 2D, intimidation 3D, mettle 2D+1, 
+*Move*: 2S, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 9, *Natural Abilities*: teeth (damage +1D); small size (scale modifier 5).
+
+
+**Dog, Guard**:
+Agility 3D, dodge 6D, fighting 5D, 
+Coordination 1D, 
+Physique 4D, running 4D+1, 
+Intellect 1D, 
+Acumen 2D, search 3D, tracking 4D, 
+Charisma 2D, intimidation 5D, mettle 4D, 
+*Move*: 25, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 12, *Natural Abilities*: teeth (damage +1D); small size (scale modifier 4).
+
+
+**Horse**:
+Agility 3D, fighting 4D, jumping 4D, 
+Coordination 1D, 
+Physique 4D, running 5D, 
+Intellect 1D, 
+Acumen 3D, 
+Charisma 2D, intimidation 3D, mettle 3D, 
+*Move*: 25, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 15, *Natural Abilities*: hoof (damage +2); teeth (damage +2); large size (scale modifier 3), *Note*: Horses can attack the same target twice in one round with their hooves (two front or two back) at no penalty, or they can bite once.
+
+
+**Rats**:
+Agility 3D, acrobatics 3D+1, climbing 3D+2, dodge 3D+1, fighting 3D+2, jumping 4D, 
+Coordination 3D, 
+Physique 1D, running 3D, swimming 1D+2, 
+Intellect 1D, 
+Acumen 2D, hide: self only 4D, search 3D, 
+Charisma 1D, willpower 2D, 
+*Move*: 3, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 6, *Natural Abilities*: teeth (Strength Damage only); swarm attack (roll a single fighting total for entire group of rats, adding +5 to the total for every 10 creatures involved; if using the optional damage bonus, add the bonus for this roll to the Strength Damage of a single rat); small size (scale modifier 9 for single rat).
+
+
+

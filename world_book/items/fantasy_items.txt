@@ -1,0 +1,167 @@
+
+Amulet of Protection
+~~~~~~~~~~~~~~~~~~~~
+
+An oddly-shaped pendant on a thick leather cord envelopes the wearer in a defensive aura
+
+:Effect: 3 (attack_resistance (R1) non-enchanted weapons; burn_out (R1) can be lost or stolen)
+:Type: Jewelry: Amulet
+:Price: H (200 G)
+
+
+
+Enchanted Dagger
+~~~~~~~~~~~~~~~~
+
+The weapon gives the user a greater chance of harming magical creatures
+
+:Effect: 27 (natural_hand_to_hand_weapon (R1) ; burn_out (R1) can be lost or stolen; magically_empowered (R2))
+:Type: Weapon: Dagger
+:Price: H (600 G)
+
+
+
+Ring of Power
+~~~~~~~~~~~~~
+
+With this ring, the user can cast low-level magical spells
+
+:Effect: 21 (Ring: increased_attribute (R1) magic; additional_effect (R4) treat as if user uas 1D+1 in Magic regardless of actual Magic score; skill_bonus (R1) magic skills, alteration, apportation, and conjuration; all with burn_out (R1) can be lost or stolen)
+:Type: Jewelry: ring
+:Price: L (1200 G)
+
+
+
+Dragon's Kiss
+~~~~~~~~~~~~~
+
+Rubbing this pungent concoction upon wounds hastens the healing process.
+The mixture must be kept dry at all times; otherwise, its healing properties are lost.
+There's enough in one packet for two uses.
+
+:Effect: 6 (bonus to healing skill 2*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+:Price: M (5 G)
+
+
+
+Adrik Incense
+~~~~~~~~~~~~~
+
+Burning this incense while performing any Intellect
+skill adds a +2 bonus to all related totals for one round
+Each stick of incense provides one use.
+
+:Effect: 6 (bonus to any Intellect skill 2*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+:Price: M (4 G)
+
+
+
+Dried Lion Flower Tea
+~~~~~~~~~~~~~~~~~~~~~
+
+Brewing this tea and consuming adds 2 to stamina
+totals for two hours. The dry tea is sold in silk packs
+with enough for a single use.
+
+:Effect: 6 (bonus to any stamina skills 2*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+:Price: M (5 G)
+
+
+
+Mirror of the Highest Sun
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+These holy items are highly polished metal, made more
+reflective than any conventional means by the abbey's secret
+process. Although it does not seem to have any miraculous
+abilities of its own, it can augment other effects that rely on
+light or the sun. Thus vampires find light reflected by this
+mirror even more unbearable, illusions using it as a component
+are more effective, and so on.
+
+:Effect: 36 (uncanny_aptitude (R4))
+:Other Aspects:
+
+    disdvantage (1): burn_out (R1)
+
+
+
+:Price: VD (100 G)
+
+
+
+Charm
+~~~~~
+
+This potion improves the attractiveness of a
+person for one day ( +4D to charm skill), but it requires that
+the user to ingest the liquid. Since the clear fluid has an
+acrid taste and a strong odor, imbibing it's a challenge (Easy
+mettle or stamina attempt). Mixing it with a substance that
+covers the flavor and smell reduces the difficulty.
+
+:Effect: 12 (bonus to charm skill 4*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (-2): acrid taste and a strong odor: Easy mettle or stamina to detect
+
+
+:Price: M (5 G)
+
+
+
+Water of Wretchedness
+~~~~~~~~~~~~~~~~~~~~~
+
+A thick, syrupy substance that possesses an offensive
+odor. Once this potion has been consumed, the target
+suffers Bad Luck (R3). If the potion is mixed with another
+liquid or poured over food, the effect is reduced to Bad
+Luck (R2), as the potency is decreased. Coaxing or fooling a victim into consuming the liquid is at a +S to the
+interaction attempt.
+
+:Effect: 9 (bad_luck (R3))
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (-2): offensive odor: Easy mettle or stamina to detect
+
+
+:Price: M (5 G)
+
+
+
+Singing Sword
+~~~~~~~~~~~~~
+
+The exquisite weapon is a long sword, with a engraved hiltdepicting a beautiful woman singing with a lute. Its deadlinessis based upon the wielder's skill.
+
+-   A hero with a melee combat skill of 4D or less causes the unsheathed blade to emit a high-pitched whistle that can distract an opponent who failsan Easy mettle roll in the first round of hearing the sword.
+
+-   Characters with a melee combat skill of at least 6D can cause the sword to send forth a sonic blast, causes 2D+1 damage to all within two meters.Anyone wearing metal armor suffers an additional 1D of damage, as the sound sonic vibrations heat the metal.
+
+-   Heroes with a melee combat skill of 8D can cause the sword to produce a low-pitched tone that can damage all solid objects. Anything composed ofstone, glass, wood, or flesh within the two-meter area of effect suffers 2D+2 damage.
+
+Each ability may only be used once per day, and the heromust have the appropriate skill level to use them. The wielderis not affected by any of the sword's abilities.
+
+:Effect: 30 (sword: ordinary sword damage 2*D; hindrance (R2), Distracting whistle; Sonic blast 2*D+1; Sonic blast heats armor 1*D; Destructive Vibration 2*D+2)
+
+:Price: 
+
+
+

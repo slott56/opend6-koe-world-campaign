@@ -1,0 +1,52 @@
+**Bandit Army General (Knight)**:
+Agility 4D, fighting 1D, riding 1D, melee combat 1D, Coordination 4D, Physique 4D, stamina 1D, Intellect 3D+2, speaking 1D, healing 1D, Acumen 3D+2, survival 1D, tracking 1D, investigation 1D, gambling 1D, Charisma 3D+2, intimidation 4D+2.
+*Disadvantages*: Devotion (R2), Cult of the Jackal; Employed (R2), Cult of the Jackal; Quirk (R2), Exercie Nut,
+*Move*: 10.0, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 26.
+
+
+**Bandit Army Colonel (Squire)**:
+Agility 4D, fighting 1D, melee combat +2, Coordination 4D, Physique 4D, stamina 1D+1, Intellect 3D+2, Acumen 3D+2, gambling 1D, hide 1D, survival 1D, tracking 1D, Charisma 3D+2, intimidation 4D+2.
+*Disadvantages*: Devotion (R2), Cult of the Jackal; Employed (R2), Cult of the Jackal; Hindrance (R3), Thinks he's invincible; Quirk (R2), Ruthless political climber,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 28.
+
+
+**Bandit Army High Mage**:
+Agility 4D, fighting +2, melee combat +2, Coordination 4D, Physique 4D, stamina 1D+1, Intellect 3D+2, reading/writing 1D, Acumen 3D+2, gambling 1D, know-how 1D, Charisma 3D+2, intimidation 4D+2, Extranormal 3D.
+*Disadvantages*: Devotion (R2), Cult of the Jackal; Employed (R2), Cult of the Jackal; Quirk (R2), Loves the idea of a fight, not the fighting,
+*Move*: 10.0, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 20.
+
+
+**Bandit Army Mage**:
+Agility 4D, fighting +2, Coordination 4D, Physique 3D+2, Intellect 3D+2, Acumen 3D+2, Charisma 3D+2, intimidation 4D, Extranormal 2D.
+*Disadvantages*: Devotion (R2), Cult of the Jackal; Employed (R2), Cult of the Jackal; Quirk (R2), Back-stabbing little shitweasel,
+*Move*: 10.0, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 20.
+
+
+**Bandit Army -- Guard, Thug, etc.**:
+Agility 4D, fighting +2, melee combat +2, Coordination 3D, Physique 3D, Intellect 3D, Acumen 3D, Charisma 2D.
+*Disadvantages*: Devotion (R3), Cult of Jackal; Employed (R3), Jackal Temple; Quirk (R2), Hopes to becomes an agent,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R1D), Brutal punch,
+*Move*: 10.0, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24.
+
+
+

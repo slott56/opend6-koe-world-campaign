@@ -1,0 +1,11 @@
+**Typical Acolyte**:
+Agility 2D, melee combat 3D, Coordination 2D, Physique 3D, Intellect 3D, reading/writing 3D+1, speaking 3D+1, Acumen 3D, investigation 3D+2, Charisma 3D, mettle 3D+1, Extranormal 1D, divination 2D, favor 2D+1, strife 2D+2.
+*Disadvantages*: Devotion (R1), to religion; Employed (R1), must follow sect's regulations,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 11, *Equipment*: robes; holy symbol; quarterstaff (damage +1D+2).
+
+
+

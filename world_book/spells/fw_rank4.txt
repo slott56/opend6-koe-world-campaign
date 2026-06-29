@@ -1,0 +1,165 @@
+
+Sleep
+~~~~~
+
+:Skill: Temperamental Alteration
+:Difficulty: 18 
+:Effect: 12 (Narcolepsy (R4), -4D to mental and physical attributes)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 hr \(18)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Control Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Folme Agility
+
+
+
+
+Physique, Coordination, Acumen, and Intellect are (temporarily) reduced, leading to fatique
+
+
+Conjure Wall of Rock
+~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Elemental Conjuration
+:Difficulty: 20 
+:Effect: 14 (Move earth element to a new position 600 kg)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Earth Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    area_of_effect (10): 2m radius sphere
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Hildeþrymm Physique
+
+
+
+
+Creates a wall from free earth elements
+
+
+Totally Invisible
+~~~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Alteration
+:Difficulty: 20 
+:Effect: 24 (Perception is ruined (R8))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Control Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Witan Acumen
+
+
+
+
+The thing is almost impossible to see
+
+
+Portable Cache
+~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 19 
+:Effect: 38 (Possession and Apportation: Apportation to another realm (R3); Limited to 50 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Veil Opening Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    components (3): Movable artifact (e.g. bag) (common)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: None
+
+
+
+
+The mage can reach through a portable container's opening into a known space in another realm to keep things. The other realm location is not 100% safe; a critical failure may mean the cache was moved in the other realm. The opening is centered on something moveable, like a a bag or scrip the mage carries.
+
+
+Reanimate Non-Human
+~~~~~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 18 
+:Effect: 34 (Temperamental Conjuration of one 10D non-human)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Conjuration Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    components (4): a living example (uncommon)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: None
+
+
+    (3): All four elements present in the environment: fire, flowing water, wind, and loose earth.
+
+
+
+
+Reanimates a complete non-human for an hour.
+
+

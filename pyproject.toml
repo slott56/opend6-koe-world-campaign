@@ -1,0 +1,22 @@
+[project]
+name = "opend6-fantasy-kingdom-of-the-east"
+version = "0.1.0"
+description = "The Kingdom of the East: an OpenD6 worldbook and Bandit King campaign."
+readme = "README.rst"
+authors = [
+    { name = "S.Lott", email = "slott56@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "fictool",
+    "jupyterlab>=4.5.4",
+    "matplotlib>=3.10.7",
+    "opend6-tools",
+    "sphinx>=9.1.0",
+    "sphinxnotes-strike>=2.0",
+    "sympy>=1.14.0",
+]
+
+[tool.uv.sources]
+fictool = { path = "/Users/slott/Documents/Writing/Fiction/tools"}
+opend6-tools = { git = "https://github.com/slott56/opend6-tools" }

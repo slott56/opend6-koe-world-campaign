@@ -1,0 +1,126 @@
+
+Heroism
+~~~~~~~
+
+
+
+:Effect: 36 (Heroism Potion: endurance (R3); combat_sense (R3))
+:Other Aspects:
+
+    charges (0): 1 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (1): burn_out (R1) Shelf-life of 4D6 days
+
+
+    Arcane Knowledge: Controller: Hildeþrymm
+
+:Type: Potion
+:Price: D (100G)
+
+
+
+Giant Strength
+~~~~~~~~~~~~~~
+
+
+
+:Effect: 18 (increased_attribute: physique (R3))
+:Other Aspects:
+
+    charges (0): 1 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (1): burn_out (R1) Shelf-life of 4D6 days
+
+
+    Arcane Knowledge: Controller: Folme
+
+:Type: Potion
+:Price: D (50G)
+
+
+
+Healing
+~~~~~~~
+
+
+
+:Effect: 18 (accelerated_healing (R2))
+:Other Aspects:
+
+    charges (0): 1 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (1): burn_out (R1) Shelf-life of 4D6 days
+
+
+    Arcane Knowledge: Controller: Folme
+
+:Type: Potion
+:Price: D (50G)
+
+
+
+Invulnerability
+~~~~~~~~~~~~~~~
+
+
+
+:Effect: 18 (Invulnerability: hardiness (R3); immunity (R3))
+:Other Aspects:
+
+    charges (0): 1 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (1): burn_out (R1) Shelf-life of 4D6 days
+
+
+    Arcane Knowledge: Controller: Folme
+
+:Type: Potion
+:Price: D (50G)
+
+
+
+Weakness
+~~~~~~~~
+
+
+
+:Effect: 9 (hindrance (R3))
+:Other Aspects:
+
+    charges (0): 1 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (1): burn_out (R1) Shelf-life of 4D6 days
+
+
+    Arcane Knowledge: Controller: Folme
+
+:Type: Potion
+:Price: M (25G)
+
+
+

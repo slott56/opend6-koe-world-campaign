@@ -1,0 +1,1341 @@
+
+Alter Shape
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 47 
+:Effect: 60 (shapeshifting (R1) form of caster’s choosing restricted (R2) ability uncontrolled by target up to 19 points — not ranks — of related Special Abilities, with additional ranks in a Special Ability equalling the point cost of the first rank)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Enchanted
+
+
+    charges (4): 1 improved_charge
+
+
+    components (2): Clay and stone (very_common)
+
+
+    gestures (2): Shape clay into rough version of desired form (simple)
+
+
+    focused (17): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 47
+
+
+
+
+This spell changes the physical form of the target. For all
+intentions, the character becomes the creature. However,
+he maintains his disposition to friends and enemies, and
+has a vague sense of identity. Additionally, while he might
+not be able to directly communicate, he can understand
+basic instructions, and respond with sounds, gestures, or
+movements.
+
+
+
+
+Befriend Animal
+~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 18 
+:Effect: 18 (animal handling of use persuasion: animals in D6 Space +6D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Enchanted
+
+
+    components (1): Shiny trinket (ordinary)
+
+
+    gestures (2): Swing or move trinket back and forth (simple)
+
+
+    incantations (1): Soothing sounds (phrase)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 18
+
+
+
+
+Sometimes a canny mage can turn a bad situation into a
+good one. In this case, by using the 6D in animal handling
+(persuasion: animals  in D6 Space) granted by the spell, the
+character could befriend creatures, hostile or otherwise.
+The spell’s target makes an opposed difficulty roll against a
+creature’s willpower/mettle (or the governing attribute) plus
+5. If successful, an unfriendly creature can be converted into
+an ally — one that fights for the caster. Any attack against
+the creature by the caster or one of her allies immediately
+ends the spell.
+
+
+Blur
+~~~~
+
+:Skill: Conjuration
+:Difficulty: 13 
+:Effect: 9 (blur (R1) , +1 to dodge, sneak/stealth, and hide: self totals, plus +1 to default search, tracking, investigation, and attack difficulties against character)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 10 min \(14)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (2): Strip of cloth (ordinary); bit of glass (ordinary)
+
+
+    feedback (3): lowered resistance
+
+
+    gestures (2): Polish glass with cloth (simple)
+
+
+    incantations (1): “Blur.” (phrase)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 13
+
+
+
+
+By  sacrificing some of her life energy, the mage grants
+a target 10 minutes of the bonus given by the Blur Special
+Ability at rank 1. See the description of this Special Ability in
+the “Character Options” chapter for additional details.
+
+
+Change Material
+~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 11 
+:Effect: 4 (5 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    feedback (1): lowered resistance
+
+
+    incantations (2): “You will become...” followed by new material’s name (sentence)
+
+
+    focused (6): Focus based on effect, duration
+
+
+    other_alterants (9): Other Alterants: Transmute to new form
+
+
+
+
+
+:Other Conditions:
+    (-1): Simple, inanimate material only
+
+
+    (0): Difficulty: 11
+
+
+
+
+This spell allows the caster to transform one simple, non-
+living substance into another simple, nonliving substance.
+Lead into gold is a popular transformation. The drawback is
+that the change is not permanent, but for the duration, the
+item possesses the attributes and qualities of the transformed
+material. How well the item mimics its new state depends
+on the material’s complexity; the gamemaster uses the result
+points of the spell’s skill roll to determine how successful
+the transformation was. When the spell ends, it reverts to
+the original state.
+Up to five kilograms of material can be altered by this
+spell. It will pass most — if not all — tests appropriate for
+its new state. However, if a spell that detects magic is per -
+formed, the new material reveals that unnatural forces are
+acting upon it.
+Changed matter can be used as spell components providing
+they are used within the spell’s duration. Nontheless, there
+is an increased risk of spell failure. When using transformed
+material, a Critical Failure always indicates that something
+went wrong wtih the spell.
+
+
+Deadeye
+~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 14 
+:Effect: 27 (skill_bonus (R9) , +27 to marksmanship/firearms totals)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 2 round \(5)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    incantations (1): “Aim.” (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 14
+
+
+
+
+If a caster successfully casts this spell, she can temporarily
+increase a target’s marksmanship/firearms skill by +27. While
+this has no direct effect on damage, it provides for highly
+accurate ranged weapon attacks, and it can be combined
+with other modifiers. The spell is ideally used for snipers or
+assassination attempts but can serve on any occasion when
+the need for a precise shot is required.
+
+
+Deafen
+~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 35 
+:Effect: 27 (hindrance: deafness (R9), , +6 to difficulties of all hearing-dependent actions)
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    area_effect (20): 4m radius sphere
+
+
+    components (3): Small chime or bell (common)
+
+
+    gestures (2): Ring chime or bell (simple)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 36
+
+
+
+
+When the caster rings a small bell, a loud noise can be
+heard, deafening all in the designated area of effect. This
+is likely to hinder all actions, as the inability to hear is not
+only startling but unsettling. All hearing-based actions are
+performed with a +6 difficulty modifier. Nothing can be heard
+while affected by the spell.
+
+
+
+
+Detect Presence
+~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 26 
+:Effect: 18 (search of  to locate living beings +6D)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    incantations (1): “See all.” (phrase)
+
+
+    focused (7): Focus based on effect, duration
+
+
+    other alterant (1): Reveal cyborgs
+
+
+    variable movement (5): bend_around_smaller; target_invisible
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 26
+
+
+
+
+This spell can locate someone who is hiding. The spell
+confers 6D search dedicated to finding living entities only.
+The difficulty is determined by either the target’s (or targets’)
+hide total or the gamemaster. A success causes the located
+subject to glow in a faint blue light, only visible to the caster.
+The mage can look in a different direction once per round.
+Besides hunting down people secreted away in a dark
+room, it is also possible to determine the difference between
+a human and a cyborg. In situations where cyborgs appear
+human, they glow, revealing their nonliving nature.
+
+
+Distract
+~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 23 
+:Effect: 18 (persuasion +6D)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 day \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (1): Shiny trinket (ordinary)
+
+
+    gestures (2): Display the trinket while saying incantation (simple)
+
+
+    incantations (2): Simple instruction (sentence)
+
+
+    focused (9): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 22
+
+
+    (-5): Unreal Effect: Disbelief difficulty of 13
+
+
+
+
+This spell allows a magic user to distract a target, making
+that character believe there are other more pressing matters
+to attend to. By the display of a mesmerizing bauble and a
+simple suggestion, the caster could cause an attacker to sud-
+denly halt and depart, or to make an enemy go on a journey
+for the duration of the spell. The distracted character follows
+any single command, within reason. Possibilities include “go
+home,” “climb a tree,” “run to the nearest town,” and so on.
+A successful roll of the skill given by the spell against the
+target’s willpower/mettle (or the governing attribute) indicates
+that the suggestion took hold.
+
+
+Fancy Riding
+~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 17 
+:Effect: 9 (skill_bonus: animal insight (R3) , +9 to riding totals)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (1): Hair or fur of a beast of burden (ordinary)
+
+
+    incantations (2): “Convey!.” (phrase; loud)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 16
+
+
+
+
+A target with this spell cast upon her recieves a +9 bonus
+to her riding totals. For the duration of the spell, the target
+has an understanding of beasts of burdens and their natures,
+knowing how to handle them and keep them under control
+in nearly any condition.
+
+
+Fate
+~~~~
+
+:Skill: Alteration
+:Difficulty: 16 
+:Effect: 9 (luck_great (R1) , confers 1 additional Fate Point only)
+:Range: 1 km \(15)
+:Speed:  \(15)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    component (5):  (common; very_common)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    incantations (1): “Hero.” (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 16
+
+
+
+
+With this spell, the mage persuasdes the Fates to smile
+upon the hero (by granting the player one Fate Point that
+may be used on any one action in the round following the
+casting of the spell).
+Those who attempt to abuse this spell should note that
+Fate suffers no challenges lightly, and playing such games
+can result in the demise of a character.
+
+
+Find Trap
+~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 23 
+:Effect: 18 (search of  for finding traps +6D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    area_effect (9): 3.5m radius divination sphere
+
+
+    incantations (2): “Where’d I put that trap?” (sentence)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 23
+
+
+
+
+The magic of this spell is focused upon devilish devices.
+When the caster intonesthe incantation, the spell is activated,
+providing the target with 6D in search that is limited in focus
+to traps of any sort within 3.5 meters of the user. If the skill
+roll is a success, then the spell user sees the located trap glow
+green. The finder can point out the trap to others, but it is not
+similarly revealed to them. For example, if the trap is invisible,
+then it remains invisible after detected. Furthermore, seeing
+a trap does not convey the ability to disarm it.
+
+
+
+
+
+
+Find Way
+~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 19 
+:Effect: 14 (Boost to navigation +3D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (3): Compass or astrolabe (common)
+
+
+    incantations (3): “Find me a way to go!” (sentence; loud)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 18
+
+
+
+
+The recipient of this spell garners a +3D bonus to her
+navigation skill. This bonus works under all circumstances,
+including at sea, in a city, or in a maze.
+
+
+Insight to Weakness
+~~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 22 
+:Effect: 36 (skill_bonus: weakness detection (R12) , +36 to melee combat totals)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 2 round \(5)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    incantations (1): “See.” (phrase)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 22
+
+
+
+
+This spell grants the target +36 to melee combat totals for
+two rounds. The magical incantation makes clear an oppo -
+nent’s weaknesse and allows them to be taken advantage
+of. No additional damage is directly conferred by this spell,
+although a clever character might use it to strike at a head or
+heart and perform a killing blow on an unwary opponent.
+
+
+Illiterate
+~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 21 
+:Effect: 3 (Illiterate (R1),  Disadvantage)
+:Range: 1 km \(15)
+:Speed:  \(15)
+:Duration: 1 mon \(32)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (7): pen or quill (common); sheet of parchment (uncommon)
+
+
+    gestures (3): Write incantation and then repeat the writing in reverse, repeating until the parchment is covered (complex (languages/reading/writing roll with difficulty of 11))
+
+
+    incantations (2): “I will not remember how to read.” (sentence)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 21
+
+
+    (-1): Unreal Effect: Disbelief difficulty of 13
+
+
+
+
+This devious spell causes the target to forget how to read.
+While to some this is not distressing, to mages and scholars
+it is a nightmare. As  the ability to read has not actually been
+erased, but has only been implanted in the subconscious of
+the target, it is possible to disbelieve by making a willpower/
+mettle roll (or the governing attribute) at  a difficulty of 13.
+Nonetheless, the situation is distressing, and the gamemaster
+might consider modifiers if the target had recently bumped
+her head or suffered a trauma that might cause her to believe
+that she had actually lost the ability to read.
+
+
+Insight into the Future
+~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 18 
+:Effect: 18 (up to -- in the future 1 hr)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    incantations (2): “Reveal the future so that I may slip truly into it.” (sentence)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 18
+
+
+
+
+After casting this spell, the target gains insight into the
+future through flashes of images, sounds, and smells. A
+character can possibly bring these insights into focuse by
+asking a question (such as, “Who’s on the other side of the
+door I’m about to open?) and making an investigation rolls.
+(She may do this no more than once per round.) The game-
+master decides on the difficulty, which should never be less
+than Moderation, even for a simple yes-or-no question or one
+centering on the near future. The higher the investigation roll
+is above the difficulty, the clearer the insight becomes.
+
+
+Investigate
+~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 30 
+:Effect: 24 (skill_bonus: investigation (R8) , +24 to investigation totals)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 wk \(29)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (2): Magnifying glass (very_common)
+
+
+    incantations (1): “Learn.” (phrase)
+
+
+    focused (11): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 30
+
+
+
+
+When research is needed, this spell helps find informa -
+tion. When cast upon a target, he gains a bonus of +24 to
+investigation totals.
+While this spell doesn’t assist in comprehension, it reveals
+the best clues to follow up. It is also likely that a Heroic success
+provides great insight into the matter being delved into.
+
+
+Invoke Emotion
+~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 17 
+:Effect: 15 (persuasion +5D)
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (1): Pin (ordinary)
+
+
+    gestures (2): Use pin to point at target (simple)
+
+
+    incantations (1): State simply the desired emotion (phrase)
+
+
+    focused (6): Focus based on effect, duration
+
+
+    unreal_effect (4): Unreal Effect: difficulty_13
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 19
+
+
+    (-4): Unreal Effect: Disbelief 
+
+
+
+
+With a successful casting, the target must make an opposed
+interaction roll against the spell’s persuasion of 5D. Failure
+means that she has succumbed to the emotion suggested in
+the incantation. Some single word examples are angry, happy,
+laughing, sad, crying, pouting, cold, shy, frightened, amazed,
+inspired, smitten, and so on. If it occurs, the moody target
+can attempt to disbelieve by using willpower/mettle (or the
+governing attribute) at a difficulty number of 13. When the
+spell ends or is disbelieved, the effect discontinues.
+
+
+
+
+Leap
+~~~~
+
+:Skill: Alteration
+:Difficulty: 16 
+:Effect: 15 (skill_bonus: frog legs (R5) , +15 to jumping/ climb/jump totals)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (2): Frog legs (very_common)
+
+
+    countenance (1): Target’s legs take on a froggish appearance (noticeable)
+
+
+    incantations (1): “Bound.” (phrase)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 16
+
+
+
+
+This spell grants a temporary bonus of +15 to a character’s
+jumping/climb/jump totals skill. For the duration of the spell,
+the legs of the target take on the muscled appearance of those
+of a frog’s legs. Although the bone structure remains the same,
+a Moderate investigation roll discerns that there is something
+usual about the muscles of the targeted person’s legs.
+
+
+Mistaken Identity
+~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 28 
+:Effect: 24 (Shape Changing: shapeshifting (R1) one specific person; Skill Bonus: In Disguise boost bluff/con totals related to disguise +5D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 wk \(29)
+:Casting Time: 25 min \(16)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic, folk
+
+
+    incantations (1): Repeat name of new identity (phrase)
+
+
+    focused (11): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Target must know person
+
+
+    (0): Difficulty: 28
+
+
+
+
+To properly use this spell requires that the target remain
+in place for 30 minutes and that she knows the identity
+she is going to assume. If the spell is a success, there is not
+only a physical transformation — there is also a mental
+transformation.
+Once magically convinced, the target takes on the manner-
+isms, attitudes, and physical actions of the desired persona.
+Any necessary memories are manufactured, which might
+end up being a trigger to those who know the real person.
+Nonetheless, until the spell wears off, as far as the target
+knows, she is that person, so lie detectors and other means
+of detecting fibs are fruitless.
+
+
+Perfect Touch
+~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 22 
+:Effect: 36 (skill_bonus: perfect touch (R12) , +36 to sleight of hand totals)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 2 round \(5)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    incantations (1): “When.” (phrase)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 22
+
+
+
+
+A successful casting of this spell allows the target to perform
+the sleight of hand skill with heroic ability, granting a tempo-
+rary bonus of +36 to such totals. This not really an increase
+in ability so much as it is a unique understanding of how to
+increase finger deftness or when to pick a pocket.
+
+
+Possess the Living Mind
+~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 23 
+:Effect: 21 (possession_limited (R1)  restricted (R1) may only read target’s mind)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 1 day \(25)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (6): Personal possession of target (uncommon); chalk (very_common)
+
+
+    gestures (3): Draw circles and sigils of possession with chalk (complex (artist roll with difficulty of 11))
+
+
+    incantations (2): “Open your mind to my thoughts.” (sentence)
+
+
+    focused (9): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 24
+
+
+
+
+The canny mage can use this spell to ride along with another
+being for a day. The caster perceives the world through the
+target’s senses and can possibly read the victim’s thoughts.
+(The result points from casting this spell are used on the
+“Possession Knowledge” chart to determine how much
+information the mage gathers.)
+When attempting to possess another, the mage must make
+a check of willpower/mettle (or the governing attribute) against
+the standard interaction difficulty. Exceeding the difficulty
+means that the target is unaware of the hitchhiker. Meeting
+the difficulty indicates that the target knows someone else is
+sharing her mind, though she doesn’t know who it is. Failure
+means that victim managed to kick out the caster before he
+could get a foothold.
+In no case does the caster have any influence on the per-
+son’s actions. Additonally, the caster is only dimly aware of
+what is going on around his body.
+
+
+Slip
+~~~~
+
+:Skill: Alteration
+:Difficulty: 27 
+:Effect: 18 (hindrance: slick surface (R6), , +6 to acrobatics, dodge, and running difficulties)
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    area_effect (20): 10m radius circle
+
+
+    components (2): Drop of oil (ordinary; destroyed)
+
+
+    gestures (2): Rub oil between fingers (simple)
+
+
+    incantations (1): “Slip.” (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 28
+
+
+
+
+Upon casting this spell, a oily surface covers the desig -
+nated area. Everyone within the affected area suffers a +6
+difficulty modifier to most physical actions that involve leg
+and feet movement.
+
+
+
+
+Speak Language
+~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 11 
+:Effect: 18 (languages/speaking of , for speaking only +6D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (3): Fashioned leather tongue (common)
+
+
+    gestures (2): Point (simple)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 12
+
+
+
+
+The recipient of this spell can speak in an unknown tongue
+with a limited languages/speaking skil of 6D. Unless a spell
+that permits understanding languages is also cast on the
+same target, it is not possible to understand a reply in the
+language. The gamemaster determines the difficulty for the
+target to express ideas, based upon how common or alien
+the language is.
+
+
+Sphere of Protection
+~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 18 
+:Effect: 24 (compare to skill total of spell countering)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    area_effect (15): 3m radius sphere
+
+
+    components (5): Diamond (very_rare)
+
+
+    gestures (2): Drop diamond on ground (simple)
+
+
+    incantations (1): “Stop magic.” (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 19
+
+
+
+
+When the mage casts this spell and drops the diamond up to
+a meter from her, a magically disruptive sphere forms around
+it. All who are within the sphere are protected against spells.
+The spell doesn’t prohibit ranged attacks or fighting of any
+sort within the sphere. However, the skill totals of all spells
+directed at occupants in the area of effect are compared to
+the effect’s value plus the result point bonus of the spell. If
+the defending spell’s total is higher than the intruding spell’s
+skill total, then the opposing spell is completely repulsed.
+As the spell is not actually focused on the diamond or
+anyone else, friend or foe may enter or leave the area without
+disrupting the spell.
+
+
+Stretch
+~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 14 
+:Effect: 3 (elasticity (R1) , +1 to contortion, dodge, and sleight of hand totals, and +1 to disguise totals that target performs on himself — for D6 Space, use acrobatics: contortion and con: disguise instead of the related listed skills)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (1): Something elastic (ordinary)
+
+
+    gestures (2): Stretch the component (simple)
+
+
+    incantations (1): “Stretch.” (phrase)
+
+
+    focused (4): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 14
+
+
+
+
+This spell grants the target the ability to slip through
+tight spots and wiggle out of harms way, using the Elasticity
+Special Ability at rank 1. See the appropriate section in the
+“Character Options” chapter for additional details.
+
+
+Stun
+~~~~
+
+:Skill: Conjuration
+:Difficulty: 14 
+:Effect: 18 (stunning word +4D (physical damage, stun only, ignore non magical armor))
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 3.5 sec \(3)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    incantations (1): “Stun.” (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 21
+
+
+
+
+With the utterance of a simple word, a mage can stun an
+opponent. The successful casting of this spell causes 4D stun
+damage to the intended target. All that is required is that
+mental focus be placed upon the intended victim (with a
+successful Moderate willpower/mettle roll). The spell effects
+cannot be protected against by nonmagical armor. However,
+the damage is treated as stun damage as indicated in the
+“Damage” chapter of the rulebook.
+
+
+Telepathy
+~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 22 
+:Effect: 24 (telepathy of  +4D (extranormal skill))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic, folk
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 16
+
+
+
+
+This spell grants the target 4D in the telepathy skill. It func-
+tions identically to the Psionics skill as described in the D6
+Adventure Rulebook chapter on “Psionics.” Because the skill
+links minds, it is possible for one person to read the thoughts
+of another character and determine if a lie is being told or
+detect fear. When using this skill, refer to the “Empathy and
+Telepathy” table and the “Lie Detecting” table.
+
+
+Understand Gibberish
+~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 18 
+:Effect: 12 (languages — speaking or reading/writing in *D6 Fantasy* +4D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (1): Wax (ordinary)
+
+
+    gestures (2): Point (simple)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 19
+
+
+
+
+Through the aid of magic, it is possible for a targeted
+character to understand any language or code. Providing the
+spell is successful, the selected character gains 4D languages
+(speaking or reading/writing in D6 Fantasy ) in the specific
+language being heard or read at the moment of casting. This
+includes a normally unknown or undecipherable language,
+although the task is much more difficult. Understand gibberish
+also works with codes.
+The gamemaster determines the difficulty, based upon
+how common or unusual it is.
+
+
+Voices
+~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 23 
+:Effect: 24 (skill_bonus: throw voice (R8) , +24 to bluff/con totals)
+:Range: 60 m \(9)
+:Speed:  \(9)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    area_effect (10): 2m radius sphere
+
+
+    components (3): Leather cord (common)
+
+
+    gestures (2): Pull on cord (simple)
+
+
+    incantations (1): Whisper distracting words (phrase)
+
+
+    unreal_effect (6): Unreal Effect: difficulty_13
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 18
+
+
+
+
+By uttering a few words, a guard or group of guards can
+be led astray. If successfully cast, this spell gives the magic
+user a +24 bonus to the bluff/con total needed for this spell.
+The results can affect anyone in a specified two-meter radius
+up to 60 meters away.
+An opposed interaction roll is made against the target or
+targets. Anyone failing this roll heads toward the direction
+the caster made the voices appear to come from. For the
+duration of the spell, the incantation words are repeated
+over and over.
+
+

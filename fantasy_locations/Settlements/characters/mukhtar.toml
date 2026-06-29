@@ -1,0 +1,121 @@
+[[characters]]
+name = "Mukhtar, Nomad Leader"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "4D"
+skills = [
+    { label = "fighting", dice = "4D+1" },
+    { label = "melee combat", dice = "5D" },
+    { label = "riding", dice = "4D+2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "3D"
+skills = [
+    { label = "marksmanship", dice = "3D+2" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "4D"
+skills = [
+    { label = "stamina", dice = "5D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = [
+    { label = "cultures", dice = "2D+ 2" },
+    { label = "navigation", dice = "4D" },
+    { label = "trading", dice = "3D" },
+    { label = "traps", dice = "2D+ 2" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "gambling", dice = "3D+ 2" },
+    { label = "search", dice = "3D+ 1" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D"
+skills = [
+    { label = "animal handling", dice = "3D +1" },
+    { label = "intimidation", dice = "4D+1" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "32"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "5"
+suffix = ": ."
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Enemy"
+rank = "(R1)"
+details = ", a member of the Dahae tribe desires to become its new leader"
+
+[[characters.details.Disadvantages.details]]
+label = "Enemy"
+rank = "(R2)"
+details = ", rules of cities that the Dahae have raided ."
+
+[characters.details.Advantages]
+label = "Advantages"
+
+[[characters.details.Advantages.details]]
+label = "Contacts"
+rank = "(R1)"
+details = ", local spies in many of the cities raided by the Dahae"
+
+[[characters.details.Advantages.details]]
+label = "Authority"
+rank = "(R2)"
+details = ", possesses total rule and dedication of the band of nomads ."
+
+[characters.details.Equipment]
+items = [
+    { description = "horse", features = "" },
+    { description = "camel", features = "" },
+    { description = "quilted silk robe", features = "( Armor Value +2 )" },
+    { description = "", features = "" },
+    { description = "two-handed sword", features = "( damage +3D+1 )" },
+    { description = "", features = "" },
+    { description = "waters kin", features = "" },
+    { description = "food pouch", features = "" },
+    { description = "pouch of coins .", features = "" },
+]
+label = "Equipment"

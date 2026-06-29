@@ -1,0 +1,1141 @@
+
+Acidic Attack
+~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 20 
+:Effect: 23 (Acid +5D (physical damage, ignore non magical armor))
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    component (4): Small vile of acid (uncommon)
+
+
+    focused (6): Focus based on effect, duration
+
+
+    gestures (2): Shaking the vile at the target (simple)
+
+
+    incantations (1): Burn! (word)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Water
+
+
+    (0): Difficulty: 20
+
+
+
+
+When a mage casts acidic attack, the spell lasts for 5 rounds.
+Each round, damage continues, but is reduced by 1D. This
+represents the acid’s potency gradually decreasing.  Nonmagi-
+cal armor does not offer a defense against this spell, as the
+mystical corrosive promptly burns through metal, leather,
+clothing, and so on.
+
+As the attack is magical, there is no way to extinguish the
+acid except to dispel it.
+
+
+
+Burrow
+~~~~~~
+
+:Skill: Apportation
+:Difficulty: 14 
+:Effect: 11 (moves 150 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    components (3): A mole skull (common)
+
+
+    focused (6): Focus based on effect, duration
+
+
+    gestures (2): Digging motions with hands (simple)
+
+
+    incantations (1): Dig. (word)
+
+
+    variable_movement (0): 1 m
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Earth
+
+
+    (0): Difficulty: 18
+
+
+
+
+The burrow spell allows the caster to move through all types
+of soil at a rapid pace. When the spell is completed, the caster
+sinks into the earth in a fountain of dirt and sand. As he
+travels through the earth, the soil in front of him is pushed
+behind, collapsing the tunnel he creates. The mage using the
+spell will have a rudimentary idea of which way he is going,
+but he may need to poke his head back above the surface from
+time to time to make sure he is not going off track.
+
+The spell does not allow the caster to move through stone
+or any material harder than clay. He usually travels one meter
+under the surface, but if he encounters stone that he cannot
+penetrate, he may go up or down in the strata to avoid it.
+
+There is a small pocket of air that travels with the user,
+allowing him to breathe as he wriggles through the soil.
+Several trips to the surface during the duration are necessary
+to refresh this air pocket.
+
+
+
+Cone of Wind
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 15 
+:Effect: 18 (brawling/fighting +6D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 sec \(0)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    area_effect (18): 8m length 2m base cone
+
+
+    gestures (2): Both hands make a pushing motion in the direction of the wind (simple)
+
+
+    incantations (3): Mighty wind, drive my enemies before me! (sentence; loud)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Air
+
+
+    (0): Difficulty: 11
+
+
+
+
+This spell is a favorite of mages who want to knock down
+opponents without doing any permanent injury. When the
+spell is cast a cone of powerful wind blasts from the caster’s
+hands out to a distance of eight meters. The cone is about
+30 centimeters wide at the casters hands and spreads out to
+four meters in diameter at its far end.
+
+The caster rolls the brawling/fighting score that the spell
+generates once; this total is used as a knockdown attempt
+against the combat difficulty for each target within one meter
+of the caster. (Those over one meter away get a +1 bonus to
+their defense totals per full meter distant.)  Anyone who fails
+to withstand the blast fall to the ground and must spend an
+action in the next round getting up.
+
+This attack affects opponents with a Physique/Strength
+die code of no more than the spell’s skill total divided by 3
+(ignore any remainder).
+
+This spell does not require a separate targeting roll.
+
+
+
+Control Elemental (Template)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 17 
+:Effect: 18 (command: elemental +6D)
+:Range: 2.5 m \(2)
+:Speed:  \(2)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (5): Small figurine of elemental type, made of precious metals and jewels (very_rare)
+
+
+    focused (7): Focus based on effect, duration
+
+
+    gestures (2): Make a circle with both arms (simple)
+
+
+    incantations (3): [Type of elemental], bow to my will! (sentence; loud)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Entity; any one element: air, earth, fire, or water
+
+
+    (0): Difficulty: 18
+
+
+
+
+This spell bends the mind and will of an elemental, forcing
+it to do the caster’s bidding. An elemental under the effects
+of this spell becomes a slave to the caster, doing anything
+he compels it to.
+
+When the spell is cast, the caster generates a command:
+elemental skill total and compares it to the willpower/mettle
+total generated by the elemental. If the caster’s total is higher,
+the elemental is his to command for the duration of the spell.
+The caster will be aware that this spell is about to end just
+before the duration expires, giving him time to recast the
+spell if he wishes.
+
+If the elemental makes a higher total than the caster of the
+spell, the elemental may have a bad reaction to the caster, or
+it may flee the area, depending on its type, relative power,
+and temperament. Fire and water elemental will be more
+likely to attack, being more mercurial and hostile, while air
+and earth elementals will be more prone to flight.
+
+
+
+Control Local Weather
+~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 20 
+:Effect: 1 (changes based on result points)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    area_effect (55): 11m radius sphere
+
+
+    components (6): A rainmaker, a statuette or tube made of wood and designed to sound like rain when shaken (common; destroyed)
+
+
+    concentration (5): Concentration: 10 min (willpower/mettle roll 11)
+
+
+    gestures (2): Broad sweeping hand motions toward the sky (simple)
+
+
+    incantations (4): Powers of nature, make the weather my slave. (litany (willpower/mettle diffiuclty of 15))
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Air, inanimate forces, water
+
+
+    (0): Difficulty: 19
+
+
+
+
+This spell gives the caster the ability to control the weather
+to a limited extent. To cast the spell, the mage concentrates
+for 10 minutes on what type of weather he wants, and then
+chants the incantation continuously for the remainder of
+an hour.
+
+The spell manipulates  the temperature, pressure, and
+humidity within 11 meters of the caster. How successful
+he is in making the change depends on the result points of
+the spell, as detailed below. When the duration expires, the
+weather gradually returns to its prespell conditions.
+
+The gamemaster decides on the local weather conditions
+using the charts herein. Each level of change from the cur -
+rent conditions requires one result point. Thus, if the day is
+fair with warm temperatures and a light breeze, to make it
+cold and foggy with a strong wind requires four result points.
+(A skill total equalling the difficulty may make one level of
+change in aspect of the weather.)
+
+The caster can also change the radius of the effect at a cost
+of three result points for each additional meter.
+
+As this is a magical change, the weather may not behave
+as it would under normal circumstances.
+It must always be remembered that changing the weather
+in one place may also change it in some way somewhere
+else. This can prompt revenge attacks from other mages
+or angry residents, so users of this spell must exercise the
+utmost care.
+
+..  sidebar::             Control Local Weather Effects
+
+    Round all fractions up. Modifiers are cumulative.
+
+    Precipitation Levels
+
+    - None (fair weather)
+    - Fog (all sight-based actions have a difficulty modifier equal to the result points, with a minimum of +1)
+    - Rain (or snow\*)
+    - Freezing rain\* (all physical actions have a difficulty modifier equal to one-quarter of the result points, with a minimum of +1)
+    - Sleet\* (all physical actions have a difficulty modifier equal to one-half of the result points, with a minimum of +1)
+    - Small hail\*\* (damage per round equals one-quarter of the result points, with a minimum of 1 point)
+    - Large hail\*\* (damage per round equals one-half of the result points, with a minimum of 1 point)
+
+    \* Temperature must also be freezing.
+
+    \*\* Hail can be in combination with rain/snow or no Precipitation, at the caster’s choice.
+
+    Temperature Levels
+
+    - Freezing (damage per round equals the result points, with a minimum of 1 point)
+    - Cold
+    - Warm
+    - Hot (all physical actions have a difficulty modifier equal to one-quarter of the result points, with a minimum of +1)
+    - Very hot (damage per round equals one-half of the result points, with a minimum of 1 point)
+
+    Wind Levels
+
+    - None
+    - Light breeze
+    - Moderate winds
+    - Strong winds (all physical actions have a difficulty modifier equal to one-quarter of the result points, with a minimum of +1)
+    - Gale (all physical actions have a difficulty modifier equal to one-half of the result points, with a minimum of +1)
+    - Storm (all physical actions have a difficulty modifier equal to the result points, with a minimum of +1)
+    - Hurricane/tornado (all physical actions have a difficulty modifier equal to 1.25 times the result points, with a minimum of +1; the gamemaster may also decide that small items are whipped about, causing injury)
+
+    The caster can cause any combination of these changes,
+    as long as the total point cost does not exceed 2 times the
+    result points of the spell casting.
+
+    - Expand the area affected by 1 meter: 5 points
+    - Change the temperature: Look up the desired change in degrees Celsius under the Measures column of the “Spell Measures” table; the equivalent value is the number of points this changes costs
+    - Change the pressure by 0.01 bars: 1 point
+    - Change humidity by 1 degree C
+
+    With a minimal success, the caster may only raise or lower
+    the temperature within 2 degrees Celsius. A slight breeze
+    could be created, and perhaps some wispy, clouds. Average
+    success allows the caster to raise or lower the temperature
+    by 5 degrees, conjure or dispel a moderate amount of cloud
+    cover, and a stiff breeze of less than 10 kph could also be cre-
+    ated or canceled. Good success on the casting roll will allow
+    the mage to cause or cancel light rain or snow, change the
+    temperature by up to 10 degrees, and change the wind speed
+    by up to 20 kph. Truly powerful weather conditions can be
+    created or stopped with a superior success. the temperature
+    can be raised or lowered by 20 degrees, and wind speed can
+    be modified by up to 40 kph. A thunderstorm or snowstorm
+    can be conjured or canceled. Spectacular success allows the
+    temperature to be raised or lowered by 30 degrees, wind
+    changes of up to 80 kph, and the ability to create or cancel
+    powerful storms of rain or snow.
+
+
+
+
+Create Element (Template)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 11 
+:Effect: 10 (creates 100 liter)
+:Range: 3.5 m \(3)
+:Speed:  \(3)
+:Duration: 10 min \(14)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    gestures (2): Cup hands, whisper into them, then mime throwing toward target spot (simple)
+
+
+    incantations (3): Elemental Powers, create [name of element]! (sentence; loud)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: any one element: air, earth, fire, or water
+
+
+    (0): Difficulty: 11
+
+
+
+
+This is one of the first spells learned by many elemental
+mages. By casting the spell, the mage conjures a small amount
+of the element in its raw form. Water appears as a puddle if
+there is no container to hold it; fire burns away merrily without
+fuel; air disperses into the space around it; and earth appears
+in a pile on the ground. None of these conjured elements can
+be used as a weapon by creating them on or inside a person;
+the effect of the spell makes the element only in a clear area
+unoccupied by another person or object.
+
+As this is magically crafted material, it doesn’t have all the
+physical characteristics as natural elements. For example,
+created water does not stay around long enough to be fully
+digested by the body, but it can be used for cleansing. The
+fire only can be used to shed illumination. Air might aid in
+respiration. Earth could be used to design a small enclosure.
+The specific game benefits of these are based on the result
+points and determined by the gamemaster.
+
+
+
+Create Elemental (Template)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 34 
+:Effect: 68 (Essential attribute dice arranged as the caster likes Body Points/Wounds and movement based on result points +15D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 10 min \(14)
+
+:Other Aspects:
+
+    components (10): 1 carat gemstone, see below for type (very_rare; destroyed)
+
+
+    concentration (5): Concentration: 10 min (willpower/mettle roll 11)
+
+
+    focused (17): Focus based on effect, duration
+
+
+    gestures (2): Circular hand motions with gemstone com- ponent (simple)
+
+
+    incantations (4): Long speech explaining exact details of the type of elemental desired (litany (persuasion roll with difficulty of 15))
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: any one element: air, earth, fire, or water
+
+
+    (0): Difficulty: 34
+
+
+
+
+In many elemental mage circles, the ability to cast this
+spell successfully is what differentiates the true masters of
+the art from the pretenders. Performing the spell successfully
+creates a powerful servant composed of the elemental type
+specified by the spell. The caster dictates the attributes of the
+final form that the elemental takes as part of the spell. Some
+samples are given below of the different type of elementals
+that can be created.
+
+The type of gemstone needed for the spell varies with what
+type of elemental the caster is creating: Air needs a diamond,
+earth requires an emerald, fire specifies a ruby, and water
+uses a blue sapphire.
+
+The elemental created is not necessarily under the control
+of the caster. A smart mage will be prepared to cast the con-
+trol elemental spell immediately. Alternately, some casters
+who have an intimate knowledge of elementals may try to
+use gifts or promises of future favors to bribe the elemental
+into serving them.
+
+The 15 attribute dice may be allocated as the caster sees
+fit, and with the gamemaster’s permission, she may use some
+of the dice to buy Special Abilities to reflect the natural abili-
+ties of the elemental. The elemental will have a number of
+Body Points equal to 10 plus the points by which the spell
+beat the difficulty; Wound levels equal to the points above
+the difficulty, divided by two, rounded up, minimum of one
+Wound level. Movement equals the result points in meters
+per round, with a minimum of one meter per round.
+
+**Sample Elementals**
+
+Here are some sample elementals that could be
+created with this spell. Special Abilities are given for
+point cost reference. The attribute names are from D6
+Adventure; gamemasters and players using other genres
+should convert the names.
+
+**Air Elemental**: Reflexes 2D, Coordination 2D,
+Physique 2D, Knowledge 1D, Perception 1D, Charisma
+1D. Move: 1+. Strength Damage: 1D. Body Points: 10+/
+Wound levels: 1+. Natural Abilities: Flight (R1, 6 points),
+flying rate equals 2 times Move.
+
+**Earth Elemental**: Reflexes 2D, Coordination 1D,
+Physique 6D, Knowledge 1D, Perception 1D, Charisma
+1D. Move: 1+.  Strength Damage: 3D. Body Points: 10+/
+Wound levels: 1+. Natural Abilities: Natural Armor (R1,
+3 points) +1D to damage resistance totals.
+
+**Fire Elemental**: Reflexes 4D, Coordination 3D,
+Physique 3D, Knowledge 1D, Perception 1D, Charisma
+1D. Move: 1+.  Strength Damage: 2D. Body Points: 10+/
+Wound levels: 1+ . Natural Abilities:  Natural Ranged
+Weapon: Flame (R1, 3 points), 3D damage.
+
+**Water Elemental**: Reflexes 3D, Coordination 3D,
+Physique 4D, Knowledge 1D, Perception 1D, Charisma
+1D. Move: 1+.  Strength Damage: 2D. Body Points: 10+/
+Wound levels: 1+. Natural Abilities: Natural Armor (R1,
+3 points) +1D to damage resistance totals.
+
+
+
+Desiccate
+~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 15 
+:Effect: 18 (dessication +3D (physical damage, ignores all armor))
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 min \(9)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    component (4): Small strip of dried rawhide (very_common; destroyed)
+
+
+    focused (5): Focus based on effect, duration
+
+
+    gestures (2): Point at target (simple)
+
+
+    incantations (2): Drought shall be your death! (sentence)
+
+
+
+
+
+:Other Conditions:
+    (-1): Ineffective against those without fluid in their bodies
+
+
+    (0): Arcane Knowledge: Water
+
+
+    (0): Difficulty: 16
+
+
+
+
+This is a particularly nasty spell, used by sorcerers with
+little regard for mercy. The spell is targeted with a marksman-
+ship/firearms or apportation roll. If the attack is successful,
+the target takes 3D of damage each round for the next 12
+rounds. This damage is caused by the rapid desiccation, or
+removal of fluid, from all of the target’s soft tissues. This is
+an extremely painful and unpleasant process to say the least,
+and if the spell does enough damage to kill the target, all that
+is left is a dried, mummy-like husk.
+
+Armor is ineffective against this damage, since the dam -
+age comes from inside the target’s body. Any creature that
+does not have fluid inside of it, like a golem or other creature
+made of stone, is unaffected.
+
+
+
+Drown
+~~~~~
+
+:Skill: Conjuration
+:Difficulty: 22 
+:Effect: 36 (Drowning +6D (physical damage, ignores all armor))
+:Range: 2.5 m \(2)
+:Speed:  \(2)
+:Duration: 2 round \(5)
+:Casting Time: 3.5 sec \(3)
+
+:Other Aspects:
+
+    components (2): A mouthful of water (ordinary; destroyed)
+
+
+    focused (8): Focus based on effect, duration
+
+
+    gestures (2): Spit mouthful of water at target (simple)
+
+
+    incantations (2): A sailor’s death shall take you! (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Water
+
+
+    (0): Difficulty: 21
+
+
+
+
+To cast this spell, the mage fills his mouth with water,
+spits it at the target, and speaks the incantation. The spell
+is aimed with a throwing (not apportation) roll. If it hits suc-
+cessfully, the target’s lungs fill with water and she begins to
+drown, taking 6D of damage for the next two rounds. Armor
+does not help absorb this damage, but the target can make
+a stamina roll with a difficulty equal to the caster’s spell skill
+total to expel the water from his lungs after the first round.
+If successful, he takes no damage from the second round of
+the spell effect.
+
+
+
+Earth Muse
+~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 19 
+:Effect: 34 (view the past 2.5 mon)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 40 min \(17)
+
+:Other Aspects:
+
+    area_effect (21): 25m radius divination sphere
+
+
+    components (5): A miniature sundial dirt or stone (uncommon; ordinary)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    gestures (2): As the incantation is spoken, place hands on the stone or ground in the center of the area of effect; slowly, draw in the arms and place the palms on closed eyes. After pausing for several seconds, throw hands out wide. (simple)
+
+
+    incantations (4): Utter the following after meditation: “Oh mighty spirits who have seen all, heed my plea and answer my call. The time grows nigh to share your thoughts; come to me now and show what time has wrought!” (litany (persuasion roll with difficulty of 15))
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: earth, time
+
+
+    (0): Difficulty: 19
+
+
+
+
+Although there are many who may choose to think otherwise, there are beings that dwell just beyond the realm of
+human perception. These spiritual elemental forces of nature
+often live far longer than the mere mortals who sometimes
+rudely intrude upon their realm. Theirs is the gift of knowl-
+edge, for these enigmatic souls have experienced much dur-
+ing their existence. The power of the earth muse spell allows
+the mage to communicate with elemental forces that dwell
+within the ground, untamed stone or stone structures. Such
+creatures are able to speak of things that have occurred in
+the spell’s area of effect. Persistent characters who repeat -
+edly question the earthen sages about items or events that
+are out of their range of caring (events that are more than
+2.5 months old) or beyond the area of effect cause the spell
+to abruptly end. The caster has worn out her welcome with
+the beings that she’s trying to gather information from. If
+this should happen, no spirits will answer the caster’s call
+for 24 hours should she attempts to recast earth muse  in
+the same area. A Critical Failure along with a failed skill roll
+when attempting to cast earth muse temporally blights the
+intended area of effect and no earth muse spells will function
+there for 24 hours.
+
+
+
+Earthquake
+~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 32 
+:Effect: 15 (Earthquake +5D (physical damage))
+:Range: 1 km \(15)
+:Speed: 10 m \(5)
+:Duration: 1 min \(9)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    area_effect (30): 15m radius circle
+
+
+    components (10): A diamond of at least 1 carat (very_rare; destroyed)
+
+
+    concentration (5): Concentration: 10 min (willpower/mettle roll 11)
+
+
+    gestures (3): A series of foot and hand gestures (complex (acrobatics roll with difficulty of 11))
+
+
+    incantations (4): Complex litany of elemental names and formulas (litany (languages/speaking roll with difficulty of 15))
+
+
+    other_alterants (30): +10D additional damage done to stationary targets
+
+
+
+
+
+:Other Conditions:
+    (-1): Cannot affect anything flying
+
+
+    (0): Arcane Knowledge: Earth
+
+
+    (0): Difficulty: 32
+
+
+
+
+Casting this spell causes the ground within the area of
+effect to be shaken by violent tremors. Anything or anyone
+touching the ground will take 5D of damage for each full
+round they spend inside the area of the quake. Stationary
+targets — such as trees and buildings — take an additional
+10D of damage per round. Any movement through the area
+of the quake decreases by a number of meters per round equal
+to the result points (minimum adjustment of zero), as the
+shaking throws about objects and heaves the ground.
+
+Because the area of the spell is so large, no targeting roll
+is necessary. The caster may simply center the quake on any
+point within the range.
+
+After the spell is cast, it takes the quake some time to begin.
+Use the “Spell Measures” chart in the rulebook to find the
+value of the range from the caster to the center of the quake,
+subtract the speed value of 5, and look up this number on the
+chart. Convert the related measure to minutes or seconds to
+see how long it takes the quake to begin.
+
+
+
+Elemental Body (Template)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 14 
+:Effect: 12 (Sheathed in Elemental: Elemental Attack +2D; Elemental Armor +2D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    focused (4): Focus based on effect, duration
+
+
+    gestures (1): Touch subject (very_simple)
+
+
+    incantations (2): [Name of element], protect me and harm my foe! (sentence)
+
+
+    other_alterants (6): Effect doubled against one opposite element (specified at time of casting)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: any one element: air, earth, fire, or water
+
+
+    (0): Difficulty: 15
+
+
+
+
+When cast, this spell covers the body of the target (and
+anything she wears or holds) in a sheath of the element.
+This sheath provides armor and adds damage to any attacks
+made with appendages or hand-held weapons. The armor
+and damage effects are doubled if they are used against
+the opposite element. For example, a mage sheathed in fire
+would do double damage against water-based creatures, and
+his armor from the spell would protect him double from
+water-based attacks.
+
+
+
+Elemental Burst (Template)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 17 
+:Effect: 12 (+4D (mental damage, physical damage))
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 1 sec \(0)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (15): 3m radius sphere
+
+
+    components (1): A tiny amount of the element used in the burst (ordinary)
+
+
+    gestures (2): Move both hands inward, and then throw them out like an explosion (simple)
+
+
+    incantations (2): [Name of element], destroy my enemies with your power! (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: any one element: air, earth, fire, or water
+
+
+    (0): Difficulty: 17
+
+
+
+
+A favorite of many combat mages, this spell conjures a
+powerful burst of the element, damaging all the targets within
+its area. The spell does not discern between friend and foe,
+so the caster must use care in aiming the blast.
+
+The form of the shot depends on the element used: Air is
+a concussive inward blast; earth, a hail of rocks; fire, a huge
+burst of flame; and water, a powerful drowning wave.
+
+The caster generates a throwing or apportation total against
+the combat difficulty of the main target. The total receives a
++3, because the spell covers a large area, making it easier to
+hit the target. Those more than a meter away from the center
+with defense totals greater than the targeting roll (without
+the bonus) dodge out of the way. For everyone else, reduce the
+damgae done by 1 for each meter away from the center.
+
+
+
+Elemental Edge (Template)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 13 
+:Effect: 14 (Edge to a weapon +3D (physical damage, damage modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 3.5 sec \(3)
+
+:Other Aspects:
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: any one element: air, earth, fire, or water
+
+
+    (0): Difficulty: 12
+
+
+
+
+This simple spell covers the dangerous part of a weapon
+with a sheath of energy that causes extra damage. The type
+of energy varies depending on the elemental type of the
+spell: Air covers the weapon in electricity, earth is acid, the
+fire sheath is flames, and water is brutally cold ice. For the
+duration of the spell, the weapon inflicts an additional 3D of
+damage every time it successfully strikes a target.
+
+
+
+Elemental Scrying
+~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 14 
+:Effect: 32 (View the future 1 mon)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (4): A small piece of the target of the spell, such as nail clippings, a few hairs, or a drop of blood (common) small amount of each of the four elements (very_common; destroyed)
+
+
+    gestures (2): Wave hands over components (simple)
+
+
+    incantations (2): Elements of the universe, show me this person’s future. (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Time, earth, air, fire, water
+
+
+    (0): Difficulty: 13
+
+
+
+
+According to some philosophies, the entire universe is
+composed of the four elements. By drawing upon the con -
+nection of these elements to all things, the caster can pull
+back the veil of time and peer into the future. Because the
+future is not set, the visions that the caster sees of the future
+may or may not come true, and divination is far from an exact
+science. The act of seeing what will happen in the target’s
+future can often change the future as well, so anything seen
+with this spell should be taken with a grain of salt in the best
+of circumstances.
+
+To cast the spell, the mage spends one minute murmuring
+the incnatation over the elements and the bit of the target.
+At the end of that time, the caster receives a burst of insight,
+highlighting about five minutes’ worth of events for the next
+month of the target’s life. The result points of the casting roll
+determine how much information the caster can get about
+the target’s future.
+
+Zero points reveals small details and perhaps a few flashes of
+important facts. One to four points allows the most important
+or dangerous event to be revealed, without a great amount of
+detail. Five to eight points gives more information about the
+key event, and a much closer timeframe, along with minor
+details. Nine to 12 points allows even more details and vague
+information about the remainder of the day surrounding the
+key as well. More than 12 points reveals up to five minutes
+of the most important event like a movie, plus gives a decent
+recounting of the remainder of the month, even if that would
+make duration longer than five minutes.
+
+**Example**: Morgan the mage wants to see into her com -
+panion Bator’s future. She successfully casts the spell. If
+she achieved a minimal success, she would know that Bator
+will be in grave danger during the next month. On a solid
+success, she would know that the fighter was going to be
+ambushed some time in the afternoon of the following day.
+Good success would tell Morgan that Bator was going to be
+ambushed by a large group; sometime in the early afternoon.
+Superior success would tell the mage that the rest of Bator’s
+month will be uneventful, and that the ambush was going
+to be from a group of 15 goblins at 2:00 p.m. Finally, if the
+mage manages to achieve Spectacular success, she will see the
+ambush as if it were happening in front of her, with a good
+amount of exacting detail.
+
+Note that in the example above the mage was never told
+exactly where the ambush would happen, or how to avoid it.
+Even if Bator stays right where he is for a month, the ambush
+could still happen, but the details would change slightly from
+the vision seen by the scrying mage. The gamemaster should
+never let a good roll on a divination spell disrupt the game.
+
+
+
+Flame Jet
+~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 16 
+:Effect: 12 (Fire Attack +4D (physical damage))
+:Range: 3 m \(3)
+:Speed:  \(3)
+:Duration: 1 min \(9)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    components (2): A small open flame (ordinary; destroyed)
+
+
+    gestures (2): Point finger (simple)
+
+
+    focused (4): Focus based on effect, duration
+
+
+    incantations (1): Burn! (word)
+
+
+    variable_duration (8): on_off_switch
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Fire
+
+
+    (0): Difficulty: 17
+
+
+
+
+This spell causes a roaring line of fire to erupt from the
+caster’s fingertip. The jet is only a few centimeters across,
+but it extends out to about three meters from the caster.
+The caster can freely turn the effect on and off during the
+one minute duration, to avoid accidentally burning things
+he does not want to. Marksmanship/firearms or apportation is
+used to aim the jet if it is being used as an attack. The caster
+can make one attack with it per round.
+
+
+Lightning Bolt
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 15 
+:Effect: 18 (Electrical Damage -- air plus fire +6D (physical damage))
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 1 sec \(0)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    components (4): A small steel or iron rod a piece of wool (very_common; very_common)
+
+
+    gestures (2): Rub the wool on the steel rod, and then mimic flinging a bolt (simple)
+
+
+    incantation (3): Power of lightning, smite my foe! (sentence; loud)
+
+
+    other_alterant (3): Gain a bonus against targets wearing metal
+
+
+
+
+
+:Other Conditions:
+    (-1): Targeting difficulty increased when used near large amounts of metal
+
+
+    (0): Arcane Knowledge: Inanimate Forces
+
+
+    (0): Difficulty: 15
+
+
+
+
+This spell generates a powerful stroke of lightning. The
+caster must aim the bolt using throwing or apportation. If
+the target of spell is wearing large amounts of metal, (a suit
+of chain or plate armor, for example), she is much easier to
+hit, giving a modifier of +3 to the targeting total. If a large
+piece of metal is within a meter of the caster or the target,
+a modifier of +3 should be added to the difficulty to hit the
+target, because the metal will tend to pull the lightning away
+from its intended path.
+
+
+
+
+Miasma
+~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 54 
+:Effect: 66 (Miasma: Inhaling Damage +5D (ignores all armor); hindrance: blindness (R12), +4 to difficulties of all sight-dependent actions)
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 3 round \(6)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    area_effect (15): 3m radius sphere
+
+
+    focused (14): Focus based on effect, duration
+
+
+    components (3): Rotten egg (common)
+
+
+    gestures (2): Point (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Air, darkness
+
+
+    (0): Difficulty: 54
+
+
+
+
+A thick, black pall appears at the targeted location. Each
+round that a character is within the dense cloud, she suffers
+5D damage. The miasma also obscures sight, so all attacks
+are done blind. All damage comes from inhaling.
+
+
+
+

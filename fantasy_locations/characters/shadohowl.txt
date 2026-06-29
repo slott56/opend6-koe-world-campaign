@@ -1,0 +1,13 @@
+**Shadohowl**:
+Agility 3D, acrobatics 7D, dodge 7D+1, fighting 9D+1, melee combat 8D+1, stealth 8D, Coordination 3D+1, lockpicking 4D, marksmanship 3D+2, sleight of hand 3D+2, throwing 4D+1, Physique 2D+2, lifting 7D, running 4D+2, stamina 4D, Intellect 3D, cultures 4D, speaking 4D+1, Acumen 3D, artist origami 5D, disguise 5D+2, hide 3D+1, tracking 4D, Charisma 3D, intimidation 5D+1, mettle 4D.
+*Advantages*: Fame (R3), dangerous and highly skilled opponent; Size (R1), scale value 3,
+*Disadvantages*: Debt (R2), to dark master(s); Infamy (R2), cruel and fearsome opponent; Devotion (R1), to causing pain and injury; Quirk (R1), provokable to blind rage,
+*Special Abilities*: Accelerated Healing (R1), +1D to natural healing rate; Ambidextrous (R1), +1 to select skill totals when using two hands; Combat Sense (R1), combat modifier from surprise is at -2; Increased Attribute (R6), +6 to each related total; Natural Armor (R1), +1D to damage resistance totals,
+*Move*: 10, 
+*Strength Damage*: +6, 
+*Fate Points*: 1, 
+*Character Points*: 4, 
+*Body Points*: 28.
+
+
+

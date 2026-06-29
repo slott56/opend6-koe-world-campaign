@@ -1,0 +1,22 @@
+**Jackal Intelligence -- Communications**:
+Agility 4D, fighting 1D, Coordination 4D, Physique 4D, Intellect 4D, Acumen 3D+2, Charisma 3D+2, intimidation 3D+1.
+*Disadvantages*: Devotion (R3), Cult of Jackal; Employed (R3), Jackal Temple; Quirk (R3), Insufferable if insulted,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 20, *Equipment*: Hardened Leather Armor 1D+1; Mace 1D+1.
+
+
+**Jackal Intelligence -- Field Operations**:
+Agility 4D, fighting 1D, melee combat +2, Coordination 4D, Physique 4D, Intellect 4D, devices 1D, healing 1D, navigation 1D, reading/writing 1D, traps 1D, Acumen 3D+2, disguise 1D, hide 1D, investigation 1D, know-how 1D, search 1D, streetwise 1D, Charisma 3D+2, intimidation 3D+1, Extranormal 2D.
+*Disadvantages*: Devotion (R3), Cult of Jackal; Employed (R3), Jackal Temple; Quirk (R3), Greedy, stealing from Jackal loyalists,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R2), Brutal punch,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 20, *Equipment*: Dagger 1D; Hardened Leather Armor 1D+1, *Description*: Ready Spells: Shield, Freeze, Immediate Hurt,.
+
+
+

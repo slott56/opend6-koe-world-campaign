@@ -1,0 +1,53 @@
+
+Wand of Submission
+~~~~~~~~~~~~~~~~~~
+
+
+
+:Effect: 15 (boost wielder's intimidation/charisma forces them to submit 5*D)
+:Other Aspects:
+
+    charges (4): 5 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Wand
+:Price: 
+
+
+
+Wand of Intention
+~~~~~~~~~~~~~~~~~
+
+
+
+:Effect: 81 (Understanding an enemy: boost wielder's acumen divine their intentions 3*D; possession_limited (R3) limited)
+:Other Aspects:
+
+    charges (4): 5 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Wand
+:Price: 
+
+
+
+Knife of Slaughter
+~~~~~~~~~~~~~~~~~~
+
+The knife is awkwardly large, not really built for human hands
+
+:Effect: 9 (2*D (ignore non magical armor))
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Weapon
+:Price: 
+
+
+

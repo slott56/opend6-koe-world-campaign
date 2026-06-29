@@ -1,0 +1,216 @@
+
+**Fresh Air**
+
+
+:Skill: 
+:Difficulty: 5 
+:Effect: 18 (accelerated_healing (R2) Immediate help to the target)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 sec \(0)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    incantation (4): Air Summoning (litany)
+
+
+
+
+
+
+
+
+**Gust**
+
+
+:Skill: Attack with powerful blast of air
+:Difficulty: 9 
+:Effect: 6 (Attack with powerful blast of air 2*D (physical damage))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 sec \(0)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (22): 20m length 4m base cone
+
+
+    incantation (4): Air Summoning (litany)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+**Gale of Wind**
+
+
+:Skill: Attack with a relentless blast
+:Difficulty: 18 
+:Effect: 12 (Attack with a relentless blast 2*D (physical damage, ignores all armor))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 sec \(0)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (34): 20m length 8m base cone
+
+
+    incantation (4): Air Summoning (litany)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+**Glide**
+
+
+:Skill: 
+:Difficulty: 12 
+:Effect: 27 (glider_wings (R3) can glide from a high place or lift off into a very strong wind)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 2 round \(5)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    incantation (4): Air Summoning (litany)
+
+
+
+
+
+The 'wings' are a hazy outline around the target of the spell; speed is typical movement, 10m per round
+
+
+**Cleansing Breeze**
+
+
+:Skill: 
+:Difficulty: 16 
+:Effect: 12 (environmental_resistance (R4) survive smoke or air-born poisons)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 2 min \(10)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (20): 4m radius sphere
+
+
+    incantation (4): Air Summoning (litany)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+There's little sense of a breeze, but smoke and poison are much less harmful.
+
+
+**Sense Air**
+
+
+:Skill: Acumen
+:Difficulty: 13 
+:Effect: 18 (enhanced_sense (R2) feel movement)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 2 min \(10)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    incantation (4): Air Summoning (litany)
+
+
+    concentration (4): Concentration: 2 min (willpower/mettle roll 10)
+
+
+
+
+
+
+
+
+**Body of Mist**
+
+
+:Skill: Physique
+:Difficulty: 13 
+:Effect: 30 (intangibility (R2))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 4 min \(12)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    incantation (4): Air Summoning (litany)
+
+
+    concentration (4): Concentration: 2 min (willpower/mettle roll 10)
+
+
+
+
+
+:Other Conditions:
+    (4): side_effect (R2) double damage from air-based enchantments
+
+
+
+
+
+
+
+**Tornado**
+
+
+:Skill: Crushing blast of wind
+:Difficulty: 24 
+:Effect: 36 (Crushing blast of wind 6*D (physical damage, ignores all armor))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 sec \(0)
+:Casting Time: 3 round \(6)
+
+:Other Aspects:
+
+    area_effect (34): 20m length 8m base cone
+
+
+    incantation (4): Air Summoning (litany)
+
+
+    concentration (2): Concentration: 3 round (willpower/mettle roll 8)
+
+
+    feedback (10): lowered resistance
+
+
+
+
+
+
+
+

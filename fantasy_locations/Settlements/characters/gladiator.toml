@@ -1,0 +1,95 @@
+[[characters]]
+name = "Typical Gladiator"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "4D"
+skills = [
+    { label = "acrobatics", dice = "4D+ 1" },
+    { label = "dodge", dice = "4D+ 1" },
+    { label = "fighting", dice = "4D+ 1" },
+    { label = "melee combat", dice = "5D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "3D"
+skills = [
+    { label = "charioteering", dice = "3D+ 2" },
+    { label = "marksmanship", dice = "3D+ 1" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "4D"
+skills = [
+    { label = "running", dice = "4D+ 1" },
+    { label = "stamina", dice = "4D+2" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D"
+skills = [
+    { label = "command", dice = "3D" },
+    { label = "intimidation", dice = "3D" },
+    { label = "mettle", dice = "3D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = [
+    { label = "healing", dice = "2D+ 1" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "crafting", dice = "3D+ 2" },
+    { label = "gambling", dice = "3D+2" },
+    { label = "know -how", dice = "3D+1" },
+    { label = "survival", dice = "4D" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "2"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "22"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "3"
+suffix = ": ."
+
+[characters.details.Equipment]
+items = [
+    { description = "hardened leather armor", features = "( Armor Value + 1 D + 1 )" },
+    { description = "", features = "" },
+    { description = "small shield", features = "( Armor Value +2 D )" },
+    { description = "", features = "" },
+    { description = "short sword", features = "( damage +1D+2 )" },
+    { description = ".", features = "" },
+]
+label = "Equipment"

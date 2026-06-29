@@ -1,0 +1,16 @@
+.. include: ../shared/movement_difficulties.txt
+
+
+..  admonition:: MOVEMENT DIFFICULTY MODIFIERS
+
+    *Base Difficulty for Characters: 0 (running); 5 (other movement)*
+
+    ..  csv-table::
+        :header: Situation, Modifier
+
+        "Easy terrain (fl.at surface, smooth water, using a ladder, light breeze, light rain or fog)", 0
+        "Moderate terrain (uneven surface, small obstacles, choppy water, climbing a tree, strong winds, heavy rain or fog)", +5
+        "Rough terrain (large but negotiable obstacles, strong undercurrent, climbing a rough wall, flying near unyielding obstacles such as pillars or trees)", +10
+        "Very rough terrain (dense and large obstacles, stormy weather, a few airborne hazards, hail)", +15
+        "Hazardous terrain (minefield, narrow walkway, many airborne hazards, large waves, climbing a smooth surface, complete darkness)", +20
+        "Very hazardous terrain (corridor filled with falling debris and explosions, swimming or flying in a hurricane)", +25 or more

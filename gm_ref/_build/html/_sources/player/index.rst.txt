@@ -1,0 +1,17 @@
+######################
+Player Summary
+######################
+
+A summary for the Player.
+
+Character creation and a summary of play.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   mechanics
+   basics
+   options
+   spells
+   equipment

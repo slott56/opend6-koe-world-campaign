@@ -1,0 +1,82 @@
+[[characters]]
+name = "Typical Dock Worker"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D"
+skills = [
+    { label = "fighting", dice = "4D" },
+    { label = "melee combat", dice = "4D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = [
+    { label = "pilotry", dice = "3D+ 1" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "4D"
+skills = [
+    { label = "lifting", dice = "5D" },
+    { label = "running", dice = "4D+1" },
+    { label = "stamina", dice = "5D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D"
+skills = []
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "gambling", dice = "3D+ 1" },
+    { label = "hide", dice = "4D" },
+    { label = "streetwise", dice = "4D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "bluff", dice = "3D+2" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "3D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "12"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Equipment]
+items = [
+    { description = "clothes", features = "" },
+    { description = "small knife", features = "( damage + 2 )" },
+    { description = "", features = "" },
+    { description = "heavy garments", features = "( Armor Value +1 )" },
+    { description = ".", features = "" },
+]
+label = "Equipment"

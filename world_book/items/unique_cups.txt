@@ -1,0 +1,83 @@
+
+Chalice of Purity
+~~~~~~~~~~~~~~~~~
+
+More like a wide bowl than a cup, this will enhance any food eaten from it.
+
+:Effect: 6 (Enhancements: purify 4D of impurity; mass of food that fits in the chalice 1 kg)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: controller: Hælan
+
+
+    Arcane Knowledge: Base Enchantment: Enhance Food
+
+
+:Price: H (300G)
+
+
+
+Jug of Plenty
+~~~~~~~~~~~~~
+
+A pitcher, or ewer that will slowly fill with whatever liquid is in it. For water, it creates a liter in about an hour. For something more complex, like wine or beer, it will make two hours. For something very complicated, like a potion, the time depends on the base difficulty of the potion.
+
+:Effect: 12 (Multiplication: proper balance of elements 4D; mass of liquid in jug 1 kg)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: controller: Witan
+
+
+    Arcane Knowledge: Base Invocation: Multiply Food
+
+
+:Price: H (600G)
+
+
+
+Mug of Sleep
+~~~~~~~~~~~~
+
+common ceramic mug; when someone drinks from this mug, the mug will have a successful link and will attempt the R4 Sleep Enchantment.
+
+:Effect: 12 (Narcolepsy (R4), -4D to mental and physical attributes)
+:Duration: 1 hr \(18)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: controller: Hildeþrymm
+
+
+    Arcane Knowledge: Base Enchantment: Sleep
+
+
+:Price: H (1500G)
+
+
+
+Cup of Docility
+~~~~~~~~~~~~~~~
+
+Looks like a drinking gourd; when someone drinks from this mug, the mug will have a successful link and will attempt the R3 Charm Enchantment.
+
+:Effect: 12 (Favorable Feelings 4*D)
+:Duration: 30 min \(16)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: controller: Folme
+
+
+    Arcane Knowledge: Base Invocation: Charm
+
+
+:Price: H (1400G)
+
+
+

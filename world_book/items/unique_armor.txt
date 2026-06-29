@@ -1,0 +1,85 @@
+
+Crown of Agility
+~~~~~~~~~~~~~~~~
+
+
+
+:Effect: 18 (Agility: fast_reactions (R1); Agility 3*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Crown
+:Price: 
+
+
+
+Crown of Visions
+~~~~~~~~~~~~~~~~
+
+
+
+:Effect: 15 (Battle Sense: combat_sense (R1) suprise -2; extra_sense: opponent's intent (R2) +2D to predict tactics)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Crown
+:Price: 
+
+
+
+Helm of Protection
+~~~~~~~~~~~~~~~~~~
+
+
+
+:Effect: 12 (hardiness (R4) +4 damage resistance)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Crown
+:Price: 
+
+
+
+Crown of Strength
+~~~~~~~~~~~~~~~~~
+
+
+
+:Effect: 12 (Physique 4*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Crown
+:Price: 
+
+
+
+Cap of Immunity
+~~~~~~~~~~~~~~~
+
+
+
+:Effect: 9 (immunity (R3) +3D physique or stamina checks against poisons or diseases)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Crown
+:Price: 
+
+
+
+Crown of Victory
+~~~~~~~~~~~~~~~~
+
+This is a terrible artifact to have, but it looks wonderful
+
+:Effect: 9 (bad_luck (R3))
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Crown
+:Price: 
+
+
+

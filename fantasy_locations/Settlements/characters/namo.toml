@@ -1,0 +1,117 @@
+[[characters]]
+name = "Namo, high priest"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "4D"
+skills = [
+    { label = "fighting", dice = "4D+1" },
+    { label = "melee combat", dice = "4D+2" },
+    { label = "climbing", dice = "4D+1" },
+    { label = "stealth", dice = "4D+1" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "3D"
+skills = [
+    { label = "marksmanship", dice = "4D" },
+    { label = "throwing", dice = "3D+1" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "3D"
+skills = [
+    { label = "running", dice = "4D+2" },
+    { label = "stamina", dice = "4D+1" },
+    { label = "swim- ming", dice = "4D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D"
+skills = [
+    { label = "trading", dice = "4D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D"
+skills = [
+    { label = "hide", dice = "3D+1" },
+    { label = "investigation", dice = "3D" },
+    { label = "search", dice = "3D+2" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D"
+skills = [
+    { label = "intimidation", dice = "3D+2" },
+    { label = "mettle", dice = "3D" },
+    { label = "per- suasion", dice = "3D" },
+]
+
+[characters.details.Miracles]
+label = "Miracles"
+dice = "1D"
+skills = [
+    { label = "divination", dice = "2D+1" },
+    { label = "favor", dice = "1D+2" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "5"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "24"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Prejudice"
+rank = "(R1)"
+details = ", those not from Gadara represent potential threats ( +4 to the difficulty to all interactions with non-natives )"
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Authority", rank = "(R3)", details = ", high priest and ruler of Gadara" },
+]
+
+[characters.details.Special]
+label = "Special"
+details = []
+
+[characters.details.Equipment]
+items = [
+    { description = "holy symbol", features = "" },
+    { description = "tribal leader staff", features = "( dam- age +1D+2 )" },
+]
+label = "Equipment"

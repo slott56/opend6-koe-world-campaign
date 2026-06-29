@@ -1,0 +1,354 @@
+
+% Preamble
+
+\documentclass[10pt]{article}
+
+% Packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{layout}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+
+
+% See https://www.overleaf.com/learn/latex/Articles%2FA_visual_guide_to_LaTeX’s_page_layout_parameters
+% Paper width = 612 pt height = 792 pt
+% 1in offset means \pagewidth = 72pt + \hoffset + \evensidemargin + Book_IM + DeltaX
+\setlength{\marginparwidth}{0pt}
+\setlength{\marginparsep}{0pt}
+\setlength{\textwidth}{504pt}   % 468 = 6.5 in, 504=7in
+\setlength{\textheight}{620pt}  % 8.6 in
+\setlength{\evensidemargin}{6pt}
+\setlength{\oddsidemargin}{6pt}
+\setlength{\topmargin}{6pt}
+\setlength{\headheight}{12pt}
+\setlength{\headsep}{12pt}
+
+
+\title{OpenD6 Fantasy Character Sheet}
+
+
+% Document
+\begin{document}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textit{OpenD6 Fantasy Character}}
+\fancyfoot[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+
+\cleardoublepage
+% \textwidth of 468 pt = 144pt * 3 + 36pt
+% \textwidth of 504 pt = 156pt * 3 + 36pt
+\begin{table}
+\begin{tabular}{m{156pt} m{156pt} m{156pt}}
+    \multicolumn{2}{l}{\textbf{Character Name}:  \hrulefill} \\
+    \multicolumn{2}{l}{\textbf{Occupation}:  \hrulefill} \\
+    \multicolumn{2}{l}{\textbf{Race}:  \hrulefill \hspace{1em} \textbf{Gender}: female \hrulefill} \\
+    \multicolumn{2}{l}{\textbf{Age}:  \hrulefill \hspace{1em} \textbf{Height}: 175cm \hrulefill \hspace{1em}  \textbf{Weight}: 96kg \hrulefill } \\
+    \multicolumn{2}{l}{\textbf{Physical Description}:  \hrulefill } \\
+    \multicolumn{2}{l}{ \hrulefill } \\
+ & & \\
+\textbf{Agility}: 3D \hrulefill      & \textbf{Intellect}: 3D \hrulefill  &                             \\
+
+climbing          +1 \hrulefill & trading           1D \hrulefill & \\
+
+melee combat      +2 \hrulefill &  \hrulefill & \\
+
+riding          1D+1 \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+
+\textbf{Coordination}: 3D \hrulefill & \textbf{Acumen}: 1D+1 \hrulefill     & \hrulefill \\
+
+lockpicking       +2 \hrulefill & crafting          1D \hrulefill & \textbf{Advantages}: \hrulefill \\
+
+marksmanship      +1 \hrulefill & disguise          +2 \hrulefill & \textbf{Disadvantages}: \hrulefill \\
+
+ \hrulefill &  \hrulefill & \textbf{Special Abilities}: \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+
+\textbf{Physique}: 4D+2 \hrulefill & \textbf{Charisma}: 3D \hrulefill     &  \hrulefill \\
+
+lifting           +1 \hrulefill & command           +2 \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+                                  &                                 &                             \\
+\textbf{Magic }:  \hrulefill  &                                 &                             \\
+alteration           \hrulefill & \textbf{Strength Damage}:  \hrulefill                             & \textbf{Body Points}: 37 \hrulefill \\
+apportation          \hrulefill                        & \textbf{Move}:             10             \hrulefill    & $\Box$ Stunned \footnotesize{(80\%)} \hfill 22-29 \\
+conjuration          \hrulefill                        & \textbf{Fate Points}:      1      \hrulefill    & $\Box$ Wounded \footnotesize{(60\%)} \hfill 15-21 \\
+divination           \hrulefill                        & \textbf{Character Points}: 5 \hrulefill    & $\Box$ Severely Wounded \footnotesize{(40\%)} \hfill 7-14 \\
+ \hrulefill                        & \textbf{Funds}:            3D            \hrulefill    & $\Box$ Incapacitated \footnotesize{(20\%)} \hfill 4-6 \\
+ \hrulefill                        & \textbf{Silver}:           180           \hrulefill    & $\Box$ Mortally Wounded \footnotesize{(10\%)} \hfill 1-3 \\
+ \hrulefill                        &  \hrulefill                                                       & $\Box$ Dead   \\
+\end{tabular}
+\end{table}
+% \newpage 
+\cleardoublepage
+
+\begin{multicols}{2}
+\textbf{Character Name:} \hrulefill
+
+\vspace{24pt}
+
+\textbf{Armor}
+
+
+Hard leather
+
+
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+
+\vspace{24pt}
+
+\textbf{Weapons}
+
+
+Katana
+
+
+
+
+\hrulefill
+
+Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ 
+
+
+\hrulefill
+
+Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ 
+
+
+\hrulefill
+
+Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ 
+
+
+\hrulefill
+
+Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ 
+
+
+\hrulefill
+
+Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ 
+
+
+
+\vspace{24pt}
+
+\textbf{Other Equipment}
+
+
+Scabbard
+
+
+Cloth, flannel, about 1 square meter
+
+
+Perfumed water in small glass vial
+
+
+Perfumed water in small glass vial
+
+
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+
+\columnbreak
+
+\vspace*{24pt}
+
+\textbf{Magic }
+
+
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\vspace{24pt}
+
+\textbf{Personality}: \hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\textbf{Objectives}: \hrulefill
+
+\hrulefill
+
+\hrulefill
+
+
+\textbf{Native Language}: \hrulefill
+
+\hrulefill
+
+\textbf{Other Information}: \hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\end{multicols}
+
+
+\end{document}

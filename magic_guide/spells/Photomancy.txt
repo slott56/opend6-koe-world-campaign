@@ -1,0 +1,1116 @@
+
+Aura of Visibility
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 11 
+:Effect: 12 (negates any darkness modifier up to +4D)
+:Range: 10 m \(5)
+:Speed: Intantaneous \(5)
+:Duration: 5 round \(7)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light
+
+
+    components (6): Owl feather (common; destroyed)
+
+
+    gestures (2): Wave feather before his eyes while looking at intended target (simple)
+
+
+    incantations (2): '“Lift the shroud of darkness that I might see my enemy”' (sentence)
+
+
+    focused (4): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 10
+
+
+
+
+With an intended target in sight and not more than 10
+meters distant, the magic user waves an owl’s feather before
+his eyes several times and utters an incantation. The feather
+is then consumed in a brilliant, momentary flash of fire. Now
+the target creature is bathed in an aura of shimmering white
+light that only the magic user can see. The aura is so bright
+that it negates up to -4D of darkness modifier (including the
+effects of fog, smoke, and mist), allowing the mage to see
+and attack the creature without penalty in even the most
+complete darkness.
+
+
+
+
+Blur
+~~~~
+
+:Skill: Alteration
+:Difficulty: 11 
+:Effect: 18 (blur (R2)  Special Ability)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Darkness, Folk
+
+
+    gestures (2): Wipe palm over eyes (simple)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 11
+
+
+    (-5): Unreal Effect: Disbelief difficulty of 13
+
+
+
+
+With a casual swipe of a hand over his eyes, the mage
+(or his chosen target) becomes indistinct to the naked eye
+by bending light over his form. For a period of one minute,
+the mage adds 2 to his dodge, stealth/sneak, and hide totals,
+as +2 to all default search, tracking, investigation, and attack
+difficulties against the mage. As this is an illusory spell,
+characters may disbelieve the effects with a mettle/willpower
+roll of 13. Those who succeed are thereafter able to see the
+mage distinctly.
+
+
+Glowing Eyes
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 16 
+:Effect: 6 (infamy (R2), , feared by most because of glowing eyes)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 4 hr \(21)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    feedback (3): lowered resistance
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 16
+
+
+
+
+With a minimal amount of pain to himself, the caster curses
+a target with glowing eyes, thereby giving the creature the
+look of that which is demon possessed or otherwise infernal
+in nature. This makes it extremely difficult for the afflicted
+to interact successfully with other beings, as people become
+ill at ease by his unnatural appearance. The target has no
+means of knowing that he has been cursed except perhaps
+by looking in a mirror or other reflective surface.
+In some cases, the spell may actually incur a bonus. If
+the mage wanted to pass himself off as a demon or use it
+against extremely superstitous folk, for example, it might
+provide some minor skill total bonuses (determined by the
+gamemaster).
+
+
+Holy Light
+~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 35 
+:Effect: 45 (hindrance: blindness (R15), +5 to difficulties of all sight-dependent actions)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 3.5 sec \(3)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light
+
+
+    gestures (2): With head titled back and eyes closed as if basking in the sun’s warmth, extend arms out to the sides (simple)
+
+
+    incantations (3): '“The sun abhors darkness, and evil cowers from the light that is goodness.”' (sentence; loud)
+
+
+    mulitiple_targets (15): 5 targets
+
+
+
+
+
+:Other Conditions:
+    (-2): Only affects evil or undead beings who can see the caster
+
+
+    (0): Difficulty: 35
+
+
+
+
+When cast, the magic user creates a bright flare of light
+that seems to emanate from his being. Up to five evil or
+undead targets within range and looking at the caster are
+blinded by this light. All sight-based actions for the affected
+increase by +5 for one minute.
+
+
+Light Chest
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 20 
+:Effect: 18 (Armor Value of , physical only +6D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 wk \(29)
+:Casting Time: 3.5 min \(12)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light, Dimension
+
+
+    area_effect (4): 1m height 2m width 2m depth cuboid
+
+
+    components (12): Crystal cube (very_rare; destroyed); small glass disc (very_common)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    gestures (2): Hold crystal cube and disk in outstretched hands to catch the light, then place it at feet (simple)
+
+
+    incantations (2): '“Chest of light, secure what’s mine by right.”' (sentence)
+
+
+    focused (9): Focus based on effect, duration
+
+
+    variable_duration (8): on_off_switch
+
+
+    other_alterant (2): Can be carried; resistant to adverse environmental conditions (dust, rain, heat, etc.)
+
+
+
+
+
+:Other Conditions:
+    (-1): A source of illumination is present
+
+
+    (0): Difficulty: 20
+
+
+
+
+The magic user casts this spell on a glass disc and a finely
+crafted cube of crystal, which is destroyed and replaced by a
+chest of radiant light. The chest had no weight, but its walls
+and lid are solid and it can be moved.
+When the spell is cast, the mage selects a password, and the
+chest cannot be opened by any creature, including the mage,
+unless the password is first spoken. Efforts at lockpicking are
+futile. Any item, or combination of items, measuring less than
+four cubic meters can be stored within the magical chest.
+The chest lasts for one week and then disappears, leaving
+behind the glass disk and any items that had been stored
+within.
+
+
+Light Ram
+~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 18 
+:Effect: 33 (Light Ram: +4D (physical damage, physical damage); reduced_attribute: agility/reflexes (R7), -2D to the attribute)
+:Range: 15 m \(6)
+:Speed:  \(6)
+:Duration: 1 round \(4)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light, Inanimate Forces
+
+
+    components (7): Horn or tusk of a charging animal (common); tuff of wool (very_common; destroyed)
+
+
+    countenance (1): Mage appears drained and winded (noticeable)
+
+
+    feedback (3): lowered resistance
+
+
+    gestures (2): Tuff of wool is released into the air and the horn violently shaken at the target (simple)
+
+
+    incantations (1): '“Unleash the might of light.”' (phrase)
+
+
+    other_alterant (1): Effect appears as a powerful, charging animal
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 17
+
+
+
+
+To cast this spell, the mage releases a tuff of wool into the
+air (which is subsequently consumed by flame), shakes a ram’s
+horn at an individual target, and utters a simple incantation.
+Immediately thereafter, a shimmering mass of glowing light
+appears, which vaguely discernible as a ram (or, in cultures
+where more appropriate, a bull, bison, elephant, or other
+powerful animal known for charging enemies). When this
+unleashed force strikes a target within 15 meters, it deals
+4D damage.
+The force of the blow is overwhelming; targets hit by the
+spell feel as if they have indeed been impacted by a raging
+ram and are staggered, if not thrown back. As a result, a
+character struck by the spell is also subject to a 2D penality
+to Agility/Reflexes-related actions until the target’s turn in
+the next round.
+In addition to being used as a weapon, light ram can also
+be used to batter down doors it strikes. This is particularly
+handy during dungeon and building explorations.
+The mage must succeed with a marksmanship/firearms or
+apportation roll to hit the target.
+
+
+
+
+Light Show
+~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 14 
+:Effect: 16 (lights with charm/persuasion of +5D+1)
+:Range: 60 m \(9)
+:Speed:  \(9)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light
+
+
+    components (8): Jar of fireflies or similar glowing insects (uncommon; destroyed)
+
+
+    gestures (2): Point finger at target and release fireflies (simple)
+
+
+    incantations (1): '“Watch and be amazed.”' (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 14
+
+
+
+
+To cast this spell, the mage must have a jar of living fireflies
+or similar insects. He simply says a few words of power, points
+a finger at the target, and releases the fireflies (which die upon
+the spell expiring). For a period of one minute, the fireflies
+become flashing, dancing orbs of glowing light, many times
+greater in intensity than normal and far more enthralling.
+Should the target fail an opposed interaction roll against
+the light’s charm/persuasion of 5D+1, the target of the spell
+is compelled to do nothing but watch them.
+If the entranced creature is harmed, it recovers its senses
+and is no longer affected by the spell.
+
+
+Mass Light Show
+~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 24 
+:Effect: 15 (lights with charm/persuasion of  +5D)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light
+
+
+    area_effect (20): 10m radius circle
+
+
+    components (8): Jar of fireflies or similar glowing insects (uncommon; destroyed)
+
+
+    gestures (2): Point finger at target and release fireflies (simple)
+
+
+    incantations (2): '“Watch and be amazed, one and all”' (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 24
+
+
+
+
+After saying a few words of power and pointing a finger at
+the center of the intended 10-meter circle area of effect, she
+releases the fireflies (which die upon the spell expiring). For
+a period of one minute the fireflies become flashing, dancing
+orbs of bright, enthralling light. All living creatures within
+the area of effect must make an opposed interaction roll
+against the spell’s charm/persuasion of 5D or be compelled to
+do nothing but watch them. Harming any entranced creature
+breaks the spell.
+
+
+Night Vigilance
+~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 16 
+:Effect: 18 (to search skill +4D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 4 hr \(21)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Darkness
+
+
+    components (8): Owl’s eye (uncommon; destroyed)
+
+
+    gestures (2): Pass the owl eye over the eyes of the target (simple)
+
+
+    incantations (1): '“See better.”' (phrase)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Can only be cast at night
+
+
+    (0): Difficulty: 15
+
+
+
+
+This spell uses an owl’s eye to increase the nighttime
+vigilance and acuity of a single individual. The mage utters
+a short phrase while passing the component over the eyes
+of the intended target. When the spell is cast, the owl’s eye
+turns to dust.
+The subject of this spell becomes extremely attuned to the
+night and unusually aware of his surroundings for a period
+of four-hours. During this time, the character gains a search
+bonus of +5D. However, this spell in no way reduces the need
+for sleep or the negative effects resulting from lack of rest.
+The target of the spell must still sleep 4+ hours or suffer the
+effects of fatigue.
+
+
+Nyctophobia
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 14 
+:Effect: 9 (quirk (R3), , nyctophobia with Very Difficult will-power/mettle roll to overcome)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Darkness, Folk
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    feedback (3): lowered resistance
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Limited to sentient beings
+
+
+    (0): Difficulty: 19
+
+
+
+
+Though the caster of this spell endures some pain to herself
+, she curses a person with a severe case of nyctophobia
+(fear of the dark or night) for 10 minutes. Characters that
+are overcome by their fright dissolve into quivering wrecks.
+They can take no actions until the darkness is eliminated or
+they’re removed from the darkened environment (at which
+point they may make another attempt to overcome the
+fright using willpower/mettle or the default attribute). The
+expiration of the spell’s duration immediately returns the
+target to normal.
+
+
+
+
+Shadow Surface
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 26 
+:Effect: 20 (difficulty to view hidden area or dispel darkness shrouding it)
+:Range: 2.5 m \(2)
+:Speed:  \(2)
+:Duration: 1 yr \(37)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Darkness
+
+
+    area_effect (15): 3m radius sphere
+
+
+    components (2): Stick of charcoal (very_common)
+
+
+    countenance (1): Caster develops dark rings under eyes during casting time (noticeable)
+
+
+    gestures (2): Outline the area of effect with charcoal (simple)
+
+
+
+
+
+:Other Conditions:
+    (-2): Limited to areas continuously in darkness or shadow
+
+
+    (0): Difficulty: 27
+
+
+
+
+Shadow surface allows a mage to create illusionary walls,
+floors, ceilings, or other surfaces out of darkness. To cast
+it, the wizard outlines the illusionary surface’s dimensions
+with a charcoal stick.
+The surface appears absolutely real when viewed, but
+physical objects may pass through it effortlessly. The spell
+is often used to mask doors, pits, or traps within tombs,
+fortresses, or other areas intended to be secure. Touch or
+probing searches  always reveal the true nature of the surface,
+though they do not cause the illusion to disappear. The only
+means by which the illusion might be removed, save for its
+duration expiring, is by exposure to a light source strong
+enough to negate it.
+
+
+Shroud of Shade
+~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 10 
+:Effect: 12 (Armor Value of , physical only +4D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 2.5 hr \(20)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Darkness, light, entity
+
+
+    components (8): Fragment of a funeral shroud from an occupied grave (uncommon; destroyed)
+
+
+    gestures (2): Hold shroud fragment over the target’s head (simple)
+
+
+    incantations (2): '“Dark force rising, protect thee from the light.”' (sentence)
+
+
+    focused (6): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-3): Limited to those creatures physically harmed by exposure to sunlight or bright light; only protects against light
+
+
+    (0): Difficulty: 10
+
+
+
+
+Typically, this spell is used on vampires and demons. By
+holding a fragment of a burial shroud over herself or another
+being within a meter range, the caster creates an ethereal
+shroud that protects the target from the damaging rays of
+the sun. The shroud appears as a dark and filmy cape and
+hood that covers the target’s entire body. As a result, the
+target is nearly immune to the effects of normal sunlight
+for a short time and might walk about unaffected, a valuable
+boon for vampires.
+At the time of casting, the mage can convert the result
+points from the casting into a bonus to protection or dura-
+tion. Convert the bonus points put into the effect into dice
+and pips of Armor Value (three points per die; one point
+per pip). Use the “Spell Measures” chart in the D6 Fantasy
+or D6 Adventure rulebooks to determine the addition to the
+duration in seconds.
+
+
+Sight of Darkness
+~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 20 
+:Effect: 9 (Infravision or Ultravision  (R3), , negates up to 6 points of modifiers for dim or dark conditions)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 day \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light, darkness
+
+
+    components (3): Flint and tinder (common)
+
+
+    feedback (3): lowered resistance
+
+
+    incantations (1): '“See.”' (phrase)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 20
+
+
+
+
+By the magic user sacrificing some of her life energy, she
+grants a target with 24 hours of three ranks in Infravision
+or Ultravision (which the caster chooses before casting the
+spell). See the description of this Special Abilities in the
+“Character Options” chapter for more details.
+
+
+Sinister Pall
+~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 10 
+:Effect: 18 (+ to intimidation +4D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Darkness
+
+
+    gestures (3): Scowl darkly and clench fists menacingly (simple; offensive)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 11
+
+
+
+
+With a scowl and general menacing countenance, the
+caster improves her intimidation skill for one minute. Her
+features become shadowed and sinister, like the villain from
+a horror movie. People are naturally unsettled by the cast -
+ers appearance and therefore more prone to bending to the
+force of his will.
+
+
+
+
+Sniper Light Beam
+~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 10 
+:Effect: 18 (one targeting skill +4D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 3.5 sec \(3)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light
+
+
+    gestures (2): Run trigger finger down the length of weapon (simple)
+
+
+
+
+
+:Other Conditions:
+    (-2): May only be used with a single direct-fire, self-powered projectile weapon, such as a crossbow or a gun
+
+
+    (0): Difficulty: 10
+
+
+
+
+This spell creates a light beam that extends down the sights
+of a projectile weapon, effectively serving as a sniper’s laser
+sight. This improves the mage’s related ranged combat skill
+when using that weapon for a period of one minute. This
+bonus cannot be used with weapons that depend strength
+for their power, such as bows or slings.
+
+
+Stunt Plant
+~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 10 
+:Effect: 5 (reduce movement difficulty modifiery by up to -5)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 3.5 min \(12)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Darkness, Plant
+
+
+    area_effect (10): 5m radius circle
+
+
+    countenance (1): Caster takes on a gray pallor (noticeable)
+
+
+    gestures (2): Spread hands in intended direction and lower as if pressing down on something (simple)
+
+
+    incantations (3): '“Diminish, plants! Shrivel and die!”' (sentence; loud)
+
+
+    focused (3): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 10
+
+
+
+
+The caster literally presses back plant life before her,
+diminishing or even killing them through the deprivation
+of light. All plants require light to grow. The effect lasts for
+three and a half minutes. Vegetation (grasses, briars, shrubs,
+trees) within five meters of the caster shrink a quarter of its
+normal size each round, becoming less bushy and entangling.
+This allows for freer movement within the area of effect.
+Assuming plants haven’t died completely, they begin to
+slowly rejuvenate as soon as the spell is complete, growing
+as per normal for the plant species in question. Trees may
+take years or even decades to return to their previous state,
+while grass may require only a few weeks.
+
+
+Sun Scourge
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 16 
+:Effect: 9 (achilles_heel (R3), +5D damage and +20 to survival and stamina difficulties in desert environments each day the character is in the sun — values are not cumulative)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 wk \(29)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light, Fire
+
+
+    components (4): Ashes of creature desiccated by the sun (uncommon)
+
+
+    feedback (2): lowered resistance
+
+
+    gestures (2): Raise arms toward the sun and sprinkle the ashes to the wind (simple)
+
+
+    incantations (2): '“Like a scythe, O mighty sun; cut down thy enemies.”' (sentence)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 16
+
+
+
+
+Other Conditions (-2) Can only be cast when the sun is visible
+The mage makes an offering of ashes to the sun and calls
+upon its power, which she channels through her body. Then,
+with a minimal amount of pain to herself and a simple
+touch, the caster inflicts pain to an opponent as if he were
+being burnt by the sun’s searing rays. It also makes him
+unusually susceptible to the harsh effects of the sun. If the
+victim opposes the touch —as most aware and able-bodied
+beings would — the mage must make a successful brawling/
+fighting attack.
+
+
+Sun Cage
+~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 31 
+:Effect: 35 (Bars: Resistance total of bars +5D (protection modifier); negates any darkness modifier up to +4D)
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light
+
+
+    area_effect (15): 3m radius sphere
+
+
+    gestures (3): Mime escaping from a cell with eyes squinted as if blinded by glaring light, then point at target (complex (acrobatics roll with difficulty of 11))
+
+
+    unreal_effect (9): Unreal Effect: difficulty_13
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 31
+
+
+
+
+Light cage traps a target in a prison of magical sunlight.
+After miming escaping from a cell and indicating the intended
+target, the mage must make a marksmanship/firearms or ap-
+portation roll that beats the combat difficulty for the target.
+If she succeeds, the target is trapped in a sphere with a radius
+of three meters. (Creatures larger than that cannot be con-
+fined by this spell.) The cage glows radiantly, bright enough
+to illuminate within one meter in all directions.
+The result point bonus plus 15 serves as the damage resis-
+tance totals of the bars. The target can disbelieve and thus
+free himself by generating a disbelief total of 13.
+
+
+Turn to Shadow
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 22 
+:Effect: 42 (Shadow form: intangibility (R1) 3D to damage damage resistance total against physical attacks and movement is halved; invisibility (R3) +3 to dodge, sneak/stealth, and hide: self totals and +3 to search, tracking,  investigation, and attack difficulties against target)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 round \(7)
+:Casting Time: 3.5 min \(12)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Darkness
+
+
+    components (2): Dark clothes (very_common)
+
+
+    concentration (1): Concentration: 3 sec (willpower/mettle roll 7)
+
+
+    focused (10): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (1): Must be immersed in darkness or shadow during casting time
+
+
+    (0): Difficulty: 16
+
+
+
+
+To cast this spell, the mage must be wearing dark clothes
+and devoid of any shiny objects that would catch and reflect
+light. He must also be immersed in darkness or shadow at
+the time of casting. The darkness need not be absolute; even
+a shadowy corner of an inn’s common room is enough. When
+the spell is cast, the mage transforms himself into a living
+shadow. He has no mass and therefore makes no noise and
+leaves no track of his passage, moves at half his normal rate,
+may assume any general shape (though details are not pos-
+sible), and may flow through tiny openings.
+Because he is insubstantial, most physical attacks pass
+right through the mage. However, he in turn cannot attack
+in this form, nor can he speak or uses spells that require
+biological conditions (incantations, for example, or handling
+of material components).
+
+
+Veil of Darkness
+~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 13 
+:Effect: 12 (+ darkness modifier +4D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 5 round \(7)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk, Darkness
+
+
+    countenance (1): The mage looks drained, with dark rings around eyes (noticeable)
+
+
+    gestures (2): Cover eyes with a hand, then a throwing mostion at a target (simple)
+
+
+    incantations (3): '“You see NOTHING!”' (sentence; loud)
+
+
+    focused (4): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 12
+
+
+
+
+The mage covers his eyes with a hand, drawing energy from
+within himself, and then throws a ball of pure darkness at a
+target. He must make a marksmanship/firearms or apporta-
+tion roll to hit the target, and may throw the spell up to 10
+meters distant. Hit targets find themselves blinded by a veil
+of darkness that covers their eyes, imposing a +4D darkness
+difficulty modifier on all relevant actions performed by this
+creature for a period of 25 seconds. The bolt of darkness must
+be fired in the same round that the mage casts the spell.
+
+
+Vengeful Void
+~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 24 
+:Effect: 45 (The Shadow: brawling/fighting +4D; lifting/lift +5D; +6D (physical damage, physical damage))
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 3 round \(6)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Darkness, Water
+
+
+    gestures (2): Point at an intensely dark area (simple)
+
+
+    incantations (3): '“Rise, darkness, and avenge me. I command it.”' (sentence; loud)
+
+
+
+
+
+:Other Conditions:
+    (3): A void of darkness in an otherwise illuminated environment
+
+
+    (0): Difficulty: 24
+
+
+
+
+To cast this spell, a void of darkness or dense shadow (such
+as a deep pit, a nonilluminated dungeon room, or a shadowy
+alley) must be present. The mage then shouts some words of
+power and points toward the black spot. Through this spell,
+the mage animates the darkness of the void into a tidal-wave-
+like mass that strikes down upon opponents with rage. The
+darkness grabs an opponent within five meters brawling/fight-
+ing of 4D and inflicts 6D damage. Once captured, the target
+is dragged back into the depths of the monster on the next
+round, though the opponent may attempt to escape the void’s
+lifting/lift of 5D. Those dragged into the void obviously must
+contend with whatever dangers might lurk within (falling
+damage from a pit, for example). Additionally, the darkness
+inflicts its normal damage on the trapped creature. Creatures
+trapped within the darkness feel as if they are drowning and
+being crushed by the pressures of deep water.
+
+
+
+
+Wall of Radiance
+~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 15 
+:Effect: 18 (Wall: negates any darkness modifier +4D; cover modifier +2D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 3.5 min \(12)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Light
+
+
+    area_effect (6): 3m radius circle
+
+
+    components (10): A handful of crystal shards (uncommon; destroyed); lit candle (very_common)
+
+
+    gestures (2): Throw crystals into air and blow the flames of a candle toward them (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 15
+
+
+
+
+The magic user throws a handful of crystal fragments in
+the direction in which he wishes to create the wall of radi -
+ance. Then he blows the flames of a lit candle into the falling
+shards. A shield-like wall of shimmering white light measuring
+three meters in diameter appears at a distance of up to 10
+meters from the caster.
+The wall is immobile and remains in that position for three
+and a half minutes. The light is so brilliant that it negates
+up to 4D of darkness modifier within one meter. Its bright-
+ness provides a +2D cover modifier against anyone attacking
+from the other side of the barrier. The wall does not offer
+any physical barrier to attack or movement.
+
+
+
+

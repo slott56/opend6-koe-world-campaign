@@ -1,0 +1,190 @@
+
+Countermagic
+~~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 19 
+:Effect: 29 (compare to skill total of spell countering 6*D+1 (protection modifier))
+:Range: 60 m \(9)
+:Speed:  \(9)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    concentration (1): Concentration: 3 sec (willpower/mettle roll 7)
+
+
+    gesture (1): Wave hand through air as if wiping away something (very_simple)
+
+
+    incantation (3): Your hold is broken! (sentence; loud)
+
+
+
+
+
+:Other Conditions:
+    (-4): One spell, which the caster must specify when casting this spell
+
+
+
+
+
+
+The caster concentrates on the spell he wishes to counter, waving his hand and shouting the required incantation. The effect’s value plus the result points bonus are compared to the skill total used to create the targeted spell. If the countermagic number is equal to or higher than the target spell’s skill total, the spell is broken.
+
+
+
+
+
+Countermagic Ward
+~~~~~~~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 10 
+:Effect: 29 (compare to skill total of spell countering 6*D+1 (protection modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 round \(4)
+:Casting Time: 25 min \(16)
+
+:Other Aspects:
+
+    charges (4): 6 charges
+
+
+    concentration (5): Concentration: 10 min (willpower/mettle roll 11)
+
+
+    focused (7): Focus based on effect, duration
+
+
+    gesture (1): Wave hand through air as if wiping away something (very_simple)
+
+
+    incantation (3): Let no spell touch me! (sentence; loud)
+
+
+
+
+
+
+
+Similar to the countermagic spell, this spell gives the target a general protection against spells. It is triggered by a spell “hitting” the target. Up to six spells can be countered in this fashion. The effect’s value plus result points bonus are compared to the skill total used to create the targeted spell. If the countermagic ward number is equal to or higher than the target spell’s skill total, the spell is broken. Regardless of the success of the ward, one charge is lost.
+
+
+
+
+
+Deadly Dart
+~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 10 
+:Effect: 18 (Dart 4*D (physical damage, damage modifier))
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 5 round \(7)
+:Casting Time: 40 min \(17)
+
+:Other Aspects:
+
+    charges (0): 1 charges
+
+
+    components (11): Black obsidian (uncommon; destroyed); dart (common)
+
+
+    feedback (3): lowered resistance
+
+
+    focused (5): Focus based on effect, duration
+
+
+    gesture (1): Rub the tip of the dart on the stone (very_simple)
+
+
+    incantation (1): Darkness of death. (phrase)
+
+
+    variable_movement (2): accuracy_bonus
+
+
+
+
+
+
+
+This spell uses a piece of black obsidian to increase the deadliness of a dart. The mage utters a short, dark phrase while gently stroking the tip of the dart across the stone. The darkness travels into the dart, draining the stone of its pigment.
+
+
+To release the spell, the caster throws the dart within five rounds of casting the spell. He generate an marksmanship total, adding a +2 bonus for the increased accuracy of the spell, against the combat difficulty for the target. The target must be within range of the spell, or the dart merely does its normal effect. The target takes an additional 4D in damage in the round the dart hits and for the next four rounds. The spell ends if the target moves beyond the spell’s range.
+
+
+
+
+
+Fear
+~~~~
+
+:Skill: Temperamental Alteration
+:Difficulty: 19 
+:Effect: 30 (intimidation skill bonus 6*D+2 (skill modifier))
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 2.5 min \(11)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (5): An item owned for at least a month by the target (very_rare)
+
+
+    gesture (1): Point item at target (very_simple)
+
+
+    incantation (1): Frightening words (phrase)
+
+
+    unreal_effect (8): Unreal Effect: difficulty_13
+
+
+
+
+
+
+
+To cast the spell, the mage first needs something belonging to her target — his comb, his watch, a lock of his hair. Mutter a few words of power, point the item at the target, and watch the fun. This spell gives the caster an intimidation skill bonus of +6D+2, but only towards that target. The target may disbelieve it with a Charisma or mettle roll of 13.
+
+
+
+
+
+Water Spray
+~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 10 
+:Effect: 12 (water spray 4*D (physical damage))
+:Range: 15 m \(6)
+:Speed:  \(6)
+:Duration: 3 round \(6)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (6): Liter of water (ordinary; destroyed); squeezable container (uncommon)
+
+
+
+
+
+
+
+The mage needs a liter of water in a container that she can squeeze to produce a spray. As she casts the spell, the mage squirts the water onto her hand, letting it run off in the direction of her target. The volume and force behind the water spray increases dramatically. The spray lasts for three rounds of combat. The spell does 4D in damage per round and requires a marksmanship roll each round to hit the target. The caster may only select one target per spell duration.
+
+
+
+
+

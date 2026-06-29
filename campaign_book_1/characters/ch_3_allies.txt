@@ -1,0 +1,21 @@
+**Librarian**:
+Agility 4D, fighting 1D, melee combat +2, Coordination 4D, Physique 3D+2, Intellect 3D+2, Acumen 3D+2, Charisma 3D+2, intimidation 3D+1, Extranormal 2D.
+*Advantages*: Contacts (R2), Squire Angler,
+*Disadvantages*: Devotion (R2), Squire Angler,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 20.
+
+
+**Library Guards**:
+Agility 4D, fighting 1D, melee combat +2, Coordination 4D, Physique 3D+2, Intellect 3D+2, Acumen 3D+2, Charisma 3D+2, intimidation 3D+1.
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24.
+
+
+

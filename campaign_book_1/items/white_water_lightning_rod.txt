@@ -1,0 +1,20 @@
+
+Lightning Rod
+~~~~~~~~~~~~~
+
+
+
+:Effect: 5 (range 90m 1*D (ignore non magical armor))
+:Other Aspects:
+
+    charges (4): 5 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+:Type: Rod
+:Price: 
+
+
+

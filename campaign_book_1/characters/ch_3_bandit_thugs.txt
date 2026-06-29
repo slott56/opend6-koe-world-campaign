@@ -1,0 +1,20 @@
+**Boss at Oaks Stable**:
+Agility 3D+2, melee combat +2, Coordination 3D+2, sleight of hand +2, Physique 3D+2, Intellect 3D+2, speaking +2, traps +2, Acumen 3D+2, hide +2, streetwise +2, Charisma 3D+2, persuasion 3D+1.
+*Disadvantages*: Enemy (R1), Secretly working for Jackal Temple; Employed (R1), by Jackal Temple; Quirk (R2), Rabid follower of the Jackal,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 20.
+
+
+**Stable Hands at The Oaks**:
+Agility 4D, melee combat 1D, Coordination 4D, sleight of hand +1, Physique 3D+2, Intellect 3D+2, Acumen 3D+2, hide +1, streetwise +1, Charisma 3D, intimidation 3D+1.
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24.
+
+
+

@@ -1,0 +1,13 @@
+**Master Ota**:
+Agility 4D+2, acrobatics 5D+2, dodge 5D+2, fighting 7D+2, melee combat 6D+1, Coordination 2D+2, Physique 2D+2, lifting 3D, running 3D, stamina 3D, Intellect 2D, scholar: teaching 5D, Acumen 2D, investigation 3D+1, Charisma 2D, command 2D+2, mettle 4D.
+*Advantages*: Fame (R1), ,
+*Disadvantages*: Devotion (R3), to the Path of Stone; Enemy (R2), foes of his school,
+*Special Abilities*: Ambidextrous (R1), + 1 to select skill totals when using two hands; Combat Sense (R1), -2 to surprise modifier; Fast Reactions (R1), +1D to initiative and 3 extra actions per adventure; Hardiness (R1), +1 to damage resistance total; Pain Tolerance (R1), ignore effects of 1 level of injury,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 10, 
+*Body Points*: 28.
+
+
+

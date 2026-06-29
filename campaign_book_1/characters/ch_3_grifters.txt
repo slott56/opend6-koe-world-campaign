@@ -1,0 +1,11 @@
+**Grifters**:
+Agility 3D, fighting 1D, Coordination 3D, sleight of hand 1D, throwing 1D, Physique 3D, Intellect 3D, cultures 1D, speaking 1D, Acumen 3D+2, disguise 1D, gambling 1D, streetwise 1D, Charisma 3D+1, bluff 1D, charm 1D, persuasion 1D.
+*Disadvantages*: Infamy (R2), known criminal; Quirk (R1), greedy,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 20.
+
+
+

@@ -1,0 +1,11 @@
+Air
+===
+
+..  csv-table:: Air
+    :header: "Helicopter, civilian","126 (90 kph)","5","6D+1","+3D","L"
+
+    "Hoverplane, personal","98 (70 kph)","4–8 (1–2 crew)","5D","+1D","L"
+    "Prop plane, small","98 (70 kph)","4–8 (1–2 crew)","5D","+1D","L"
+    "Prop plane, medium","133 (95 kph)","6–20 (2 crew)","6D+1","0","L"
+    "Small jet","308 (220 kph)","8–20 (2 crew)","6D+1","0","L"
+

@@ -1,0 +1,138 @@
+
+Ring of Pain
+~~~~~~~~~~~~
+
+A plain looking ring made of lead, incompletely transmuted to gold, with an inscription of curing a specific disease or preventing a specific wound -- the inscribed disease or wound is *actually* a trigger for additional damage from the ring.
+
+:Effect: 18 (Damage to the wearer physical 3*D (ignores all armor))
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (2): Triggered by the disease or wound type in the inscription
+
+
+    controller: Hælan
+
+
+    Arcane Knowledge: Controller: Baelu
+
+
+    Arcane Knowledge: Base Enchantment: Immediate Hurt
+
+
+:Price: D (20G)
+
+
+
+Protection from Poisons
+~~~~~~~~~~~~~~~~~~~~~~~
+
+A silver ring, set with a piece of bezoar cut in shape of a chalice, this reduces or eliminates the damage from poisons of any kind (ingested or infused.)
+
+:Effect: 9 (Protection physical poisons only 3*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    controller: Hælan
+
+
+    Arcane Knowledge: Controller: Hælan
+
+
+    Arcane Knowledge: Base Enchantment: Gradual Heal
+
+
+:Price: H (400G)
+
+
+
+Ring of Fire
+~~~~~~~~~~~~
+
+An iron ring with a black onyx stone surrounding a sapphire, this will summon a small amount of fire from nearby sources.
+
+:Effect: 12 (Move small fire element 4*D (physical damage))
+:Range: 20 m \(7)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (2): Fire element must be found somewhere nearby
+
+
+    Arcane Knowledge: controller: Cyþan
+
+
+    Arcane Knowledge: Base Enchantment: Light Fire
+
+
+:Price: H (800G)
+
+
+
+Invisibility
+~~~~~~~~~~~~
+
+A ring of woven gold wires strung with tiny seed pearls; this provides invisibility from nearby observers
+
+:Effect: 12 (Perception is ruined for anyone in range (R4))
+:Range: 10 m \(5)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: controller: Witan
+
+
+    Arcane Knowledge: Base Enchantment: Totally Invisible
+
+
+:Price: H (800G)
+
+
+
+Protection from Evil
+~~~~~~~~~~~~~~~~~~~~
+
+A ring of gold (poorly transmuted from lead) with jade circle or crown, this ring will weaken and may break the will of opponents with evil intent
+
+:Effect: 12 (Charisma 4*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    (2): Only opponents see this glamor
+
+
+    Arcane Knowledge: controller: Baelu
+
+
+    Arcane Knowledge: Base Invocation: Shield from Evil
+
+
+:Price: H (500G)
+
+
+
+Fire Resistance
+~~~~~~~~~~~~~~~
+
+Set with a cluster of diamonds, this reduces or eliminates the damage from fire
+
+:Effect: 9 (Protection physical fire only 3*D)
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: controller: Hælan
+
+
+    Arcane Knowledge: Base Enchantment: Pass Fire
+
+
+:Price: H (400G)
+
+
+

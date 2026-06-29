@@ -1,0 +1,31 @@
+**Jackal Intelligence -- Torturer**:
+Agility 4D, fighting +1, Coordination 4D, Physique 4D, Intellect 4D, devices 1D, Acumen 3D+2, artist 1D, investigation 1D, know-how 1D, Charisma 3D+2, intimidation 5D+1.
+*Disadvantages*: Devotion (R3), Cult of Jackal; Employed (R3), Jackal Temple; Quirk (R3), Brutally cruel,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R2), Brutal punch,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24.
+
+
+**Jackal Intelligence -- Scrying**:
+Agility 4D, fighting 1D, Coordination 4D, Physique 4D, stamina 4D, Intellect 4D, navigation 1D, speaking 1D, trading 1D, traps 1D, Acumen 3D+2, disguise 1D, hide 1D, investigation 1D, search 1D, streetwise 1D, Charisma 3D+2, intimidation 5D+1, Extranormal 3D, divination 2D.
+*Disadvantages*: Devotion (R3), Cult of Jackal; Employed (R3), Jackal Temple; Quirk (R3), Insufferable if insulted,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24.
+
+
+**Jackal Intelligence -- Guard**:
+Agility 4D, fighting +2, melee combat +2, Coordination 4D, Physique 4D, stamina +1, Intellect 3D+2, Acumen 3D+2, Charisma 3D+2, intimidation 4D.
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 22.
+
+
+

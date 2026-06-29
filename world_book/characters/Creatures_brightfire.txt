@@ -1,0 +1,24 @@
+**Fire Elemental**:
+Agility 3D, contortion 2D, jumping 2D, Coordination 1D, Physique 5D, running 2D, stamina 2D, Intellect 1D, Acumen 1D, Charisma 1D, intimidation 6D.
+*Advantages*: Contacts (R1), Can find (and free) fire elements,
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Water, takes double damage,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for cloth armor soaking wet; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Ranged Weapon (R3), +3D Balls of fire,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 34, *Natural Abilities*: Leaping from location to location, finding and freeing other fire elements..
+
+
+**Fire Dragon**:
+Agility 3D, flying 2D, Coordination 2D, Physique 5D, stamina 3D, running/flying 3D, Intellect 3D, navigation 1D, speaking 1D, Acumen 3D, search 1D, survival 1D, Charisma 3D, intimidation 2D.
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to water and acid, takes double damage,
+*Special Abilities*: Armor-Defeating Attack (R2), +2D attacking, except for cloth armor soaking wet; Attack Resistance (R3), +3D for non-enchanted weapons; Natural Ranged Weapon (R3), +3D for a plume of fire,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 44, *Natural Abilities*: Flight.
+
+
+

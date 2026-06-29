@@ -1,0 +1,124 @@
+[[characters]]
+name = "Fane"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D"
+skills = [
+    { label = "dodge", dice = "3D+1" },
+    { label = "fighting", dice = "3D+1" },
+    { label = "melee combat", dice = "3D+1" },
+    { label = "stealth", dice = "4D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "4D"
+skills = [
+    { label = "lockpicking", dice = "4D+2" },
+    { label = "sleight of hand", dice = "5D" },
+    { label = "throwing", dice = "4D+1" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "lifting", dice = "2D+ 1" },
+    { label = "stam- ina", dice = "2D+2" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D"
+skills = [
+    { label = "reading/writing", dice = "3D+1" },
+    { label = "speaking", dice = "3D+1" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "hide", dice = "4D+2" },
+    { label = "search", dice = "3D+2" },
+    { label = "streetwise", dice = "3D+1" },
+    { label = "tracking", dice = "4D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "bluff", dice = "3D+2" },
+    { label = "charm", dice = "3D+1" },
+    { label = "intimidation", dice = "4D" },
+    { label = "mettle", dice = "4D+2" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "10"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "2"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "21"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Enemy"
+rank = "(R1)"
+details = ", detested by other guilds attempting to move into the city"
+
+[[characters.details.Disadvantages.details]]
+label = "Enemy"
+rank = "(R2)"
+details = ". harassed by local authorities"
+
+[characters.details.Advantages]
+label = "Advantages"
+
+[[characters.details.Advantages.details]]
+label = "Authority"
+rank = "(R2)"
+details = ", respected leader of the local thieves' guild"
+
+[characters.details.Special]
+label = "Special"
+details = []
+
+[characters.details.Equipment]
+items = [
+    { description = "lockpicking tools", features = "" },
+    { description = "long sword", features = "( damage +20 +2 )" },
+    { description = "", features = "" },
+    { description = "soft leather vest", features = "( worn beneath a jerkin" },
+    { description = "Armor Value +2", features = ")" },
+    { description = "", features = "" },
+    { description = "dagger", features = "( damage +1 D )" },
+]
+label = "Equipment"

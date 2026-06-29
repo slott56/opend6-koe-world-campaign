@@ -1,0 +1,21 @@
+,, Range
+, Damage, Short, Med., Long, Price
+
+**Missile Weapons**
+Blowgun & dart, 1D [#f2]_, 10, 40, 100, VE (10 C) [#f1]_
+Bow
+- Long & arrow, +2D+2, 10, 100, 250, M (3 G)  [#f1]_
+- Short & arrow, +1D+2, 10, 100, 250, E (16 S)  [#f1]_
+Crossbow
+- Light & bolt, 4D, 10, 100, 200, E (16 S)  [#f1]_
+- Heavy & bolt [#f3]_, 4D+1, 10, 100, 300, M (4 G)  [#f1]_
+- Handheld & dart, 4D, 10, 25, 50, M (3 G)  [#f1]_
+Sling & stone, +1D, 5, 10, 15, E (3 S)  [#f1]_
+
+**Thrown Weapons**
+"Boomerang, heavy", +1D+1, 5, 40, 100 M (3 G)
+Dart, +1, PHYS, PHYS+1, PHYS+2, VE (7 C)
+"Rock, fist-sized", +1, PHYS-2, PHYS-1, PHYS
+Javelin [#f4]_, +2D, 5, 25, 40, E (16 S)
+Throwing dagger, +1D, 5, 10, 15, E (5 S)
+Throwing star, +1D, 5, 10, 15, VE (7 C)

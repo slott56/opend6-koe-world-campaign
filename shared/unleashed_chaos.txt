@@ -1,0 +1,14 @@
+..  csv-table:: Unleashed Chaos Table
+    :header: Roll, Effect, Detail
+
+    2, "A random spell memorized by the spellcaster goes off rather than the intended spell", "Effect of that spell"
+    3, "A random spell occurs (not limited to the caster's currently memorized incantations)", "Effect of that spell"
+    4, "A random spell or enchanted item ceases to function for 2D minutes", "Effect is to negate some spell, 2D min (15), difficulty +15"
+    5, "The caster vanishes and reappears 5D feet in any direction from his current location", "Apportation, 10m (5), 100kg (10), difficulty 15"
+    6, "All spellcasters in a 50-foot radius centered on the caster immediately gain a +3D bonus to any spell cast for the next 1D minutes", "Alteration, 25m (7), +3D (9), multiple-targets (up to 5) (15), 1D min (8), difficulty 39"
+    7, "All magic in a 50-foot radius, centered on the caster, goes dead for 1D minutes", "Alteration, 25m (7), -5D (15), multiple targets (up to 5) (15), 1D min (8), difficulty 45"
+    8, "The spell effect occurs 1D minutes after the completion of the incantation", "Alteration, 1D min (8), difficulty 8"
+    9, "A gate to another dimension suddenly appears within 1D×10 feet of the spellcaster", "Conjuration, 20m range (7), difficulty 7"
+    10, "A direct chaotic backlash occurs inflicting 4D damage on the caster", "Alteration, 4D damage (12), difficulty 12"
+    11, "After the caster unleashes her spell, she becomes mesmerized by a random creature in her line of sight for 1D minutes", "Psionic Effect..."
+    12, "The enchantment produces the opposite of the intended effect (as determined by the GM)", "Effect of that spell"

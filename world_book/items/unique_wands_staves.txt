@@ -1,0 +1,259 @@
+
+Rod of Disruption
+~~~~~~~~~~~~~~~~~
+
+A thick rod of a willow trunk, with iron inlays running its length; it will disturb the enchantment of items up to 5 times before it must be recharged
+
+:Effect: 30 (compare to skill total of spell countering)
+:Other Aspects:
+
+    charges (4): 5 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: Controller: Hælan -- Anti-Cyþan
+
+
+    Arcane Knowledge: Base Enchantment: Disrupt Spell
+
+
+:Price: H (170G)
+
+
+
+Wand of Healing
+~~~~~~~~~~~~~~~
+
+A slender wand of willow, with a white, silk ribbon wound around it, this will cure many injuries or diseases
+
+:Effect: 15 (Heal disease 5*D (skill))
+:Other Aspects:
+
+    charges (4): 5 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: Controller: Hælan
+
+
+    Arcane Knowledge: Base Enchantment: Gradual Heal
+
+
+:Price: VD (90G)
+
+
+
+Serpent Staff
+~~~~~~~~~~~~~
+
+A staff made from gnarled black locust, cut down, and carved with a repeating scaled pattern concealing the words to command it; on command becomes a large, deadly viper
+
+:Effect: 30 (Temperamental Conjuration of 10D viper.)
+:Other Aspects:
+
+    charges (2): 2 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: Controller: Baelu
+
+
+    Arcane Knowledge: Base Enchantment: Reanimation
+
+
+:Price: H (160G)
+
+
+
+Scepter of Enemy Detection
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A scepter of oak, topped with a small bronze shield, this will find anyone within 30m who has activate animosty
+
+:Effect: 24 (search of 8D to locate an enemy 8*D)
+:Other Aspects:
+
+    charges (5): 10 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: Controller: Hildeþrymm
+
+
+    Arcane Knowledge: Base Invocation: Detect Enemies
+
+
+:Price: H (140G)
+
+
+
+Wand of Fear
+~~~~~~~~~~~~
+
+A poplar rod, with 3 yellow bands
+
+:Effect: 30 (intimidation skill bonus 6*D+2 (skill modifier))
+:Other Aspects:
+
+    charges (4): 5 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: Controller: Baelu
+
+
+    Arcane Knowledge: Base Enchantment: Fear
+
+
+:Price: H (170G)
+
+
+
+Staff of Eternal Flame
+~~~~~~~~~~~~~~~~~~~~~~
+
+A staff of pine, still smelling faintly of resin, crowned with an iron starburst
+
+:Effect: 27 (move fire 2m/s, does damage on contact 6*D (physical damage, ignore non magical armor))
+:Range: 10 m \(5)
+:Duration: 5 min \(12)
+:Other Aspects:
+
+    charges (4): 5 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: Controller: Cyþan
+
+
+    Arcane Knowledge: Base Enchantment: Fire Ball
+
+
+:Price: H (240G)
+
+
+
+Lightning Rod
+~~~~~~~~~~~~~
+
+A narrow rod of shining tin, wrapped with a thickly woven hemp handle
+
+:Effect: 32 (move air+fire 2m/s, does damage 5*D+1 (physical damage, ignores all armor))
+:Range: 30 m \(7)
+:Other Aspects:
+
+    charges (4): 5 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: Controller: Folme
+
+
+    Arcane Knowledge: Base Enchantment: Lightning
+
+
+:Price: H (210G)
+
+
+
+Rod of Darts
+~~~~~~~~~~~~
+
+A hollow rod of heavy, dark tin, wrapped with a wooden handle at one end; the operation is fiddly with having to load the dart and fire by touching the obsidian to it
+
+:Effect: 18 (Dart 4*D (physical damage, damage modifier))
+:Range: 30 m \(7)
+:Other Aspects:
+
+    charges (7): 20 charges
+
+
+    components (11): Black obsidian (uncommon; destroyed); dart (common)
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: Controller: Folme
+
+
+    Arcane Knowledge: Base Enchantment: Deadly Dart
+
+
+:Price: VD (100G)
+
+
+
+Gold Divining Rod
+~~~~~~~~~~~~~~~~~
+
+Clumsy chestnut rod with four wavy carvings
+
+:Effect: 14 (boosts Acumen/search 3*D (skill modifier))
+:Range: 10 m \(5)
+:Other Aspects:
+
+    charges (5): 10 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: Controller: Witan
+
+
+    Arcane Knowledge: Base Enchantment: Find Path
+
+
+:Price: H (120G)
+
+
+
+Knock Cudgel
+~~~~~~~~~~~~
+
+heavy poplar branch, topped with a knot, wrapped in tin
+
+:Effect: 24 (break latch or bar 8*D (physical damage))
+:Other Aspects:
+
+    charges (4): 5 charges
+
+
+:Other Conditions:
+    (1): burn_out (R1) can be lost or stolen
+
+
+    Arcane Knowledge: Controller: Folme
+
+
+    Arcane Knowledge: Base Enchantment: Knock
+
+
+:Price: H (140G)
+
+
+

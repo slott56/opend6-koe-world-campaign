@@ -1,0 +1,12 @@
+**Miroko Yhukiini, Warrior**:
+Agility 2D+2, dodge 3D+1, melee combat 5D, riding 4D+2, Coordination 2D, Physique 3D, running 3D+1, stamina 4D, Intellect 2D, cultures 3D, reading/writing 3D, Acumen 2D, search 4D+1, survival 3D+2, tracking 4D, Charisma 2D+1, command 4D, mettle 3D+1.
+*Advantages*: Authority (R1), leader of an army; Patron (R2), Kinzo Mimoto the Warlord,
+*Disadvantages*: Enemy (R1), those who are envious of her status,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 3, 
+*Body Points*: 19, *Equipment*: katana (damage +2D); knife (damage +1D); armor with mempo (Armor Value +2D); steed.
+
+
+

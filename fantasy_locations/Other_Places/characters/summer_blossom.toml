@@ -1,0 +1,98 @@
+[[characters]]
+name = "Summer Blossom"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "4D"
+skills = [
+    { label = "acrobatics", dice = "5D" },
+    { label = "contortion", dice = "6D" },
+    { label = "dodge", dice = "6D" },
+    { label = "fighting", dice = "6D" },
+    { label = "jumping", dice = "5D+ 1" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D+2"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D+1"
+skills = [
+    { label = "running", dice = "2D+2" },
+    { label = "stamina", dice = "3D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = [
+    { label = "traps", dice = "3D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D"
+skills = [
+    { label = "tracking", dice = "3D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D"
+skills = [
+    { label = "mettle", dice = "2D+1" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "4"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "22"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+details = [
+    { label = "Devotion", rank = "(R3)", details = ", to improving her fighting skills" },
+    { label = "Quirk", rank = "(R1)", details = ", aloof" },
+]
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Contact", rank = "(R3)", details = ", spirit of sister" },
+]
+
+[characters.details.Special]
+label = "Special"
+
+[[characters.details.Special.details]]
+label = "Immortality"
+rank = "(R1)"
+details = ", cannot be killed so long as she avoids kissing a man , with Additional Effect (R2) of regeneration to full health after being \" killed , \" allowing lost limbs or the like to grow back"

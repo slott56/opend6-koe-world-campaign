@@ -1,0 +1,13 @@
+
+Movement Modifiers
+
+Base difficulty: 0 for running, +5 for other modes (swimming, flying, climbing.)
+
+..  csv-table:: Movement Modifiers
+    :header: Terrain, Modifier
+
+    Moderate Terrain, +5
+    Rough Terrain, +10
+    Very Rought Terrain (Risk of Injury), +15
+    Hazardous Terrain (Risk of Death), +20
+    Very Hazardous Terrain (Dodging debris), +25

@@ -1,0 +1,169 @@
+[[characters]]
+name = "Aaroth the Wizard"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D+1"
+skills = [
+    { label = "dodge", dice = "2D+2" },
+    { label = "fighting", dice = "2D+2" },
+    { label = "melee combat", dice = "2D+2" },
+    { label = "riding", dice = "2D+2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D+ 1"
+skills = [
+    { label = "sleight of hand", dice = "3D" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "lifting", dice = "2D+ 1" },
+    { label = "running", dice = "2D+ 1" },
+    { label = "stamina", dice = "2D+2" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D+1"
+skills = [
+    { label = "cultures", dice = "3D+2" },
+    { label = "healing", dice = "3D+2" },
+    { label = "navigation", dice = "3D+2" },
+    { label = "reading/writing", dice = "3D+2" },
+    { label = "scholar", dice = "4D" },
+    { label = "speaking", dice = "3D+2" },
+    { label = "trading", dice = "3D+2" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D+1"
+skills = [
+    { label = "artist", dice = "3D+2" },
+    { label = "crafting", dice = "3D +2" },
+    { label = "disguise", dice = "3D+2" },
+    { label = "gambling", dice = "3D+2" },
+    { label = "hide", dice = "3D+2" },
+    { label = "investigation", dice = "4D" },
+    { label = "know-how", dice = "3D+2" },
+    { label = "search", dice = "3D+2" },
+    { label = "streetwise", dice = "3D+2" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D+2"
+skills = [
+    { label = "animal handling", dice = "3D" },
+    { label = "bluff", dice = "3D" },
+    { label = "charm", dice = "3D" },
+    { label = "command", dice = "3D" },
+    { label = "intimidation", dice = "3D" },
+    { label = "mettle", dice = "3D" },
+    { label = "persuasion", dice = "3D" },
+]
+
+[characters.details.Magic]
+label = "Magic"
+dice = "3D"
+skills = [
+    { label = "alteration", dice = "5D" },
+    { label = "apportation", dice = "3D+2" },
+    { label = "conju- ration", dice = "6D" },
+    { label = "divination", dice = "3D" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "10"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "21"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Enemy"
+rank = "(R2)"
+details = ", hunted by members of a wizard cult"
+
+[[characters.details.Disadvantages.details]]
+label = "Prejudice"
+rank = "(R2)"
+details = ", left a wizard cult that turned evil and he is commonly confused bypeople who do not know about the group as a current member"
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Wealth", rank = "(R3)", details = "" },
+]
+
+[characters.details.Special]
+label = "Special"
+details = [
+    { label = "Luck : Good", rank = "(R1)", details = "" },
+]
+
+[characters.details.Equipment]
+label = "Equipment"
+
+[[characters.details.Equipment.items]]
+description = "small knife"
+features = "( damage +2 )"
+
+[[characters.details.Equipment.items]]
+description = ""
+features = ""
+
+[[characters.details.Equipment.items]]
+description = "long staff"
+features = "( damage +1D+2 )"
+
+[[characters.details.Equipment.items]]
+description = ""
+features = ""
+
+[[characters.details.Equipment.items]]
+description = "heavy robes"
+features = "( Armor Value +2 )"
+
+[[characters.details.Equipment.items]]
+description = ""
+features = ""
+
+[[characters.details.Equipment.items]]
+description = "bag with various tomes , pouches with spell components and a few gold pieces"
+features = ""
+
+[[characters.details.Equipment.items]]
+description = "writing supplies ."
+features = ""

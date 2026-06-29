@@ -1,0 +1,43 @@
+Magic v2 spells (for World Book)
+
+Notebooks (.ipynb version)
+===========================
+
+Some cells have spells.
+
+Some cells check the difficulty.
+
+Some cells check the RST representation.
+
+Spell Module (.py version)
+==========================
+
+Each spell book is a definition of spells and a main program.
+
+Produces details of the spell to help debug the difficulty budget.
+
+::
+
+    % python spells/some_book.py debug "spell name"
+
+
+Spell Document (.txt version)
+=============================
+
+Produces RST-formatted documents for inclusion in a rule book
+
+::
+
+    % python spells/some_book.py display
+
+Maps and drawings.
+
+A few ideas:
+
+https://mastodon.social/@lordmatt/116274629732708776
+
+A lot more ideas:
+
+https://www.mapforge-software.com/links-to-map-making-apps/
+
+https://www.drjill.net/ortelius-software-for-map-design/

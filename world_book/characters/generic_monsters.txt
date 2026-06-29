@@ -1,0 +1,81 @@
+**Demon, Minor Destuctive**:
+Agility 3D, fighting 4D, stealth 4D, 
+Coordination 2D, throwing 4D, 
+Physique 5D, lifting 5D+1, running 6D, 
+Intellect 2D, 
+Acumen 2D, 
+Charisma 2D, intimidation 6D, mettle 4D, 
+*Disadvantages*: Employed (R1), anyone who knows its true name can command it completely; Devotion (R3), totally committed to wreaking havoc,
+*Special Abilities*: Attack Resistance (R1), +1D to damage resistance total against weapons not blessed or enchanted; Immortality (R1), a holy symbol and proper ritual returns it to its realm,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24.
+
+
+**Dragon, Young**:
+Agility 3D, fighting 4D, flying 3D+1, 
+Coordination 2D, marksmanship 3D, 
+Physique 5D, lifting 5D+1, 
+Intellect 3D, 
+Acumen 2D, 
+Charisma 3D, intimidation 6D, mettle 3D+2, 
+*Advantages*: Size (R4), large, scale value 12,
+*Disadvantages*: Achilles' Heel (R3), Metabolic Difference, requires large quantities of fresh meat; Infamy (R3), species feared and hunted because of destructive tendencies; Quirk (R3), easily angered; Quirk (R3), greedy,
+*Special Abilities*: Natural Armor (R2), Scales, +1D to damage resistance total; Natural Hand-to-Hand Weapon (R3), Claws, damage +3D; Natural Ranged Weapon (R2), Fiery Breath, damage 6D,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 32.
+
+
+**Humanoid, Evil**:
+Agility 3D, climbing 3D+2, fighting 4D, jumping 3D+1, stealth 4D, 
+Coordination 3D, marksmanship 4D, throwing 4D, 
+Physique 3D, lifting 3D+1, running 4D, 
+Intellect 1D, 
+Acumen 2D, hide 2D+2, survival 3D, tracking 3D, 
+Charisma 1D, intimidation 2D, 
+*Disadvantages*: Devotion (R3), killing and looting,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 12.
+
+
+**Giant**:
+Agility 3D, fighting 4D, melee combat 4D, 
+Coordination 1D, throwing 4D, 
+Physique 5D, lifting 6D, running 6D+2, 
+Intellect 2D, 
+Acumen 1D, tracking 2D, 
+Charisma 1D, intimidation 6D, 
+*Advantages*: Size (R2), Large, scale value 6,
+*Special Abilities*: Hypermovement (R2), +4 to Move; Increased Attribute (R3), Physique, +3 to all Physique totals,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 26, *Equipment*: Large club (damage +2D).
+
+
+**Walking Dead**:
+Agility 2D, fighting 3D, 
+Coordination 1D, Physiquev 2D, vlifting 3D, 
+Physique 3D, 
+Intellect 1D, 
+Acumen 1D, search 3D, tracking 3D, 
+Charisma 1D, intimidation 6D, 
+*Disadvantages*: Employed (R3), slave to the one who raised them,
+*Special Abilities*: Hardiness (R2), +2 to damage resistance totals; Immortality (R1), cease functioning when smashed to pieces or head is cut off,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 15.
+
+
+

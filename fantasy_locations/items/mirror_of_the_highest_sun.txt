@@ -1,0 +1,24 @@
+
+**Mirror of the Highest Sun**
+
+
+These holy items are highly polished metal, made more
+reflective than any conventional means by the abbey's secret
+process. Although it does not seem to have any miraculous
+abilities of its own, it can augment other effects that rely on
+light or the sun. Thus vampires find light reflected by this
+mirror even more unbearable, illusions using it as a component
+are more effective, and so on
+
+
+:Effect: 36 (uncanny_aptitude (R4))
+:Other Aspects:
+
+    disdvantage (1): burn_out (R1)
+
+
+
+:Price: VD (100 G)
+
+
+

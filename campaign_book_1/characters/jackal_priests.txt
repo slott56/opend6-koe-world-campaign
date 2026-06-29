@@ -1,0 +1,32 @@
+**Devoted Xorn Priests**:
+Agility 4D, fighting 1D, melee combat +2, Coordination 4D, Physique 3D+2, Intellect 3D+2, Acumen 3D+2, Charisma 3D+2, intimidation 3D+1.
+*Disadvantages*: Devotion (R1), Great Priest Xorn; Employed (R2), Following Xorn,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R2), Martial arts skills: 1D+2 bare-hand attack; Natural Armor (R2), Martial Block,
+*Move*: 10.0, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 22.
+
+
+**Devoted Xorn Novices**:
+Agility 3D, fighting 1D, Coordination 3D, Physique 3D, stamina 1D, Intellect 3D, Acumen 3D, Charisma 3D.
+*Disadvantages*: Devotion (R1), Great Priest Xorn; Employed (R2), Following Xorn,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R1), Martial arts skills: 1D bare-hand attack; Natural Armor (R1), Martial Block,
+*Move*: 10.0, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 22.
+
+
+**Temple of the Jackal Pilgrims**:
+Agility 2D+2, fighting +2, Coordination 2D+2, Physique 2D+2, Intellect 2D+2, Acumen 2D+2, Charisma 2D+2, intimidation 1D.
+*Move*: 10.0, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 22.
+
+
+

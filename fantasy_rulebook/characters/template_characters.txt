@@ -1,0 +1,1231 @@
+
+**OpenD6 Fantasy**
+
+
++--------------------------------------------------+
+| Character Name: ________________________________ |
++--------------------------------------------------+
+| Occupation: Bard                                 |
++-------------------------+------------------------+
+| Race: Human             | Gender: ______________ |
++----------------+--------+-------+----------------+
+| Age: ________  | Height: ______ | Weight: ______ |
++----------------+----------------+----------------+
+| Physical Description ___________________________ |
++--------------------------------------------------+
+
+
++------------------------------+------------------------------+------------------------------+
+| Agility                   2D | Intellect                 4D |                              |                 
++------------------------------+------------------------------+------------------------------+
+| climbing                     | cultures                     | **Advantages**:              |
+|                              |                              |                              |
+| dodge                        | healing                      | **Disadvantages**:           |
+|                              |                              |                              |
+| fighting                     | navigation                   | Quirk (R1), your muse        |
+|                              |                              |                              |
+| melee combat                 | reading/writing              | often overcomes you          |
+|                              |                              |                              |
+| riding                       | scholar                      | and inspires you to          |
+|                              |                              |                              |
+| stealth                      | speaking                     | create a song or story       |
+|                              |                              |                              |
+|                              | trading                      | on the spot                  |
+|                              |                              |                              |
+|                              |                              | **Special Abilities**:       |
+|                              |                              |                              |
+|                              |                              | Skill Bonus (R1),            |
+|                              |                              |                              |
+|                              |                              | Eidetic, +1 bonus to         |
+|                              |                              |                              |
+|                              |                              | speaking, scholar, and       |
+|                              |                              |                              |
+|                              |                              | investigation totals         |
+|                              |                              |                              |
+|                              |                              | **Equipment**: Dagger        |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Coordination              2D | Acumen                    4D | (damage +1D);  leather       |                 
++------------------------------+------------------------------+                              +
+| lockpicking                  | artist                       | jerkin (Armor Value          |
+|                              |                              |                              |
+|                              | disguise                     | +2); paper;  quill and       |
+|                              |                              |                              |
+|                              | gambling                     | ink; scroll tube.            |
+|                              |                              |                              |
+|                              | hide                         | **Description**:             |
+|                              |                              |                              |
+|                              | investigation                | Others get ideas for         |
+|                              |                              |                              |
+|                              | know-how                     | their tales second or        |
+|                              |                              |                              |
+|                              | search                       | third hand. You prefer       |
+|                              |                              |                              |
+|                              | streetwise                   | to see the really            |
+|                              |                              |                              |
+|                              | survival                     | exciting parts of            |
+|                              |                              |                              |
+|                              |                              | history unfold for           |
+|                              |                              |                              |
+|                              |                              | yourself.                    |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Physique                  2D | Charisma                  4D |                              |                 
++------------------------------+------------------------------+                              +
+| running                      | bluff                        |                              |
+|                              |                              |                              |
+|                              | charm                        |                              |
+|                              |                              |                              |
+|                              | intimidation                 |                              |
+|                              |                              |                              |
+|                              | mettle                       |                              |
+|                              |                              |                              |
+|                              | persuade                     |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+------------------------------+
+| Extranormal            _____ |                              |                              |                 
++------------------------------+------------------------------+------------------------------+
+| alteration                   | Str Damage                1D | Body Points 24               |
+|                              |                              |                              |
+| apportation                  | Move                      10 | [ ] Stunned   14-18          |
+|                              |                              |                              |
+| conjuration                  | Fate Pts      1              | [ ] Wounded   10-13          |
+|                              |                              |                              |
+| divination                   | Character Pts 5              | [ ] Severe    5-9            |
+|                              |                              |                              |
+|                              | Funds 5D                     | [ ] Incapac'd 2-4            |
+|                              |                              |                              |
+|                              | Silver 300                   | [ ] Mortal    1              |
+|                              |                              |                              |
+|                              |                              | [ ] Dead                     |
++------------------------------+------------------------------+------------------------------+
+
+
+
+**OpenD6 Fantasy**
+
+
++--------------------------------------------------+
+| Character Name: ________________________________ |
++--------------------------------------------------+
+| Occupation: Cleric                               |
++-------------------------+------------------------+
+| Race: Human             | Gender: ______________ |
++----------------+--------+-------+----------------+
+| Age: ________  | Height: ______ | Weight: ______ |
++----------------+----------------+----------------+
+| Physical Description ___________________________ |
++--------------------------------------------------+
+
+
++------------------------------+------------------------------+------------------------------+
+| Agility                 2D+1 | Intellect               3D+2 |                              |                 
++------------------------------+------------------------------+------------------------------+
+| acrobatics                   | cultures                     | **Advantages**:              |
+|                              |                              |                              |
+| fighting                     | healing                      | **Disadvantages**:           |
+|                              |                              |                              |
+| melee combat                 | navigation                   | Equipment (R1), armor        |
+|                              |                              |                              |
+| riding                       | reading/writing              | and weapon                   |
+|                              |                              |                              |
+|                              | scholar                      | **Special Abilities**:       |
+|                              |                              |                              |
+|                              | speaking                     | Devotion (R2), to            |
+|                              |                              |                              |
+|                              | trading                      | youyr religion;              |
+|                              |                              |                              |
+|                              |                              | Employed (R1), must          |
+|                              |                              |                              |
+|                              |                              | follow sect's                |
+|                              |                              |                              |
+|                              |                              | regulations                  |
+|                              |                              |                              |
+|                              |                              | **Equipment**: Mace          |
+|                              |                              |                              |
+|                              |                              | (damage +1D+1); hard         |
+|                              |                              |                              |
+|                              |                              | leather armor (Armor         |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Coordination              2D | Acumen                    3D | Value +1D+1);                |                 
++------------------------------+------------------------------+                              +
+| charioteering                | artist                       | religious symbol;            |
+|                              |                              |                              |
+| throwing                     | crafting                     | leather pouch;               |
+|                              |                              |                              |
+|                              | disguise                     | ceremonial cloth.            |
+|                              |                              |                              |
+|                              | investigation                | **Description**: Being       |
+|                              |                              |                              |
+|                              | know-how                     | the youngest of a very       |
+|                              |                              |                              |
+|                              | search                       | large family, your           |
+|                              |                              |                              |
+|                              | survival                     | family sent you away         |
+|                              |                              |                              |
+|                              |                              | to join a religious          |
+|                              |                              |                              |
+|                              |                              | sect, one that               |
+|                              |                              |                              |
+|                              |                              | promomoted charity and       |
+|                              |                              |                              |
+|                              |                              | knowledge. Your sect         |
+|                              |                              |                              |
+|                              |                              | has now sent you out         |
+|                              |                              |                              |
+|                              |                              | to practice what you         |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Physique                  2D | Charisma                  3D | have been taught and         |                 
++------------------------------+------------------------------+                              +
+| lifting                      | animal handling              | help others. Although        |
+|                              |                              |                              |
+| running                      | bluff                        | you will defend              |
+|                              |                              |                              |
+| stamina                      | chann                        | yourself, you consider       |
+|                              |                              |                              |
+|                              | command                      | indiscriminate               |
+|                              |                              |                              |
+|                              | intimidation                 | violance  as stooping        |
+|                              |                              |                              |
+|                              | mettle                       | to the level of lesser       |
+|                              |                              |                              |
+|                              | persuasion                   | beings.                      |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+------------------------------+
+| Extranormal               2D |                              |                              |                 
++------------------------------+------------------------------+------------------------------+
+| divination                   | Str Damage                1D | Body Points 22               |
+|                              |                              |                              |
+| favor                        | Move                      10 | [ ] Stunned   13-17          |
+|                              |                              |                              |
+| strife                       | Fate Pts      1              | [ ] Wounded   9-12           |
+|                              |                              |                              |
+|                              | Character Pts 5              | [ ] Severe    4-8            |
+|                              |                              |                              |
+|                              | Funds 3D                     | [ ] Incapac'd 2-3            |
+|                              |                              |                              |
+|                              | Silver 180                   | [ ] Mortal    1              |
+|                              |                              |                              |
+|                              |                              | [ ] Dead                     |
++------------------------------+------------------------------+------------------------------+
+
+
+
+**OpenD6 Fantasy**
+
+
++--------------------------------------------------+
+| Character Name: ________________________________ |
++--------------------------------------------------+
+| Occupation: Gladiator                            |
++-------------------------+------------------------+
+| Race: Human             | Gender: ______________ |
++----------------+--------+-------+----------------+
+| Age: ________  | Height: ______ | Weight: ______ |
++----------------+----------------+----------------+
+| Physical Description ___________________________ |
++--------------------------------------------------+
+
+
++------------------------------+------------------------------+------------------------------+
+| Agility                   4D | Intellect                 2D |                              |                 
++------------------------------+------------------------------+------------------------------+
+| acrobatics                   | healing                      | **Advantages**:              |
+|                              |                              |                              |
+| climbing                     |                              | Trademark                    |
+|                              |                              |                              |
+| dodge                        |                              | Specialization (R1),         |
+|                              |                              |                              |
+| fighting                     |                              | gain +2D when using          |
+|                              |                              |                              |
+| jumping                      |                              | one weapon (your             |
+|                              |                              |                              |
+| melee combat                 |                              | choice) plus you may         |
+|                              |                              |                              |
+| riding                       |                              | be recognized by those       |
+|                              |                              |                              |
+| stealth                      |                              | watching                     |
+|                              |                              |                              |
+|                              |                              | **Disadvantages**:           |
+|                              |                              |                              |
+|                              |                              | Devotion (R1), to            |
+|                              |                              |                              |
+|                              |                              | fighting                     |
+|                              |                              |                              |
+|                              |                              | **Special Abilities**:       |
+|                              |                              |                              |
+|                              |                              | **Equipment**: Short         |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Coordination              3D | Acumen                    3D | sword (damage +1D+2;         |                 
++------------------------------+------------------------------+                              +
+| charioteering                | crafting                     | hard leather armor           |
+|                              |                              |                              |
+| marksmanship                 | gambling                     | (armor value +1D+1);         |
+|                              |                              |                              |
+| throwing                     | know-how                     | small shield (armor          |
+|                              |                              |                              |
+|                              | streetwise                   | value +2D).                  |
+|                              |                              |                              |
+|                              | survival                     | **Description**: You         |
+|                              |                              |                              |
+|                              |                              | have so focused              |
+|                              |                              |                              |
+|                              |                              | yourself onb battle          |
+|                              |                              |                              |
+|                              |                              | that you find it hard        |
+|                              |                              |                              |
+|                              |                              | to resist a  fight           |
+|                              |                              |                              |
+|                              |                              | when you have the            |
+|                              |                              |                              |
+|                              |                              | opportunity. From your       |
+|                              |                              |                              |
+|                              |                              | time in the arena            |
+|                              |                              |                              |
+|                              |                              | circuit, you've become       |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Physique                  4D | Charisma                  2D | famous for the use of        |                 
++------------------------------+------------------------------+                              +
+| lifting                      | command                      | a particular weapon.         |
+|                              |                              |                              |
+| running                      | intimidation                 |                              |
+|                              |                              |                              |
+| stamina                      | mettle                       |                              |
+|                              |                              |                              |
+| swimming                     | persuasion                   |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+------------------------------+
+| Extranormal            _____ |                              |                              |                 
++------------------------------+------------------------------+------------------------------+
+| alteration                   | Str Damage                2D | Body Points 36               |
+|                              |                              |                              |
+| apportation                  | Move                      10 | [ ] Stunned   22-28          |
+|                              |                              |                              |
+| conjuration                  | Fate Pts      1              | [ ] Wounded   14-21          |
+|                              |                              |                              |
+| divination                   | Character Pts 5              | [ ] Severe    7-13           |
+|                              |                              |                              |
+|                              | Funds 3D                     | [ ] Incapac'd 4-6            |
+|                              |                              |                              |
+|                              | Silver 180                   | [ ] Mortal    1-3            |
+|                              |                              |                              |
+|                              |                              | [ ] Dead                     |
++------------------------------+------------------------------+------------------------------+
+
+
+
+**OpenD6 Fantasy**
+
+
++--------------------------------------------------+
+| Character Name: ________________________________ |
++--------------------------------------------------+
+| Occupation: Healer                               |
++-------------------------+------------------------+
+| Race: Human             | Gender: ______________ |
++----------------+--------+-------+----------------+
+| Age: ________  | Height: ______ | Weight: ______ |
++----------------+----------------+----------------+
+| Physical Description ___________________________ |
++--------------------------------------------------+
+
+
++------------------------------+------------------------------+------------------------------+
+| Agility                 2D+2 | Intellect                 4D |                              |                 
++------------------------------+------------------------------+------------------------------+
+| climbing                     | cultures                     | **Advantages**:              |
+|                              |                              |                              |
+| dodge                        | healing                      | **Disadvantages**:           |
+|                              |                              |                              |
+| melee combat                 | readi11g/writing             | Quirk (R1), Stutter,         |
+|                              |                              |                              |
+| riding                       | scholar                      | whenever you fail a          |
+|                              |                              |                              |
+|                              | speaking                     | skill check, you             |
+|                              |                              |                              |
+|                              | trading                      | become flustered and         |
+|                              |                              |                              |
+|                              |                              | stutter, getting a +3        |
+|                              |                              |                              |
+|                              |                              | to all interaction           |
+|                              |                              |                              |
+|                              |                              | difficulties, until          |
+|                              |                              |                              |
+|                              |                              | you get a Critical           |
+|                              |                              |                              |
+|                              |                              | Success on a roll            |
+|                              |                              |                              |
+|                              |                              | **Special Abilities**:       |
+|                              |                              |                              |
+|                              |                              | Skill Bonus (R1),            |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Coordination              2D | Acumen                  3D+2 | Naturally Soothing, +1       |                 
++------------------------------+------------------------------+                              +
+| sleight of hand              | artist                       | bonus to animal              |
+|                              |                              |                              |
+| throwing                     | hide                         | handling, charm and          |
+|                              |                              |                              |
+|                              | investigation                | healing rolls                |
+|                              |                              |                              |
+|                              | know-how                     | **Equipment**: Knife         |
+|                              |                              |                              |
+|                              | search                       | (damage +1D); 3              |
+|                              |                              |                              |
+|                              | survival                     | candles, tinderbox;          |
+|                              |                              |                              |
+|                              |                              | pouch of herbs (+1           |
+|                              |                              |                              |
+|                              |                              | bonus to healing             |
+|                              |                              |                              |
+|                              |                              | totals, six uses).           |
+|                              |                              |                              |
+|                              |                              | **Description**:             |
+|                              |                              |                              |
+|                              |                              | You've always had a          |
+|                              |                              |                              |
+|                              |                              | prediliction toward          |
+|                              |                              |                              |
+|                              |                              | caring for others.           |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Physique                2D+1 | Charisma                3D+1 | Except when you get          |                 
++------------------------------+------------------------------+                              +
+| lifting                      | animal handling              | nervous and stutter,         |
+|                              |                              |                              |
+| running                      | charm                        | people like to  be           |
+|                              |                              |                              |
+| stamina                      | command                      | around you.                  |
+|                              |                              |                              |
+| swimming                     | mettle                       |                              |
+|                              |                              |                              |
+|                              | persuasion                   |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+------------------------------+
+| Extranormal            _____ |                              |                              |                 
++------------------------------+------------------------------+------------------------------+
+| alteration                   | Str Damage                1D | Body Points 23               |
+|                              |                              |                              |
+| apportation                  | Move                      10 | [ ] Stunned   14-17          |
+|                              |                              |                              |
+| conjuration                  | Fate Pts      1              | [ ] Wounded   9-13           |
+|                              |                              |                              |
+| divination                   | Character Pts 5              | [ ] Severe    5-8            |
+|                              |                              |                              |
+|                              | Funds 4D                     | [ ] Incapac'd 2-4            |
+|                              |                              |                              |
+|                              | Silver 240                   | [ ] Mortal    1              |
+|                              |                              |                              |
+|                              |                              | [ ] Dead                     |
++------------------------------+------------------------------+------------------------------+
+
+
+
+**OpenD6 Fantasy**
+
+
++--------------------------------------------------+
+| Character Name: ________________________________ |
++--------------------------------------------------+
+| Occupation: Merchant                             |
++-------------------------+------------------------+
+| Race: Human             | Gender: ______________ |
++----------------+--------+-------+----------------+
+| Age: ________  | Height: ______ | Weight: ______ |
++----------------+----------------+----------------+
+| Physical Description ___________________________ |
++--------------------------------------------------+
+
+
++------------------------------+------------------------------+------------------------------+
+| Agility                 2D+2 | Intellect                 4D |                              |                 
++------------------------------+------------------------------+------------------------------+
+| dodge                        | cultures                     | **Advantages**: Wealth       |
+|                              |                              |                              |
+| fighting                     | healing                      | (R1),  +2 to Funds           |
+|                              |                              |                              |
+| melee combat                 | lTading                      | roll / 10 silver coins       |
+|                              |                              |                              |
+| riding                       | navigation                   | **Disadvantages**:           |
+|                              |                              |                              |
+|                              | readi11g/writing             | Quirk (R1), always           |
+|                              |                              |                              |
+|                              | scholar                      | looking for a way to         |
+|                              |                              |                              |
+|                              | speaking                     | make a profit --             |
+|                              |                              |                              |
+|                              |                              | always                       |
+|                              |                              |                              |
+|                              |                              | **Special Abilities**:       |
+|                              |                              |                              |
+|                              |                              | **Equipment**: Staff         |
+|                              |                              |                              |
+|                              |                              | (damage +1D+2; fine          |
+|                              |                              |                              |
+|                              |                              | garments with a heavy        |
+|                              |                              |                              |
+|                              |                              | brocade vesat (Armor         |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Coordination              2D | Acumen                    3D | value +1); leather bag       |                 
++------------------------------+------------------------------+                              +
+| charioteering                | artist                       | filled with a handful        |
+|                              |                              |                              |
+| lockpicking                  | crafting                     | of small gold and            |
+|                              |                              |                              |
+| sleightofhand                | disguise                     | silver coins and small       |
+|                              |                              |                              |
+|                              | gambling                     | jewels.                      |
+|                              |                              |                              |
+|                              | hide                         | **Description**:             |
+|                              |                              |                              |
+|                              | investigation                | You've made your             |
+|                              |                              |                              |
+|                              | know-how                     | fortune several  times       |
+|                              |                              |                              |
+|                              | search                       | over (and lost some of       |
+|                              |                              |                              |
+|                              | streetwise                   | it on other schemes.)        |
+|                              |                              |                              |
+|                              |                              | You're looking for a         |
+|                              |                              |                              |
+|                              |                              | new town that could          |
+|                              |                              |                              |
+|                              |                              | use your services.           |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Physique                2D+1 | Charisma                  4D |                              |                 
++------------------------------+------------------------------+                              +
+| lifting                      | animal handling              |                              |
+|                              |                              |                              |
+| running                      | bluff                        |                              |
+|                              |                              |                              |
+|                              | charm                        |                              |
+|                              |                              |                              |
+|                              | command                      |                              |
+|                              |                              |                              |
+|                              | intimidation                 |                              |
+|                              |                              |                              |
+|                              | mettle                       |                              |
+|                              |                              |                              |
+|                              | persuasion                   |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+------------------------------+
+| Extranormal            _____ |                              |                              |                 
++------------------------------+------------------------------+------------------------------+
+| alteration                   | Str Damage                1D | Body Points 28               |
+|                              |                              |                              |
+| apportation                  | Move                      10 | [ ] Stunned   17-21          |
+|                              |                              |                              |
+| conjuration                  | Fate Pts      1              | [ ] Wounded   11-16          |
+|                              |                              |                              |
+| divination                   | Character Pts 5              | [ ] Severe    6-10           |
+|                              |                              |                              |
+|                              | Funds 5D                     | [ ] Incapac'd 3-5            |
+|                              |                              |                              |
+|                              | Silver 300                   | [ ] Mortal    1-2            |
+|                              |                              |                              |
+|                              |                              | [ ] Dead                     |
++------------------------------+------------------------------+------------------------------+
+
+
+
+**OpenD6 Fantasy**
+
+
++--------------------------------------------------+
+| Character Name: ________________________________ |
++--------------------------------------------------+
+| Occupation: Monster Slayer                       |
++-------------------------+------------------------+
+| Race: Human             | Gender: ______________ |
++----------------+--------+-------+----------------+
+| Age: ________  | Height: ______ | Weight: ______ |
++----------------+----------------+----------------+
+| Physical Description ___________________________ |
++--------------------------------------------------+
+
+
++------------------------------+------------------------------+------------------------------+
+| Agility                 3D+2 | Intellect                 2D |                              |                 
++------------------------------+------------------------------+------------------------------+
+| acrobatics                   | healing                      | **Advantages**:              |
+|                              |                              |                              |
+| climbing                     | traps                        | **Disadvantages**: Age       |
+|                              |                              |                              |
+| dodge                        |                              | (R1), you are slightly       |
+|                              |                              |                              |
+| fighting                     |                              | younger than typical,        |
+|                              |                              |                              |
+| jumping                      |                              | so people don't always       |
+|                              |                              |                              |
+| melee combat                 |                              | take you seriously.          |
+|                              |                              |                              |
+| stealth                      |                              | Devotion (R1), to            |
+|                              |                              |                              |
+|                              |                              | protecting ordinary          |
+|                              |                              |                              |
+|                              |                              | people from                  |
+|                              |                              |                              |
+|                              |                              | extraordinary fiends         |
+|                              |                              |                              |
+|                              |                              | **Special Abilities**:       |
+|                              |                              |                              |
+|                              |                              | Attack Resistance            |
+|                              |                              |                              |
+|                              |                              | (R1), Nonenchanted           |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Coordination            3D+1 | Acumen                  3D+1 | Weapons, +1D to your         |                 
++------------------------------+------------------------------+                              +
+| marksmanship                 | crafting                     | damage resistance            |
+|                              |                              |                              |
+| throwing                     | gambling                     | totalled against such        |
+|                              |                              |                              |
+|                              | hide                         | weapons                      |
+|                              |                              |                              |
+|                              | investigation                | **Equipment**: Battle        |
+|                              |                              |                              |
+|                              | search                       | Axe (damage +3D);            |
+|                              |                              |                              |
+|                              | streetwise                   | Leather pants (armor         |
+|                              |                              |                              |
+|                              | survival                     | value +2 to legs             |
+|                              |                              |                              |
+|                              | tracking                     | only).                       |
+|                              |                              |                              |
+|                              |                              | **Description**: After       |
+|                              |                              |                              |
+|                              |                              | a band of monsters           |
+|                              |                              |                              |
+|                              |                              | killed those you             |
+|                              |                              |                              |
+|                              |                              | loved, you've been           |
+|                              |                              |                              |
+|                              |                              | wandering the world,         |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Physique                3D+2 | Charisma                  2D | seeking to rid it of         |                 
++------------------------------+------------------------------+                              +
+| lifting                      | animal handling              | such diabolical              |
+|                              |                              |                              |
+| running                      | command                      | creatures.  A priest         |
+|                              |                              |                              |
+| stamina                      | intimidation                 | blessed your cause,          |
+|                              |                              |                              |
+| swimming                     | mettle                       | giving you a                 |
+|                              |                              |                              |
+|                              | persuasion                   | resistance to certain        |
+|                              |                              |                              |
+|                              |                              | kinds of physical            |
+|                              |                              |                              |
+|                              |                              | harm.                        |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+------------------------------+
+| Extranormal            _____ |                              |                              |                 
++------------------------------+------------------------------+------------------------------+
+| alteration                   | Str Damage                2D | Body Points 36               |
+|                              |                              |                              |
+| apportation                  | Move                      10 | [ ] Stunned   22-28          |
+|                              |                              |                              |
+| conjuration                  | Fate Pts      1              | [ ] Wounded   14-21          |
+|                              |                              |                              |
+| divination                   | Character Pts 5              | [ ] Severe    7-13           |
+|                              |                              |                              |
+|                              | Funds 3D                     | [ ] Incapac'd 4-6            |
+|                              |                              |                              |
+|                              | Silver 180                   | [ ] Mortal    1-3            |
+|                              |                              |                              |
+|                              |                              | [ ] Dead                     |
++------------------------------+------------------------------+------------------------------+
+
+
+
+**OpenD6 Fantasy**
+
+
++--------------------------------------------------+
+| Character Name: ________________________________ |
++--------------------------------------------------+
+| Occupation: Ranger                               |
++-------------------------+------------------------+
+| Race: Human             | Gender: ______________ |
++----------------+--------+-------+----------------+
+| Age: ________  | Height: ______ | Weight: ______ |
++----------------+----------------+----------------+
+| Physical Description ___________________________ |
++--------------------------------------------------+
+
+
++------------------------------+------------------------------+------------------------------+
+| Agility                 3D+1 | Intellect               2D+2 |                              |                 
++------------------------------+------------------------------+------------------------------+
+| climbing                     | healing                      | **Advantages**:              |
+|                              |                              |                              |
+| dodge                        | navigation                   | Contacts (R1), you've        |
+|                              |                              |                              |
+| fighting                     | scholar                      | helped a lot of              |
+|                              |                              |                              |
+| jumping                      | speaking                     | people, many of whom         |
+|                              |                              |                              |
+| melee combat                 | traps                        | would be willing to          |
+|                              |                              |                              |
+| riding                       |                              | return to the favor          |
+|                              |                              |                              |
+| stealth                      |                              | **Disadvantages**:           |
+|                              |                              |                              |
+|                              |                              | Devotion (R2), fierclu       |
+|                              |                              |                              |
+|                              |                              | devoted to protecting        |
+|                              |                              |                              |
+|                              |                              | wilderness areas and         |
+|                              |                              |                              |
+|                              |                              | their inhabitants            |
+|                              |                              |                              |
+|                              |                              | **Special Abilities**:       |
+|                              |                              |                              |
+|                              |                              | Skill Bonus (R1), Keen       |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Coordination            3D+1 | Acumen                  2D+2 | Eye, +1 bonus to             |                 
++------------------------------+------------------------------+                              +
+| marksmanship                 | crafting                     | marksmanship, search,        |
+|                              |                              |                              |
+| throwing                     | hide                         | and tracking                 |
+|                              |                              |                              |
+|                              | investigation                | **Equipment**: Cloak,        |
+|                              |                              |                              |
+|                              | know-how                     | long bow, and quiver         |
+|                              |                              |                              |
+|                              | search                       | of arrows (damage            |
+|                              |                              |                              |
+|                              | survival                     | +3D+2); Leather jerkin       |
+|                              |                              |                              |
+|                              | tracking                     | (armor value +2).            |
+|                              |                              |                              |
+|                              |                              | **Description**: You         |
+|                              |                              |                              |
+|                              |                              | grew up in forests and       |
+|                              |                              |                              |
+|                              |                              | you've traveled              |
+|                              |                              |                              |
+|                              |                              | through a lot of             |
+|                              |                              |                              |
+|                              |                              | wilderness. You              |
+|                              |                              |                              |
+|                              |                              | firstly seek to              |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Physique                  3D | Charisma                  3D | protect the land,            |                 
++------------------------------+------------------------------+                              +
+| lifting                      | animal handling              | plants, and animals,         |
+|                              |                              |                              |
+| running                      | charm                        | and secondly, any            |
+|                              |                              |                              |
+| stamina                      | command                      | travelers.                   |
+|                              |                              |                              |
+| swimming                     | intimidation                 |                              |
+|                              |                              |                              |
+|                              | mettle                       |                              |
+|                              |                              |                              |
+|                              | persuasion                   |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+------------------------------+
+| Extranormal            _____ |                              |                              |                 
++------------------------------+------------------------------+------------------------------+
+| alteration                   | Str Damage                2D | Body Points 27               |
+|                              |                              |                              |
+| apportation                  | Move                      10 | [ ] Stunned   16-21          |
+|                              |                              |                              |
+| conjuration                  | Fate Pts      1              | [ ] Wounded   11-15          |
+|                              |                              |                              |
+| divination                   | Character Pts 5              | [ ] Severe    5-10           |
+|                              |                              |                              |
+|                              | Funds 3D                     | [ ] Incapac'd 3-4            |
+|                              |                              |                              |
+|                              | Silver 180                   | [ ] Mortal    1-2            |
+|                              |                              |                              |
+|                              |                              | [ ] Dead                     |
++------------------------------+------------------------------+------------------------------+
+
+
+
+**OpenD6 Fantasy**
+
+
++--------------------------------------------------+
+| Character Name: ________________________________ |
++--------------------------------------------------+
+| Occupation: Thief                                |
++-------------------------+------------------------+
+| Race: Human             | Gender: ______________ |
++----------------+--------+-------+----------------+
+| Age: ________  | Height: ______ | Weight: ______ |
++----------------+----------------+----------------+
+| Physical Description ___________________________ |
++--------------------------------------------------+
+
+
++------------------------------+------------------------------+------------------------------+
+| Agility                   3D | Intellect               2D+1 |                              |                 
++------------------------------+------------------------------+------------------------------+
+| acrobatics                   | cultures                     | **Advantages**:              |
+|                              |                              |                              |
+| climbing                     | reading/writing              | **Disadvantages**:           |
+|                              |                              |                              |
+| contortion                   | trading                      | Enemy (R1), someone          |
+|                              |                              |                              |
+| dodge                        | traps                        | caught you while you         |
+|                              |                              |                              |
+| fighting                     |                              | were stealing --             |
+|                              |                              |                              |
+| jumping                      |                              | though you managed to        |
+|                              |                              |                              |
+| melee combat                 |                              | escape, you now have         |
+|                              |                              |                              |
+| stealth                      |                              | someone after you            |
+|                              |                              |                              |
+|                              |                              | **Special Abilities**:       |
+|                              |                              |                              |
+|                              |                              | Skill Bonus (R1),            |
+|                              |                              |                              |
+|                              |                              | Nimble Fingers, +1           |
+|                              |                              |                              |
+|                              |                              | bpnus to lockpicking,        |
+|                              |                              |                              |
+|                              |                              | sleight of hand, and         |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Coordination              4D | Acumen                  2D+2 | gambling                     |                 
++------------------------------+------------------------------+                              +
+| lockpickjng                  | artist                       | **Equipment**: Dagger        |
+|                              |                              |                              |
+| sleight of hand              | crafting                     | (damage +1D); cloak,         |
+|                              |                              |                              |
+| throwing                     | disguise                     | rope, sack, a few            |
+|                              |                              |                              |
+|                              | gambling                     | tools to spring traps.       |
+|                              |                              |                              |
+|                              | hide                         | **Description**: Some        |
+|                              |                              |                              |
+|                              | investigation                | people farm or fight         |
+|                              |                              |                              |
+|                              | search                       | professionally to earn       |
+|                              |                              |                              |
+|                              | streetwise                   | a living. You prefer         |
+|                              |                              |                              |
+|                              | survival                     | to test your wits            |
+|                              |                              |                              |
+|                              |                              | against the awareness        |
+|                              |                              |                              |
+|                              |                              | of a household. If you       |
+|                              |                              |                              |
+|                              |                              | win, you get to keep         |
+|                              |                              |                              |
+|                              |                              | something.                   |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Physique                  3D | Charisma                  3D |                              |                 
++------------------------------+------------------------------+                              +
+| lifting                      | bluff                        |                              |
+|                              |                              |                              |
+| running                      | charm                        |                              |
+|                              |                              |                              |
+|                              | mettle                       |                              |
+|                              |                              |                              |
+|                              | persuasion                   |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+------------------------------+
+| Extranormal            _____ |                              |                              |                 
++------------------------------+------------------------------+------------------------------+
+| alteration                   | Str Damage                2D | Body Points 36               |
+|                              |                              |                              |
+| apportation                  | Move                      10 | [ ] Stunned   22-28          |
+|                              |                              |                              |
+| conjuration                  | Fate Pts      1              | [ ] Wounded   14-21          |
+|                              |                              |                              |
+| divination                   | Character Pts 5              | [ ] Severe    7-13           |
+|                              |                              |                              |
+|                              | Funds 3D                     | [ ] Incapac'd 4-6            |
+|                              |                              |                              |
+|                              | Silver 180                   | [ ] Mortal    1-3            |
+|                              |                              |                              |
+|                              |                              | [ ] Dead                     |
++------------------------------+------------------------------+------------------------------+
+
+
+
+**OpenD6 Fantasy**
+
+
++--------------------------------------------------+
+| Character Name: ________________________________ |
++--------------------------------------------------+
+| Occupation: Wanderer                             |
++-------------------------+------------------------+
+| Race: Human             | Gender: ______________ |
++----------------+--------+-------+----------------+
+| Age: ________  | Height: ______ | Weight: ______ |
++----------------+----------------+----------------+
+| Physical Description ___________________________ |
++--------------------------------------------------+
+
+
++------------------------------+------------------------------+------------------------------+
+| Agility                   3D | Intellect                 3D |                              |                 
++------------------------------+------------------------------+------------------------------+
+| acrobatics                   | cultures                     | **Advantages**:              |
+|                              |                              |                              |
+| climbing                     | devices                      | Cultures (R1), you           |
+|                              |                              |                              |
+| contortion                   | healing                      | have a knack for             |
+|                              |                              |                              |
+| dodge                        | navigation                   | drawing parallels            |
+|                              |                              |                              |
+| fighting                     | readi11g/writing             | between known and            |
+|                              |                              |                              |
+| jumping                      | scholar                      | unusual cultures             |
+|                              |                              |                              |
+| melee combat                 | speaking                     | **Disadvantages**:           |
+|                              |                              |                              |
+| riding                       | trading                      | Hindrance (R1), Trick        |
+|                              |                              |                              |
+| stealth                      | traps                        | Shoulder, +1 to              |
+|                              |                              |                              |
+|                              |                              | climbing, melee              |
+|                              |                              |                              |
+|                              |                              | combat, and throwing         |
+|                              |                              |                              |
+|                              |                              | difficulties                 |
+|                              |                              |                              |
+|                              |                              | **Special Abilities**:       |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Coordination              3D | Acumen                    3D | **Equipment**: Studded       |                 
++------------------------------+------------------------------+                              +
+| charioteering                | artist                       | Staff (damage +2D);          |
+|                              |                              |                              |
+| lockpicking                  | crafting                     | cloak, sack, water           |
+|                              |                              |                              |
+| marksmamhip                  | disguise                     | skin.                        |
+|                              |                              |                              |
+| pilotry                      | gambling                     | **Description**: You         |
+|                              |                              |                              |
+| sleight of hand              | hide                         | seek to learn about          |
+|                              |                              |                              |
+| throwing                     | investigation                | new cultures.  Whan          |
+|                              |                              |                              |
+|                              | know-how                     | you've had your fill         |
+|                              |                              |                              |
+|                              | search                       | of one, you move on.         |
+|                              |                              |                              |
+|                              | streetwise                   |                              |
+|                              |                              |                              |
+|                              | survival                     |                              |
+|                              |                              |                              |
+|                              | tracking                     |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Physique                  3D | Charisma                  3D |                              |                 
++------------------------------+------------------------------+                              +
+| lifting                      | animal handling              |                              |
+|                              |                              |                              |
+| running                      | bluff                        |                              |
+|                              |                              |                              |
+| stamina                      | charm                        |                              |
+|                              |                              |                              |
+| swimming                     | command                      |                              |
+|                              |                              |                              |
+|                              | intimidation                 |                              |
+|                              |                              |                              |
+|                              | mettle                       |                              |
+|                              |                              |                              |
+|                              | persuasion                   |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+------------------------------+
+| Extranormal            _____ |                              |                              |                 
++------------------------------+------------------------------+------------------------------+
+| alteration                   | Str Damage                2D | Body Points 34               |
+|                              |                              |                              |
+| apportation                  | Move                      10 | [ ] Stunned   20-26          |
+|                              |                              |                              |
+| conjuration                  | Fate Pts      1              | [ ] Wounded   14-19          |
+|                              |                              |                              |
+| divination                   | Character Pts 5              | [ ] Severe    7-13           |
+|                              |                              |                              |
+|                              | Funds 3D                     | [ ] Incapac'd 3-6            |
+|                              |                              |                              |
+|                              | Silver 180                   | [ ] Mortal    1-2            |
+|                              |                              |                              |
+|                              |                              | [ ] Dead                     |
++------------------------------+------------------------------+------------------------------+
+
+
+
+**OpenD6 Fantasy**
+
+
++--------------------------------------------------+
+| Character Name: ________________________________ |
++--------------------------------------------------+
+| Occupation: Wizard                               |
++-------------------------+------------------------+
+| Race: Human             | Gender: ______________ |
++----------------+--------+-------+----------------+
+| Age: ________  | Height: ______ | Weight: ______ |
++----------------+----------------+----------------+
+| Physical Description ___________________________ |
++--------------------------------------------------+
+
+
++------------------------------+------------------------------+------------------------------+
+| Agility                 2D+1 | Intellect               3D+1 |                              |                 
++------------------------------+------------------------------+------------------------------+
+| acrobatics                   | cultures                     | **Advantages**:              |
+|                              |                              |                              |
+| fighting                     | devices                      | **Disadvantages**:           |
+|                              |                              |                              |
+| riding                       | healing                      | Prejudice (R2), the          |
+|                              |                              |                              |
+| stealth                      | navigation                   | wizard cult you              |
+|                              |                              |                              |
+|                              | reading/writing              | belonged to has a bad        |
+|                              |                              |                              |
+|                              | scholar                      | reputation, and you          |
+|                              |                              |                              |
+|                              | speaking                     | find many people shun        |
+|                              |                              |                              |
+|                              | trading                      | you                          |
+|                              |                              |                              |
+|                              | traps                        | **Special Abilities**:       |
+|                              |                              |                              |
+|                              |                              | Luck: Good (R1),             |
+|                              |                              |                              |
+|                              |                              | **Equipment**: Small         |
+|                              |                              |                              |
+|                              |                              | knife (damage +2);           |
+|                              |                              |                              |
+|                              |                              | soft leather jerkin          |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Coordination              2D | Acumen                  3D+1 | and pants (Armor Value       |                 
++------------------------------+------------------------------+                              +
+| charioteering                | artist                       | +2);  paper, quill,          |
+|                              |                              |                              |
+| marksmanship                 | crafting                     | and kin; a few small         |
+|                              |                              |                              |
+| sleight of hand              | disguise                     | spell components; a          |
+|                              |                              |                              |
+| throwing                     | gambling                     | few spells on scrolls.       |
+|                              |                              |                              |
+|                              | hide                         | **Description**:             |
+|                              |                              |                              |
+|                              | investigation                | Though the art of            |
+|                              |                              |                              |
+|                              | know-how                     | spell design                 |
+|                              |                              |                              |
+|                              | search                       | fascinates you, the          |
+|                              |                              |                              |
+|                              | streetwise                   | idea of staying locked       |
+|                              |                              |                              |
+|                              | survival                     | in a stuffy library          |
+|                              |                              |                              |
+|                              |                              | doesn't. You've taken        |
+|                              |                              |                              |
+|                              |                              | to adventuring to find       |
+|                              |                              |                              |
+|                              |                              | inspiration for new          |
+|                              |                              |                              |
++------------------------------+------------------------------+                              +
+| Physique                  2D | Charisma                2D+2 | spells, lost sources         |                 
++------------------------------+------------------------------+                              +
+| lifting                      | animal handling              | of mystical energy,          |
+|                              |                              |                              |
+| running                      | bluff                        | and forgotten ancient        |
+|                              |                              |                              |
+|                              | charm                        | artifacts.                   |
+|                              |                              |                              |
+|                              | command                      |                              |
+|                              |                              |                              |
+|                              | intimidation                 |                              |
+|                              |                              |                              |
+|                              | mettle                       |                              |
+|                              |                              |                              |
+|                              | persuasion                   |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
++------------------------------+------------------------------+------------------------------+
+| Extranormal             2D+1 |                              |                              |                 
++------------------------------+------------------------------+------------------------------+
+| alteration                   | Str Damage                1D | Body Points 23               |
+|                              |                              |                              |
+| apportation                  | Move                      10 | [ ] Stunned   14-17          |
+|                              |                              |                              |
+| conjuration                  | Fate Pts      1              | [ ] Wounded   9-13           |
+|                              |                              |                              |
+| divination                   | Character Pts 5              | [ ] Severe    5-8            |
+|                              |                              |                              |
+|                              | Funds 3D                     | [ ] Incapac'd 2-4            |
+|                              |                              |                              |
+|                              | Silver 180                   | [ ] Mortal    1              |
+|                              |                              |                              |
+|                              |                              | [ ] Dead                     |
++------------------------------+------------------------------+------------------------------+
+
+
+

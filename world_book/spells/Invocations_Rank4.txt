@@ -1,0 +1,47 @@
+
+Intent of Enemy
+~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 17 
+:Effect: 9 (limited psychic communication +3D)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 2.5 min \(11)
+:Casting Time: 1 round \(4)
+
+
+:Other Conditions:
+    (1): Only their intent
+
+
+    (1): Only if they're antagonistic
+
+
+
+
+The priest will understand the intent of an enemy through a brief psionic conversation. This will be well-known to any antagonist, but ignored by neutral or friendly individuals.
+
+
+Inspiration
+~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 22 
+:Effect: 29 (Inspiration: increase Charisma mettle +2D (skill modifier); increase Physique stamina +2D (skill modifier); increase Extranormal favor +1D (skill modifier); increase Charisma +1D; increase Physique +1D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 min \(14)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area_effect (10): 5m radius circle
+
+
+
+
+
+The priest can inspire a group gathered together in a tight circle.
+
+

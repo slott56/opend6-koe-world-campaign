@@ -1,0 +1,12 @@
+**Sword of the Survivor**:
+Agility 1D, Coordination 3D, Physique 1D, Intellect 1D, Acumen 3D, Charisma 3D.
+*Disadvantages*: Advantage Flaw (R3), Either Combat Sense or Attack Resistance, never both in the same round.,
+*Special Abilities*: Combat Sense (R3), Great Attacking; Attack Resistance (R3), Great Blocking; Natural Hand-to-Hand Weapon (R3D), ,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24.
+
+
+

@@ -1,0 +1,36 @@
+**Greater Goblin**:
+Agility 3D+2, acrobatics +2, dodge +2, fighting +2, melee combat +2, stealth +2, Coordination 3D+2, marksmanship +2, throwing +1, Physique 3D+2, running +2, stamina +2, Intellect 3D, healing +2, scholar +2, traps +2, Acumen 3D, crafting +2, survival +2, Charisma 3D, command +2, intimidation 1D.
+*Advantages*: Equipment (R2), Weapon or survival gear unknown to humans,
+*Disadvantages*: Cultural Unfamiliarity (R2), Lost in human company,
+*Special Abilities*: Combat Sense (R2), Surprise reduced by 4,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 35, *Equipment*: bone and hide armor +1D; buckler +2; sword +1D+2, *Description*: Inhabitants of the realm of mountains and forests.
+
+
+**Goblin**:
+Agility 3D, acrobatics +2, dodge +2, fighting +2, melee combat +2, stealth +2, Coordination 3D, marksmanship +2, throwing +1, Physique 3D, running +2, stamina +2, Intellect 3D, healing +2, scholar +2, traps +2, Acumen 3D, crafting +2, survival +2, Charisma 2D.
+*Advantages*: Equipment (R2), Weapon or survival gear unknown to humans,
+*Disadvantages*: Cultural Unfamiliarity (R2), Lost in human company,
+*Special Abilities*: Combat Sense (R2), Surprise reduced by 4,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 32, *Equipment*: bone and hide armor +1D; sword +1D, *Description*: Inhabitants of the realm of mountains and forests.
+
+
+**Troll**:
+Agility 2D, dodge 2D, fighting 2D, melee combat 2D, Coordination 1D, Physique 4D+2, running +2, lifting 2D, Intellect 1D, Acumen 2D, search +2, tracking +2, Charisma 2D, intimidation +2, mettle +2.
+*Advantages*: Equipment (R2), Weapon or survival gear unknown to humans; Hardiness (R2), Really tough; Accelerated Healing (R2), Heals quickly,
+*Disadvantages*: Achilles' Heel (R4), Fire does double damage,
+*Move*: 20, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 12, *Natural Abilities*: Natural Hand-to-Hand Weapon (Rteeth (damage +1D)), ; Natural Hand-to-Hand Weapon (Rclaws (damage +1D)), ; large size (scale modifier 2); Natural Armor (R2), -2 damage adjustment.
+
+
+

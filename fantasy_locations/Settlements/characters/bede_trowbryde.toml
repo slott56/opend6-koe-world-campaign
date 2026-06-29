@@ -1,0 +1,97 @@
+[[characters]]
+name = "Bede Trowbryde, Mayor"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "2D"
+skills = [
+    { label = "riding", dice = "2D+1" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = [
+    { label = "sleight of hand", dice = "2D+2" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "running", dice = "2D+1" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = [
+    { label = "cultures", dice = "3D" },
+    { label = "reading/writing", dice = "2D+2" },
+    { label = "scholar", dice = "3D" },
+    { label = "speaking", dice = "3D" },
+    { label = "trading", dice = "4D" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D"
+skills = [
+    { label = "hide", dice = "2D+1" },
+    { label = "streetwise", dice = "4D" },
+    { label = "search", dice = "3D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "bluff", dice = "3D+2" },
+    { label = "charm", dice = "4D" },
+    { label = "persuasion", dice = "3D+1" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "1"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "16"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "3"
+suffix = ": ."
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Authority", rank = "(R2)", details = ", mayor ." },
+]
+
+[characters.details.Equipment]
+items = [
+    { description = "fine clothes", features = "" },
+    { description = "cloak", features = "" },
+    { description = "hat", features = "" },
+    { description = "pouch with coins .", features = "" },
+]
+label = "Equipment"

@@ -1,0 +1,394 @@
+
+Countermagic Ward
+~~~~~~~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 10 
+:Effect: 29 (compare to skill total of spell countering 6*D+1 (protection modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 round \(4)
+:Casting Time: 25 min \(16)
+
+:Other Aspects:
+
+    charges (4): 6 charges
+
+
+    concentration (5): Concentration: 10 min (willpower/mettle roll 11)
+
+
+    focused (7): Focus based on effect, duration
+
+
+    gesture (1): Wave hand through air as if wiping away something (very_simple)
+
+
+    incantation (3): Let no spell touch me! (sentence; loud)
+
+
+
+
+
+
+
+Similar to the countermagic spell, this spell gives the target a general protection against spells. It is triggered by a spell “hitting” the target. Up to six spells can be countered in this fashion. The effect’s value plus result points bonus are compared to the skill total used to create the targeted spell. If the countermagic ward number is equal to or higher than the target spell’s skill total, the spell is broken. Regardless of the success of the ward, one charge is lost.
+
+
+
+
+
+Deadly Dart
+~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 10 
+:Effect: 18 (Dart 4*D (physical damage, damage modifier))
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 5 round \(7)
+:Casting Time: 40 min \(17)
+
+:Other Aspects:
+
+    charges (0): 1 charges
+
+
+    components (11): Black obsidian (uncommon; destroyed); dart (common)
+
+
+    feedback (3): lowered resistance
+
+
+    focused (5): Focus based on effect, duration
+
+
+    gesture (1): Rub the tip of the dart on the stone (very_simple)
+
+
+    incantation (1): Darkness of death. (phrase)
+
+
+    variable_movement (2): accuracy_bonus
+
+
+
+
+
+
+
+This spell uses a piece of black obsidian to increase the deadliness of a dart. The mage utters a short, dark phrase while gently stroking the tip of the dart across the stone. The darkness travels into the dart, draining the stone of its pigment.
+
+
+To release the spell, the caster throws the dart within five rounds of casting the spell. He generate an marksmanship total, adding a +2 bonus for the increased accuracy of the spell, against the combat difficulty for the target. The target must be within range of the spell, or the dart merely does its normal effect. The target takes an additional 4D in damage in the round the dart hits and for the next four rounds. The spell ends if the target moves beyond the spell’s range.
+
+
+
+
+
+Water Spray
+~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 10 
+:Effect: 12 (water spray 4*D (physical damage))
+:Range: 15 m \(6)
+:Speed:  \(6)
+:Duration: 3 round \(6)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (6): Liter of water (ordinary; destroyed); squeezable container (uncommon)
+
+
+
+
+
+
+
+The mage needs a liter of water in a container that she can squeeze to produce a spray. As she casts the spell, the mage squirts the water onto her hand, letting it run off in the direction of her target. The volume and force behind the water spray increases dramatically. The spray lasts for three rounds of combat. The spell does 4D in damage per round and requires a marksmanship roll each round to hit the target. The caster may only select one target per spell duration.
+
+
+
+
+
+Communicate with Animals
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 10 
+:Effect: 15 (speaking with specialization in the animal’s “language” 5*D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 6 min \(13)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (2): Something from the type of animal with which she wants to communicate (very_common)
+
+
+    gesture (2): Draw a line on the ground (simple)
+
+
+
+
+
+
+
+To communicate with an animal, the caster places on the ground the bit of something from that type of animal (lock of horse’s hair, bird’s feather, several strands of dog’s hair). Then she draws a line from it to her and from it in the direction of the animal or animals she wishes to speak to. For about six minutes, she receives the ability to communicate with any of that kind of animal as if she had a specialization in its language at 5D. She may add the result points bonus to her speaking roll total. The caster may not move more than one meter from the casting location.
+
+
+
+
+
+Evil Eye Curse
+~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 11 
+:Effect: 6 (bad_luck (R2))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    focused (4): Focus based on effect, duration
+
+
+    feedback (3): lowered resistance
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (-3): Limited to Humans
+
+
+
+
+
+
+With a minimal amount of pain to himself, the caster curses a Human target that she can see with 10 minutes of Bad Luck (R2). See the description of this Disadvantage in the “Character Options” chapter for details.
+
+
+
+
+
+Glow Stone
+~~~~~~~~~~
+
+:Skill: Elemental Conjuration
+:Difficulty: 11 
+:Effect: 12 (negates darkness modifier 4*D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    area_effect (5): 1m radius sphere
+
+
+    components (6): white pebble (common; destroyed)
+
+
+    focused (5): Focus based on effect, duration
+
+
+    gesture (1): Hold pebble between thumb and forefinger (very_simple)
+
+
+    incantation (2): Stone of white, give us light. (sentence)
+
+
+
+
+
+
+
+The magic user casts this spell on a small, white stone, making it glow with a fierce radiance that extends for one meter in all directions around the pebble. The effect lasts for 10 minutes. Once the duration wears off, the pebble turns to dust.
+
+
+
+
+
+Feast
+~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 11 
+:Effect: 4 (Food and water 5 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 4 hr \(21)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    focused (5): Focus based on effect, duration
+
+
+    components (6): A plain, cloth napkin (common); a small metal cup (common)
+
+
+    gesture (2): Wave hand several times over napkin and cup (simple)
+
+
+    other_alterants (3): clean water and hearty food
+
+
+
+
+
+
+
+With this cantrip, the mage creates a meal for two of pure, clean water; flavorful, hearty bread; fresh vegetables and fruits; and, if desired, cheese wedges and smoked meat slices. The food must be consumed within 10 minutes of its appearance, so that it has a chance to stay in the body long enough to be digested and actually provide nourishment. The result points bonus increases the amount of food appearing or (at the gamemaster’s discretion) the quality of food.
+
+
+
+
+
+Mystic Bolt
+~~~~~~~~~~~
+
+:Skill: Elemental Conjuration
+:Difficulty: 10 
+:Effect: 12 (bolt 4*D (physical damage))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 3.5 sec \(3)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    gesture (2): Swirl hand in air as if gathering energy, then throw it at target (simple)
+
+
+    incantation (2): Ah! (word; loud)
+
+
+
+
+
+
+
+The mage gathers energy from his surroundings and throws the ball at a target. It does 4D in damage at a range of up to 10 meters. He must make a marksmanship roll to hit the target. The bolt must be fired in the same round that the mage casts the spell.
+
+
+
+
+
+Mystical Shield
+~~~~~~~~~~~~~~~
+
+:Skill: Elemental Conjuration
+:Difficulty: 10 
+:Effect: 18 (Armor Value 6*D)
+:Range: 1.5 m \(1)
+:Speed:  \(1)
+:Duration: 5 round \(7)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    area_effect (2): 1m radius circle
+
+
+    components (10): A simple ring (uncommon); handful of colored sand (common; destroyed)
+
+
+    focused (5): Focus based on effect, duration
+
+
+    gesture (2): Using colored sand, scribe an oval shape in the air (simple)
+
+
+    incantation (1): Protection! (word)
+
+
+
+
+
+
+
+By tossing some sand in a circle in front of her, the caster creates a semi-transparent oval shield of the same color as the sand. The shield, about two meters in diameter, appears up to 1.5 meters away. It is focused on the ring, which the mage must wear. It offers an Armor Value of 6D against all types of physical (not mental) attacks.
+
+
+
+
+
+Stunned Senseless
+~~~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 11 
+:Effect: 15 (Bolt of energy 6*D+2 (stun only))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1.5 sec \(1)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    gesture (2): Point finger and then palm at intended target (simple)
+
+
+    incantation (1): Stop! (word)
+
+
+
+
+
+
+
+With a gesture and a word, the magic user sends a bolt of mystical energy toward his intended target. However, the bolt isn’t intended to harm the target, instead only doing stun damage.
+
+
+
+
+
+Scrying
+~~~~~~~
+
+:Skill: Divination
+:Difficulty: 10 
+:Effect: 34 (view the past 2.5 mon)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    components (9): Scrying tool with images or symbols (tarot cards, playing cards, runes, etc.) (uncommon); item the person owned for at least a month or the person herself (very_rare)
+
+
+    gesture (8): Randomize the tool and place parts of the tool in a set pattern, then interpret the symbols. (simple; challenging (scholar difficulty of 15))
+
+
+
+
+
+:Other Conditions:
+    (-1): Physical contact with tool
+
+
+
+
+
+
+By interpreting cards or runes, the diviner gains a sense of what the future holds for the person who the reading is about. The mage may choose to look for a condition that could occur up to two and a half months into the future. She can see one minute’s worth of the future. Use the result points of the divination roll to determine how much information she receives: Zero points reveals confusing images. One to four points allows one useful fact to be gleaned from the reading. Five to eight points tells the mage a few useful facts, including the time of the occurrence. Nine to 12 points allows the mage to note more details, including time and location. Thirteen or more points lets the mage see the scene as if she were present, though in shades of gray.
+
+
+
+
+

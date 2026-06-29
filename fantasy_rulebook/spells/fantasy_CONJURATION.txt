@@ -1,0 +1,280 @@
+
+Cage
+~~~~
+
+:Skill: Elemental Conjuration
+:Difficulty: 27 
+:Effect: 24 (resistance total of bars 8*D)
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area_effect (15): 3m radius sphere
+
+
+    gesture (3): Mime escaping from a cell, then point to target (complex (acrobatics roll with difficulty of 11))
+
+
+    unreal_effect (6): Unreal Effect: difficulty_13
+
+
+
+
+
+
+
+Cage traps a target in a prison of magical energy. To cast it, the wizard mimics trying to escape from a cell, then points at her target. If a marksmanship total beats the combat difficulty for the target, the quarry is trapped. The cage is a sphere with a radius of three meters. Creatures larger than that can’t be confined by this spell.
+
+
+The effect’s value plus the result points bonus serves as the damage resistance total of the bars. The target can disbelieve and thus free himself by generating a Acumen or investigation total of 13.
+
+
+
+
+
+Communicate with Animals
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 10 
+:Effect: 15 (speaking with specialization in the animal’s “language” 5*D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 6 min \(13)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (2): Something from the type of animal with which she wants to communicate (very_common)
+
+
+    gesture (2): Draw a line on the ground (simple)
+
+
+
+
+
+
+
+To communicate with an animal, the caster places on the ground the bit of something from that type of animal (lock of horse’s hair, bird’s feather, several strands of dog’s hair). Then she draws a line from it to her and from it in the direction of the animal or animals she wishes to speak to. For about six minutes, she receives the ability to communicate with any of that kind of animal as if she had a specialization in its language at 5D. She may add the result points bonus to her speaking roll total. The caster may not move more than one meter from the casting location.
+
+
+
+
+
+Evil Eye Curse
+~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 11 
+:Effect: 6 (bad_luck (R2))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    focused (4): Focus based on effect, duration
+
+
+    feedback (3): lowered resistance
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (-3): Limited to Humans
+
+
+
+
+
+
+With a minimal amount of pain to himself, the caster curses a Human target that she can see with 10 minutes of Bad Luck (R2). See the description of this Disadvantage in the “Character Options” chapter for details.
+
+
+
+
+
+Glow Stone
+~~~~~~~~~~
+
+:Skill: Elemental Conjuration
+:Difficulty: 11 
+:Effect: 12 (negates darkness modifier 4*D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    area_effect (5): 1m radius sphere
+
+
+    components (6): white pebble (common; destroyed)
+
+
+    focused (5): Focus based on effect, duration
+
+
+    gesture (1): Hold pebble between thumb and forefinger (very_simple)
+
+
+    incantation (2): Stone of white, give us light. (sentence)
+
+
+
+
+
+
+
+The magic user casts this spell on a small, white stone, making it glow with a fierce radiance that extends for one meter in all directions around the pebble. The effect lasts for 10 minutes. Once the duration wears off, the pebble turns to dust.
+
+
+
+
+
+Feast
+~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 11 
+:Effect: 4 (Food and water 5 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 4 hr \(21)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    focused (5): Focus based on effect, duration
+
+
+    components (6): A plain, cloth napkin (common); a small metal cup (common)
+
+
+    gesture (2): Wave hand several times over napkin and cup (simple)
+
+
+    other_alterants (3): clean water and hearty food
+
+
+
+
+
+
+
+With this cantrip, the mage creates a meal for two of pure, clean water; flavorful, hearty bread; fresh vegetables and fruits; and, if desired, cheese wedges and smoked meat slices. The food must be consumed within 10 minutes of its appearance, so that it has a chance to stay in the body long enough to be digested and actually provide nourishment. The result points bonus increases the amount of food appearing or (at the gamemaster’s discretion) the quality of food.
+
+
+
+
+
+Mystic Bolt
+~~~~~~~~~~~
+
+:Skill: Elemental Conjuration
+:Difficulty: 10 
+:Effect: 12 (bolt 4*D (physical damage))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 3.5 sec \(3)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    gesture (2): Swirl hand in air as if gathering energy, then throw it at target (simple)
+
+
+    incantation (2): Ah! (word; loud)
+
+
+
+
+
+
+
+The mage gathers energy from his surroundings and throws the ball at a target. It does 4D in damage at a range of up to 10 meters. He must make a marksmanship roll to hit the target. The bolt must be fired in the same round that the mage casts the spell.
+
+
+
+
+
+Mystical Shield
+~~~~~~~~~~~~~~~
+
+:Skill: Elemental Conjuration
+:Difficulty: 10 
+:Effect: 18 (Armor Value 6*D)
+:Range: 1.5 m \(1)
+:Speed:  \(1)
+:Duration: 5 round \(7)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    area_effect (2): 1m radius circle
+
+
+    components (10): A simple ring (uncommon); handful of colored sand (common; destroyed)
+
+
+    focused (5): Focus based on effect, duration
+
+
+    gesture (2): Using colored sand, scribe an oval shape in the air (simple)
+
+
+    incantation (1): Protection! (word)
+
+
+
+
+
+
+
+By tossing some sand in a circle in front of her, the caster creates a semi-transparent oval shield of the same color as the sand. The shield, about two meters in diameter, appears up to 1.5 meters away. It is focused on the ring, which the mage must wear. It offers an Armor Value of 6D against all types of physical (not mental) attacks.
+
+
+
+
+
+Stunned Senseless
+~~~~~~~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 11 
+:Effect: 15 (Bolt of energy 6*D+2 (stun only))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1.5 sec \(1)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    gesture (2): Point finger and then palm at intended target (simple)
+
+
+    incantation (1): Stop! (word)
+
+
+
+
+
+
+
+With a gesture and a word, the magic user sends a bolt of mystical energy toward his intended target. However, the bolt isn’t intended to harm the target, instead only doing stun damage.
+
+
+
+
+

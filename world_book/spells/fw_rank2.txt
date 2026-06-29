@@ -1,0 +1,499 @@
+
+Shield
+~~~~~~
+
+:Skill: Psychic Communication
+:Difficulty: 10 
+:Effect: 6 (adds to difficulty in attempting to like +2D)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 2 min \(10)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Protection Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: None
+
+
+
+
+This prevents a link from being formed. See Protection from Magic for a complementary spell to block effects after a link has been formed
+
+
+Light Fire
+~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 12 
+:Effect: 6 (Move small fire element +2D (physical damage))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Fire Chant (litany)
+
+
+    variable_movement (8): 20 m
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Cyþan Intelligence
+
+
+
+
+The fire must exist; this merely moves it to ignite something else
+
+
+Move Fire
+~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 10 
+:Effect: 15 (Move large fire element +5D (physical damage))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Fire Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Cyþan Intelligence
+
+
+
+
+The fire must exist; this merely moves it somewhere else
+
+
+Wind Gust
+~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 9 
+:Effect: 7 (Telekinetic Movement 25 kg)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Air Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Folme Agility
+
+
+
+
+A gust that will move 25 kg will unbalance a target unprepared for it
+
+
+ESP
+~~~
+
+:Skill: Divination
+:Difficulty: 8 
+:Effect: 12 (Psionics: Gather general thoughts from hostile target +2D (extranormal skill))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Divination Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Witan Acumen
+
+
+
+
+This provides very general background information
+
+
+Light
+~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 11 
+:Effect: 6 (A small cold fire to aid in search +2D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 30 min \(16)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Fire Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Witan Acumen
+
+
+
+
+This requires the fire from a torch or large lantern; it stays where the mage puts it. It doesn't consume any fuel
+
+
+Find Path
+~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 11 
+:Effect: 14 (boosts Acumen/search +3D (skill modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    components (3): A rod or bead on a string (common)
+
+
+    gestures (2): Moving the search charm (simple)
+
+
+    incantation (4): Divination Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Witan Acumen
+
+
+
+
+A big boost in locating a path through obstacles
+
+
+Gradual Heal
+~~~~~~~~~~~~
+
+:Skill: Temperamental Alteration
+:Difficulty: 11 
+:Effect: 15 (Heal disease +5D (skill))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Healing Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (-2): Heal only with Body <= 3/4
+
+
+    (-1): limited to 3 body parts
+
+
+    (-1): limited to disease cure
+
+
+    (0): Controller: Hælan Coordination
+
+
+
+
+Cures a disease or poison
+
+
+Freeze
+~~~~~~
+
+:Skill: Temperamental Alteration
+:Difficulty: 12 
+:Effect: 12 (achilles_heel: movement (R4), Attempting to move reduces physique by 4D)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 2 min \(10)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    gestures (3): Control Gestures (complex)
+
+
+    incantation (4): Control Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Folme Agility
+
+
+
+
+Physique is (temporarily) drained away, making movement difficult
+
+
+Warp Wood
+~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 8 
+:Effect: 5 (Warp wood 10 kg)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Earth and Water Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (0): limited to wood
+
+
+    (0): Controller: Depends on type of wood
+
+
+
+
+The wood's shape is changed, any damage is incidental
+
+
+Infravision
+~~~~~~~~~~~
+
+:Skill: Temperamental Alteration
+:Difficulty: 11 
+:Effect: 12 (infravision_ultravision (R4))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 min \(9)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    components (4): Thermal Lens (rare)
+
+
+    incantation (4): Divination Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Witan Acumen
+
+
+
+
+Heat from passing footsteps are difficult (but not impossible) to see
+
+
+Silence
+~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 10 
+:Effect: 6 (Deafness (R2), +6 do difficulty for hearing)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    gestures (3): Air Gestures (complex)
+
+
+    incantation (4): Air Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    area_of_effect (4): 2m radius circle
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Witan Acumen
+
+
+
+
+This will silence most noises in a small circle around the target
+
+
+Immediate Hurt
+~~~~~~~~~~~~~~
+
+:Skill: Temperamental Alteration
+:Difficulty: 12 
+:Effect: 15 (Damage +5D (physical damage))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    incantation (4): Damage Chant (litany)
+
+
+
+
+
+:Other Conditions:
+    (-2): Damage only with Body <= 1/2
+
+
+    (0): Controller: Hælan Coordination
+
+
+
+
+Adds to previously received injuries
+
+
+Closing the Veil
+~~~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 11 
+:Effect: 20 (Apportation to the caster's original realm (R2))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Veil Closing Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    components (4): any resonating artifacts (rare)
+
+
+    variable_duration (4): off_only
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: None
+
+
+
+
+Closes the veil, restoring the universe to it's base state.
+
+
+Reanimation
+~~~~~~~~~~~
+
+:Skill: Temperamental Conjuration
+:Difficulty: 15 
+:Effect: 30 (Temperamental Conjuration of 10D human.)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Conjuration Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    components (5): a resonating artifact to help the balance (very_rare)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: None
+
+
+    (3): All four elements present in the environment: fire, flowing water, wind, and loose earth.
+
+
+
+
+Reanimates one complete human for an hour.
+
+

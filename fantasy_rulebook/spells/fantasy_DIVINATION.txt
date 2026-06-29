@@ -1,0 +1,121 @@
+
+Detect the Living
+~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 14 
+:Effect: 24 (search to locate a single type of creature 8*D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 sec \(5)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area_effect (20): 10m radius circle
+
+
+    component (12): Something from the type of creature being detected (uncommon; destroyed); fire, such as a match or lit coal (very_common; destroyed)
+
+
+    concentration (3): Concentration: 25 sec (willpower/mettle roll 9)
+
+
+    gesture (1): Inhale smoke (very_simple)
+
+
+    variable_movement (4): target_invisible
+
+
+
+
+
+
+
+Before throwing the spell, the caster should decide what sort of being she’s looking for, because she’ll need a piece of it for the spell to work (a lock of hair from a Human, fur or fangs from an animal, etc.).
+
+
+The caster sets the object on fire and inhales the smoke while concentrating. Once the casting is done, the mage can detect the presence of any such being within a 10-meter radius for two rounds. The higher the search skill total is above the difficulty, the more information the caster knows about the beings she seeks (such as location, number, gender, etc.). The difficulty starts at 10 for a Human-sized creature, and goes down for larger creatures, up for smaller ones, and up for the number of other types of creatures in the area.
+
+
+
+
+
+Scrying
+~~~~~~~
+
+:Skill: Divination
+:Difficulty: 10 
+:Effect: 34 (view the past 2.5 mon)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    components (9): Scrying tool with images or symbols (tarot cards, playing cards, runes, etc.) (uncommon); item the person owned for at least a month or the person herself (very_rare)
+
+
+    gesture (8): Randomize the tool and place parts of the tool in a set pattern, then interpret the symbols. (simple; challenging (scholar difficulty of 15))
+
+
+
+
+
+:Other Conditions:
+    (-1): Physical contact with tool
+
+
+
+
+
+
+By interpreting cards or runes, the diviner gains a sense of what the future holds for the person who the reading is about. The mage may choose to look for a condition that could occur up to two and a half months into the future. She can see one minute’s worth of the future. Use the result points of the divination roll to determine how much information she receives: Zero points reveals confusing images. One to four points allows one useful fact to be gleaned from the reading. Five to eight points tells the mage a few useful facts, including the time of the occurrence. Nine to 12 points allows the mage to note more details, including time and location. Thirteen or more points lets the mage see the scene as if she were present, though in shades of gray.
+
+
+
+
+
+Sense Past
+~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 25 
+:Effect: 38 (view the past 66 wk)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 66 min \(18)
+:Casting Time: 25 min \(16)
+
+:Other Aspects:
+
+    area_effect (25): 5m radius sphere
+
+
+    concentration (5): Concentration: 10 min (willpower/mettle roll 11)
+
+
+    components (9): Magnifying glass (uncommon); expensive pocket watch (very_rare)
+
+
+    countenance (1): Skin turns sickly gray color for duration of spell (noticeable)
+
+
+
+
+
+:Other Conditions:
+    (-1): Physical contact with object
+
+
+
+
+
+
+The mage can learn about the past of a single object he touches. He’ll see visions of events that occurred in a five-meter radius around the object in the past. The mage can view events that took place in a past period of time whose value (as read on the “Spell Measures” table) is less than or equal to the effect’s value plus the result points bonus. The mage can scan back to that period at a rate of one week’s worth of images per minute of the spell.
+
+
+
+
+

@@ -1,0 +1,11 @@
+Water
+=====
+
+..  csv-table:: Water
+    :header: "Canoe","Physique or lifting roll","4","2D","+1D","E–M"
+
+    "Rowboat","Physique or lifting roll","6","3D+2","0","E"
+    "Sailboat, small","Wind + 25% of piloting total","2","4D","+2D","D"
+    "Sailboat, large","Wind + 50% of piloting total","6–18 (2 crew)","6D","+1D","VD"
+    "Powerboat, medium","42 (30 kph)","9","4D+2","+1D","H"
+

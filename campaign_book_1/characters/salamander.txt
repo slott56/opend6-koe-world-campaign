@@ -1,0 +1,21 @@
+**Salamander**:
+Agility 4D+1, fighting 1D+1, stealth 1D, melee combat 1D, Coordination 4D+1, Physique 4D+2, Intellect 3D+2, cultures 1D, navigation 1D, reading/writing 1D, scholar 1D, speaking 2D, Acumen 3D+2, artist 1D, crafting 1D, survival 1D, Charisma 3D+2, intimidation 1D+1, persuasion +2.
+*Disadvantages*: Achilles' Heel (R3), Double damage from water-based attacks; Achilles' Heel (R3), Requires heat source; Infamy (R2), Monsterous,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 40, *Description*: A big lizard, 10-14 ft. tall capable of walking upright and using weapons.  Weapons are crystals that can withstand the heat of its lair., *Natural Abilities*: Natural Armor (R4), thick skin; Blur (R2), Flash to blind temporarily, improving attack and defense; Natural Ranged Weapon (R6D), fire breath; Size (R5), 800Kg mass, 8x typical human, scale 15; Hypermovement (R6), 12m Leap, 4x typical human.
+
+
+**Hordling**:
+Agility 3D+2, fighting 1D, Coordination 3D+2, flight +2, Physique 4D, stamina 4D+1, Intellect 3D+1, Acumen 3D+1, Charisma 3D, intimidation 3D+1.
+*Disadvantages*: Achilles' Heel (R2), silver or magic; Achilles' Heel (R1), pentagrams; Quirk (R3), obeys true name; Quirk (R2), malicious; Quirk (R2), fears holy symbols; Quirk (R2), goes berserk when insulted; Infamy (R1), a demon; Achilles' Heel (R2), holy ground, reduces PHY 1D each phase; Achilles' Heel (R2), holy water, stun-only 1D each phase,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 18, *Description*: Dim-witted, pathetic creatures with wings and stingers in their tails., *Natural Abilities*: Natural Hand-to-Hand Weapon (R1D), Stinger on tail; Life Drain (R1), After attack +1D stun-only increase to body.
+
+
+

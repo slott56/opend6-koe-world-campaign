@@ -1,0 +1,11 @@
+**Sword of Piercing**:
+Agility 3D, Coordination 3D, Physique 1D, Intellect 1D, Acumen 3D, Charisma 1D.
+*Special Abilities*: Natural Hand-to-Hand Weapon (R2D), ; Armor-Defeating Attack (R1), negates 1D of armor,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 23.
+
+
+

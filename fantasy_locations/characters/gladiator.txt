@@ -1,0 +1,10 @@
+**Typical Gladiator**:
+Agility 4D, acrobatics 4D+1, dodge 4D+1, fighting 4D+1, melee combat 5D, Coordination 3D, charioteering 3D+2, marksmanship 3D+1, Physique 4D, running 4D+1, stamina 4D+2, Intellect 2D, healing 2D+1, Acumen 3D, crafting 3D+2, gambling 3D+2, know-how 3D+1, survival 4D, Charisma 2D, command 3D, intimidation 3D, mettle 3D.
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 22, *Equipment*: hardened leather armor (Armor Value +1D+1); small shield (Armor Value +2D); short sword (damage +1D+2).
+
+
+

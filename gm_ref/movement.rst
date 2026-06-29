@@ -1,0 +1,73 @@
+Movement
+========
+
+Across ground at Move value (default 10 m/5 sec round). Base Difficulty 0.
+
+Double Move difficulty +10. To move *n* × Move is (*n* - 1) × 5 difficulty.
+
+..  include:: ../shared/modifiers/movement.txt
+
+Short distances (< 50% Move) is not a full action.
+
+Failure ot make difficulty roll will **reduce** current movement by 2×Move.
+
+-   0 means they stop.
+-   <0 means they stumble.
+
+Swimming
+---------
+
+Swimming at Move ÷ 2. Base Difficulty 5.
+
+Double Move difficulty +5. To swim *n* × Move is *n* × 5 difficulty.
+
+Breath-hold 5 seconds × Physique attr or stamina skill roll.
+
+With *stamina* skill and preparation, 10 seconds × *stamina* skill roll.
+
+Failed swimming drowns: 1D damage each round. Difficulty +3 each round.
+
+Climbing
+--------
+
+With *climbing* skill, Up vertical surface at Move value. Base difficulty 5.
+To climb *n* × Move is *n* × 5 difficulty.
+
+Without skill, Move ÷ 2. Double Movement difficulty +10.
+To climb *n* × Move is 5 + (*n* - 1) × 10 difficulty.
+
+Jumping
+--------
+
+Standing jump Move ÷ 4. Base difficulty 5.
+
+Each 2m exta, difficulty +10.
+
+To jump *n* meters:
+
+-   *n* <= Move ÷ 4:  difficulty 5
+-   *n* >  Move ÷ 4:  difficulty 5 + (*n* - (Move ÷ 4)) ÷ 2 × 10
+
+Running start for 1 or 2 rounds adds +5 to +10 to roll.
+Must make a *running* skill roll for all running start rounds.
+
+Flying
+-------
+
+This is a Special Ability.
+
+Fatigue
+-------
+
+Level of effort determines time or distance.
+
+..  csv-table:: Time or Distance Until Fatigued
+    :header: pace, duration, distance
+
+    Sprint, 1 min × a Physique roll, 1km
+    Very Fast, 2 min × a Physique roll, 2km
+    Fast, 4 min × a Physique roll, 5km
+    Moderate, 8 min × a Physique roll, 10km
+    Half Marathon, 15 min × a Physique roll, 20km
+    Marathon, 30 min × a Physique roll, 40km
+    Ultra Marathon, 2 hr × a Physique roll, 160km

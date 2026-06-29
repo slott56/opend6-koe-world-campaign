@@ -1,0 +1,13 @@
+**Bargeman**:
+Agility 3D+2, fighting 1D, melee combat +2, Coordination 3D+2, seamanship 1D, Physique 4D, stamina +2, Intellect 3D+2, cultures +1, navigation +1, reading/writing +1, scholar +1, speaking +2, Acumen 3D+2, gambling +1, hide +1, know-how +1, streetwise +2, Charisma 3D+2, persuation 1D, charm 1D.
+*Advantages*: Contacts (R2), Candler and Jackal Temple as well as Squire Neck,
+*Disadvantages*: Quirk (R2), Loud; Quirk (R1), Secret identity as double agent; Enemy (R2), Squire Neck; Enemy (R1), Candler,
+*Special Abilities*: Sense of Direction (R2), doesn't get lost,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 20, *Description*: Double Agent in White Water.
+
+
+

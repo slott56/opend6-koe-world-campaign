@@ -1,0 +1,36 @@
+
+Warding Holy Symbol
+~~~~~~~~~~~~~~~~~~~
+
+Shaped from metal or wood in a sacred representation, this item helps the user turn away undead creatures
+
+:Effect: -9 (skill_bonus (R1) +3 to intimidation totals; ability_loss (R1) only works on undead beings; burn_out (R1) can be lost or stolen)
+:Type: Symbol
+:Price: VD (20 G)
+
+
+
+Blessed Water or Herbs
+~~~~~~~~~~~~~~~~~~~~~~
+
+Sprinkled on the opponent, this causes harm only to those with evil in their hearts (Natural Magick (R10): Harm to Evil)
+
+:Effect: 15 (5*D (physical damage))
+:Range: 10 m \(5)
+:Duration: 2.5 sec \(2)
+:Other Aspects:
+
+    components (4): blessed water or herbs (rare)
+
+
+:Other Conditions:
+    (-2): Against Evil Only
+
+
+    (2): burn_out (R2) one-time use
+
+:Type: Weapon
+:Price: VD (50 G)
+
+
+

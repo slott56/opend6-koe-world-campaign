@@ -1,0 +1,11 @@
+**Bandit Army Highwaymen**:
+Agility 3D+1, fighting +2, melee combat +2, Coordination 3D, marksmanship +1, Physique 3D+2, Intellect 3D, traps +1, Acumen 3D, survival +1, tracking +1, Charisma 2D.
+*Disadvantages*: Infamy (R2), Known outlaws; Quirk (R2), greedy,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 22.
+
+
+

@@ -1,0 +1,80 @@
+#############
+Introduction
+#############
+
+
+Who am I? That's not important. Let's just say that I
+might be a bard who may have angered a certain fairy
+once upon a time, and as a result is forbidden from
+mentioning his name in his writings. (Tip to all young
+men: Fairies are notoriously jealous.)
+
+Anyway, I accepted a tidy sum of silver to scribe a
+guide to some of the more unusual places within our fair
+lands. (Okay; technically I've had a rather substantial
+debt forgiven as a result of my agreeing to this project
+... let us not quibble the bits.) Another friend of mine
+penned a composition on several of the interesting
+settlements in this region, while a third provided a
+treatise on castles, including a few examples.
+
+I presume that my fellow bards managed to get their
+facts and figures on their own, as they mention nothing
+of how they came by their information. I, however, was
+given the most dangerous section to expound upon,
+and my exploits may make more sense if you know a
+bit more about who my band of companions is.
+
+The leader of our group is Okent, a paladin within a
+holy order devoted to upholding the good and protecting the innocent.
+I've never known a more effective
+leader, mixing determination and compassion in a
+way that's compelling enough to make even me stick
+around through thick and thin.
+
+The healer of our group is a priestess named Raichael,
+a woman who is as holy as she is beautiful, and I could
+go on and on about her beauty if I wasn't afraid she'd
+see this and break my fingers. Although I have visited
+her temple many times, I still don't know who or what
+she worships. Apparently one of the core tenets of her
+faith is that the name of her deity (or deities) is sacrosanct;
+no one who isn't a true and heartfelt believer is
+to ever hear the deity's name.
+
+Our oldest member is Grubba, but that's only because
+Dwarves are so long-lived. I don't want to be stereotypical,
+but I will say Grubba is a humorless, hard -working,
+industrious, fiercely loyal companion. I also confess to
+having tossed him once in the heat of battle
+to break an enemy's lines. I think he enjoyed
+that, given the slightly higher inflection in
+the curses he hurled at me.
+
+As for me, I'm the youngest of the group.
+I'm as good at writing as I am at sneaking
+and hiding, and each skill set has enabled
+me to get out of sticky situations the other
+skill set created. I've had it said that, despite
+my protestation, I'm a good friend when the
+chips are down, but I like to think I don't know
+what I'm capable of, since the chips could fall
+even further yet.
+
+The more I see the world with my companions,
+the more I realize there's so much left I
+want to see. While some things vary all over
+the world, other aspects remain the same. The
+discovery of the new and the comfort of the
+old. Making new friends and seeing old faces.
+The world is big and the adventure is just
+beginning. I hope that you'll find this book
+as useful as it was interesting to create.
+May all your travels be ones you can write
+about, and may you live to write all of your
+travels.
+
+*The game mechanics in this book are based
+on the system found in the D6 Fantasy Rule-book, but the general information, including
+the random location generators, is suitable for
+any fantasy campaign.*

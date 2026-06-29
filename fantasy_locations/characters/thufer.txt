@@ -1,0 +1,12 @@
+**Thufer the Pious**:
+Agility 2D+2, dodge 3D+1, fighting 3D, melee combat 4D+1, riding 4D+2, Coordination 2D, marksmanship 3D, Physique 3D, running 3D+1, stamina 4D, Intellect 2D, cultures 3D, reading/writing 3D, Acumen 2D, search 4D+1, survival 3D+2, tracking 4D, Charisma 2D, command 4D, mettle 3D+1.
+*Advantages*: Authority (R1), leader of an army; Patron (R1), King Thuslund,
+*Disadvantages*: Devotion (R3), to chivalrous code,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 3, 
+*Body Points*: 19, *Equipment*: broadsword (damage +2D); knife (damage +1D); plate armor with helmet (Armor Value +2D); steed.
+
+
+

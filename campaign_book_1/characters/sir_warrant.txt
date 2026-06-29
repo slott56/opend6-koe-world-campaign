@@ -1,0 +1,12 @@
+**Sir Warrant**:
+Agility 4D, fighting 1D, combat 1D, riding 1D, melee combat 1D, Coordination 4D, Physique 4D, Intellect 4D, cultures 1D, speaking 2D, Acumen 4D, Charisma 4D, intimidation 6D+2, Extranormal 3D+1.
+*Advantages*: Patron (R2), Earl Hillshire; Authority (R2), aristocracy; Wealth (R2), wealthy,
+*Disadvantages*: Infamy (R1), Reputation as loafing buffoon; Quirk (R1), Negotiates Everything; Quirk (R3), Insufferable superiority complex,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 20.
+
+
+

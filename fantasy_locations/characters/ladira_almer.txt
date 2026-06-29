@@ -1,0 +1,12 @@
+**Ladira Almer, Head Priestess**:
+Agility 3D, fighting 3D+1, melee combat 4D, Coordination 2D, Physique 2D, Intellect 3D+1, cultures 3D+2, reading/writing 3D+2, scholar 4D, speaking 4D, Acumen 3D, search 3D+1, Charisma 3D, mettle 4D+2, Extranormal 2D, divination 2D+2, favor 4D, strife 4D.
+*Advantages*: Authority (R1), religious leader; Equipment (R1), special holy symbol,
+*Disadvantages*: Devotion (R3), to religion; Employed (R3), must follow sect's regulations,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 16, *Equipment*: robes; holy symbol (provides +2 bonus to divination, favor and strife skill totals); quarterstaff (damage +1D+2).
+
+
+

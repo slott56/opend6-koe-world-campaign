@@ -1,0 +1,14 @@
+..  include: ../shared/observation_difficulties.txt
+
+..  admonition:: OBSERVATION DIFFICULTIES
+
+    ..  csv-table::
+        :header: Situation, Difficulty
+
+        "Noticing obvious, generic facts; casual glance",  5
+        "Noticing obvious details (ex. number of people)", 10
+        "Noticing a few less obvious details (ex., gist of conversation)",  15
+        "Spotting a few specific details (ex., identities of individuals)", 20
+        "Spotting a few obscure details (ex., specifics of conversation)",  25
+        "Noticing many obscure details", 30 or more
+

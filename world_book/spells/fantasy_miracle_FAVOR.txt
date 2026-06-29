@@ -1,0 +1,253 @@
+
+Bless Person
+~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 15 
+:Effect: 18 (bonus to three non-Extranormal attributes 3*D (attribute modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 5 round \(7)
+:Casting Time: 2 sec \(2)
+
+
+:Other Conditions:
+    (-1): Bonus may not be used to harm anything
+
+
+    (-2): limited to humans
+
+
+    Difficulty: 11
+
+
+
+
+A bless person surrounds and infuses the target character with
+spiritual energy, as long as the target remains within 10 meters of
+the blessing cleric. The blessing enhances one attribute of the cleric's
+choosing, which must be selected at the time he performs the bless­
+ing. The blessed character receives the miracle success bonus to all
+related totals.
+A character may enjoy the effects of only one bless at any given
+time. The cleric may use bless person on himself.
+
+
+
+Bless Armor
+~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 13 
+:Effect: 9 (Armor Value bonus 2*D (protection modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 8 round \(8)
+:Casting Time: 2 sec \(2)
+
+
+:Other Conditions:
+    Difficulty: 13
+
+
+
+
+Bless annorinfuses spiritual energy into any armor orgarmentthat
+a single character is wearing. as long as the target remains within 10
+meters of the blessing cleric. The blessed character adds the miracle
+success bonus damage resistance totals.
+A character may enjoy the effects of only one bless at any given
+time. The cleric may use bless armor on herself.
+
+
+
+Enhance Food
+~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 16 
+:Effect: 17 (Enhancements: restore 3D of rot; purify 2D of impurity; mass of food 2 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 4 hr \(21)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (2): Any kind of food, in any condition (very_common)
+
+
+
+
+
+:Other Conditions:
+    Difficulty: 8
+
+
+
+
+Food blessed by this miracle becomes better tasting, more nutritious, and possibly transforms into another food entirely. If not eaten
+within 10 minutes of its improvement, the food turns back to its
+original condition. (The four-hour duration is about how long it takes
+for the body to break down the food, so the food needs to remain in
+existence within the body for at least that long.)
+Minimal or average success turns spoiled meat, rotted vegetables,
+and the like into fresh food again. Good success can cleanse any food
+of any impurities or poisons. Superior success increases the quality
+of the food to the very best possible. Spectacular success actually
+transforms the food into a different kind of food; changing from
+a common fruit to an exotic one, from a cheap cut of pork to an
+expensive cut of beef, water to wine, and so on.
+
+
+
+Healing
+~~~~~~~
+
+:Skill: Favor
+:Difficulty: 13 
+:Effect: 29 (healing skill 6*D+1 (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1.5 sec \(1)
+:Casting Time: 1 round \(4)
+
+
+:Other Conditions:
+    Difficulty: 7
+
+
+
+
+By channeling her spiritual energy to an injured person or creature,
+the devotee can use this miracle to heal harm as if she had 6D+1 in
+the healing skill. Add the miracle success bonus to the healing total.
+
+
+
+Multiply Food
+~~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 15 
+:Effect: 14 (Multiplication: proper balance of elements 4D; mass of food 2 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 4 hr \(21)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (2): About a kilogram of any kind of edible food (very_common)
+
+
+
+
+
+:Other Conditions:
+    Difficulty: 8
+
+
+
+
+The multiplying food invocation is performed on an amount of
+existing food equal to a decent meal for one normal person. For
+each success level gained, double the amount of food. Any food not
+eaten within 10 minutes of its production rots or turns to dust. 
+(As with enhance food, the food needs to be within the body for at least
+four hours to give the body enough time to break it down and get
+nourishment from it.)
+
+
+
+Ritual Of Purification
+~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 12 
+:Effect: 20 (compare to miracle or curse difficulty)
+:Range: 2.5 m \(2)
+:Speed:  \(2)
+:Duration: 30 min \(16)
+:Casting Time: 30 min \(16)
+
+
+:Other Conditions:
+    Difficulty: 12
+
+
+
+
+The purification ceremony heightens awareness
+of one's religion and removes the impurities of the
+mundane and the material from the spirit. With a
+minimal or average success, it allows the target to
+invoke one miracle he failed or it removes one curse
+(either magical or miraculous). For any level above
+average, the target either receives the miracle success
+bonus to any miracle he attempts within the duration
+of the ritual or may add the miracle success bonus
+to the effect's value to allow invocation of one failed
+miracle or remove any one curse. The difficulty of the
+curse or failed miracle must be equal to or less than
+the effect's value (plus the miracle success bonus, if
+applicable) in order for the ritual to work.
+
+
+
+Spiritual Shield
+~~~~~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 13 
+:Effect: 16 (Armor Value of 5D+ 1)
+:Range: 1.5 m \(1)
+:Speed:  \(1)
+:Duration: 5 round \(7)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    area_effect (2): 1m radius circle
+
+
+
+
+
+:Other Conditions:
+    Difficulty: 13
+
+
+
+
+If successfully invoked, a shield of spiritual energy,
+about two meters in diameter, appears up to 1.5
+meters in front of the cleric. It offers an Armor Value
+of 5D+ 1 against all types of physical (not mental)
+attacks.
+
+
+Shield from Evil
+~~~~~~~~~~~~~~~~
+
+:Skill: Favor
+:Difficulty: 11 
+:Effect: 15 (Charima boost 5*D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 3 sec \(3)
+
+
+:Other Conditions:
+    (2): Only agaist those with malicious intent
+
+
+    Difficulty: 7
+
+
+
+
+If successfully invoked, a glamor around the cleric boosts their apparent charisma to those with malicious intent; this can often thwart them
+
+

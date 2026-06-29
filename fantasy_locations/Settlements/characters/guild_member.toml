@@ -1,0 +1,85 @@
+[[characters]]
+name = "Typical guild member"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D"
+skills = [
+    { label = "fighting", dice = "3D+1" },
+    { label = "melee", dice = "3D+1" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "4D"
+skills = [
+    { label = "lockpicking", dice = "4D+1" },
+    { label = "sleight of hand", dice = "5D" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "3D"
+skills = []
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = []
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "hide", dice = "3D+ 1" },
+    { label = "streetwise", dice = "4D" },
+    { label = "search", dice = "3D+2" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "bluff", dice = "3D+1" },
+    { label = "charm", dice = "3D+1" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "1"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "14"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Equipment]
+items = [
+    { description = "clothes", features = "" },
+    { description = "cloak", features = "" },
+    { description = "basic lockpicking tools", features = "" },
+    { description = "dagger", features = "( damage +1 D )" },
+    { description = ".", features = "" },
+]
+label = "Equipment"

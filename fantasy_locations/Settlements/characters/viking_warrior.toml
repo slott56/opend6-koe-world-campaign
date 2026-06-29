@@ -1,0 +1,99 @@
+[[characters]]
+name = "Typical Viking Warrior"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D+1"
+skills = [
+    { label = "fighting", dice = "3D+ 2" },
+    { label = "melee combat", dice = "3D+ 2" },
+    { label = "riding", dice = "3D+ 2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "3D+1"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "4D+1"
+skills = [
+    { label = "running", dice = "4D+2" },
+    { label = "stamina", dice = "4D+2" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = [
+    { label = "navigation", dice = "3D+ 1" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "search", dice = "4D" },
+    { label = "traps", dice = "4D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D"
+skills = [
+    { label = "animal handling", dice = "3D" },
+    { label = "intimidation", dice = "3D+ 1" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "18"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Quirk"
+rank = "(R2)"
+details = ", dislikes those who use magic or appear to have supernatural powers ( +4 to difficulty when interacting with such people )"
+
+[[characters.details.Disadvantages.details]]
+label = "Infamy"
+rank = "(R1)"
+details = ", feared as a Viking by many ."
+
+[characters.details.Equipment]
+items = [
+    { description = "hardened leather armor", features = "( Armor Value +1D+1 )" },
+    { description = ", medium shield", features = "( armor +2D+1 )" },
+    { description = ", and broadsword", features = "( +2D+2 )" },
+    { description = ".", features = "" },
+]
+label = "Equipment"

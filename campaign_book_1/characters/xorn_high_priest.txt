@@ -1,0 +1,23 @@
+**Xorn Great Priest**:
+Agility 4D, fighting 1D+1, melee combat 1D, Coordination 4D, Physique 4D, stamina 3D+2, Intellect 3D+2, reading/writing 1D, speaking 1D+1, Acumen 3D+2, Charisma 3D+2, intimidation 4D+2.
+*Disadvantages*: Infamy (R2), Known to be cruel; Devotion (R1), Great Priest Xorn; Employed (R2), By Xorn, wherever he is; Quirk (R2), Cruel,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R2), Martial arts skills: 1D+2 bare-hand attack; Natural Armor (R2), Martial Block,
+*Move*: 10.0, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 22.
+
+
+**Xorn High Priest**:
+Agility 3D, fighting 1D, melee combat 1D, Coordination 3D, Physique 3D, stamina 2D, Intellect 3D, reading/writing 2D, speaking 1D, Acumen 3D, Charisma 3D, intimidation 3D.
+*Disadvantages*: Devotion (R1), Great Priest Xorn; Employed (R2), By Xorn, wherever he is; Quirk (R1), Officious,
+*Special Abilities*: Natural Hand-to-Hand Weapon (R2), Martial arts skills: 1D+2 bare-hand attack; Natural Armor (R2), Martial Block,
+*Move*: 10.0, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 22.
+
+
+

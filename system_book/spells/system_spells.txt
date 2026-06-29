@@ -1,0 +1,557 @@
+
+Cast Chaos
+~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 10 
+:Effect: 30 (Spell being copied plus backlash)
+:Range: based_on_spell('range') \(0)
+:Speed: based_on('range', 'Instantaneous') \(0)
+:Duration: based_on_spell('duration') \(0)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    area_effect (0): based_on_spell('area_effect')
+
+
+    feedback (10): lowered resistance
+
+
+
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+
+
+The caster can unleash pure chaotic energy  in an attempt
+to simulate a spell. The incantation is cast at a
+difficulty of 10 plus the simulated spell's difficulty,
+and automatically triggers a chaotic backlash (the GM
+rolls on the Unleashed Chaos Table). If the caster fails
+the difficulty roll, the GM rolls a second time on the
+Unleashed Chaos Table. The simulated spell is treated
+just as if it had been cast normally (using it's speed,
+range, area of effect, and duration.)
+
+
+
+Chaos Burst
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 16 
+:Effect: 24 (Bolts of swirling energy 4*D (physical damage, ignores all armor))
+:Range: 30 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    gestures (3): Gestures (complex)
+
+
+    incantation (3): Incantation (complex)
+
+
+    charges (3): 3 charges
+
+
+    feedback (10): lowered resistance
+
+
+    other_alterant (12): roll once on the Unleashed Chaos Table regardless of success hitting the target
+
+
+
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+
+
+At the casting of this spell, three bolts of swirling energy
+erupt from the caster's fingertips and streak toward
+one target. The spell user must make an attack
+roll for each bolt, but it is treated as a single action.
+Each bolt causes 4D damage. The caster then rolls
+once on the Unleashed Chaos Table, regardless of his
+success in hitting the target.
+
+
+
+Chaos Web
+~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 18 
+:Effect: 9 (From touch 3*D (physical damage))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 30 min \(16)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    area_effect (3): Between two anchors, limit 3m
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    gestures (3): Gestures (complex)
+
+
+    incantation (3): Incantation (complex)
+
+
+    other_alterant (12): roll once on the Unleashed Chaos Table regardless of success hitting the target
+
+
+
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+
+
+This chaos binding creates hundreds of strands of
+chaotic fiber that interweave themselves into a web
+of magical energy. The spell user must anchor the web
+between at least two objects. Anyone touching the
+web with bare flesh automatically takes 3D damage
+(once per contact) and causes a chaotic backlash (roll
+once on the Unleashed Chaos Table). Any attack on
+the web results in an additional chaotic backlash
+When the spell ends, the fibers quickly break down
+and fade away, their innate chaos expunged. Note that
+the caster is not immune to the effects of the web.
+
+
+
+Contain Chaos
+~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 22 
+:Effect: 40 (Other spell's effect)
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 1 sec \(0)
+:Casting Time: 10 sec \(5)
+
+:Other Aspects:
+
+    concentration (2): Concentration: 10 sec (willpower/mettle roll 8)
+
+
+    gestures (3): Gestures (complex)
+
+
+    incantation (3): Incantation (complex)
+
+
+
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+    within 2 rounds of chaotic backlash
+
+
+
+
+If cast within 10 seconds after a chaotic backlash, the
+spell user may capture the energy created by the temporary
+flux in the chaos stream. The spellcaster may
+then recast the enchantment that caused the backlash
+even if he could not originally cast it.
+
+
+
+Drain
+~~~~~
+
+:Skill: Alteration
+:Difficulty: 18 
+:Effect: 27 (Drain and Use: Drain 1 character point (R6); Increase spell-casting ability 2*D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 30 min \(16)
+:Casting Time: 25 sec \(7)
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+
+
+The caster may steal a Character Point from her target
+and use the power to temporarily increase her
+ability to cast her next spell (receiving a 2D bonus to
+her spell skill roll against it's difficulty.) Note that the
+bonus applies only to the next spell cast by the spell
+user. The victim of the incantation feels a dull pain in
+his chest when the Character Point is sucked away. If
+the target has no Character Points, he still feels the ache,
+but the caster does not gain any benefit.
+
+
+
+Flash
+~~~~~
+
+:Skill: Conjuration
+:Difficulty: 14 
+:Effect: 9 (Blindness (R3))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 sec \(5)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    area_effect (30): 6m radius sphere
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    gestures (3): Gestures (complex)
+
+
+    incantation (3): Incantations (complex)
+
+
+
+
+
+:Other Conditions:
+    (5): must be facing the caster
+
+
+    can unleash chaos effect on failure
+
+
+
+
+This quick enchantment creates a painful burst of light
+that affects all creatures within the spell's area of effect.
+Those affected (i.e., looking in the direction of
+the light) go blind for 10 seconds (thereby suffering a
+-2D penalty to all actions during that time; see Chapter eight "Combat,"
+for more information on blindness penalties.)
+
+
+
+Hesitate
+~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 7 
+:Effect: 15 (Penalty on next Agility roll (R5))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 10 sec \(5)
+
+:Other Aspects:
+
+    concentration (2): Concentration: 10 sec (willpower/mettle roll 8)
+
+
+    gestures (3): Gestures (complex)
+
+
+    incantation (1): Incantations (phrase)
+
+
+
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+
+
+Through this incantation, the caster injects a tiny
+amount of chaos energy into his victim's body, causing
+the target's muscles to spasm momentarily. As a
+result, the target suffers a -3D penalty on his next Agility roll for initiative.
+
+
+
+Netherdart
+~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 20 
+:Effect: 27 (1 pip mental and 1 pip physique each 10 sec. (R9))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 min \(9)
+:Casting Time: 15 sec \(6)
+
+:Other Aspects:
+
+    concentration (2): Concentration: 15 sec (willpower/mettle roll 8)
+
+
+    gestures (3): Gestures (complex)
+
+
+    incantation (4): Incantation (litany)
+
+
+    charges (4): 5 charges
+
+
+
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+
+
+Upon the casting of this spell, five dark motes of energy
+coalesce in the caster's hand. The chaos binder
+may hurl the deadly magic one mote at a time (speed of +1)
+at the same or separate targets (each attack is
+treated as a separate action.) The caster may choose
+to throw them all at once (incurring the applicable
+multi-action penalties) or one at a time. A successful
+attack causes 3D in the victim as the black mote burrows
+into the target's body. Once within, the dark energy
+begins to suck away the victim's will (subtract one pip
+of a mental attribute one on pip of Endurance for every
+10 seconds the spell remains in effect; the lost pips return
+at the same rate they were lost.)
+
+
+
+Propel
+~~~~~~
+
+:Skill: Apportation
+:Difficulty: 10 
+:Effect: 10 (Move 100 kg)
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 10 min \(14)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    concentration (3): Concentration: 1 min (willpower/mettle roll 9)
+
+
+    gestures (3): Gestures (complex)
+
+
+    incantation (4): Incantation (litany)
+
+
+
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+
+
+This spell builds up a wave of chaotic energy which
+the caster feels as an invisible, pulsing force close
+by. At the completion of the incantation, the chaos
+binder commands the wave to push objects or creatures in any direction.
+The wave of force can manipulate
+a target no less than 1 kilogram and no more
+than 100 kilograms at a movement rate of up to 10
+(twice as fast as a walking human.) While directing
+the wave, the caster may not undertake other activities,
+but must concentrate on the energy to keep it
+from dispersing.
+
+
+
+Sense Residual Magic
+~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 14 
+:Effect: 6 (Follow magical trail up to 1km away 2*D)
+:Range: 1 km \(15)
+:Speed:  \(15)
+:Duration: 3 hr \(20)
+:Casting Time: 5 min \(12)
+
+:Other Aspects:
+
+    concentration (4): Concentration: 5 min (willpower/mettle roll 10)
+
+
+    gestures (3): Gestures (complex)
+
+
+    incantation (4): Incantations (litany)
+
+
+
+
+
+:Other Conditions:
+    (5): original caster still in the area
+
+
+    can unleash chaos effect on failure
+
+
+
+
+Magic leaves telltale signs of its use in the form of
+shimmering paths of residual chaos invisible to the
+naked eye. With this spell, the user attunes her sight
+to the range of chaos waves, enabling her to see these
+stringy paths and follow them to their source. The
+caster may trail a particular path up to the spell's
+area of effect at which point it gradually fades. If the
+original caster has left the area, the trail ends in mid-air.
+The spellcaster may then cast *Sense Residual Magic* again
+and pick up the trail where it left off, following up the
+limit of it's area, and so on.
+
+
+
+Shroud
+~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 9 
+:Effect: 15 (Concealed: reduces Acumen 5*D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 4 hr \(21)
+:Casting Time: 5 min \(12)
+
+:Other Aspects:
+
+    concentration (4): Concentration: 5 min (willpower/mettle roll 10)
+
+
+    gestures (2): Gestures (simple)
+
+
+    incantation (1): Incantation (phrase)
+
+
+
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+
+
+When the enchantment is cast, a swirling, blotchy
+gray-and-black film encases the spellcaster's body,
+completely concealing her features.
+
+
+
+Warp Magic
+~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 16 
+:Effect: 15 (Prevent of spell effects 5*D)
+:Range: 35 m \(8)
+:Speed:  \(8)
+:Duration: 5 min \(12)
+:Casting Time: 1 sec \(0)
+
+:Other Aspects:
+
+    concentration (0): Concentration: 1 sec (willpower/mettle roll 6)
+
+
+    gestures (3): Gestures (complex)
+
+
+    incantation (4): Incantation (litany)
+
+
+
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+    (5): Other Alterant: Timed to coincide
+
+
+
+
+The caster may prevent a spell form occurring (just
+as another spellcaster unleashes an incantation), or
+may eradicate a spell that has already been cast.
+
+
+
+Zed'oric's Defense
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 14 
+:Effect: 28 (Defend against magic: Absorb damage 5*D (physical damage, protection modifier); Resist magical effects 1*D (protection modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 8 hr \(22)
+:Casting Time: 5 min \(12)
+
+:Other Aspects:
+
+    concentration (4): Concentration: 5 min (willpower/mettle roll 10)
+
+
+    gestures (3): Gestures (complex)
+
+
+    incantation (4): Incantations (litany)
+
+
+
+
+
+:Other Conditions:
+    can unleash chaos effect on failure
+
+
+
+
+Using this incantation, the caster weaves chaos energy
+into his body. The chaos field absorbs any physical damage
+inflicted upon the character (including magical attacks
+that physically harm the target), giving a bonus of 1D
+to an Endurance or mental attribute roll to resist damage.
+
+
+

@@ -1,0 +1,13 @@
+**Variana, Dragon**:
+Agility 2D+2, acrobatics 7D, dodge 7D+1, fighting 10D, flying 9D+2, Coordination 2D, Physique 2D, lifting 5D, running 6D, stamina 5D, Intellect 3D+1, cultures 7D, healing 4D+2, obscure cures 5D, navigation 6D, reading/writing 6D, scholar arcane lore 10D, speaking 6D+2, trading 6D, Acumen 2D+1, disguise 5D, investigation 6D, search 6D, streetwise 3D, survival 4D+2, tracking 6D, Charisma 3D+1, bluff 6D, charm 5D+2, command 6D, intimidation 7D, mettle 6D+1, persuasion 5D, Extranormal 2D+1, alteration 3D+1, conjuration shapeshifting spells 6D+2, divination 3D+2.
+*Advantages*: Size (R4), scale value 12; Wealth (R3), ,
+*Disadvantages*: Achilles' Heel (R3), Home Attunement : can only heal damage by resting within her cave , without the aid of medicine or magic; Infamy (R3), ; Quirk (R3), mercurial; Quirk (R3), territorial; Quirk (R2), vain,
+*Special Abilities*: Flight (R4), flying move 8D; Increased Attribute (R10), +10 to related totals; Increased Attribute (R14), +14 to related totals; Longevity (R1), ; Luck: Great (R3), with Restricted (R3), to Dragon's own cave; Natural Armor (R3), +3D to damage resistance totals; Natural Hand-to-Hand Weapon (R3), +3D damage; Natural Hand-to-Hand Weapon (R3), +3D damage; Natural Ranged Weapon (R2), damage 6D, range 10 / 20 / 40, with Ability Loss (R1), may only fire once every other round; Infravision/Ultravision (R6), +12 to sight-based totals in darkness,
+*Move*: 10, 
+*Strength Damage*: +14, 
+*Fate Points*: 3, 
+*Character Points*: 20, 
+*Body Points*: 26.
+
+
+

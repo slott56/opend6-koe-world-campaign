@@ -1,0 +1,80 @@
+[[characters]]
+name = "Nevest, Guard"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "4D"
+skills = [
+    { label = "melee combat", dice = "5D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "3D"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "4D"
+skills = [
+    { label = "stamina", dice = "4D+2" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = []
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "streetwise", dice = "3D+2" },
+    { label = "search", dice = "3D+1" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D"
+skills = [
+    { label = "intimidation", dice = "2D+ 1" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "17"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Equipment]
+items = [
+    { description = "ring mail armor", features = "( Armor Value +1D+1 )" },
+    { description = "", features = "" },
+    { description = "long sword", features = "( damage +2D+2 )" },
+    { description = ".", features = "" },
+]
+label = "Equipment"

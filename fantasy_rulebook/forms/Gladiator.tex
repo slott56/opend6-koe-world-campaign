@@ -1,0 +1,188 @@
+
+% Preamble
+
+\documentclass[10pt]{article}
+
+% Packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{layout}
+\usepackage{fancyhdr}
+
+
+% See https://www.overleaf.com/learn/latex/Articles%2FA_visual_guide_to_LaTeX’s_page_layout_parameters
+% Paper width = 612 pt height = 792 pt
+% 1in offset means \pagewidth = 72pt + \hoffset + \evensidemargin + Book_IM + DeltaX
+\setlength{\marginparwidth}{0pt}
+\setlength{\marginparsep}{0pt}
+\setlength{\textwidth}{504pt}   % 468 = 6.5 in, 504=7in
+\setlength{\textheight}{620pt}  % 8.6 in
+\setlength{\evensidemargin}{6pt}
+\setlength{\oddsidemargin}{6pt}
+\setlength{\topmargin}{6pt}
+\setlength{\headheight}{12pt}
+\setlength{\headsep}{12pt}
+
+
+\title{OpenD6 Fantasy Character Sheet}
+
+
+% Document
+\begin{document}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textit{OpenD6 Fantasy Character}}
+\fancyfoot[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+
+\cleardoublepage
+% \textwidth of 468 pt = 144pt * 3 + 36pt
+% \textwidth of 504 pt = 156pt * 3 + 36pt
+\begin{table}
+\begin{tabular}{m{156pt} m{156pt} m{156pt}}
+    \multicolumn{2}{l}{\textbf{Character Name}:  \hrulefill} \\
+    \multicolumn{2}{l}{\textbf{Occupation}: Gladiator \hrulefill} \\
+    \multicolumn{2}{l}{\textbf{Race}: Human \hrulefill \hspace{1em} \textbf{Gender}:  \hrulefill} \\
+    \multicolumn{2}{l}{\textbf{Age}:  \hrulefill \hspace{1em} \textbf{Height}:  \hrulefill \hspace{1em}  \textbf{Weight}:  \hrulefill } \\
+    \multicolumn{2}{l}{\textbf{Physical Description}:  \hrulefill } \\
+    \multicolumn{2}{l}{ \hrulefill } \\
+ & & \\
+\textbf{Agility}: 4D \hrulefill      & \textbf{Intellect}: 2D \hrulefill  &                             \\
+
+acrobatics           \hrulefill & healing              \hrulefill & \\
+
+climbing             \hrulefill &  \hrulefill & \\
+
+dodge                \hrulefill &  \hrulefill & \\
+
+fighting             \hrulefill &  \hrulefill & \\
+
+jumping              \hrulefill &  \hrulefill & \\
+
+melee combat         \hrulefill &  \hrulefill & \\
+
+riding               \hrulefill &  \hrulefill & \\
+
+stealth              \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+
+\textbf{Coordination}: 3D \hrulefill & \textbf{Acumen}: 3D \hrulefill     & \hrulefill \\
+
+charioteering        \hrulefill & crafting             \hrulefill & \textbf{Advantages}: \hrulefill \\
+
+marksmanship         \hrulefill & gambling             \hrulefill & Trademark Specialization \hrulefill \\
+
+throwing             \hrulefill & know-how             \hrulefill & (R1), gain +2D when using \hrulefill \\
+
+ \hrulefill & streetwise           \hrulefill & one weapon (your choice) \hrulefill \\
+
+ \hrulefill & survival             \hrulefill & plus you may be recognized \hrulefill \\
+
+ \hrulefill &  \hrulefill & by those watching \hrulefill \\
+
+ \hrulefill &  \hrulefill & \textbf{Disadvantages}: \hrulefill \\
+
+ \hrulefill &  \hrulefill & Devotion (R1), to fighting \hrulefill \\
+
+ \hrulefill &  \hrulefill & \textbf{Special Abilities}: \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+
+\textbf{Physique}: 4D \hrulefill & \textbf{Charisma}: 2D \hrulefill     &  \hrulefill \\
+
+lifting              \hrulefill & command              \hrulefill &  \hrulefill \\
+
+running              \hrulefill & intimidation         \hrulefill &  \hrulefill \\
+
+stamina              \hrulefill & mettle               \hrulefill &  \hrulefill \\
+
+swimming             \hrulefill & persuasion           \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+                                  &                                 &                             \\
+\textbf{Magic }:  \hrulefill  &                                 &                             \\
+alteration           \hrulefill & \textbf{Strength Damage}: 2D \hrulefill                             & \textbf{Body Points}: 31 \hrulefill \\
+apportation          \hrulefill                        & \textbf{Move}:             10             \hrulefill    & $\Box$ Stunned \footnotesize{(80\%)} \hfill 19-24 \\
+conjuration          \hrulefill                        & \textbf{Fate Points}:      1      \hrulefill    & $\Box$ Wounded \footnotesize{(60\%)} \hfill 12-18 \\
+divination           \hrulefill                        & \textbf{Character Points}: 5 \hrulefill    & $\Box$ Severely Wounded \footnotesize{(40\%)} \hfill 6-11 \\
+ \hrulefill                        & \textbf{Funds}:            3D            \hrulefill    & $\Box$ Incapacitated \footnotesize{(20\%)} \hfill 3-5 \\
+ \hrulefill                        & \textbf{Silver}:           180           \hrulefill    & $\Box$ Mortally Wounded \footnotesize{(10\%)} \hfill 1-2 \\
+ \hrulefill                        &  \hrulefill                                                       & $\Box$ Dead   \\
+\end{tabular}
+\end{table}
+\newpage
+\begin{table}
+\begin{tabular}{m{216pt} m{216pt}}
+    \textbf{Character Name}: \hrulefill & \\
+    & \\
+\textbf{Armor}                & \textbf{Magic Spells/Miracles}   \\
+    Type \hskip 4em AV \hskip 3em Notes             & Name \hskip 4em Difficulty \hskip 3em Notes            \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+                              & \hrulefill                       \\
+\textbf{Weapons}              & \hrulefill                       \\
+    Type \hskip 4em Dmg \hskip 3em Range: S/M/L     & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$  & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$  & \hrulefill                       \\
+                              & \hrulefill                       \\
+\textbf{Other Equipment}      & \textbf{Personality}: \hrulefill \\
+    Type \hskip 4em Notes     & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \textbf{Objectives}: \hrulefill \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \textbf{Native Language}: \hrulefill \\
+    \hrulefill                &  \\
+    \hrulefill                & \textbf{Other Information}: \hrulefill  \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+    \hrulefill                & \hrulefill                       \\
+\end{tabular}
+\end{table}
+
+\end{document}

@@ -1,0 +1,106 @@
+
+Alter Movement
+~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 17 
+:Effect: 15 (Movement change +5D)
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 4 min \(12)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    focused (5): Focus based on effect, duration
+
+
+    gesture (2): Point at target, then make running motion with fingers (simple)
+
+
+    incantation (2): First say, “I command your speed,” followed by whether the target should slow or quicken (sentence)
+
+
+    other_alterant (1): At time of casting, mage may choose to speed up or slow down target (small)
+
+
+
+
+
+:Other Conditions:
+    (5): Variable Effect: Caster may increase effect’s value by up to 5 points on the “Spell Measures” chart
+
+
+
+
+['The caster makes her target either hurry up or slow down, depending on how she words her command. The target’s movement is altered by the measure of the spell effect’s value plus any result points bonus (as read on the “Spell Measures” chart).', '**Example**', 'A magic user casts the alter movement spell to slow down a charging bull. At casting time, he decided to use the spell effect’s value plus the full variable amount, for a minimum change value of 9, or 60 meters per second (12 meters per round). If his skill total was one point over the difficulty, the new change value would be 10, or 100 meters per second (10 meters per round). This rate would then be subtracted from the bull’s current movement rate, causing the raging animal to come to a complete and shockingly sudden stop.']
+
+
+Carrying Wind
+~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 13 
+:Effect: 15 (wind with a lifting skill +5D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    area_effect (15): 3m radius sphere
+
+
+    charges (4): 6 charges
+
+
+    component (4): May only be cast outdoors, in a clear area (ordinary); mage wears loose clothes (common)
+
+
+    feedback (8): lowered resistance
+
+
+    gesture (2): Mimic a fight (simple)
+
+
+    incantation (2): I subdue you and I command you, O wind! (sentence)
+
+
+    variable_movement (8): 25 m
+
+
+
+
+
+['This is a charged spell. To cast it, the mage goes outside and starts running, jumping, and mimicking flight. The mage should be wearing something loose that can catch the wind. One cast garners the mage six charges of the spell.', 'When released, the spell causes a wind to rise and lifts the mage into the air. The mage can control the direction of the wind and its speed (up to 25 meters a round). The spell can carry as if it had a lifting of 5D.', 'The wind forms a three-meter sphere around the mage’s body, and nothing can be carried that won’t fit in that sphere.']
+
+
+Relocate Person
+~~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 16 
+:Effect: 11 (teleport 150 kg)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 1.5 round \(5)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    charges (3): 3 charges
+
+
+    gesture (2): Point to target then point in direction of new location (simple)
+
+
+    incantation (1): Go there. (phrase)
+
+
+
+
+
+['After the mage casts the spell, she has firmly fixed in her mind three uses of it. When she releases the spell, she points at her intended target, which will be instantly teleported to the range of the spell. The result points bonus may be added either to the value of the weight transported or the distance traveled; read the new value on the “Spell Measures” chart. The spell will not allow anything to appear inside a solid object. Remember that a target who is aware of the potential relocation may roll her Physique or lifting and add it to her weight. The caster’s spell roll must then beat that difficulty as well as the spell’s difficulty.', '**Note**', 'A similar spell, Relocate Item, is identical in every way except that the effect is to carry an item weighing no more than 10 kilograms, with a value of 5, and thus the difficulty is 11.']
+
+

@@ -1,0 +1,23 @@
+**Stormhammer**:
+Agility 2D, Physique 3D, lifting 2D, Intellect 3D, speaking 1D, Acumen 2D, Charisma 2D, persuasion 2D, Extranormal 3D, divination +1.
+*Disadvantages*: Hindrance (R3), A sword; immobile without a wielder,
+*Special Abilities*: Character Option (R5), Lighting Strike Enchantment,
+*Move*: 0, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 9, *Natural Abilities*: Natural Hand-to-Hand Weapon (R2D+2), damage.
+
+
+**Foeseeker**:
+Agility 2D, Physique 3D, lifting 2D, Intellect 3D, speaking 1D, Acumen 2D, Charisma 2D, persuasion 2D, Extranormal 3D, divination +1.
+*Disadvantages*: Hindrance (R3), A sword; immobile without a wielder,
+*Special Abilities*: Character Option (R3), Search for enemies,
+*Move*: 0, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 4, *Natural Abilities*: Natural Hand-to-Hand Weapon (R2D+2), damage.
+
+
+

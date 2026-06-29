@@ -1,0 +1,69 @@
+
+Earth Quake
+~~~~~~~~~~~
+
+:Skill: Elemental Alteration
+:Difficulty: 32 
+:Effect: 15 (shake earth 1000 kg)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 5 sec \(4)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Earth Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    area_of_effect (40): 20m radius circle
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: Hildeþrymm Physique
+
+
+
+
+The area is large enough that the mage is barely able to avoid the effects; damage is incidental usually from falling objects
+
+
+Opening the Veil
+~~~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 29 
+:Effect: 60 (Veil Opening: Apportation to new realm (R4); Adjustments for experience, knowledge, and aids)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Veil Opening Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    components (4): any resonating artifacts (rare)
+
+
+
+
+
+:Other Conditions:
+    (0): Controller: None
+
+
+
+
+Opens the veil; it will remain open for others to pass through.
+
+

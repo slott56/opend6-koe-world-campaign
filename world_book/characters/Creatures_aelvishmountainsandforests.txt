@@ -1,0 +1,13 @@
+**Elf, Gnome, Goblin, Kobold**:
+Agility 3D, acrobatics +2, dodge +2, fighting +2, melee combat +2, stealth +2, Coordination 3D, marksmanship +2, throwing +1, Physique 3D, running +2, stamina +2, Intellect 3D, healing +2, scholar +2, traps +2, Acumen 3D, crafting +2, survival +2, Charisma 3D, command +1, intimidation +2, Extranormal 3D.
+*Advantages*: Equipment (R2), Weapon or survival gear unknown to humans,
+*Disadvantages*: Cultural Unfamiliarity (R2), Lost in human company,
+*Special Abilities*: Combat Sense (R2), Surprise reduced by 4,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 30.
+
+
+

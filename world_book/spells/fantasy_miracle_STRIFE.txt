@@ -1,0 +1,217 @@
+
+Banish
+~~~~~~
+
+:Skill: Strife
+:Difficulty: 16 
+:Effect: 12 (compare to 2 times the target's Charisma or mettle)
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+
+:Other Conditions:
+    Difficulty: 15
+
+
+    (-1): Limited to humanoids (including undead) devoted to a different religion/gocl/power or undead controlled by a character devoted to a different religion/god/power
+
+
+
+
+The miracle can only be used against opponents of a different
+religion. If successfully invoked, compare the effect total to a value
+equal to 2 times the target's Charisma or mettle (including any spe-
+ci.al.ization related to religion). If the target has not taken an action
+yet this round, she m ay actively defend by generating a mettle total
+(including her faith specialization), but this is considered her action
+for the round. For undead without a mettle or Charisma score, use
+the die code of the creatures' controller.
+If the target bas a lowe r total, she flees the area (if possible).
+
+
+
+Bless Weapon
+~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 13 
+:Effect: 9 (+ damage bonus 3*D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 8 round \(8)
+:Casting Time: 2 sec \(2)
+
+
+:Other Conditions:
+    Difficulty: 13
+
+
+
+
+Bless weapon infuses spiritual energy into any one weapo n, as
+long as the it.em remains within 10 meters of the blessing cleric.
+The invocation applies the miracle success bonus to the damage of
+the blessed item.
+A character may enjoy the effects of only one bless at any given
+time. The cleric may use bless weapon on an item he's holding.
+
+
+
+Curse
+~~~~~
+
+:Skill: Strife
+:Difficulty: 14 
+:Effect: 6 (bad_luck (R2),  Disadvantage)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 10 min \(14)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    focused (4): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-2): Limited to humans
+
+
+    Difficulty: 14
+
+
+
+
+The cleric curses a single humanoid target with 10 minutes of
+Bad Luck (R2), which doesn't leave the target even if he moves out
+of range. See the description of this Disadvantage in the MC haracter
+Options" chapter for details. Each success Level doubles the amount
+of time that the target has the curse.
+
+
+
+Disrupt Spell
+~~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 25 
+:Effect: 29 (compare to skill total of spell countering)
+:Range: 60 m \(9)
+:Speed:  \(9)
+:Duration: 1 round \(4)
+:Casting Time: 2 sec \(2)
+
+
+:Other Conditions:
+    Difficulty: 25
+
+
+
+
+The cleric concentrates on the spell he wishes to counter. The effect's
+value plus the miracle's miracle success bonus are compared to the
+skill total used to create the targeted spell. If the disrupt spell number
+equals or exceeds the target spell's skill total, the spell is broken.
+
+
+
+Fighting Tree
+~~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 23 
+:Effect: 24 (fighting: fighting 4*D; damage 4*D)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 hr \(18)
+:Casting Time: 2 sec \(2)
+
+:Other Aspects:
+
+    components (3): A long supple tree or one with long branches (common)
+
+
+
+
+
+:Other Conditions:
+    Difficulty: 23
+
+
+
+
+Through this prayer, the cleric can animate the branches of a
+tree to strike at anyone within range. Branches that hit the target
+inflict 4D of damage. The tree can strike at no more than Short range
+- less if it's small.
+
+
+
+Spiritual Bolt
+~~~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 12 
+:Effect: 12 (in damage 4*D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 3.5 sec \(3)
+:Casting Time: 1.5 sec \(1)
+
+
+:Other Conditions:
+    Difficulty: 12
+
+
+
+
+The cleric gathers spiritual energy to throw in a bolt at a target.
+It does 40 in damage at a range of up to 10 meters. She must make
+a marksmanship roll to hit the target. The bolt must be fired in the
+same round that the cleric invokes the invocation.
+
+
+
+Undead Warrior
+~~~~~~~~~~~~~~
+
+:Skill: Strife
+:Difficulty: 27 
+:Effect: 27 (Warrior: fighting 4*D; lifting 4*D; running 1*D)
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 1.5 hr \(19)
+:Casting Time: 2 sec \(2)
+
+:Other Aspects:
+
+    components (5): Intact dead body or skeleton (very_rare)
+
+
+
+
+
+:Other Conditions:
+    Difficulty: 27
+
+
+
+
+This rite causes any one dead creature to rise in its present state
+to serve as a soldier bonded to the cleric. As this is a basic miracle, it
+imbues the creature with select skills; the cleric may add more and
+increase the difficulty. The reanimated being cannot think for itself, so
+it ignores all Wound level and bit location penalties. It does what.ever
+the cleric deaands, until the invoker tells it to stop or the duration
+ends. At the end of the duration or if the cleric sends it out of range,
+the creature falls down in a heap. The invocation's miracle success
+bonus may either add to the range or to the amount of damage the
+creature does (it has a base Strength Damage of2D); which applica­
+tion must be decided before invoking the miracle.
+
+

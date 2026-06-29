@@ -1,0 +1,326 @@
+
+FAVOR
+======
+
+BLESS PERSON
+-------------
+Skill Used: Favor
+Difficulty: 11
+Effect: 6 ( + 1D bonus to one non-Extranormal attribute)
+Range: 10 meters ( +5)
+Speed:+5
+Duration: 5 rounds ( + 7)
+Casting Time : 2 seconds (-1)
+Other Aspects:
+Other Condition (-3): Bonus may not be used to harm anything
+(-1); limited to humanoids (-2)
+A bless person surrounds and infuses the target character with
+spiritual energy, as long as the target remains within 10 meters of
+the blessing cleric. The blessing enhances one attribute of the cleric's
+choosing, which must be selected at the time he performs the bless­
+ing. The blessed character receives the miracle success bonus to all
+related totals.
+A character may enjoy the effects of only one bless at any given
+time. The cleric may use bless person on himself.
+
+BLESS ARMOR
+-------------
+Skill Used: Favor
+Difficulty: 13
+Effect: 9 ( +2D Armor Value bonus)
+Range: 10 meters ( +5)
+Speed:+5
+Duration: 8 rounds ( +8)
+Casting Time : 2 seconds (-1)
+Other Aspects:
+None required
+Bless annorinfuses spiritual energy into any armor orgarmentthat
+a single character is wearing. as long as the target remains within 10
+meters of the blessing cleric. The blessed character adds the miracle
+success bonus damage resistance totals.
+A character may enjoy the effects of only one bless at any given
+time. The cleric may use bless armor on herself.
+
+ENHANCE FOOD
+-------------
+Skill Used: Favor
+Difficulty: 8
+Effect: 1 (1.5 kilograms of food)
+Range: 1 meter or less (0)
+Speed:O
+Duration: 4hours (+21)
+Casting Time: 1 round (-4)
+Other Aspects:
+Components (-2): Any kind of food, in any condition (very
+common)
+Food blessed by this miracle becomes better tasting, more nutri­
+tious, and possibly transforms into another food entirely. If not eaten
+within 10 minutes of its improvement, the food turns back to its
+original condition. (The four-hour duration is about how long it takes
+for the body to break down the food, so the food needs to remain in
+existence within the body for at least that long.)
+Minimal or average success turns spoiled meat, rotted vegetables,
+and the like into fresh food again. Good success can cleanse any food
+of any impurities or poisons. Superior success increases the quality
+of the food to the very best possible. Spectacular success actually
+transforms the food into a different kind of food; changing from
+a common fruit to an exotic one, from a cheap cut of pork to an
+expensive cut of beef, water to wine, and so on.
+
+HEALING
+-------------
+Skill Used: Favor
+Difficulty: 7
+Effect: 17 (healing skill of SD+2)
+Range: 1 meter or less or touch (0)
+Speed:O
+Duration: 1.5 seconds (+1)
+Casting Time : 1 round (-4)
+Other Aspects:
+None required
+Bychannelingher spiritual energy to an injured person or creature,
+the devotee can use this miracle to heal harm as if she had SD+2 in
+the healing skill. Add the miracle success bonus to the healing total.
+
+MULTIPLY FOOD
+-------------
+Skill Used: Favor
+Difficulty: 8
+Effect: 1 (1.5 kilograms of food)
+Range: 1 meter or less (0)
+Speed:O
+Duration: 4hours (+21)
+Casting Time : 1 round (-4)
+Other Aspects:
+Components (-2): About a kilogram of any kind of edible food
+(very common)
+The multiplying food invocation is performed on an amount of
+existing food equal to a decent meal for one normal person. For
+each success level gained, double the amount of food. Any food not
+eaten within 10 minutes of its production rots or turns to dust. (As
+with enhance food, the food needs to be within the body for at least
+four hours to give the body enough time to break it down and get
+nourishment from it.)
+
+RITUAL OF PURIFICATION
+-------------
+Skill Used: Favor
+Difficulty: 12
+Effect: 20 (compare to miracle or curse difficulty)
+Range: 2.5 meters ( +2)
+Speed :+2
+Duration: 30 minutes ( + 16)
+Casting Time: 30 minutes (-16)
+Other Aspects:
+None required
+The purification ceremony heightens awareness
+of one's religion and removes the impurities of the
+mundane and the material from the spirit. With a
+minimal or average success, it allows the target to
+invoke one miracle he failed or it removes one curse
+(either magical or miraculous). For any level above
+average, the target either receives the miracle success
+bonus to any miracle he attempts within the duration
+of the ritual or may add the miracle success bonus
+to the effect's value to allow invocation of one failed
+miracle or remove any one curse. The difficulty of the
+curse or failed miracle must be equal to or less than
+the effect's value (plus the miracle success bonus, if
+applicable) in order for the ritual to work.
+
+SPIRITUAL SHIELD
+-------------
+Skill Used : Favor
+Difficulty: 13
+Effect: 16 (Armor Value of SD+ 1)
+Range : 1.5 meters (+1)
+Speed:+l
+Duration: 5 rounds ( + 7)
+Casting Time: 1.5 seconds (-1)
+Other Aspects:
+Area effect ( +2): 1-meter radius
+If successfully invoked, a shield of spiritual energy,
+about two meters in diameter, appears up to 1.5
+meters in frontofthecleric. It offers an Armor Value
+of SD+ 1 against all types of physical (not mental)
+attacks.
+
+DIVINATION
+============
+
+DETECTTHE LIVING
+-------------
+Skill Used: Divination
+Difficulty: 20
+Effect: 24 (search of 80 to locate a single type of creature)
+Range: Self (0)
+Speed:O
+Duration: 10 seconds (+5)
+Casting Time : 1 minute (-9)
+Other Aspects:
+Area effect (+20): 10-meter radius circle
+Other Condition (-1): Limited to one type of creature
+Before invoking, the devotee decides what sort of being he seeks.
+Should the cleric successfully invoke the miracle, he can detect the
+presence of any such being within a 10-meter radius for two rounds,
+whether he can see it or not. The higher the search skill total is above
+the difficulty, the more information the caster knows about the beings
+he seeks (such as location, number, gender, etc.). The difficulty starts
+at 10 for a Human-sized creature, and goes down for larger creatures,
+up for smaller ones, and up for the number of other types of creatures
+in the area. Add the miracle success bonus to the search total.
+
+FORESIGHT
+-------------
+Skill Used: Divination
+Difficulty: 19
+Effect: 34 (2.5 months)
+Range: Self (0)
+Speed:O
+Duration: 1 minute (+9)
+Casting Time: 2 rounds (-5)
+Other Aspects:
+None required
+When the cleric invokes this miracle, he chooses to look for a con­
+dition that could occur up to two and a half months into the future.
+He can see one minute's worth of the future. Use the success level
+to determine the information received: Minimal reveals confusing
+images. Average allows one useful fact to be gleaned from the vision.
+Good provides the cleric with a few useful facts, including the time
+of the occurrence. Superior allows the cleric to note more details,
+including time and location. Spectacular lets the cleric see the scene
+as if he were present, though in shades of gray.
+
+STRIFE
+=======
+
+BANISH
+-------------
+Skill Used : Strife
+Difficulty: 15
+Effect: 12 (compare to 2 times the target's Charisma or mettle)
+Range: 20 meters ( + 7)
+Speed:+7
+Duration: 1 minute (+9)
+Casting Time : 1 rounds (-4)
+Other Aspects :
+Other Condition (-1): Limited to humanoids (including undead)
+devoted to a different religion/gocl/power or undead controlled by
+a character devoted to a different religion/god/power
+The miracle can only be used against opponents of a different
+religion. If successfully invoked, compare the effect total to a value
+equal to 2 times the target's Charisma or mettle (including any spe-
+ci.al.ization related to religion). If the target has not taken an action
+yet this round, she m ay actively defend by generating a mettle total
+(including her faith specialization), but this is considered her action
+for the round. For undead without a mettle or Charisma score, use
+the die code of the creatures' controller.
+If the target bas a lowe r total, she flees the area (if possible).
+
+BLESS WEAPON
+-------------
+Skill Used: Strife
+Difficulty: 13
+Effect: 9 ( +20 damage bonus)
+Range : 10 met.ers (+S)
+Speed:+S
+Duration: 8 rounds (+8)
+Casting Time : 2 seconds (-1)
+Other Aspecu :
+None required
+Bless weapon infuses spiritual energy into any one weapo n, as
+long as the it.em remains within 10 meters of the blessing cleric.
+The invocation applies the miracle success bonus to the damage of
+the blessed item.
+A character may enjoy the effects of only one bless at any given
+time. The cleric may use bless weapon on an item he's holding.
+
+CURSE
+-------------
+Skill Used: Strife
+Difficulty: 14
+Effect: 6 (Bad Luck (R2) Disadvantage)
+Range : 10 meters ( +S)
+Speed :+5
+Duration: 10 minutes (+14)
+Casting Time : 1 round (-4)
+Other A spects:
+Focused (+4): On target
+Other Condition (-2): Limited to humanoids
+The cleric curses a single humanoid target with 10 minutes of
+Bad Luck (R2), which doesn't leave the target even if he moves out
+of range. See the description of this Disadvantage in the MC haracter
+Options" chapter for details. Each success Level doubles the amount
+of time that the target has the curse.
+
+DISRUPT SPELL
+-------------
+Skill Used: Strife
+Difficulty: 25
+Effect: 29 (compare to skill total of spell countering)
+Range: 60 meters ( +9)
+Speed:+9
+Duration: 1 round (+4)
+Casting Time : 2 seconds (-1)
+Other Aspects:
+None required
+Theclericconcentrateson tbespellhewishestocounter.Theeffect's
+value plus the miracle's miracle success bonus are compared to the
+skill total used tocreatethe targetedspell. lfthe disrupt spell number
+equals or exceeds the target spell's skill total, the spell is broken.
+
+FIGHTING TREE
+-------------
+Skill Used: Strife
+Difficulty: 23
+Effect: 24 (40 in fighting and 4D in damage)
+Range : 5 meters ( +4)
+Speed:+4
+Duration: 1 hours (+18)
+Casting Time: 2 seconds (-1)
+Other Aspects:
+Components (-3): A long supple tree or one with long branches
+(common)
+Through this prayer, the cleric can animate the branches of a
+tree to strike at anyone within range. B ranches that hit the target
+inflict 4D of damage. The tree can strike at no more than Short range
+- less if it's small.
+
+SPIRITUAL BOLT
+-------------
+Skill Used: Strife
+Difficulty: 12
+Effect: 12 (40 in damage)
+Range : 10 meters (+5)
+Speed: +5
+Duration: 3.5 seconds ( +3)
+C.asting Time : 1.5 seconds (-1)
+Other Aspect•:
+None required
+The cleric gathers spiritual energy to throw in a bolt at a target.
+It does 40 in damage at a range of up to 10 meters. She must make
+a marksmanship roll to hit the target. The bolt must be fired in the
+same round that the cleric invokes the invocation.
+
+UNDEAD WARRIOR
+-------------
+Skill Used: Strife
+Difficulty: 27
+Effect: 27 ( 4D in fighting and lifting; 10 in running)
+Range : 25 meters (+7)
+Speed:+7
+Duration: 1.5 hours (+19)
+Casting Time : 2 seconds (-1)
+Other Aspects:
+Components (·5}: Intact dead body or skeleton (very rare)
+This rite causes any one dead creature to rise in its present state
+to serve as a soldier bonded to the cleric. As this is a basic miracle, it
+imbues the creature with select skills; the cleric may add more and
+increase the difficulty. The reanimated being cannot think for itself, so
+it ignores all Wound level and bit location penalties. It does what.ever
+the cleric deaands, until the invoker tells it to stop or the duration
+ends. At the end of the duration or if the cleric sends it out of range,
+the creature falls down in a heap. The invocation's miracle success
+bonus may either add to the range or to the amount of damage the
+creature does (it has a base Strength Damage of2D); which applica­
+tion must be decided before invoking the miracle.

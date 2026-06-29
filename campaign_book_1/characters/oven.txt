@@ -1,0 +1,12 @@
+**Oven, daughter of Sir Bond**:
+Agility 4D, fighting 1D, riding 2D, melee combat 2D, Coordination 4D, Physique 3D+2, Intellect 3D+2, cultures 1D, trading 2D, Acumen 3D+2, hide 1D, streetwise 1D, Charisma 3D+2, intimidation 5D.
+*Advantages*: Patron (R1), Sir Bond; Authority (R2), aristocracy; Wealth (R1), wealthy,
+*Disadvantages*: Infamy (R1), Reputation as greedy; Quirk (R1), Greedy to the point of kleptomania; Quirk (R3), Hates politics,
+*Move*: 10.0, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 24.
+
+
+

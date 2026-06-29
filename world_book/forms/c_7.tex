@@ -1,0 +1,354 @@
+
+% Preamble
+
+\documentclass[10pt]{article}
+
+% Packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{layout}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+
+
+% See https://www.overleaf.com/learn/latex/Articles%2FA_visual_guide_to_LaTeX’s_page_layout_parameters
+% Paper width = 612 pt height = 792 pt
+% 1in offset means \pagewidth = 72pt + \hoffset + \evensidemargin + Book_IM + DeltaX
+\setlength{\marginparwidth}{0pt}
+\setlength{\marginparsep}{0pt}
+\setlength{\textwidth}{504pt}   % 468 = 6.5 in, 504=7in
+\setlength{\textheight}{620pt}  % 8.6 in
+\setlength{\evensidemargin}{6pt}
+\setlength{\oddsidemargin}{6pt}
+\setlength{\topmargin}{6pt}
+\setlength{\headheight}{12pt}
+\setlength{\headsep}{12pt}
+
+
+\title{OpenD6 Fantasy Character Sheet}
+
+
+% Document
+\begin{document}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textit{OpenD6 Fantasy Character}}
+\fancyfoot[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+
+\cleardoublepage
+% \textwidth of 468 pt = 144pt * 3 + 36pt
+% \textwidth of 504 pt = 156pt * 3 + 36pt
+\begin{table}
+\begin{tabular}{m{156pt} m{156pt} m{156pt}}
+    \multicolumn{2}{l}{\textbf{Character Name}:  \hrulefill} \\
+    \multicolumn{2}{l}{\textbf{Occupation}:  \hrulefill} \\
+    \multicolumn{2}{l}{\textbf{Race}:  \hrulefill \hspace{1em} \textbf{Gender}: trans \hrulefill} \\
+    \multicolumn{2}{l}{\textbf{Age}:  \hrulefill \hspace{1em} \textbf{Height}: 178cm \hrulefill \hspace{1em}  \textbf{Weight}: 98kg \hrulefill } \\
+    \multicolumn{2}{l}{\textbf{Physical Description}:  \hrulefill } \\
+    \multicolumn{2}{l}{ \hrulefill } \\
+ & & \\
+\textbf{Agility}: 4D+1 \hrulefill      & \textbf{Intellect}: 2D+2 \hrulefill  &                             \\
+
+combat            +1 \hrulefill & traps             +2 \hrulefill & \\
+
+fighting        1D+1 \hrulefill &  \hrulefill & \\
+
+flying            1D \hrulefill &  \hrulefill & \\
+
+jumping           +1 \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+ \hrulefill &  \hrulefill & \\
+
+
+\textbf{Coordination}: 2D \hrulefill & \textbf{Acumen}: 3D+2 \hrulefill     & \hrulefill \\
+
+sleight of hand   +2 \hrulefill & investigation     +2 \hrulefill & \textbf{Advantages}: \hrulefill \\
+
+ \hrulefill &  \hrulefill & \textbf{Disadvantages}: \hrulefill \\
+
+ \hrulefill &  \hrulefill & Cultural Unfamiliarity (R1), \hrulefill \\
+
+ \hrulefill &  \hrulefill & TBD; Cultural Unfamiliarity \hrulefill \\
+
+ \hrulefill &  \hrulefill & (R1), TBD; Quirk (R1), TBD; \hrulefill \\
+
+ \hrulefill &  \hrulefill & Hindrance (R1), TBD; Quirk \hrulefill \\
+
+ \hrulefill &  \hrulefill & (R1), TBD; Age (R1), TBD; \hrulefill \\
+
+ \hrulefill &  \hrulefill & Poverty (R1), TBD; Enemy \hrulefill \\
+
+ \hrulefill &  \hrulefill & (R1), TBD; Bad Luck (R1), \hrulefill \\
+
+ \hrulefill &  \hrulefill & TBD; Enemy (R1), TBD \hrulefill \\
+
+ \hrulefill &  \hrulefill & \textbf{Special Abilities}: \hrulefill \\
+
+ \hrulefill &  \hrulefill & Possession: Full (R1), TBD \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+
+\textbf{Physique}: 3D \hrulefill & \textbf{Charisma}: 2D+1 \hrulefill     &  \hrulefill \\
+
+swimming          1D \hrulefill & charm             +2 \hrulefill &  \hrulefill \\
+
+ \hrulefill & mettle            +1 \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+ \hrulefill &  \hrulefill &  \hrulefill \\
+
+                                  &                                 &                             \\
+\textbf{Magic }:  \hrulefill  &                                 &                             \\
+alteration           \hrulefill & \textbf{Strength Damage}: 2D \hrulefill                             & \textbf{Body Points}: 32 \hrulefill \\
+apportation          \hrulefill                        & \textbf{Move}:             10             \hrulefill    & $\Box$ Stunned \footnotesize{(80\%)} \hfill 19-25 \\
+conjuration          \hrulefill                        & \textbf{Fate Points}:      1      \hrulefill    & $\Box$ Wounded \footnotesize{(60\%)} \hfill 13-18 \\
+divination           \hrulefill                        & \textbf{Character Points}: 5 \hrulefill    & $\Box$ Severely Wounded \footnotesize{(40\%)} \hfill 6-12 \\
+ \hrulefill                        & \textbf{Funds}:            3D            \hrulefill    & $\Box$ Incapacitated \footnotesize{(20\%)} \hfill 3-5 \\
+ \hrulefill                        & \textbf{Silver}:           180           \hrulefill    & $\Box$ Mortally Wounded \footnotesize{(10\%)} \hfill 1-2 \\
+ \hrulefill                        &  \hrulefill                                                       & $\Box$ Dead   \\
+\end{tabular}
+\end{table}
+% \newpage 
+\cleardoublepage
+
+\begin{multicols}{2}
+\textbf{Character Name:} \hrulefill
+
+\vspace{24pt}
+
+\textbf{Armor}
+
+
+Bone and hide
+
+
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+
+\vspace{24pt}
+
+\textbf{Weapons}
+
+
+Tonfa
+
+
+
+
+\hrulefill
+
+Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ 
+
+
+\hrulefill
+
+Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ 
+
+
+\hrulefill
+
+Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ 
+
+
+\hrulefill
+
+Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ 
+
+
+\hrulefill
+
+Ammo: $\Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box \Box$ 
+
+
+
+\vspace{24pt}
+
+\textbf{Other Equipment}
+
+
+Waterskin
+
+
+Brazier, portable bronze
+
+
+Bowl, wooden soup
+
+
+Sealing wax
+
+
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+
+\columnbreak
+
+\vspace*{24pt}
+
+\textbf{Magic }
+
+
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\hrulefill
+
+
+\vspace{24pt}
+
+\textbf{Personality}: \hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\textbf{Objectives}: \hrulefill
+
+\hrulefill
+
+\hrulefill
+
+
+\textbf{Native Language}: \hrulefill
+
+\hrulefill
+
+\textbf{Other Information}: \hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\hrulefill
+
+\end{multicols}
+
+
+\end{document}

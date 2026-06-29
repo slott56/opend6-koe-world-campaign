@@ -1,0 +1,10 @@
+**Typical Dock Worker**:
+Agility 3D, fighting 4D, melee combat 4D, Coordination 2D, pilotry 3D+1, Physique 4D, lifting 5D, running 4D+1, stamina 5D, Intellect 3D, Acumen 3D, gambling 3D+1, hide 4D, streetwise 4D, Charisma 3D, bluff 3D+2.
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 0, 
+*Character Points*: 0, 
+*Body Points*: 12, *Equipment*: clothes; small knife (damage +2); heavy garments (Armor Value +1).
+
+
+

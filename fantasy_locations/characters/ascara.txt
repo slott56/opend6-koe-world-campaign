@@ -1,0 +1,12 @@
+**Ascra**:
+Agility 3D, acrobatics 4D, dodge 4D+2, melee combat 4D+1, stealth 4D, Coordination 3D, marksmanship 4D+2, Physique 2D, running 2D+2, stamina 2D+1, swimming 3D, Intellect 3D, healing 3D+2, navigation 4D, reading/writing 3D+1, speaking 3D+1, Acumen 3D, hide 4D+1, search 3D+2, survival 3D+1, tracking 3D+1, Charisma 3D, animal handling 4D, command 3D+1, charm 3D+2, persuasion 4D, mettle 4D, Extranormal 1D, conjuration 2D.
+*Disadvantages*: Devotion (R2), feel a deep devotion and kinship with trees and plants; Hindrance (R2), +2 to bluff, charm, and persuasion difficulties; Hindrance (R2), -2 to damage resistance total,
+*Special Abilities*: Enhanced Sense (R1), +1 to sight-based totals; Longevity (R1), ; Skill Bonus (R1), +1 hide, stealth, and tracking totals,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 3, 
+*Body Points*: 21, *Equipment*: longbow and 20 arrows (damage +2D+2); Elven forest cloak (1D+1 to hide); dagger (damage +1D).
+
+
+

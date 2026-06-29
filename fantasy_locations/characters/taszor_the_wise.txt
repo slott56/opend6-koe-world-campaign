@@ -1,0 +1,13 @@
+**Taszor the Wise**:
+Agility 2D+1, fighting 3D+2, melee combat 4D, Coordination 2D, Physique 3D+2, lifting 4D, running 4D, stamina 4D, Intellect 3D, devices 4D, trading 3D+1, traps 4D, Acumen 3D, artist 4D, crafting 5D, gambling 3D+1, Charisma 2D+1, intimidation 3D+2, Extranormal 3D, alteration 4D+1, apportation 4D, conjuration 4D+2, divination 4D.
+*Advantages*: Size (R1), scale value of 3,
+*Disadvantages*: Hindrance (R2), +2 to bluff, charm, and persuasion difficulties; Hindrance (R1), 2-meter reduction to running, swimming, and jumping Move,
+*Special Abilities*: Hardiness (R2), +2 to damage resistance totals; Longevity (R1), ; Infravision/Ultravision (R1), +2 to sight-based totals while in dim or dark conditions,
+*Move*: 8, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 3, 
+*Body Points*: 21, *Equipment*: leather garments (Armor Value +2); writing materials; pouch of spell components.
+
+
+

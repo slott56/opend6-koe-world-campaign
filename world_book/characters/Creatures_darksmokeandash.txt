@@ -1,0 +1,46 @@
+**Giant**:
+Agility 3D, fighting 4D, melee combat 4D, Coordination 1D, throwing 4D, Physique 5D, lifting 6D, running 6D+2, Intellect 3D, navigation 1D, Acumen 1D, tracking 2D, Charisma 1D, intimidation 6D.
+*Advantages*: Size (R3), Huge, scale value 8,
+*Special Abilities*: Hypermovement (R2), +4 to Move; Increased Attribute (R3), Physique, +3 to all Physique totals; Fear (R2), +2D to intimidation and +2D to combat defense,
+*Move*: 10, 
+*Strength Damage*: 3D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 44, *Equipment*: Large club (damage +2D); armor (defense +2D).
+
+
+**Troll**:
+Agility 3D, fighting 2D, melee combat 2D, Coordination 3D, throwing 1D, Physique 4D, lifting 4D, stamina 1D, Intellect 3D, healing 1D, traps 3D, Acumen 2D, hide 2D, know-how 2D, Charisma 1D, intimidation 6D.
+*Advantages*: Size (R1), Large, scale value 3,
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Fire: does double damage,
+*Special Abilities*: Accelerated Healing (R3), +3D to Physique for natural healing; Attack Resistance (R2), +1D for extranormal, and non-enchanted weapons,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 38, *Equipment*: Often armed with war hammer (+1D+2), bone and hide armor (+1D), small shield (+2D).
+
+
+**Ogre**:
+Agility 3D, fighting 2D, melee combat 2D, Coordination 3D, throwing 1D, Physique 2D, lifting 2D, stamina 2D, Intellect 3D, healing 1D, scholar 3D, Acumen 3D, disguise 2D, know-how 2D, Charisma 1D, intimidation 6D, Extranormal 3D, apportation 2D.
+*Advantages*: Size (R1), Large, scale value 3,
+*Disadvantages*: Achilles' Heel (R3), Vulnerability to Water, takes +1D damage from a bucket-full,
+*Special Abilities*: Attack Resistance (R2), +1D for extranormal, and non-enchanted weapons,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 30.
+
+
+**Giant Spider**:
+Agility 3D, Coordination 3D, Physique 2D, stamina 3D, Intellect 2D, Acumen 3D, tracking 1D, Charisma 3D, intimidation 2D.
+*Special Abilities*: Natural Hand-to-Hand Weapon (R3), Poison in the mouth fangs; Natural Armor (R2), tough chitonous hide,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 23, *Natural Abilities*: Infravision/Ultravision (R2), .
+
+
+

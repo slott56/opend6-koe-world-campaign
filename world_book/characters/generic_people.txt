@@ -1,0 +1,85 @@
+**Healer**:
+Agility 2D, 
+Coordination 2D, sleight of hand 2D+1, 
+Physique 2D, stamina 2D+1, 
+Intellect 3D, healing 4D, reading/writing 2D+1, scholar 2D+2, 
+Acumen 3D+1, investigation 2D+1, 
+Charisma 2D, 
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 10, *Equipment*: large healer's kit (+1 bonus to 6 to 12 healing attempts).
+
+
+**Henchman**:
+Agility 2D, fighting 4D, melee combat 3D, stealth 3D, 
+Coordination 2D, lockpicking 3D, marksmanship 4D, 
+Physique 3D, running 3D+2, 
+Intellect 2D, 
+Acumen 2D, hide 3D, streetwise 3D, tracking 3D, 
+Charisma 2D, 
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 13, *Equipment*: dagger (damage +1D), lockpicking tools (+1D to lockpicking rolls), soft leather armor (Armor Value +2).
+
+
+**Merchant**:
+Agility 2D, riding 2D+1, 
+Coordination 2D, sleight of hand 2D+2, 
+Physique 2D, running 2D+1, 
+Intellect 2D, cultures 3D, reading/writing 2D+2, scholar 3D, speaking 3D, trading 3D, 
+Acumen 2D, streetwise 2D+1, 
+Charisma 3D, bluff 3D+2, charm 4D, persuasion 3D, 
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 11, *Equipment*: coins of various realms; trinkets or wares to sell; pouches; small knife (damage +2); heavy garments (Armor Value +1).
+
+
+**Ranger**:
+Agility 3D, dodge 3D+1, fighting 3D+1, melee combat 3D+1, stealth 3D+2, 
+Coordination 2D, 
+Physique 2D, running 3D+1, lifting 3D+2, 
+Intellect 2D, 
+Acumen 2D, hide 2D+2, investigation 2D+1, search 2D+1, survival 2D+2, tracking 2D+2, 
+Charisma 2D, intimidation 2D+1, mettle 2D+2, 
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 14, *Equipment*: short sword (damage +1D+2); knife (damage +1D); soft leather armor (Armor Value+2); mottled green-grey cloak (+1 to hide attempts among trees).
+
+
+**Ruffian**:
+Agility 2D, fighting 3D, melee combat 3D, stealth 2D+1, 
+Coordination 2D, lockpicking 3D, 
+Physique 3D, 
+Intellect 2D, traps 3D, 
+Acumen 2D, gambling 2D+2, hide 2D+2, streetwise 3D, 
+Charisma 1D, intimidation 3D, 
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 12, *Equipment*: dagger (damage +1D); burlap bag.
+
+
+**Soldier**:
+Agility 2D, dodge 3D, fighting 3D, melee combat 3D, 
+Coordination 2D, 
+Physique 3D, lifting 3D+1, running 3D+1, 
+Intellect 2D, 
+Acumen 2D, search 2D+1, streetwise 2D+1, survival 2D+2, 
+Charisma 2D, intimidation 2D+2, mettle 2D+1, 
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 15, *Equipment*: short sword (damage +1D+2); knife (damage +1D); padded leather armor (Armor Value +1D) with helmet.
+
+
+

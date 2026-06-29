@@ -1,0 +1,11 @@
+**Cernay Avers, Cleric**:
+Agility 2D+1, melee combat 4D+1, Coordination 2D, throwing 2D+2, Physique 2D, Intellect 3D, cultures 4D, reading/writing 3D+1, scholar 3D+1, speaking 3D+1, Acumen 3D, search 3D+1, Charisma 3D, mettle 4D, Extranormal 2D, divination 3D, favor 2D+1, strife 2D+2.
+*Disadvantages*: Devotion (R3), to religion; Employed (R2), must follow sect's regulations,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 16, *Equipment*: robes; coins; pouches containing holy symbols; mace (damage +1D+1).
+
+
+

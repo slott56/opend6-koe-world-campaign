@@ -1,0 +1,1578 @@
+
+Activate Automaton
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 16 
+:Effect: 27 (Agility/Reflexes and Physique/Strength of 3D each movement equal to result points in meters round with minimum of 1 meter per round +6D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: inanimate forces, enchanted, metal
+
+
+    components (6): -6 Robot without power source (extremely_rare)
+
+
+    gestures (6): program instructions into robot, using devices/tech/robot interface/repair difficulty of 23 (challenging)
+
+
+    incantations (1): '“Activate!” loudly' (phrase)
+
+
+    focused (10): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 15/17
+
+
+
+
+The game setting determines the components modifier.
+In fantasy or pre-computer eras, robots are likely to be
+extremely rare, while post-computer or science fiction set -
+tings often have an abundance of robots. In any case, this
+spell does not give life to a machine. Rather, it imbues 3D to
+both Agility/Reflexes and Physique/Strength. This means that
+the mechanical device is capable of ambulation (at a rate of
+and physical acts such as lifting or attacking. However, to
+control the device requires programming with the devices/
+tech/robot interface/repair skill. Instructions cannot be called
+out, as the automaton or robot has not been given the ability
+to understand speech. Automatons make useful guards and
+servants, and are occasionally handy in combat.
+
+
+Alter Trajectory
+~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 20 
+:Effect: 12 (hindrance: altered firearm (R4), +12 to marksmanship/firearms difficulties)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate forces, metal
+
+
+    components (3): Small, misshapen lead ball (common)
+
+
+    gestures (2): Make spiral motion with hand (simple)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): The target must be a ranged weapon that is manufactured of metal or has a metal component as part of its firing mechanism
+
+
+    (0): Difficulty: 21
+
+
+
+
+With the twist of a hand, the magic user can cause a ranged
+weapon to alter the interior shape of its barrel, bore, rifling and
+so on. Although the imperfection created is minor, requiring
+a Moderate search to detect, it is sufficient to create a +12
+difficulty modifier to marksmanship/firearms.
+
+
+Armor
+~~~~~
+
+:Skill: Conjuration
+:Difficulty: 12 
+:Effect: 6 (Armor Value of , physical only +2D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    components (2): Any type of coin-sized metal: bronze, iron, and so on (very_common)
+
+
+    incantations (1): '“Make armor!.”' (phrase)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 12
+
+
+
+
+This spell allows the caster to produce the equivalent of a
+breastplate and grieves from a coin-sized fragment of metal.
+This not only works wonderfully when passing through
+metal detectors, but just as well when entering a monarch’s
+sanctuary. Regardless of the type of metal used, the armor
+is similar to bronze armor in quality and protection. Once
+it is conjured on a target, it cannot be removed unless the
+spell duration ends or the magic user halts it. The armor is
+seamless, and fits any form perfectly.
+
+
+Attract Metal
+~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 15 
+:Effect: 18 (hindrance: metal attracts (R6), ; -6 to damage resistance total)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Magic
+
+
+    components (1): Small magnet or lodestone (ordinary)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    countenance (1): Target surrounded by faint red glow (noticeable)
+
+
+    gestures (2): Wave hand, welcoming something (simple)
+
+
+    focused (5): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Hindrance only applies to attacks made by metal weapons or spells using metal
+
+
+    (0): Difficulty: 18
+
+
+
+
+If the mage successfully casts this spell, then the victim
+attracts metal weapons, increasing their damage by pulling
+them toward the character. The spell is not capable of auto-
+matically causing damage; rather, it decreases the protection
+offered against any melee or magical or projectile weapons
+used against the target. For the duration of the spell, the
+figure is surrounded by a faint red glow. The effect of this
+spell is not limited to ferrous metals.
+
+
+Awaken Machine
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 17 
+:Effect: 20 (Machine: one combat skill +3D (skill modifier); +2D (physical damage, physical damage))
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 1 day \(25)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate Forces
+
+
+    components (5): A mechanical device that has a weapon (very_rare)
+
+
+    concentration (6): Concentration: 1 hr (willpower/mettle roll 12)
+
+
+    incantations (1): '“Tick!' (phrase)
+
+
+    other_alterant (3): Will attack anything that moves within 3 meters of it
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 18
+
+
+
+
+The spell only activates any weapon mounted upon the
+machine, conveying 3D in one combat skill (chosen at cast-
+ing with +2D to its weapon’s damage. The weapon used
+determines the amount of damage.
+Even though the device may have legs, tracks or another
+form of locomotion, the spell does not cause it to move.
+The contraption is incapable of thought. But, through magic
+and mechanical gimmickry, once awakened, it fights with
+the skill of a moderately trained warrior. Often such devices
+are place in corridors for protection, or hidden beneath false
+floors as a trap.
+
+
+
+
+Blunt
+~~~~~
+
+:Skill: Alteration
+:Difficulty: 12 
+:Effect: 9 (physical damage modifier +2D (damage modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1.5 min \(10)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    components (1): Stone (ordinary)
+
+
+    gestures (2): Wave stone as though hammering the edge of a weapon (simple)
+
+
+    incantations (2): '“Blunt!.”' (phrase; loud)
+
+
+    focused (4): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Must be a metal, edged, nonmagical weapon
+
+
+    (0): Difficulty: 12
+
+
+
+
+This spell dulls a weapons edge. When successfully cast,
+the weapon has a -2D damage modifier, with a minimum
+adjusted damage value for the weapon of +1D. Any blade that
+is blunted to +1D becomes something akin to a metal stick.
+Magic weapons are not affected by this spell.
+
+
+Construct Small Automaton
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 35 
+:Effect: 52 (Several Skills: device skill +8D; craft skill +6D; materials)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 yr \(37)
+:Casting Time: 1 wk \(29)
+
+:Other Aspects:
+
+    components (8): A variety of materials are needed, ranging from the mundane to a flawless gem or some other such rare item to energize the automaton (uncommon; rare)
+
+
+    incantations (1): '“Understand.” whispered' (phrase)
+
+
+    focused (18): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 36
+
+
+
+
+The game setting determines the components needed. The
+automaton is usually a mechanical contraption of limited
+capability. Typically such machines do not possess the faculty
+of cognitive thought. Instead, they are controlled by
+spells such as Activate Automaton, which allow for limited
+function. However, the first step is constructing the device.
+A successful casting of this spell allows for the construction
+of a human sized creation. The gamemaster should have the
+player’s characters follow the rules for the skill  device, and
+possibly make some of the require components very difficult
+to acquire — having a world populated by automatons can
+be interested and dangerous.
+
+The first step is developing the blue prints This is done
+by achieving using the table for Complexity of Device in
+“Example Skill Difficulties” chapter. The gamemaster must
+decide upon the technological level of the culture. In most
+cases, an automaton is as prototype (+10) and is from a much
+higher culture (+10), resulting in a minimum +20 modifier.
+With research, this modifier might be altered. Each roll takes
+one month. The base difficulty for drawing up the blueprints
+is Very Difficult. However, the gamemaster should count
+previous failures as bonus modifiers, as the hero learns from
+her mistakes.
+
+After the blueprints have been created, the construction
+commences. Now the crafting skill is used to construct the
+automaton. Again, the related table from the “Example Skill Difficulties” 
+chapter should be used. The number of
+components that have been gathered, their quality and the
+clarity of the blueprints determine the modifiers used for
+constructing an automaton. The base difficulty is Very Difficult. 
+Each attempt to construct the device takes 2 months.
+The gamemaster should consider previous failures as bonus
+modifiers for future attempts.
+
+At the end of the spell’s duration, the skills are lost, but the
+knowledge is not. If the attempt to build an automaton was
+not successful, then the gamemaster should apply bonuses
+for the next attempt for gained experience.
+
+
+
+Control Machine
+~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 17 
+:Effect: 18 (skill_bonus (R6) , +18 to devices/tech/robot (or computer) interface/repair  totals)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 4 round \(7)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate forces, metal
+
+
+    components (1): Wire or similar piece of metal (ordinary)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): The target must be able to touch the device or connect to it electronically
+
+
+    (0): Difficulty: 18
+
+
+
+
+If the caster uses this spell in a setting without the elec -
+tronic networks, then the machine must be within reach of
+the target. A successful casting provides the target with a +18
+to her devices/tech/robot (or computer) interface/repair totals.
+The setting and the devices that the caster intends the target
+to affect dictate the skill that gets the bonus.
+
+
+Corrosive Cloud
+~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 20 
+:Effect: 15 (physical damage to metal living creatures lose one action if fail resistance roll +5D)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    area_effect (5): 1m radius sphere
+
+
+    components (2): Small vile of acidic liquid, such as juice from a lemon or lime (very_common)
+
+
+    gestures (2): Point in direction of cloud location (simple)
+
+
+    incantations (2): 'Repeated phrase for duration of spell' (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 20
+
+
+
+
+Casting this spell creates as green haze. All metal within it
+suffers 5D of corrosive damage unless magically protected.
+The cloud is so dense as to require any living creatures inside
+to make a Moderate Physique/Strength o r  stamina roll. Failure
+results in choking (and the targets lose their next action).
+Each round the cloud remains over a metal target, it suffers
+an additional 5D of damage until it is destroyed
+For the duration of the spell, the caster must continue the
+litany that invokes the mystical cloud.
+
+
+Construct Tremendous Automaton
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 40 
+:Effect: 64 (Skills and Materials: device skill +8D; craft skill +6D; materials)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 2 yr \(39)
+:Casting Time: 1 wk \(29)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate Forces
+
+
+    components (8): A variety of materials are needed, ranging from the mundane to a flawless gem or some other such rare item to energize the automaton (uncommon; rare)
+
+
+    incantations (1): '“Understand.” whispered' (phrase)
+
+
+    focused (21): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-6): Large quantities and cumbersome materials, tools and devices are needed, as well as funding; additionally, a large location is needed to construct monstrous creation
+
+
+    (0): Difficulty: 40
+
+
+
+
+This spell work identically to Construct Small Automaton See
+that spell for specifics. Note the differences are in size, casting
+difficulty and duration. Blueprint design and construction
+times are doubled. Otherwise, all other aspects apply.
+
+
+Discern Alloy
+~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 11 
+:Effect: 24 (skill_bonus (R8) +24 to investigation totals for purposes of determining metal)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    gestures (2): Move hands across the object (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 12
+
+
+
+
+Even if the caster has no knowledge of various metals and
+alloys, this spell allows her to perceive what was used to make
+a given object. This is useful when encountering strange alien
+objects or when attempting to see how strong a weapon, door,
+or similar item is. Upon successfully casting discern alloy, the
+magic user gains a +24 bonus to her investigation totals in
+order to figure out the type of metal used. The difficulty is
+determined by the gamemaster.
+
+
+
+
+EMP
+~~~
+
+:Skill: Conjuration
+:Difficulty: 35 
+:Effect: 30 (+10D (physical damage))
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate Forces
+
+
+    area_effect (25): 5m radius sphere
+
+
+    components (1): Small magnet or lodestone (ordinary)
+
+
+    incantations (2): '“Pulse!”' (phrase; loud)
+
+
+
+
+
+:Other Conditions:
+    (-2): Only affects electrical devices
+
+
+    (0): Difficulty: 35
+
+
+
+
+Any electronic equipment in the area effect of this spell
+suffers 10D damage from an electro-magnetic pulse. As this
+effect is caused by altering the inanimate forces of nature,
+instead of exploding a bomb, there is no damage done to most
+living beings or to devices that do not have electronics.
+
+
+Forge Perfect Weapon
+~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 16 
+:Effect: 30 (skill_bonus (R10) +30 crafting/repair/personal equipment repair totals)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    components (7): Raw material for weapon (common); forging tools and forge (uncommon)
+
+
+    concentration (6): Concentration: 1 hr (willpower/mettle roll 12)
+
+
+    gestures (2): Touch raw material with small hammer (simple)
+
+
+    incantations (1): '“Flawless.”' (phrase)
+
+
+    focused (11): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Must possess some experience in the affected skill
+
+
+    (0): Difficulty: 16
+
+
+
+
+To gain the bonus from a successful casting of this spell,
+the target must have some training in crafting/repair/personal
+equipment repair; otherwise, the magical knowledge is lost.
+In order for a perfect weapon to be properly crafted, not
+only are the raw materials, forge, and ancillary equipment
+needed, but a crafting/repair/personal equipment repair  roll
+with a difficulty of Heroic is required to forge the item. The
+gamemaster may use the result points from the forging skill
+roll to give bonuses to the superior pieces of equipment.
+
+
+Hone Edge
+~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 15 
+:Effect: 12 (physical damage modifier +2D+2 (damage modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 hr \(18)
+:Casting Time: 3 round \(6)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    components (3): Whetstone (common)
+
+
+    countenance (1): Weapon gains faint blue shine (noticeable)
+
+
+    gestures (2): Move whetstone as though sharpening a weapon (simple)
+
+
+    incantations (3): '“I whet your blunt purpose!”' (sentence; loud)
+
+
+    focused (6): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Only works on a nonmagical, metal, edged weapon
+
+
+    (0): Difficulty: 15
+
+
+
+
+This spell places a magically keen edge upon a weapon,
+increasing its damage by +2D+2. Any weapon with this spell
+cast upon it gains a faint blue shine to its surface, as the
+magic reshapes the metal to the molecular level, honing the
+blade’s edge to that of a single atom. For the duration of this
+spell, there is no material that cannot be cut or damaged by
+the magical edge, even though normal or magical protection
+might hinder damage.
+
+
+Locate Metal
+~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 19 
+:Effect: 12 (search to detect a single type of metal +4D)
+:Range: 40 m \(8)
+:Speed:  \(8)
+:Duration: 1 min \(9)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    area_effect (9): 3.5m radius divination sphere
+
+
+    component (1): Forked stick (ordinary)
+
+
+    concentration (3): Concentration: 1 min (willpower/mettle roll 9)
+
+
+    incantations (1): 'Name of the metal' (phrase)
+
+
+    variable_movement (5): bend_around_smaller; target_invisible
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 18
+
+
+
+
+Once the metal is named, the spell is complete. Immediately,
+the mage can roll search at 4D to locate the prescribed metal
+inside an item, the earth, or a living being. Sometimes this
+spell is used to locate trace amounts of a particular metal,
+such as mercury or uranium. If there is anything of interest
+in the indicated area, a luminous yellow glow surrounds the
+location of the metal for up to one minute. The brilliance is
+determined by the quantity or density of the metal in searched
+for. The higher the search total is above the difficulty, the more
+information the caster gleans from her  attempt, including
+location, depth, quantity, etc. The gamemaster decides on the
+difficulty, which depends on how well hidden the material is
+and how much is there.
+
+
+Machine Terror
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 28 
+:Effect: 25 (intimidation +8D+1)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 10 min \(14)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Enchanted
+
+
+    components (1): Metal shards (ordinary)
+
+
+    gestures (2): Point at target (simple)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 28
+
+
+
+
+Regardless of the type of contraption, the spell make a
+machine capable of stimulating terror in anyone within sight
+of the device. Anyone who fails an opposed interaction roll
+against the machine’s intimdation loses her next action. The
+machine terrorizes once per round for the duration of the
+spell. This is a way of making a trap, automaton, robot, and
+so on appear far more frightening than it may actually be.
+
+
+
+
+Magic Platter
+~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 15 
+:Effect: 10 (moves up to 100 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 wk \(29)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate Forces
+
+
+    area_effect (2): 1m radius circle
+
+
+    components (1): Small piece of metal or coin (ordinary)
+
+
+    gestures (2): Point (simple)
+
+
+    incantations (1): '“Carry.”' (phrase)
+
+
+    focused (8): Focus based on effect, duration
+
+
+    variable_movement (3): 2.5 m
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 15
+
+
+
+
+The caster transforms a coin into a floating platter capable
+of carrying 100 kilograms of weight. To direct it, all that needs
+to be done is to point. If the magic user indicates herself, then
+the tray follows her. Otherwise, she must guide it. Providing
+a character is 100 kilograms or less, it is possible for her to
+ride or be carried by the platter.
+
+
+Magnetism
+~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 28 
+:Effect: 20 (difficulty to resist the pull)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate Forces
+
+
+    area_effect (25): 5m radius sphere
+
+
+    components (1): Small magnet or lodestone (ordinary)
+
+
+    gestures (3): Throw lodestone (complex (throwing roll with difficulty of 11))
+
+
+    incantations (2): '“Pull!.”' (phrase; loud)
+
+
+    focused (5): Focus based on effect, duration
+
+
+    other_alterants (8): Metal objects move toward magnet at rate of 1 meter per round; mechanical devices within spell’s influence stop working for duration of spell
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 28
+
+
+
+
+Once cast, this spell is not very discerning: All ferrous
+objects within its radius are pulled toward the lodestone. The
+magic user throws the stone in a direction that works best
+against any enemy, making sure to stay clear herself. Anyone
+wearing metal must make a Physique/Strength or lifting/lift
+against the effect’s difficulty. Failure means the affected object
+is yanked free and pulled toward the lodestone at a speed of
+one meter per round. If ferrous armor is being worn, then the
+character wearing the armor moves as well. (Non-character
+objects automatically move toward the stone.)
+Another effect this spell has is to cause all mechanical
+devices with metals influenced by magnetism to stop func-
+tioning, as well as being pulled toward the lodestone.
+
+
+
+
+Make Statue
+~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 27 
+:Effect: 54 (+12D (physical damage, physical damage, ignore non magical armor))
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 sec \(0)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    components (4): Iron statue (uncommon)
+
+
+    gestures (2): Point at target with statue (simple)
+
+
+    incantations (2): '“Statue!.”' (phrase; loud)
+
+
+    other_alterant (3): Target turns into a statue if she dies
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 27
+
+
+
+
+A mage who successfully casts this spell and makes the
+necessary targeting roll causes 12D damage that nonmagi -
+cal armor offers no protection against. The spell alters the
+composition of the target, attempting to refigure her into
+an iron statue. If the damage is sufficient to cause death,
+then she becomes a statue. This is permanent damage. The
+character cannot be resurrected, as there is no living material
+to bring back to life. Instead, she has become an ornament
+for someone’s garden or great hall.
+
+
+Malfunction
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 14 
+:Effect: 18 (damage against machines +6D)
+:Range: 60 m \(9)
+:Speed:  \(9)
+:Duration: 1 sec \(0)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate Forces
+
+
+    components (3): Small iron ball (common)
+
+
+    gestures (2): Throw component in direction of target (simple)
+
+
+    incantations (1): '“Stop!” loudly' (phrase)
+
+
+
+
+
+:Other Conditions:
+    (-1): Only harms mechanical devices
+
+
+    (0): Difficulty: 14
+
+
+
+
+Sometimes it is best to fight metal with metal. When cast,
+this spell sends a searing bolt of energy at the target, doing
+6D damage. This spell has only works against machines, as it
+uses the same forces of physics (and sometimes magic) that
+produced the construct to destroy it. No harm comes to a
+living, undead, or any other creature that is not mechanical
+in nature. Certainly robots are affected by this spell, as are
+cyborgs. However, only the mechanical parts of a cyborg are
+damaged; the living flesh is unharmed.
+
+
+Malleable
+~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 17 
+:Effect: 25 (Compare to item’s Toughness or damage resistance)
+:Range: 60 m \(9)
+:Speed:  \(9)
+:Duration: 1 round \(4)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    components (2): Malleable clay (very_common)
+
+
+    concentration (2): Concentration: 2 round (willpower/mettle roll 8)
+
+
+    gestures (2): Shape the clay (simple)
+
+
+    incantations (1): '“Alter.”' (phrase)
+
+
+
+
+
+:Other Conditions:
+    (-1): The target must be nonmagical, metal, and no more than 5 kilograms
+
+
+    (0): Difficulty: 17
+
+
+
+
+Any targeted metal object that has a mass of five kilograms
+or less can be permanently altered in shape. For instance, the
+caster could transform a shield into a ball, thereby negating
+its protection. Or, the length of a metal rod could be extended
+to twice its length, although doing this makes it very thin.
+Just as easily could the barrel of a gun be twisted closed.
+Basically, whatever shape the magic user makes with the clay
+component is paralleled with the target. (The player speci -
+fies the target and the shape, and the gamemaster compares
+the effect’s value plus the casting’s result point bonus to the
+object’s Toughness or damage resistance to determine whether
+the object takes the new shape.) Magically imbued metal or
+magically protected metal cannot be altered.
+
+
+Man of Bronze
+~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 19 
+:Effect: 27 (Skin of bronze: natural_armor: bronze skin (R2) +2D Armor Value; charm/persuasion +2D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Folk, metal
+
+
+    components (4): Powdered bronze (uncommon)
+
+
+    gestures (2): Sprinkle powdered bronze over target (simple)
+
+
+    focused (9): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-2): Deteriorates when exposed to moisture
+
+
+    (0): Difficulty: 19
+
+
+
+
+Though bronze can be a fairly precious commodity, the
+value of this spell is well worth the expense. After simply
+sprinkling a handful of powdered bronze over a sentient
+target, the mage coats that individual’s skin in a thin layer
+of bronze that doesn’t hamper movement. It’s a strong as
+the actual metal, offering an Armor Value of 2D against all
+types of physical (not mental) attacks. In addition, because
+of its rich, attractive coloration, the bronzed skin provides
+a charm/persuasion skill bonus of +2D. The spell lasts for one
+hour, expect in moist environments where a greenish patina
+quickly forms and causes the spell to deteriorate rapidly.
+In humid or damp environments (jungles or dungeons, for
+example), the spell deteriorates at a rate of five minutes for
+every one minute of exposure. In water, the rate is 10 minutes
+per minute of exposure.
+
+
+Metal Claws
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 14 
+:Effect: 12 (natural_hand_to_hand_weapon (R2) damage +2D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    components (2): Two of any type of coin-sized metal: bronze, iron, and so on (very_common)
+
+
+    incantations (2): '“Grow claws!.”' (phrase; loud)
+
+
+    focused (6): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Target must hold coins in each hand
+
+
+    (0): Difficulty: 12/18 (one claw/two claws)
+
+
+
+
+Once cast, three metal blades extend from each hand of the
+target. As these weapons are natural extensions of the char-
+acter, she uses brawling to fight with them. Each confers +2D
+damage to an attack. Normal armor protection applies.
+Although they are not cumbersome, the claws do tend to
+stand out in a crowd.
+
+
+Metal Flesh
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 17 
+:Effect: 24 (Armor Value of , physical only +8D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 25 min \(16)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    components (2): Iron slug (very_common)
+
+
+    countenance (1): Target appears metallic (noticeable)
+
+
+    incantations (2): '“I give you flesh of metal.”' (sentence)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Cannot be combined with any other armor
+
+
+    (0): Difficulty: 16
+
+
+
+
+This highly coveted spell transforms fleshy skin into a
+nearly impenetrable metal husk. It protects against normal
+and magical attacks. As the transmuted skin is as malleable
+as human flesh, at least to the target, there are no penalties
+from this spell. However, it is not easily disguised as any
+character who has had metal flesh cast upon her is shiny and
+rings if tapped with any solid object.
+It cannot be combined with any other armor, and the
+target cannot wear any form of metal armor when the spell
+is cast.
+
+
+Metal Storm
+~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 29 
+:Effect: 20 (+6D+2 (physical damage, physical damage))
+:Range: 60 m \(9)
+:Speed:  \(9)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate forces
+
+
+    area_effect (25): 5m radius sphere
+
+
+    components (3): A bag of tiny iron or lead pellets (common)
+
+
+    gestures (2): Pour pellets into hand and toss into the air (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 29
+
+
+
+
+A rain of metal pellets bombards everyone in the designated
+five-meter radius. The storm of metal is overwhelming, caus-
+ing 6D+2 damage to all within the downpour. Normal and
+magical armor offer protection, but the sheer volume of pro-
+jectiles, and their velocity, is likely to cause severe injury.
+
+
+
+
+Molten Metal
+~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 10 
+:Effect: 9 (achilles_heel (R3), takes   in damage each round in contact with metal, increasing by 1D each round)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 5 round \(7)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal, inanimate forces
+
+
+    components (3): Polished mirror (common)
+
+
+    gestures (2): Point mirror at target (simple)
+
+
+    focused (3): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 11
+
+
+
+
+This spell is slow to reach its full potential, but it is likely to
+cause a combatant to stop fighting long enough to remove her
+armor or drop a metal weapon. Each round the spell is active,
+the target receives 1D damage, which increases by 1D.
+
+
+Portcullis
+~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 27 
+:Effect: 45 (Portcullis Slides to the Ground: damage resistance total of portcullis +10D; +5D (physical damage, physical damage))
+:Range: 3.5 m \(3)
+:Speed: 1 m \(0)
+:Duration: 10 min \(14)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Enchanted
+
+
+    area_effect (2): 3m height 1m width wall
+
+
+    components (3): Metal rod (common)
+
+
+    gestures (2): Swing hand in a downward motion (simple)
+
+
+
+
+
+:Other Conditions:
+    (-1): Can only be cast in an open portal
+
+
+    (0): Difficulty: 28
+
+
+
+
+The mage stands within a meter of an opening and projects
+the spell upward. After the spell is cast, over the course of a
+round, an iron portcullis comes into existence. Its eventually
+spans up to three meters high and a meter wide.
+Because the magical barrier is slow moving, it is possible
+to be captured beneath it as it slides to the ground. Any
+unfortunate character in this situation suffers 5D damage
+from the portcullis each round that she is trapped beneath its
+unrelenting grip. Unless the character is killed, this prevents
+the portal from being completely blocked.
+Once closed, the gate has a damage resistance totoal of
+30.
+
+
+Radiation Shield
+~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 41 
+:Effect: 36 (attack_resistance: radiation (R6) +6D to damage resistance roll against related attacks)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate forces
+
+
+    area_effect (25): 5m radius sphere
+
+
+    components (2): Small fragment of lead (very_common)
+
+
+    gestures (2): Clasp component in a fist (simple)
+
+
+    focused (9): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 41
+
+
+
+
+This spell protects against the effects of radiation and
+electro-magnetic radiation, such as from an EMP spell or
+similar device. The protection is granted to all within the
+five-meter sphere of influence, with corresponding protec -
+tion reduced by 1D for each meter out from the cental target.
+Characters gain a up to +6D to their resistance rolls against
+related damage.
+
+
+Rain of Rust
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 29 
+:Effect: 15 (damage to ferrous metal +5D)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Metal
+
+
+    area_effect (25): 5m radius sphere
+
+
+    components (2): Small, rusting iron spike (very_common)
+
+
+    gestures (2): Point in direction of rain (simple)
+
+
+    incantations (3): 'Repeated phrase for duration of spell' (complex (willpower/mettle roll with difficulty of 11))
+
+
+
+
+
+:Other Conditions:
+    (-1): Affects ferrous metal only
+
+
+    (0): Difficulty: 29
+
+
+
+
+The mage produces a 25-meter radius downpour of red
+rain that rusts all ferrous metal. When cast, the mage simply
+indicates the location of the deluge by pointing, and the area
+is drenched with oxidizing water, causing 5Ddamage to all
+ferrous metal in the affected area. It is possible to protect
+items by wrapping them in cloth, skins, or plastic or locking
+them in waterproof cases. Likewise, vehicles within the area
+suffer immediate damage, starting from the outside and
+working to the interior.
+
+
+Repel Metal
+~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 16 
+:Effect: 10 (Armor physical only +3D+1)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate Forces
+
+
+    components (1): Small magnet or lodestone (ordinary)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+    countenance (1): Target surrounded by faint blue glow (noticeable)
+
+
+    gestures (2): Wave hand as though to push aside something (simple)
+
+
+    focused (6): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (-1): Only works against damage caused by metal
+
+
+    (0): Difficulty: 13
+
+
+
+
+All attacks made by weapons of metal are affected by this
+spell. The mage casts it upon a target, providing a 3D+1
+Armor Value against any attack that uses metal to damage.
+For example, this spell offers protection against the spell
+metal st orm, as the projectiles are metallic. For the dura -
+tion of the spell, the protected character is surrounded by
+a faint blue glow. The effects of this spell are not limited to
+ferrous metals.
+
+
+
+
+Understand Inner Workings
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 21 
+:Effect: 17 (Boost appropriate skill, such as tech, devices, etc. +5D+2)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate forces
+
+
+    gestures (2): Touch machine and target (simple)
+
+
+    incantations (2): '“Comprehend the secrets of this machine.”' (sentence)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 22
+
+
+
+
+Understanding of complex, alien, or arcane technologies
+can be gained by casting this spell. (The gamemaster detemines
+the difficulty of understanding the machine, with the result
+points from the skill conferred by the spell used to determine
+what information the character gains.) Unfortunately, this
+knowledge lasts only as long as the spell endures. Once the
+magic has elapsed, all comprehension of the technology
+vanishes as well.
+
+
+Understand Vehicle
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 18 
+:Effect: 12 (Gain appropriate skill for operating a specified vehicle +4D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    arcane_knowledge (0): Arcane Knowledge: Inanimate forces
+
+
+    gestures (2): Touch machine and target (simple)
+
+
+    incantations (2): '“Comprehend the secrets of this vehicle.”' (sentence)
+
+
+    focused (7): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Difficulty: 19
+
+
+
+
+A mage can grant the knowledge to pilot a vehicle at a 4D
+ability with this spell. No protections or great insights are
+provided, just the minimal knowledge necessary to operate
+the vehicle. Should it malfunction or fail, the target does not
+have the knowledge to repair the mechanical device, unless
+that knowledge existed otherwise. This spell does not enhance
+an existing skill; it confers a new skill.
+
+

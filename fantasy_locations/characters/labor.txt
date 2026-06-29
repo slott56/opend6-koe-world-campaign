@@ -1,0 +1,55 @@
+**Crafter**:
+Agility 2D, melee combat 3D, Coordination 2D, sleight of hand 2D+2, Physique 2D, lifting 3D+1, Intellect 2D, Acumen 2D, artist 3D, crafting 4D, Charisma 3D.
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 11, *Equipment*: Crafting tools; simple clothing; knife (damage +2).
+
+
+**Master Crafter**:
+Agility 2D, melee combat 3D+1, Coordination 2D, sleight of hand 3D+1, Physique 2D, lifting 3D+1, Intellect 2D, scholar specific craft 5D, trading 4D, Acumen 2D, artist 4D, crafting 5D+2, Charisma 3D, command 3D+2.
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 3, 
+*Body Points*: 11, *Equipment*: exceptional crafting tools (+1D to relevant crafting rolls); work-stained clothing; knife (damage +2).
+
+
+**Unskilled Laborer**:
+Agility 2D, fighting 3D, melee combat 3D, Coordination 2D, Physique 3D, Intellect 2D, Acumen 2D, crafting 2D+2, Charisma 2D.
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 0, 
+*Character Points*: 1, 
+*Body Points*: 14, *Equipment*: appropriate tools (such as shovel, pick, or rake); simple clothing; knife (damage +2).
+
+
+**Merchant**:
+Agility 2D+1, dodge 2D+2, fighting 2D+2, melee combat 2D+2, Coordination 2D, sleight of hand 2D+1, Physique 2D, Intellect 3D+1, cultures 4D, navigation 4D, reading/writing 4D, scholar 3D+2, speaking 4D, trading 5D+2, Acumen 3D, gambling 4D, search 3D, streetwise 4D, Charisma 3D+2, animal handling 4D, bluff 4D, charm 4D, mettle 4D.
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 0, 
+*Character Points*: 3, 
+*Body Points*: 11, *Equipment*: staff (damage +1D+2); fine garments with a heavy brocade vest (Armor Value +1); small bag of coins and jewels.
+
+
+**Guard**:
+Agility 2D+2, dodge 3D, fighting 3D, melee combat 3D+2, Coordination 2D, Physique 3D, running 3D+1, Intellect 2D, Acumen 2D, search 3D+2, Charisma 3D.
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 0, 
+*Character Points*: 2, 
+*Body Points*: 14, *Equipment*: short sword (damage +1D+2); knife (damage +1D); padded leather armor (Armor Value +1D), with helmet.
+
+
+**Cleric**:
+Agility 2D+1, dodge 2D+2, fighting 2D+2, riding 2D+2, Coordination 2D, Physique 2D, Intellect 3D+2, cultures 3D+2, healing 3D+2, reading/writing 3D+2, scholar 3D+2, speaking 5D, Acumen 3D, artist 3D+1, investigation 3D+1, search 3D+1, streetwise 3D+1, Charisma 3D, charm 3D+2, command 4D, mettle 3D, persuasion 4D, Extranormal 2D, divination 2D+2, favor 2D+1, strife 2D+2.
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 0, 
+*Character Points*: 3, 
+*Body Points*: 11, *Equipment*: staff (damage +1D+2); fine garments with a heavy brocade vest (Armor Value +1); leather bag filled with a handful of small gold and silver coins and small jewels.
+
+
+

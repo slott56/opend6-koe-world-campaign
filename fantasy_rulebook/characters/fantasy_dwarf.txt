@@ -1,0 +1,40 @@
+
+
+:Agility (3D):
+    fighting 3D+2, melee combat 4D
+
+:Coordination (2D):
+    
+
+:Physique (3D+2):
+    lifting 4D, running 4D, stamina 4D
+
+:Intellect (2D):
+    devices 3D, trading 2D+1, traps 2D+2
+
+:Acumen (3D):
+    artist 3D+2, crafting 4D, gambling 3D+1
+
+:Charisma (2D+1):
+    intimidation 2D+2
+
+:Extranormal ():
+    
+
+:Advantages:
+    Size (R1), Small -- scale value of 3
+
+:Disadvantages:
+    Hindrance (R2), Gruffness -- +2 to bluff, charm and persuasion difficulties; Hindrance (R1), Shorter Stride -- 2-meter reduction to running, swimming, and jumping Move
+
+:Special Abilities:
+    Hardiness (R2), +2 to damage resistance totals; Longevity (R1), ; Infravision/Ultravision (R1), Ultravision -- +2 to sight-based totals while in dim or dark conditions
+
+:Strength Damage: 2D
+:Move: 8
+:Fate Points: 0
+:Character Points: 2
+:Body Points: 27
+
+
+

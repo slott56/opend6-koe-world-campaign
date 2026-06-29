@@ -1,0 +1,114 @@
+[[characters]]
+name = "Phylo Duran"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D"
+skills = [
+    { label = "climbing", dice = "3D+2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "lifting", dice = "2D+2" },
+    { label = "stamina", dice = "3D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "4D"
+skills = [
+    { label = "cultures", dice = "5D" },
+    { label = "reading/writing", dice = "6D+2" },
+    { label = "scholar", dice = "6D" },
+    { label = "speaking", dice = "4D+ 1" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "4D"
+skills = [
+    { label = "investigation", dice = "5D" },
+    { label = "search", dice = "4D+2" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "bluff", dice = "3D+1" },
+    { label = "intimidation", dice = "3D+2" },
+    { label = "mettle", dice = "4D" },
+    { label = "persuasion", dice = "3D+ 1" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "6"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "21"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Employed"
+rank = "(R2)"
+details = ", dedication to the library and Inachon's Point prevents venturing from the town"
+
+[[characters.details.Disadvantages.details]]
+label = "Hindrance : Intellectual Snob"
+rank = "(R1)"
+details = ", + 1 to charm , persuasion , and speaking difficulties"
+
+[[characters.details.Disadvantages.details]]
+label = "Quirk"
+rank = "(R2)"
+details = ", loathes ignorance and anyone less knowledgeable than he ( which is most everyone )"
+
+[characters.details.Advantages]
+label = "Advantages"
+
+[[characters.details.Advantages.details]]
+label = "Patron"
+rank = "(R3)"
+details = ", the ruling council of Inachon's Point pays for the funds the library , its employees , and new acquisitions"
+
+[characters.details.Equipment]
+items = [
+    { description = "mismatched clothes", features = "" },
+    { description = "keys", features = "" },
+    { description = "cloth bookmarks", features = "" },
+]
+label = "Equipment"

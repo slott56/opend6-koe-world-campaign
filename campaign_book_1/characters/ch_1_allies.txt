@@ -1,0 +1,23 @@
+**Butcher: Bounty Hunter**:
+Agility 4D, fighting 1D, melee combat +2, Coordination 4D, marksmanship 1D, throwing 1D, Physique 4D+1, Intellect 3D+2, healing +2, trading +2, traps +2, Acumen 3D, disguise +2, gambling +1, hide +1, investigation +2, know-how +2, search +2, streetwise +2, survival +2, tracking +2, speaking +2, Charisma 3D+2, intimidation 6D.
+*Advantages*: Contacts (R2), Squire Angler,
+*Disadvantages*: Quirk (R2), Hates cult of the Jackal; Quirk (R2), Secretive to the point of being annoying; Quirk (R2), Tends to brag pointlessly; Enemy (R2), Cult of the Jackal is after him,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 22, *Equipment*: Padded leather armor +1D; Ugly daggers 1D+1; Mace 1D+1.
+
+
+**Stitcher, Anti-Jackal Priest**:
+Agility 4D, fighting 1D, Coordination 4D, sleight of hand +1, Physique 4D, Intellect 3D+2, healing 2D, reading/writing 1D, Acumen 3D+2, gambling 1D, Charisma 2D+2, Extranormal 3D.
+*Advantages*: Contacts (R1), Butcher,
+*Disadvantages*: Quirk (R2), Hates cult of the Jackal; Quirk (R2), Drunk; Quirk (R2), Gambler; Enemy (R2), Cult of the Jackal,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 22, *Equipment*: Small daggers 1D.
+
+
+

@@ -1,0 +1,12 @@
+**Æs**:
+Agility 4D, combat 2D, fighting 2D, melee combat 2D, Coordination 4D, throwing 2D, Physique 4D, lifting 2D, running 2D, Intellect 4D, speaking 2D, Acumen 4D, Charisma 4D, charm 2D, intimidation 3D, mettle 3D, Extranormal 4D.
+*Advantages*: Fame (R3), widely-known and recognized,
+*Special Abilities*: Longevity (R3), Lives thousands of years; Natural Armor (R2), Very tough; Natural Hand-to-Hand Weapon (R2), Throws a powerful punch,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 39.
+
+
+

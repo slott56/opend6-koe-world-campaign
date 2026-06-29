@@ -1,0 +1,73 @@
+
+Enchant Weapon
+~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 15 
+:Effect: 3 (damage 1*D)
+:Range: 1 m \(0)
+:Speed: instantaneous \(0)
+:Duration: 60 yr \(46)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    concentration (6): Concentration: 1 hr (willpower/mettle roll 12)
+
+
+    feedback (-2): lowered resistance
+
+
+    focused (10): on weapon
+
+
+    incantations (4): repeat phrase for duration of casting (litany)
+
+
+    arcane_knowledge (0): Arcane Knowledge: metal, magic
+
+
+
+
+
+
+The enchanting of even the weakest of magical weapons can be a daunting task for a mage. Draining mentally, emotionally, physically, and magically, it’s no wonder that there’s always a hesitancy to create such weapons. Nonetheless, such things are produced, and there are mages willing to sacrifice their lives for the creation of the prefect weapon, particularly when it is designed with a specific goal in mind.
+    
+
+
+Magic Weapon
+~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 26 
+:Effect: 14 (damage bonus 3*D (ignore non magical armor))
+:Range: 25 m \(7)
+:Speed: instantaneous \(7)
+:Duration: 1 day \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (4): precious gem (uncommon)
+
+
+    countenance (1): target has a faint glow (noticeable)
+
+
+    focused (10): on weapon
+
+
+    gestures (2): swinging motion (simple)
+
+
+    arcane_knowledge (0): Arcane Knowledge: metal, magic
+
+
+
+
+
+
+A faint blue glow embodies the weapon being enchanted when this spell is cast. This transforms the normal into the enchanted, making it possible to do damage to those creatures that are invulnerable to normal weapons. Furthermore, the spell ignores nonmagical armor. When successfully cast, the target weapon gains a +3D damage bonus.
+    
+
+

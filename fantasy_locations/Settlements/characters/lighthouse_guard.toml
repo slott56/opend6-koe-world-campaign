@@ -1,0 +1,83 @@
+[[characters]]
+name = "Typical Lighthouse Guard"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D+2"
+skills = [
+    { label = "fighting", dice = "4D+2" },
+    { label = "melee combat", dice = "4D+2" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = []
+
+[characters.details.Physique]
+label = "Physique"
+dice = "3D+1"
+skills = [
+    { label = "running", dice = "3D+2" },
+    { label = "stamina", dice = "4D+2" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "intimidation", dice = "3D+1" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D+1"
+skills = []
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D+2"
+skills = [
+    { label = "investigation", dice = "4D" },
+    { label = "streetwise", dice = "4D" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "0"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "15"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "2"
+suffix = ": ."
+
+[characters.details.Equipment]
+items = [
+    { description = "chain mail armor", features = "( Armor Value +2 D )" },
+    { description = "", features = "" },
+    { description = "halberd", features = "( damage +3 D )" },
+    { description = "", features = "" },
+    { description = "pouch of food and water .", features = "" },
+]
+label = "Equipment"

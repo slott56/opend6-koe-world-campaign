@@ -1,0 +1,122 @@
+
+Invocation of the Jackal
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Combat
+:Difficulty: 18 
+:Effect: 2 (Combat 0*D+2)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 hr \(18)
+:Casting Time: 10 min \(14)
+
+:Other Aspects:
+
+    area_effect (40): 20m radius circle
+
+
+    incantation (4): Be the Jackal (litany)
+
+
+    gestures (3): Jackal Dance (complex)
+
+
+    concentration (5): Concentration: 10 min (willpower/mettle roll 11)
+
+
+    components (4): Holy Symbols: ritual beads (rare)
+
+
+    community (4): 2 helpers; difficulty_13_action (difficulty roll 4)
+
+
+
+
+
+
+
+
+Praise the Jackal
+~~~~~~~~~~~~~~~~~
+
+:Skill: Physique
+:Difficulty: 7 
+:Effect: 6 (Physique 2*D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 10 min \(14)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    multiple_targets (6): 2 targets
+
+
+    incantation (4): Fight like the Jackal (litany)
+
+
+    components (4): Holy Symbols: ritual beads (rare)
+
+
+
+
+
+
+
+
+One with the Jackal
+~~~~~~~~~~~~~~~~~~~
+
+:Skill: Charisma
+:Difficulty: 6 
+:Effect: 3 (Charisma 1*D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 20 min \(15)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    multiple_targets (6): 2 targets
+
+
+    incantation (4): Bark like the Jackal (litany)
+
+
+    components (4): Holy Symbols: ritual beads (rare)
+
+
+
+
+
+
+
+
+Intercession of the Jackal
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: 
+:Difficulty: 14 
+:Effect: 18 (luck_good (R3))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 20 min \(15)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (6): 3m radius circle
+
+
+    incantation (4): Live like the Jackal (litany)
+
+
+    components (4): Holy Symbols: ritual beads (rare)
+
+
+
+
+
+
+
+

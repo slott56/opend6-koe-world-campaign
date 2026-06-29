@@ -1,0 +1,11 @@
+**Typical Priest**:
+Agility 3D, dodge 3D+2, fighting 3D+1, melee combat 3D+2, Coordination 2D, Physique 3D, running 3D+1, stamina 3D+1, Intellect 2D, navigation 3D, scholar 4D, search 2D+1, Acumen 4D, Charisma 3D, intimidation 3D+2, mettle 4D, Miracle 1D, divination 2D, strife 1D+1.
+*Advantages*: Authority (R2), priest,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 4, 
+*Body Points*: 16, *Equipment*: fine clothes; feather, jade, and cloth headdress.
+
+
+

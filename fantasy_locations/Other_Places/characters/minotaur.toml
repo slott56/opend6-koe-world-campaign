@@ -1,0 +1,115 @@
+[[characters]]
+name = "Aischros, the Minotaur"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D+2"
+skills = [
+    { label = "fighting", dice = "4D+2" },
+    { label = "dodge", dice = "4D" },
+    { label = "melee combat", dice = "4D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = [
+    { label = "throwing", dice = "2D+ 2" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "5D"
+skills = [
+    { label = "lifting", dice = "7D" },
+    { label = "running", dice = "5D+2" },
+    { label = "stamina", dice = "6D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "3D"
+skills = [
+    { label = "navigation", dice = "5D+1" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "2D"
+skills = [
+    { label = "survival", dice = "3D" },
+    { label = "tracking", dice = "4D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D+ 1"
+skills = [
+    { label = "intimidation", dice = "4D" },
+    { label = "persuasion", dice = "2D + 2" },
+    { label = "mettle", dice = "4D" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "4D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "4"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "25"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "3"
+suffix = ":"
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Size : Large", rank = "(R1)", details = ", scale value 3" },
+]
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Quirk : Bull-Headed"
+rank = "(R2)"
+details = ", +6 bonus to those trying to trick or anger into blind rage"
+
+[[characters.details.Disadvantages.details]]
+label = "Quirk : - are often built much more sturdily , and could even serve as a short -term fort or city if the need arose . Split Personality"
+rank = "(R3)"
+details = ", part of him wants to escape , while part wants to stay forever"
+
+[characters.details.Special]
+label = "Special"
+details = [
+    { label = "Longevity", rank = "(R1)", details = "with Burn-out (R2) if Aischros ever leaves his labyrinth" },
+    { label = "Natural Hand-to-Hand Weapon : Horns", rank = "(R1)", details = ", + 1 D damage" },
+    { label = "Omnivorous", rank = "(R1)", details = "with Additional Effect (R3) doesn't need to eat or drink" },
+    { label = "Sense of Direction", rank = "(R4)", details = ", +4 D to navigation and tracking" },
+]
+
+[characters.details.Equipment]
+items = [
+    { description = "Large axe", features = "( damage +3 D )" },
+]
+label = "Equipment"

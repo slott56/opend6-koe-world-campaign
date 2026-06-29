@@ -1,0 +1,1836 @@
+
+Animate Dead
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 15 
+:Effect: 6 (Resulting Reanimation: Mindless (+3 to willpower/mettle) +1D; Painless Wounds (+3 to stamina total) +1D)
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (4): Complete skeleton or body (uncommon)
+
+
+    focused (5): Focus based on effect, duration
+
+
+    incantations (1): Animate! (word)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Enchanted
+
+
+    (0): Difficulty: 14
+
+
+
+
+Any type of corporeal dead creature can be used for this
+ritual. Whether it has been recently killed or dead for years
+makes no difference, so long as it is physically intact. Upon
+completing the spell, the dead creature is animated but not
+living.
+The result points of the spell determine the attributes,
+Body Points, and Wound levels of the animated dead. The
+attributes equal in dice the points above the difficulty. Body
+Points equal the result points plus 10. Wound levels equal
+the half of the result points (round up). Movement equals
+the result points in meters.
+Generally rather stupid, the caster can attempt to control
+them through simple commands. Left to their own devices,
+they attack anything near them.
+
+
+Animate Superior Undead
+~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 23 
+:Effect: 29 (Resulting Reanimation: Physique +2D (attribute); Acumen +1D (attribute); brawling/fighting and melee combat +1D (attribute); Mindless (+3 to willpower/mettle) +1D (skill modifier); Painless Wounds (+3 to stamina total) +1D (skill modifier))
+:Range: 25 m \(7)
+:Speed:  \(7)
+:Duration: 1 day \(25)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    components (5): Recently dead, complete corpse (very_rare)
+
+
+    concentration (5): Concentration: 15 min (willpower/mettle roll 11)
+
+
+    focused (11): Focus based on effect, duration
+
+
+    gestures (2): Repeatedly raise hands above target, as if encouraging it to get up (simple)
+
+
+    incantations (3): “Come to life and fight for me, my undead minion!” (sentence; loud)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Enchanted
+
+
+    (0): Difficulty: 25
+
+
+
+
+The body needed for the ritual must be completely intact,
+and dead no longer than 24 hours. After an hour of prepara-
+tion, the corpse takes on a pseudo-life. The result points of
+the spell determine the attributes, Body Points, and Wound
+levels of the skeletons. The attributes equal in dice the points
+above the difficulty. Body Points equal the result points plus
+10. Wound levels equal the half of the result points (round up).
+Movement equals the result points in meters. The Physique/
+Strength attribute also gets +2D to it, the Acumen/Perception
+score goes up by 1D, and  brawling/fighting and melee combat
+each equal +1D above the related attribute score.
+Superior undead have minds of their own. Though they
+can understand more than rudimentary commands, this also
+means that they are as likely to turn on their creator should
+she fail command them properly as they are to continue on
+their designated course of action.
+
+
+Call Tomb Fiend
+~~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 26 
+:Effect: 39 (compare to planar distance)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (3): Dried flesh  (common)
+
+
+    incantations (3): “Awaken from the immortal shadow!” (sentence; loud)
+
+
+
+
+
+:Other Conditions:
+    (-3): In a tomb or near a burial ground
+
+
+    (0): Arcane Knowledge: Entity
+
+
+    (0): Difficulty: 20
+
+
+
+
+When summoned, the tomb fiend comes to the aid of the
+mage. The creature is not very sizable, and it does not make
+an ideal combatant. But, for the purpose of being a servant,
+it works wonderfully. Although this stubby and stooped
+creature has talons, they are for climbing, not fighting. Fur-
+thermore, comprehending the caster’s universe is a difficult
+task, making commanding the fiend a challenge.
+Commands must be given in simple noun-verb sentences.
+The tomb fiend can’t understand anything more complex.
+
+
+
+
+
+
+Capture Life force
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 15 
+:Effect: 10 (being held in stasis 100 kg)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 mon \(32)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    components (4): Box mad of bone  (rare)
+
+
+    concentration (6): Concentration: 30 min (willpower/mettle roll 12)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 17
+
+
+
+
+This spell allows a magic user to capture the soul of a living
+creature, and lock it away for the spell’s duration. During this
+period, the target’s body is not dead; it is in stasis. When cast,
+the only visible effect is that the target’s body becomes relaxed
+if the spell is successful. At this point, bone box contains the
+soul of the person. Time does not pass for those affected by
+this spell. Dreams and thought are not possible, life simple
+stops and only starts when the spell is ended. The caster can
+choose to end the spell early if she chooses.
+If the target’s body is destroyed during the spell’s period,
+the soul cannot be returned to the living world. Instead,
+at the end of the spell, the soul is lost to the neither world.
+This spell is not only used to make prisoners of enemies, but
+often used to prolong the life of a dying friend. If it is cast
+before death, the body can be carried to someone capable
+of healing the character. However, the lifeforce must be
+returned to the body before it can be healed. Other uses for
+this spell are to prevent aging during travel, or the exhaus -
+tion of traveling — allowing someone else to carry the bone
+box and transporting the body in a casket.
+
+
+Cold Flesh
+~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 14 
+:Effect: 18 (disguise against undead or machines +4D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (4): iron filings  (uncommon)
+
+
+    focused (7): Focus based on effect, duration
+
+
+    gestures (2): Sprinkle filings on target (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 16
+
+
+
+
+This spell disguises a living being from detection by the non-
+living by masking the target’s body ambient temperature.
+Undead creatures or heat sensing device cannot sense the
+target. The effects of this spell last until either the duration
+expires or the target attacks or threatens any non-living
+entity or machine that is being deceived. If the player char-
+acter is trained in disguise, then the modifier from the spell
+is added to the skill.
+
+
+Consuming Sphere
+~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 31 
+:Effect: 30 (Dark energy damage +6D+2 (ignore non magical armor))
+:Range: 15 m \(6)
+:Speed:  \(6)
+:Duration: 3 round \(6)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    area_effect (15): 3m radius sphere
+
+
+    feedback (2): lowered resistance
+
+
+    gestures (2): Rolling motion with hands (simple)
+
+
+    incantations (2): “Consume them!” (sentence)
+
+
+    variable_movement (6): 12.5 m
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 30
+
+
+
+
+This spell produces a 3-meter sphere of pulsating dark energy
+that rolls across the ground, doing damage to all living matter
+it encounters. The trajectory of the sphere cannot be changed
+once the spell is cast. However, as it is not instantaneous,
+there is a possibility potential targets can avoid encountering
+this deadly conjuration, providing it is seen. During daylight
+hours, a search of Easy is required; during night, or in dark-
+ness, a search of Very Difficult is required. Also, avoidance
+requires that the character has time to dive clear.
+The sphere consumes life energy. This means that nonmagi-
+cal armor offers no protection against it. None of this energy
+increases the damage of the sphere, nor is it conveyed to the
+magic user. Victims who die as a result, quickly whither, leav-
+ing only bones and dust behind. Non-living material such as
+armor weapons and so on are not affected.
+
+
+Conqueror Worm
+~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 20 
+:Effect: 30 (Poisoning +10D (physical damage))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 3 wk \(31)
+:Casting Time: 2 day \(26)
+
+:Other Aspects:
+
+    components (3): Earthworm  (common)
+
+
+    focused (12): Focus based on effect, duration
+
+
+    incantations (3): Repeated incantations of un-life; an willpower/mettle roll with a difficulty 11 must be made during each day of casting (complex)
+
+
+
+
+
+:Other Conditions:
+    (-2): After the spell is cast, the magic user must find a way to get a victim to swallow the foul creation.
+
+
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 19
+
+
+
+
+Often the worm can be hidden in food or drink — alcohol
+cannot kill it. If it is not consumed within 24 hours after the
+spell’s casting, the worm dies and is useless. An Acumen or
+Perception roll with a 10 difficulty must be performed by the
+intended victim to detect the presence of the worm.
+This spell prepares the component for the spell Monstrous
+Creation By transforming the positive living energy of a
+simple earthworm, the magic user creates an evil seed that is
+usually unwittingly consumed by an intended victim. Often,
+the victim is one of the caster’s own henchmen, as once the
+worm is ingested, it becomes a parasite, waiting for the proper
+magic to transform it a fell creature that devours its host. By
+using a henchman, the spell is ready to be activated at will.
+Certainly there is a cost in acolytes and followers, but those
+can easily be replaced.
+
+
+Corpse Fog *
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 33 
+:Effect: 27 (hiding +6D (skill modifier))
+:Range: 60 m \(9)
+:Speed:  \(9)
+:Duration: 2 min \(10)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    area_effect (20): 10m radius circle
+
+
+    components (4): Earth from a graveyard  (rare)
+
+
+    gestures (2): Fanning of hands (simple)
+
+
+    variable_movement (5): 5 m
+
+
+
+
+
+:Other Conditions:
+    (-4): While this spell does not require the caster to be standing in a graveyard, it must be a location where the living have fallen and are now beneath the surface. Such areas can be ancient cities, battlefields, potters fields, disaster sites, etc.
+
+
+    (0): Arcane Knowledge: Air
+
+
+    (0): Difficulty: 32
+
+
+
+
+When commencing this spell, the caster must toss the earth
+from a graveyard into the air, followed by the prescribed
+hand motions. For this spell to work properly, the caster
+must be on ground where dead are buried. It is the decaying
+foulness of the dead that the caster pulls from the earth
+to obscure the surrounding area, creating a dense fog that
+hangs in the air.
+Dead Man’s Gaze
+
+
+Dead Man's Gaze
+~~~~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 3 
+:Effect: 4 (Divination 5 sec)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 round \(4)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    components (2): 2 copper coins (very_common)
+
+
+    gestures (2): Place coins on eyes of the deceased (simple)
+
+
+    incantations (2): “What do I see with your eyes?” (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 3
+
+
+
+
+(Cantrip) If the last moments of a dead man’s life are frozen on his
+retinas, then this spell can reveal them. Once the coins are in
+place and the spell successfully completed,the caster can try
+to gain information. First the coins are removed, and then
+the deceased’s eyes gazed upon. The gamemaster determines
+the result points needed from casting the spell, basing it
+upon how traumatic the final moments were. For example,
+if a character was brutally murdered, then it could require
+up to four points to see the killer’s face, but probably nine
+to 12to discern background details. The reason for this is
+due to the fact that the victim likely spent his last moments
+of existence fixed upon the murder’s countenance. The spell
+reveals nothing other than the last few seconds of life.
+
+
+Dead Sight *
+~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 14 
+:Effect: 6 (search +2D)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 5 min \(12)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    components (5): 2 eyes of a recently killed creature — of the type the spells is targeted on (very_rare)
+
+
+    concentration (2): Concentration: 2 round (willpower/mettle roll 8)
+
+
+    focused (4): Focus based on effect, duration
+
+
+    incantations (2): “And the dead shall see.” (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Magic
+
+
+    (0): Difficulty: 14
+
+
+
+
+The caster gains the sight of the undead target. While the
+target’s movement cannot be controlled without another
+magic, the eyes of the target become the eyes of the caster,
+replacing the all-normal vision until the spell is ended or
+disrupted. During the spells operation, the caster relies upon
+the 2D search of the undead target, and dark and alien world.
+Untested casters must take a mettle test the first few times
+this spell is used. Once practiced enough, the morbid nature
+of the “dead vision” no longer disturbs the viewer. How many
+times this takes is dependent upon the nature of what is
+being seen, and left to the gamemaster’s discretion. Until the
+caster has become accustomed to this level of morbidity, a
+willpower/mettle roll should be made after a successful casting
+of the spell. Failure results in the immediately halting the
+magic, and a visibly shaken mage for several minutes. The
+spell can be ended at any time.
+
+
+Deadspeak
+~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 28 
+:Effect: 36 (New Language: languages/speaking +4D; intimidation +4D; investigation +4D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 24 hr \(25)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (4): Dried flesh, writing device, human blood  (uncommon)
+
+
+    focused (12): Focus based on effect, duration
+
+
+    gestures (2): Write incantation upon the dried flesh (simple)
+
+
+    incantations (1): Arcane phrase (phrase)
+
+
+
+
+
+:Other Conditions:
+    (-2): Requires a dead body that at least has the skull intact — flesh is not required.
+
+
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 28
+
+
+
+
+Once the components of this spell have been used, they are
+useless for future casting of the spell. New materials must
+be acquired. But casting this spell grants many benefits. The
+dead have much to say, particularly those who have been
+recently murdered. As in life, there is an art to interrogat -
+ing the unliving; sometimes guile must be used, other times
+force is required. The approach needed is determined by the
+gamemaster and the situation. The target of the spell gains
+4D in the language of the dead, as well as the skill necessary
+to investigate and intimidate an pulse-less subject. All difficulty
+levels, whether they are opposed rolls or predetermined are
+set by the gamemaster.
+
+
+Dead Things
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 21 
+:Effect: 23 (5D attribute modifier)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (5): various body parts and extremities (very_rare)
+
+
+    feedback (2): lowered resistance
+
+
+    focused (6): Focus based on effect, duration
+
+
+    incantations (2): “Live! I give you life!” (sentence)
+
+
+    multi_target (9): 3 targets
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 25
+
+
+
+
+The mage can give life to various severed extremities in a
+10 meter radius by sacrificing a part of her life energy. Once
+cast, any once living extremity in the area of effect comes
+to life, crawling, wiggling, scampering or rolling toward any
+living enemy the caster indicates. Typically this spell is used
+upon hands, legs, fingers, heads, anything that can cause
+damage. The amount of damage from a claw, bite or scratch
+is determined by the number of points assigned to it.
+To determine how man dead things come to life, the caster
+assigns up to a total of 5D points to each by rolling. 1 point
+is required for an extremity to move and attack. Likewise, it
+can suffer only 1 point of damage before being destroyed. This
+means if the caster rolls 12, then 2 points can be assigned
+to all potential targets within the spell’s area of effect. In
+this case, 6 various body parts begin to move and engage in
+combat. The points can be divided unequally. Regardless of
+how high the dice rolls, an entire body cannot be animated
+— only extremities. The dead things can be merely bone or
+have flesh and muscle, it makes no difference. It is the life
+energy of the caster that gives them life.
+
+
+
+
+Death’s Hand
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 19 
+:Effect: 30 (Damage +10D)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1 round \(4)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (4): skeletal hand  (rare)
+
+
+    focused (7): Focus based on effect, duration
+
+
+    gestures (2): point skeletal hand at target (simple)
+
+
+    incantations (2): “Grasp the heart of my enemy.” (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 17
+
+
+
+
+This spell is of the darkest arts, calling upon the evil powers
+to consume the vital energy of a target’s heart, halting its
+beating, bringing death. The proper component is needed for
+the type of a target. To use this spell on a human requires a
+skeletal human hand; to target a specific monster requires
+the hand (or claw) of the type of targeted monster.
+
+
+Drain Essence
+~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 11 
+:Effect: 9 (hindrance: -2d physique attribute (R3))
+:Range: 3 m \(3)
+:Speed:  \(3)
+:Duration: 5 round \(7)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    focused (3): Focus based on effect, duration
+
+
+    gestures (2): Point (simple)
+
+
+    incantations (1): “Wither.” (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Enchanted
+
+
+    (0): Difficulty: 12
+
+
+
+
+When the caster utters the incantation, dark arcs of energy
+flash around the target, reducing Physique by -2D. Normal
+armor doesn’t protect against this spell, as the target’s essence
+is pulled from the body through the material. Magical protec-
+tion does hinder the spell, reducing damage as normal. The
+victim remains in this state for the duration of this spell,
+and the caster does not gain the extracted energy. After the
+spell is disrupted or ends, the target’s Physique returns to
+normal.
+
+
+Duncan’s Malicious Contagion
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 31 
+:Effect: 45 (Disease +10D (damage modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 yr \(37)
+:Casting Time: 1 mon \(32)
+
+:Other Aspects:
+
+    components (3): rotting rodent or other vermin  (common)
+
+
+    focused (16): Focus based on effect, duration
+
+
+    gestures (2): Prick thumb with despoiled vermin blood (simple)
+
+
+    incantations (2): “By the pricking of my thumb, a malicious contagion this way comes.” (sentence)
+
+
+    other_alterant (3): While the caster is immune to the contagion she has created, she is a vector. All who come in contact must roll Physique at Easy, otherwise they become infected with the illness.
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 32
+
+
+
+
+Few know this diabolical spell, as those who have learned of
+its existence either promptly destroyed, or used it and were
+discovered and in turn were killed by a rampaging populous
+sick with a magical plague. The gamemaster should make
+learning or finding this spell very difficult and the ramifica-
+tions well known to the caster. It is reasoned that the spell
+was developed in time of war, a weapon of siege. Others
+ventured that the spell served the revenge of its namesake.
+The truth may never be known. Nonetheless, its effects can
+be devastating.
+Once successfully cast, the mage is immune to the conta-
+gion. Still, she is free to roam around a populated area, and
+all who come into physical contact must make a Physique roll
+of Easy. Failure means the person suffers 1D bleeding sores
+within 24 hours. Each day these sores spread, increasing by
+another +1D, eventually covering the entire body in suppu-
+rating wounds to a maximum of 10D wounds; if a character
+survives this, then she has survived the sickness. Likewise,
+any person who comes into contact with this infected person
+must make a Physique/Strength roll at Easy, otherwise suf -
+fer the same fate. Attempts to use medicine/healing produce
+contact. If the infected are not promptly segregated, then all
+who around them run the risk of contracting the contagion.
+This magical malady can only be conveyed by living beings,
+human or animal. After 1 year from the day of the casting,
+the spell halts, regardless of the number of ill. The disease
+stops spreading and promptly heats at a normal rate, vanish-
+ing almost as quickly as it appeared.
+
+
+Enthrall Undead
+~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 19 
+:Effect: 26 (charm undead +5D+2 (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (4): Raw flesh  (rare)
+
+
+    focused (9): Focus based on effect, duration
+
+
+    gestures (2): Snap fingers while tossing the component on the ground before the target (simple)
+
+
+    unreal_effect (6): Unreal Effect: difficulty_13
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Enchanted
+
+
+    (0): Difficulty: 18
+
+
+
+
+Often it is simpler for a magic user practiced in Necromancy
+to befriend undead, rather than destroy them. This spell
+permits one or more undead to be enthralled, falling under
+the control of the caster. During this period, the targets
+follow all instructions given — they naturally understand
+the character who cast the spell. Mindless creatures such as
+skeletons and zombies can be ordered to destroy themselves
+or each other. But undead with limited cognitive capabilities
+such as mummies and vampires are allowed a Very Difficult
+willpower/mettle roll. A failure results in unquestioning obedi-
+ence. A success causes them to ignore the command.
+
+
+Fleshy Armor
+~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 14 
+:Effect: 14 (armor +4D+2)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 day \(25)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    components (5): The flesh of a dead creature (very_rare)
+
+
+    concentration (3): Concentration: 1 min (willpower/mettle roll 9)
+
+
+    incantations (2): A phrase that animates dead flesh, known only to those who study Death (sentence)
+
+
+    focused (8): Focus based on effect, duration
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 15
+
+
+
+
+No armor can be worn for this spell to function properly.
+As the casting commences, the dead flesh appears to meld
+together, and crawl across the caster’s body, becoming a sec-
+ond layer of skin. As this flesh is dead, it provides protection
+from physical attacks. When the spell reaches the end of its
+duration, the dead flesh becomes rank. By the last 30 minutes
+of the spell, the dead flesh is putrid, suppurating nauseating
+fluid. This atrocious odor acts as a warning for the wearer,
+allowing her to know the spell is about to end. It also hinders
+the protected person’s sense of smell (-1D Perception).
+
+
+
+
+Ghoulish Paralysis
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 12 
+:Effect: 12 (paralyzing_touch (R1))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (6): Claws of a ghoul (extremely_rare)
+
+
+    focused (6): Focus based on effect, duration
+
+
+    incantations (2): “Ghoul’s touch” (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 12
+
+
+
+
+A successful casting of this spell imbues the mage with the
+Advantage Paralyzing Touch (4) as described in the “Character
+Options” chapter. Before the victim of an attack can become
+paralyzed, the mage must make find an unprotected location
+that reveals flesh. The gamemaster might require a Perception
+or a search roll at an appropriate difficulty to find such a spot
+if one is readily evident.
+
+
+
+
+Ghost Passage
+~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 13 
+:Effect: 10 (Ethereal, human size 100 kg)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    focused (6): Focus based on effect, duration
+
+
+    gestures (2): Touch target upon forehead (simple)
+
+
+    unreal_effect (2): Unreal Effect: difficulty_13
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Dimension
+
+
+    (0): Difficulty: 13
+
+
+
+
+After this spell is invoked, the target becomes ethereal, as does
+her belongings. This allows her to move without a sound, at
+normal movement. However, the movement is otherworldly
+in that she appears to glide. Those who do not know she is
+under the effect of a spell are likely to mistake her for a ghost
+or spirit. Such characters need to make a Charisma/Presence
+roll, or a willpower/mettle roll with a Difficulty of 13. The
+unfortunates who mistake the target as an unearthly entity
+flee until they no longer see the apparent apparition.
+Additionally, this spell allows a hero to pass through physical
+barriers up to 0.5 meters thick. For the duration of the spell,
+the target is unable to talk or physically interact with the
+environment, as she no longer possesses a corporeal from.
+This limitation extends to hearing, as well. Unless the recipi-
+ent of the spell is contacted through magical, telepathic or
+supernatural means, the only form of communication allows
+is through gestures.
+
+
+Hallowed Ground
+~~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 14 
+:Effect: 10 (Protect from undead +3D+1)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (10): 5m radius circle
+
+
+    components (5): Tooth of an undead being (very_rare)
+
+
+    gestures (2): Turn a complete circle with tooth extended in hand (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Entity
+
+
+    (0): Difficulty: 14
+
+
+
+
+This ritual prohibits entry of undead within the Area Effect
+prescribed. They may amble about, circling the protected
+ground, but they are unable to pass across the faint white
+barrier the magic user erects. While all those within the spell’s
+zone of safety can cast spells and fire missiles at any nearby
+undead without voiding the spells, non-living creatures
+outside the area are unable to do the same.
+
+
+
+
+Monstrous Creation
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 27 
+:Effect: 36 (12D creation)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 3 round \(6)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (4): Victim who has consumed a Conqueror Worm (rare)
+
+
+    focused (8): Focus based on effect, duration
+
+
+    gestures (2): Point at target (simple)
+
+
+    incantations (2): “There is something dangerous in you, that wisdom should fear!” (sentence)
+
+
+
+
+
+:Other Conditions:
+    (-5): This spell requires that the target consume a worm transformed by the spell Conqueror Worm.
+
+
+    (0): Arcane Knowledge: Entity
+
+
+    (0): Difficulty: 33
+
+
+
+
+Only if this preparation has been performed, then is it pos-
+sible for the spell to function properly. (elaborate)
+With the gesture and the utterance of the commanding phrase,
+the Conqueror Worm begins to consume its host at an alarm-
+ing rate. In 3 rounds, a human size body can be consumed
+and transformed into a wretched creature that resembles
+the host only in gross form. As this process kills the host,
+it is a painful process, usually resulting in the writhing and
+screaming of the victim. If the character is killed before the
+transformation is complete, the spell is halted.
+If the process is completed, then the abomination that
+exists is a fleshless, clawed creature (+2D+1 damage) that
+follows the magic user’s every command. Its basic attributes
+are identical to those of its host, but it can only use its claws to
+attack — it is mindless. However, its Body Points are replaced
+with a roll of 6D (or it starts with no wounds). Once the foul
+monstrosity dies, it cannot be brought back to life without
+repeated the entire process. As a result, magic users often
+have a few Conqueror Worms nestled inside companions,
+just for emergencies.
+
+
+Mortal Blast *
+~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 11 
+:Effect: 18 (Blast +6D)
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 sec \(0)
+:Casting Time: 2.5 sec \(2)
+
+:Other Aspects:
+
+    components (4): Crushed pearl and bone dust  (rare)
+
+
+    feedback (3): lowered resistance
+
+
+    focused (4): Focus based on effect, duration
+
+
+    gestures (2): Point at target (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Entity
+
+
+    (0): Difficulty: 13
+
+
+
+
+A sudden burst of white energy streaks from the caster’s finger
+toward the undead target, resulting is a brilliant flash of light.
+Upon contact the ball of energy radiates outward, extending
+toward the earth and any other nearby objects, discharging
+the negative energy that maintains the un-life of the living
+dead target. All undead, not demons or other types of extra-
+dimensional creatures, suffer 6D damage from the attack. As
+casting this spell requires the magic user to use her own life
+force, she receives a -3 to her damage resistance total.
+
+
+Necromantic Sigil
+~~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 13 
+:Effect: 23 (alteration skill +5D (skill modifier))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 2 min \(10)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    concentration (7): Concentration: 1 round (willpower/mettle roll 13)
+
+
+    focused (7): Focus based on effect, duration
+
+
+    gestures (2): Mark necromantic sigil in air before target (simple)
+
+
+    incantations (2): “Be protected from the magic of Death.” (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Magic
+
+
+    (0): Difficulty: 13
+
+
+
+
+Any target bearing this necromantic sigil is protected
+against all magic of necromancy. Unlike countermagic or a
+Ward, this spell is in operation once successfully cast and
+has a duration. From that point, any other Necromancy spells
+must have a skill total equal to or greater than the target’s
+roll with the bonus modifier gained from this spell. If the
+attacking spell total is lower, then it is negated. This defense
+continues until the duration of the spell is satisfied.
+
+
+Necrosis
+~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 18 
+:Effect: 9 (Touch +3D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 24 hr \(25)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    focused (7): Focus based on effect, duration
+
+
+    incantations (1): “Death” (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 14
+
+
+
+
+With a simple touch, the caster can cause 3D damage to a
+target. The target’s passive defense is used if the attack is
+unsuspected. If it is anticipated, normal combat rules are
+used.
+By becoming a pathway for negative life energy, the magic
+user is able to send negative life energy into the victim. The
+touched area first becomes pale, as though drained of blood,
+then it turns blue, eventually becoming black as though
+gangrenous. The effect isn’t permanent; it heals naturally.
+Additionally, the caster gains no bonuses from using the
+spell. It is an offensive magic known by many who study the
+school of Necromancy.
+
+
+Passing of Years
+~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 48 
+:Effect: 111 (Age 3 years)
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 1.5 sec \(1)
+:Casting Time: 3 round \(6)
+
+:Other Aspects:
+
+    components (6): 1 gram of dust from the remains of a living being that has decayed naturally (extremely_rare)
+
+
+    concentration (2): Concentration: 2 round (willpower/mettle roll 8)
+
+
+    gestures (3): Sifting the dust between fingers (complex)
+
+
+    incantations (6): Repeated litany of archaic language learned with the spell; requires artist difficulty 19. Loudly (litany; foreign_tongue; loud)
+
+
+
+
+
+:Other Conditions:
+    (-1): Only works on living targets
+
+
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 42
+
+
+
+
+When casting this wretched spell, the mage is able to drain
+away the life of a target. The spell requires the caster to obtain
+the naturally decayed remains of a once living creature. Then,
+while uttering the incantation, 1 gram of dust is ground
+between the fingers, letting it fall freely. As this happens, a
+black sphere is formed before the mage. This process takes 2
+rounds. On the third round, the sphere can be grasped by the
+one who cast the spell, and thrown at the target. A successful
+marksmanship/firearms or apportation roll is required. If suc-
+cessful, then 3 years of life is drained from the victim’s body.
+The living energy is not transferred to the mage, it is merely
+siphoned away, aging the hapless enemy of the caster. With
+each casting the dust that forms the deadly black sphere is
+consumed in the process.
+
+
+Plague Wind *
+~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 38 
+:Effect: 9 (Damage from inhaling +3D)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 3 round \(6)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    area_effect (50): 10m radius sphere
+
+
+    components (4): Ash from a human corpse  (rare)
+
+
+    gestures (3): Blow ash from hand (complex)
+
+
+    incantations (2): “Let dire winds blow.” (sentence)
+
+
+    variable_movement (5): 5 m
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Air
+
+
+    (0): Difficulty: 38
+
+
+
+
+A skilled caster can send this poisonous breeze directly toward
+an enemy. For those who are not otherwise engaged, it is
+possible to see a gray pall of dust moving in the direction
+the caster desires. If seen, and far enough away, an attempt
+to dodge the dangerous pall can be made. All who inhale its
+fetid air suffer 3D damage.
+
+
+Possess the Unliving
+~~~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 28 
+:Effect: 30 (possession_full (R1))
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 1 day \(25)
+:Casting Time: 1 hr \(18)
+
+:Other Aspects:
+
+    components (6): Personal possession or a part of the body of target (uncommon); charcoal (very_common)
+
+
+    focused (11): Focus based on effect, duration
+
+
+    gestures (3): Draw circles and sigils of possession (complex (artist roll with difficulty of 11))
+
+
+    incantations (2): “Enter the husk and become its mind.” (sentence)
+
+
+
+
+
+:Other Conditions:
+    (-1): Target must be unburied
+
+
+    (0): Arcane Knowledge: Death, enchanted
+
+
+    (0): Difficulty: 30
+
+
+
+
+By casting this spell, the mage can possess an unliving
+corpse. She retains her mental attributes, but she takes on
+the physical attributes of that the corpse formerly possessed
+(possibly reduced, depending on the freshness of the corpse).
+As there is no mind, she gains no knowledge about the corpse,
+though she’s in complete control of the body.
+Of course there is always a risk if a mage animates an
+corpse. Any who see such a thing naturally mistake it for a
+zombie and are likely to attack.
+
+
+Preternaturality
+~~~~~~~~~~~~~~~~
+
+:Skill: Alteration
+:Difficulty: 20 
+:Effect: 36 (various non-Extranormal attributes +8D (attribute))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    components (4): Fresh blood from a sacrifice  (rare)
+
+
+    focused (9): Focus based on effect, duration
+
+
+    gestures (3): Mark each part of the body to be enhanced with blood (complex)
+
+
+    incantations (2): “Be anointed with the life’s energy of another.” (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Enchanted
+
+
+    (0): Difficulty: 20
+
+
+
+
+By using the fresh blood of a similar sacrifice, the target
+gains a bonus to each attribute the caster chooses. The
+caster must rub the blood on the part of the body to gain
+the attribute increase. No single attribute can be increased
+by more than +3D.
+
+
+Putrescence
+~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 13 
+:Effect: 12 (Liquid weapon +4D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (4): venom from a poisonous creature  (rare)
+
+
+    feedback (1): lowered resistance
+
+
+    focused (6): Focus based on effect, duration
+
+
+    incantations (2): “Imbue with the foulness of Death” (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 13
+
+
+
+
+In an instant this spell can transforms liquids or consum -
+able solids of any sort into poison that causes 4D damage
+each round for the duration of the spell if the victim is not
+treated by natural or magical means. The damage commences
+immediately after ingesting the altered item. A Difficult
+stamina roll is required to naturally overcome the effect. All
+that needs to be done is for the caster to touch the drink or
+food for it to be tainted. A Perception roll of Very Difficult is
+required to detect the toxin through smell or taste.
+
+
+Regeneration
+~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 16 
+:Effect: 18 (medicine/healing +6D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    components (4): Fresh blood from the specific creature on which the spell is to be cast  (uncommon)
+
+
+    focused (7): Focus based on effect, duration
+
+
+    gestures (3): Mark sigil on forehead with blood (complex (artist roll with difficulty of 11))
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 17
+
+
+
+
+A mage can fend off the approaching death of a hero by suc-
+cessfully casting this spell. But with healing comes pain. In
+order for the spell to work, fresh blood must be drawn from
+the intended target. This requires a medicine/healing roll at
+Moderate difficulty. This also causes 1D damage if the roll
+was a success. A failure results in 2D damage. A 1 on the Wild
+Die can produce catastrophic bleeding if the gamemaster
+desires — meddling in dark magics has a price.
+Once the blood is extracted and the spell is successfully cast,
+then the target regenerates damage automatically at a with a
+6D medicine/healing skill level. This requires no action on the
+characters part. It occurs once every minute for the duration
+of the spell. And its effects are visible noticeable to those take
+the time to look for them. Another telltale sign is the bloodly
+sigil that must remain in place on the target’s forehead. As
+it is magical in nature, sweat or splashed water or rain will
+not remove it. However, it can be rubbed away if the target
+does so intentionally. Doing this ends the spell.
+
+
+Sanguineous Attack
+~~~~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 19 
+:Effect: 25 (Attack: damage +3D+1 (physical damage); intimidation +3D+1 (skill modifier))
+:Range: 5 m \(4)
+:Speed:  \(4)
+:Duration: 3 round \(6)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (1): Drop of blood  (ordinary)
+
+
+    focused (6): Focus based on effect, duration
+
+
+    gestures (2): Flick drop of blood toward living target (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 18
+
+
+
+
+By simply pricking her thumb, the caster can cause any
+weapon to gain +3D+1 damage. Such items can be swords,
+knifes, bullets, clubs, anything physical that makes physical
+contact with a living creature. If the spell is cast on an item that
+successfully causes damage to a target, the effect manifests
+itself as unusually heavy bleeding. Excessive bleeding can be
+alarming, often causing panic. Characters suffering a wound
+from this spell must also suffer a 3D+1 intimidation roll.
+
+
+Sense Death
+~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 15 
+:Effect: 14 (Perception of Wound Level +3D (skill modifier))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (1): Bloodied cloth  (ordinary)
+
+
+    focused (5): Focus based on effect, duration
+
+
+    gestures (2): Close eyes (simple)
+
+
+
+
+
+:Other Conditions:
+    (-1): Must make a search roll to see the target; all normal modifiers apply.
+
+
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 15
+
+
+
+
+Casting this spell attunes the magic use with the life force of
+the target, providing 3D Perception roll to determine a target’s
+Wound Level. There are no other effects imbued, other than
+determining the amount of life remaining in a character.
+
+
+Sense Spirit
+~~~~~~~~~~~~
+
+:Skill: Divination
+:Difficulty: 25 
+:Effect: 24 (search when attempting to locate spirits or ghosts +8D)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 min \(9)
+:Casting Time: 1 min \(9)
+
+:Other Aspects:
+
+    area_effect (20): 10m radius circle
+
+
+    focused (7): Focus based on effect, duration
+
+
+    incantations (2): Reveal yourself (sentence)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Entity
+
+
+    (0): Difficulty: 24
+
+
+
+
+Once this spell is cast, the mage can see all undead spirits
+and ghosts within a 10-meter radius. Likewise, the atten -
+tion of any such incorporeal being is drawn to the character
+who uttered the incantation, as the spell forces the entities
+to reveal themselves to the caster, and only the caster. The
+search roll is needed as the spirits are being commanded to
+reveal themselves.
+
+
+Unliving Weapon
+~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 13 
+:Effect: 11 (Weapon +2D+1 (physical damage, ignore non magical armor))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 1 hr \(18)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    components (3): Weapon of good quality  (common)
+
+
+    feedback (1): lowered resistance
+
+
+    focused (6): Focus based on effect, duration
+
+
+    gestures (2): Run fingers across weapon (simple)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Enchanted
+
+
+    (0): Difficulty: 12
+
+
+
+
+A weapon upon which this spell is cast is imbued with a nega-
+tive field of energy. A deep red hue radiates from the weapon
+so long as the spell endures. All attacks against living beings
+gain a +2D+1 bonus to the weapon’s normal damage. With
+each successful strike, the aura radiating from the weapon
+spreads across the opponent’s form as life force is drained
+away. No additional damage is conveyed when combating
+undead entities.
+
+
+
+
+Wake the Dead
+~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 27 
+:Effect: 30 (10D Body Points)
+:Range: 100 m \(10)
+:Speed:  \(10)
+:Duration: 1 min \(9)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    area_effect (20): 10m radius circle
+
+
+    components (4): Skull  (uncommon)
+
+
+    concentration (10): Concentration: 1 round (willpower/mettle roll 16)
+
+
+    gestures (2): Lifting hand upward (simple)
+
+
+    incantations (2): “Awaken and walk!” loudly (sentence)
+
+
+
+
+
+:Other Conditions:
+    (-3): The spell can only be cast in an area where dead exist beneath the earth, such as a graveyard,
+
+
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 27
+
+
+
+
+battlefield, or some other such place.
+By calling upon the arcane knowledge of Death and Necro-
+mancy, the mage is able to wake the dead in a 10-meter radius
+within 100 meters. Bones form into skeletons, and recently
+buried corpse become zombies. The total number of dead is
+determined by the rolling of the 10D Body Points dice. Each
+creature is awarded 1 Wound Level or 6 Body Points This means
+if a total of 24 was roll on the dice, then only 4 undead are
+called from the earth. The number is rounded down, making
+the maximum always 6 undead. This spell only brings forth
+skeletons and zombies, no other type of undead creatures.
+They are likely to have the attributes of the average living
+creature for the location, as well as possess any clothing or
+weapons that might normally be buried with them.
+Even though the mage is the one who has summoned
+the dead from their repose, there is no kinship felt toward
+her. Rather, all undead called from their graves attack any
+living creature within the 10-meter radius the spell’s effect,
+including the mage and any associates. Returning from death
+is unpleasant and instills hatred and jealous of the living.
+These awakened creatures show no mercy when disposing
+of those who live.
+
+
+Withering Blast
+~~~~~~~~~~~~~~~
+
+:Skill: Conjuration
+:Difficulty: 14 
+:Effect: 18 (damage +3D (ignores all armor))
+:Range: 10 m \(5)
+:Speed:  \(5)
+:Duration: 3.5 sec \(3)
+:Casting Time: 1.5 sec \(1)
+
+:Other Aspects:
+
+    gestures (2): Makes a thrusting motion with hand (simple)
+
+
+    incantations (1): “Devour!” loudly (phrase)
+
+
+
+
+
+:Other Conditions:
+    (0): Arcane Knowledge: Death
+
+
+    (0): Difficulty: 14
+
+
+
+
+By calling upon negative energy of life, the mage is able
+to hurl a blast of withering power that consumes the life
+of a target. During the round the spell is cast, a successful
+marksmanship/firearms or apportation roll is required to hit
+the target. Nonmagical armor offers no protection from this
+death magic. Any character Mortally Wounded by the spell
+loses ages 1 year from the effect. This stolen year, or any
+number of years taken by this spell, can only be returned
+by magical means.
+
+

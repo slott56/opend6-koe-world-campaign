@@ -1,0 +1,66 @@
+**Sword of Justice**:
+Physique 2D, lifting 2D, Intellect 2D, communication 3D, Charisma 2D, Extranormal 4D, divination 2D.
+*Disadvantages*: Hindrance (R3), A sword; immobile without a wielder,
+*Special Abilities*: Skill Bonus (R3), Divination of actions of up to 2 weeks in the past for one target. Must be touching.; SpecialAbility (R3), Psionic communication of divination to wielder.,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 5, *Description*: A well-made sword with runes of Strength and a ruby; the sword has the divination power to reveal the recent actions of a person, allowing the wielder to chose a just path forward., *Natural Abilities*: Natural Hand-to-Hand Weapon (R2D+2), damage.
+
+
+**Fire Sword**:
+Physique 2D, lifting 1D, Intellect 2D, Charisma 2D, Extranormal 4D, conjuration 3D.
+*Disadvantages*: Hindrance (R3), A sword; immobile without a wielder,
+*Special Abilities*: Intangibility (R3), +3D protection wielder from fire,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 4, *Description*: An oddly-shaped sword with runes of Fire and rings of iron woven into the hilt; part of the damage effect includes burns, it also protects the wielder from fire., *Natural Abilities*: Natural Hand-to-Hand Weapon (R2D+2), damage; Natural Hand-to-Hand Weapon (R5D), damage from burns after a successful hit.
+
+
+**Sword of Survival**:
+Agility 2D, Physique 1D, lifting 2D, Intellect 2D, speaking 3D, traps 1D, Charisma 1D, Extranormal 3D, transformation 3D.
+*Disadvantages*: Hindrance (R3), A sword; immobile without a wielder; Quirk (R2), Taunts enemies,
+*Special Abilities*: SpecialAbility (R5), Pushes bad luck onto opponent with a hit that does damage; the opponent's next actions gets +15 and +10 difficulties.,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 2, *Description*: A poorly-made old sword with the rune of Plenty inscribed prominently on the blade, it can help the wielder through afflicting an opponents with a sudden burst of bad luck, *Natural Abilities*: Natural Hand-to-Hand Weapon (R2D+2), damage.
+
+
+**Sword of Escape**:
+Physique 2D, lifting 3D, Intellect 1D, speaking 2D, traps 2D, Charisma 3D, Extranormal 2D, transformation 2D.
+*Disadvantages*: Hindrance (R3), A sword; immobile without a wielder,
+*Special Abilities*: SpecialAbility (R3), Warp a wooden door to wedge it closed; SpecialAbility (R3), Warp a wooden door to smash it open,
+*Move*: 10, 
+*Strength Damage*: 2D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 1, *Description*: A short sword with a hammer molded into the hilt; this can try open a closed door and close an open door. It's also an awkward hammer., *Natural Abilities*: Natural Hand-to-Hand Weapon (R2D), damage.
+
+
+**Stalker's Sword**:
+Physique 2D, lifting 2D, Intellect 2D, healing 3D, Acumen 2D, survival 2D, Charisma 2D, Extranormal 2D, transformation 1D, divination 1D.
+*Disadvantages*: Hindrance (R3), A sword; immobile without a wielder,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 5, *Description*: A short, hefty hunting sword with a rider's spur welded onto the end of the pommel; this is awkward as a weapon, but it will help the wielder's healing skills, and can also help the wielder avoid injury by dodging and running away., *Natural Abilities*: Natural Hand-to-Hand Weapon (R2D+2), damage.
+
+
+**Champion's Blade**:
+Physique 2D, Intellect 2D, speaking 1D, Charisma 3D, persuasion 3D, Extranormal 2D, transformation 2D.
+*Disadvantages*: Hindrance (R3), A sword; immobile without a wielder; Bad Luck (R3), Something always seems to go wrong,
+*Special Abilities*: Natural Magick (R3), Bolt of energy, stun only, to wielder only,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 5, 
+*Body Points*: 1, *Description*: A beautifully made, expensive-looking sword, with the rune of flame and a jade figure worked around into the pommel nut, this sword is cruel and will injure the wielder if it's used in combat and successfully hits someone., *Natural Abilities*: Natural Hand-to-Hand Weapon (R2D+2), damage.
+
+
+

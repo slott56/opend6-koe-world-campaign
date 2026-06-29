@@ -1,0 +1,160 @@
+
+Demon Fire
+~~~~~~~~~~
+
+:Skill: fire-based
+:Difficulty: 8 
+:Effect: 12 (fire-based 2*D (ignore all armor))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 1 sec \(0)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    incantation (4): Demon Fire (litany)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+Demon Shield
+~~~~~~~~~~~~
+
+:Skill: A wall of fire-like shimmer
+:Difficulty: 14 
+:Effect: 9 (A wall of fire-like shimmer 2*D (protection modifier))
+:Range: 8 m \(5)
+:Speed:  \(5)
+:Duration: 1 min \(9)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (10): 2m radius sphere
+
+
+    incantation (4): Demon Shield Chant (litany)
+
+
+    concentration (2): Concentration: 1 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+Demonic Cleansing
+~~~~~~~~~~~~~~~~~
+
+:Skill: Boost Charisma/intimidation break concentration
+:Difficulty: 14 
+:Effect: 12 (Boost Charisma/intimidation break concentration 4*D)
+:Range: 8 m \(5)
+:Speed:  \(5)
+:Duration: 2 round \(5)
+:Casting Time: 1 round \(4)
+
+:Other Aspects:
+
+    area_effect (10): 2m radius sphere
+
+
+    incantation (4): Mage Intimidation Chant (litany)
+
+
+    concentration (2): Concentration: 2 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+Demon Detection
+~~~~~~~~~~~~~~~
+
+:Skill: 
+:Difficulty: 20 
+:Effect: 27 (enhanced_sense (R3))
+:Range: 20 m \(7)
+:Speed:  \(7)
+:Duration: 2 min \(10)
+:Casting Time: 2 round \(5)
+
+:Other Aspects:
+
+    incantation (4): Demon-detection (litany)
+
+
+    concentration (2): Concentration: 2 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+Demon Wings
+~~~~~~~~~~~
+
+:Skill: 
+:Difficulty: 18 
+:Effect: 36 (flight (R2))
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 3 round \(6)
+
+:Other Aspects:
+
+    incantation (4): Winds of Flight Chant (litany)
+
+
+    concentration (2): Concentration: 3 round (willpower/mettle roll 8)
+
+
+
+
+
+
+
+
+Opening the Veil
+~~~~~~~~~~~~~~~~
+
+:Skill: Apportation
+:Difficulty: 29 
+:Effect: 60 (Veil Opening: Apportation to new realm (R4); Adjustments for experience, knowledge, and aids)
+:Range: 1 m \(0)
+:Speed:  \(0)
+:Duration: 5 min \(12)
+:Casting Time: 5 sec \(4)
+
+:Other Aspects:
+
+    incantation (4): Veil Opening Chant (litany)
+
+
+    concentration (2): Concentration: 5 sec (willpower/mettle roll 8)
+
+
+    components (4): proper resonating artifacts (rare)
+
+
+
+
+
+Opens the veil; it can be held open for up to 5 min. to allow one Hordling pass through. Each minute has a 1/6 chance of one appearing: roll 5D, one for each minute of duration; at the first 1, a Hordling appears and the veil closes.
+
+

@@ -1,0 +1,101 @@
+[[characters]]
+name = "Balam Mis, King"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "3D"
+skills = [
+    { label = "fighting", dice = "3D+2" },
+    { label = "melee combat", dice = "4D" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "3D"
+skills = [
+    { label = "throwing", dice = "3D+1" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "3D"
+skills = [
+    { label = "running", dice = "4D+2" },
+    { label = "stamina", dice = "3D+1" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "3D"
+skills = [
+    { label = "animal handling", dice = "3D+2" },
+    { label = "intimidation", dice = "4D+1" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "2D"
+skills = [
+    { label = "navigation", dice = "2D+1" },
+    { label = "traps", dice = "2D+2" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "3D"
+skills = [
+    { label = "search", dice = "3D+1" },
+    { label = "Miracle", dice = "1D" },
+    { label = "divination", dice = "1D+2" },
+]
+
+[characters.details.Move]
+label = "Move"
+value = "10"
+suffix = ": ."
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "2D"
+suffix = ": ."
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ": ."
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "5"
+suffix = ": ."
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "27"
+suffix = ": /"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ": ."
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+details = [
+    { label = "Enemy", rank = "(R1)", details = ", another ruler doesn't like him ." },
+]
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Authority", rank = "(R3)", details = ", ruler ." },
+]
+
+[characters.details.Equipment]
+items = [
+    { description = "fi ne clothes", features = "" },
+    { description = "feathered robe", features = "( Armor Value +1 )" },
+    { description = "", features = "" },
+    { description = "feather and cloth headdress .", features = "" },
+]
+label = "Equipment"

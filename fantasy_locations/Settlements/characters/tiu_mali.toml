@@ -1,0 +1,117 @@
+[[characters]]
+name = "Tiu Mali"
+
+[characters.details.Agility]
+label = "Agility"
+dice = "4D"
+skills = [
+    { label = "contortion", dice = "4D+1" },
+    { label = "climbing", dice = "4D+2" },
+    { label = "stealth", dice = "4D+1" },
+]
+
+[characters.details.Coordination]
+label = "Coordination"
+dice = "2D"
+skills = [
+    { label = "pilotry crystal ship", dice = "2D+2" },
+]
+
+[characters.details.Physique]
+label = "Physique"
+dice = "2D"
+skills = [
+    { label = "stamina", dice = "3D" },
+    { label = "swimming", dice = "4D" },
+]
+
+[characters.details.Charisma]
+label = "Charisma"
+dice = "2D"
+skills = [
+    { label = "bluff", dice = "3D+1" },
+    { label = "charm", dice = "3D+2" },
+    { label = "mettle", dice = "3D" },
+]
+
+[characters.details.Intellect]
+label = "Intellect"
+dice = "4D"
+skills = [
+    { label = "cultures", dice = "5D" },
+    { label = "reading/writing", dice = "4D+2" },
+    { label = "scholar", dice = "5D" },
+    { label = "speaking", dice = "4D+2" },
+    { label = "trading", dice = "4D+1" },
+]
+
+[characters.details.Acumen]
+label = "Acumen"
+dice = "4D"
+skills = [
+    { label = "hide", dice = "4D+ 1" },
+    { label = "investigation", dice = "5D" },
+]
+
+[characters.details."Strength Damage"]
+label = "Strength Damage"
+value = "1D"
+suffix = ":"
+
+[characters.details.Move]
+label = "Move"
+value = "12"
+suffix = ":"
+
+[characters.details."Fate Points"]
+label = "Fate Points"
+value = "1"
+suffix = ":"
+
+[characters.details."Character Points"]
+label = "Character Points"
+value = "3"
+suffix = ":"
+
+[characters.details."Body Points"]
+label = "Body Points"
+value = "21"
+suffix = ":"
+
+[characters.details."Wound levels"]
+label = "Wound levels"
+value = "4"
+suffix = ":"
+
+[characters.details.Disadvantages]
+label = "Disadvantages"
+
+[[characters.details.Disadvantages.details]]
+label = "Cultural Unfamiliarity"
+rank = "(R2)"
+details = ", the surface world is a strange place , even documents cannot fully describe it ( +10 to the difficulty of streetwise rolls )"
+
+[[characters.details.Disadvantages.details]]
+label = "Language Problems"
+rank = "(R2)"
+details = ": the surface tongue is very different - speaks with an unusual accent ( +6 to the difficulty of all communication skills )"
+
+[characters.details.Advantages]
+label = "Advantages"
+details = [
+    { label = "Wealth", rank = "(R3)", details = "" },
+]
+
+[characters.details.Special]
+label = "Special"
+details = [
+    { label = "Hypermovement", rank = "(R1)", details = "" },
+]
+
+[characters.details.Equipment]
+items = [
+    { description = "clothes", features = "" },
+    { description = "maps", features = "" },
+    { description = "pouch full of pearls", features = "" },
+]
+label = "Equipment"

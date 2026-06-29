@@ -1,0 +1,12 @@
+**Exceptional Greek Philosopher**:
+Agility 2D, Coordination 2D, Physique 2D, Intellect 5D, cultures 5D+1, know-how 5D+1, reading/writing 5D+2, scholar 6D, speaking 5D+1, Acumen 4D, investigation 4D+1, search 4D, Charisma 3D, bluff 4D+2, charm 4D+1, mettle 4D, persuasion 5D+1.
+*Advantages*: Contacts (R1), students,
+*Disadvantages*: Devotion (R3), to learning; Enemy (R1), some ideas are unpopular among the nobles,
+*Move*: 10, 
+*Strength Damage*: 1D, 
+*Fate Points*: 1, 
+*Character Points*: 7, 
+*Body Points*: 16, *Equipment*: robes; goblet of wine.
+
+
+
