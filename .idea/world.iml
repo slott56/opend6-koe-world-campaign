@@ -6,6 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/gm_ref/_build/doctrees/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/gm_ref/_build/html/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/gm_ref/_build/html/_sources/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/notes" />
+      <excludeFolder url="file://$MODULE_DIR$/source" />
+      <excludeFolder url="file://$MODULE_DIR$/spike" />
     </content>
     <orderEntry type="jdk" jdkName="uv (world)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
